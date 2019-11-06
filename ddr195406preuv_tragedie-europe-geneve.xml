@@ -2,24 +2,19 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2019-02-28T15:00:43+01:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>« Tragédie de l’Europe à Genève », <hi rend="i">Preuves</hi>, Paris, n° 40, juin 1954, p. 3-4.</title>
-      </titleStmt>
+       <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
       <editionStmt>
-        <edition>OBVIL</edition>
+        <edition>Rougemont 2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <publisher>Sorbonne Université, Labex OBVIL</publisher>
+        <publisher>Université de Genève</publisher>
         <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : 	« Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
-          </licence>
+          <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -28,11 +23,10 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <!-- Date de création du texte -->
-        <date when="[AAAA-MM-JJ]"/>
+        <date when="1954-06"/>
       </creation>
       <langUsage>
-        <language ident="fre"/>
+        <language ident="fr"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -45,7 +39,8 @@
       <p>Deux mois plus tard, tout est déjà changé. L’Occident s’est laissé glisser dans une « Conférence asiatique » qui s’ouvre à Genève, à l’heure choisie par l’Est. Dès le premier jour, la désunion profonde des nations libres est proclamée par toute la presse. Et le second jour atteste l’un des renversements les plus stupéfiants de l’Histoire. Tourné vers l’Occident, qui restera muet, Chou En-lai déclare en substance : « Bas les pattes en Asie ! Notre tour est venu de nous immiscer dans vos affaires. L’Indochine, la Corée ne vous regardent plus. Mais le problème allemand nous intéresse beaucoup. »</p>
       <p>Que s’est-il donc passé depuis Berlin ? — Rien, pas un « fait » visible pour la presse, pas une crise et pas une bataille modifiant le rapport des forces ; pas un seul événement politique qui soit de nature à expliquer la grande débâcle occidentale. Il s’est passé seulement que la Conférence a lieu, qu’elle installe au cœur de l’Europe les délégués de l’Asie et leurs problèmes, <hi rend="i">et nous impose ainsi, sans coup férir, un angle de vision choisi par Molotov</hi>.</p>
       <p>Du côté russe, l’idée de la manœuvre est claire. Dès les derniers jours, à Berlin, Molotov a bien vu que l’Europe s’unirait d’autant mieux qu’il s’attaquerait de front à son union ; qu’elle venait de remporter une victoire dans ce plan ; <hi rend="i">qu’elle ne s’en apercevrait pas</hi> ; qu’il était donc aisé de créer une diversion, et que la meilleure possible était l’Asie.</p>
-      <p>Il suffisait de viser le point crucial, qui se trouvait être le plus vulnérable : c’était la France, dont le sang coulait en Indochine, et qui allait décider du sort de toute l’Europe en ratifiant ou non la CED. Il fallait donc <pb n="4" xml:id="p4"/> <hi rend="i">fixer</hi> la France d’abord, puis ses alliés sur l’imbroglio des guerres locales d’Extrême-Orient, afin de la détourner du problème préalable, dont Molotov paraît savoir mieux que nous qu’il est l’union de l’Europe, condition de notre force.</p>
+      <p>Il suffisait de viser le point crucial, qui se trouvait être le plus vulnérable : c’était la France, dont le sang coulait en Indochine, et qui allait décider du sort de toute l’Europe en ratifiant ou non la CED. Il fallait donc <pb n="4" xml:id="p4"/>
+        <hi rend="i">fixer</hi> la France d’abord, puis ses alliés sur l’imbroglio des guerres locales d’Extrême-Orient, afin de la détourner du problème préalable, dont Molotov paraît savoir mieux que nous qu’il est l’union de l’Europe, condition de notre force.</p>
       <p>La Conférence de Genève est acceptée : première victoire du Kremlin. Pendant des mois toute l’attention du monde va se concentrer sur le théâtre d’une bataille où l’Occident, désormais, joue perdant. Le monde entier verra nos défaites militaires et l’insolence des envoyés de l’Asie rouge. Et voici la deuxième victoire : pendant des mois, l’Europe ne fera plus rien pour accélérer son union ; bien plus, elle va laisser pourrir la CED, seule capable — à tort ou à raison — d’inspirer quelque crainte à l’URSS.</p>
       <p>Pour ceux qui doutent encore que le vrai but de Genève, dans l’esprit de Molotov, est de saboter l’Europe, je citerai la Radio de Moscou qui proclamait dans toutes les langues, au soir même de la chute de Diên Biên Phu : « La France vient de perdre en Indochine ses dernières divisions actives. Elle ne peut <hi rend="i">donc plus adhérer</hi> à l’alliance agressive baptisée CED. Elle y serait noyée et sans force. » Ce sophisme insultant va servir de slogan à la campagne neutraliste. Un revers français en Asie deviendra le nouveau prétexte à la démission de l’Europe.</p>
       <p>Le colonialisme européen a vécu. Mais le colonialisme soviétique, lui, nous menace à bout portant : il a déjà conquis le tiers de l’Europe de l’Est, en même temps que la moitié de l’Asie. Il baptise « paix » cette conquête par la force, et « provocation belliciste » toute tentative de résistance à son emprise. Annexer l’Indochine à l’empire communiste serait un moyen de rétablir la « paix » dans le Sud-Est de l’Asie, puisque celle-ci se verrait ouverte à l’expansion russe et chinoise. Mais assurer la paix définitive entre la France et l’Allemagne par le moyen de leur Fédération, ce serait agir en « bellicistes », puisque ce serait fermer l’Europe aux armées rouges.</p>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--Odette: 2019-11-05T23:01:28+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>« <hi rend="i">Victoire à Waterloo</hi>, par Robert Aron (Albin Michel) », <hi rend="i">La Nouvelle Revue française</hi>, n° 293, 1<hi rend="sup">er</hi> février 1938, p. 313-314. </title>
+       <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
+      <editionStmt>
+        <edition>Rougemont 2.0</edition>
+      </editionStmt>
+      <publicationStmt><publisher>Université de Genève</publisher>
+        <publisher>Université de Genève</publisher>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>[Source ?]</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1938-02-01"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="ddr19380201nrf_01"/> « Soudain joyeux il dit : Grouchy! — C’était Grouchy. » Et Waterloo fut une victoire. <hi rend="i">Mais</hi> Napoléon abdiqua et termina ses jours à Sainte-Hélène. Tel est le sujet. En somme, mettant un signe <hi rend="i">plus</hi> là où l’Histoire met un signe <hi rend="i">moins</hi>, l’auteur annule le facteur Waterloo, et nous démontre que l’équation Napoléon n’en doit pas moins avoir pour second membre l’abdication.</p>
+      <p>Il y a sans doute une théorie de l’Histoire à l’origine de cet ouvrage d’une passionnante ambiguïté, et qui se donne l’air d’une « fantaisie ». Prenons ce mot au sens allemand : une « imagination » profonde du destin de Napoléon, voilà ce que nous propose Robert Aron<note place="bottom">Jean-Paul rapporte un rêve où il disait à Napoléon : « Je ne suis jamais plus intelligent qu’au lit, quand je rêve de vous, car alors je dois vous créer moi-même vous et vos idées. »</note>. Il a pensé qu’il valait mieux tirer de faits fictifs des conséquences vraies, que de tirer comme M. Madelin des conséquences fausses de faits « prouvés ». La thèse peut se discuter. L’illustration m’en paraît convaincante. « Le grand étonnement que peut provoquer ce livre, dit la préface, est que pour transformer une défaite en victoire et une abdication forcée en abdication volontaire, il ait fallu si peu changer et si peu imaginer. Il faut vraiment que dans l’histoire des hommes les faits interviennent moins qu’on ne croit communément. Il faut vraiment que d’autres facteurs prédominent, facteurs moraux et psychiques. » C’est donc devant sa destinée, et non pas devant Blücher, ce hasard, que l’Empereur <hi rend="i">devait</hi> succomber.</p>
+      <p>Mais pourquoi cette victoire à Waterloo ? Parce qu’au cours des journées qui précèdent la bataille, Napoléon a découvert la vie concrète d’un pays et des êtres dont c’est la patrie. Il a conçu <pb n="ddr19380201nrf_02"/> les premiers doutes <hi rend="i">humains</hi> sur la réalité de son empire, sur son pouvoir abstrait et sa démesure géométrique. Et revenant à ses origines, au moment où le sort de la bataille vacille, il a retrouvé soudain le cri de la Révolution : Vive la Nation ! Or ce cri qui lui donne la victoire le condamne. Je simplifie encore la thèse : Napoléon gagne Waterloo parce qu’il retrouve le « personnalisme » mais cela même dénonce son pouvoir, préfiguration des fascismes. (Lui aussi fut trois fois plébiscité !) Devant les Chambres, il s’écriera : « Prenez conscience, Messieurs, que depuis vingt années nous vivons et nous gouvernons en pleine idéologie. Nous avons fait un empire géant pour n’avoir pas été capables de fédérer nos communes. » Voilà l’épigraphe de l’ouvrage, qui par ailleurs compose bien d’autres thèmes : celui des îles, celui de la patrie perdue que Bonaparte cherche à se recréer, celui du schizophrène qui « perd le sentiment », celui d’une société qu’il faut bâtir « à hauteur d’homme » et non pas à hauteur d’idéologies.</p>
+      <p>Peut-être ai-je trop insisté sur l’actualité politique de cette méditation personnaliste. Car après tout, c’est une histoire, un des meilleurs romans de l’année, et qui se fait lire avec le plus constant plaisir, d’autant que l’on pouvait redouter l’agacement de la facilité, le même que donne la lecture de romans d’anticipation. Il y a bien plus que de l’ingéniosité dans ce livre : un sens de l’homme et des limites de sa grandeur, un sens de l’humour du destin, une vraie poésie de l’Histoire, libératrice et excitante pour l’esprit. À peine l’a-t-on fini qu’on se jette sur Sorel, sur Madelin et sur Aubry, pour leur arracher des aveux à l’appui de la thèse d’Aron.</p>
+    </body>
+  </text>
+</TEI>

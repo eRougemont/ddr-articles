@@ -1,24 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
-<?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Title : « Spirituel d’abord », <hi rend="i">L’Ordre nouveau</hi>, 1<hi rend="sup">re</hi> année, n° 3, juillet 1933, p. 13-17 (avec Daniel-Rops)</title>
-      </titleStmt>
-      <editionStmt/>
+       <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
+      <editionStmt>
+        <edition>Rougemont 2.0</edition>
+      </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>Université de Genève</publisher>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr"/>
+        </availability>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bibl>[Source ?]</bibl>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date when="1933-07"/>
+      </creation>
       <langUsage>
-        <language ident=""/>
+        <language ident="fr"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -45,7 +53,8 @@
       <p>V. — Nous n’ignorons pas que l’expression de « révolution spirituelle » a le privilège de scandaliser les « petits purs » marxisants. Nous laissons volontiers à ces honnêtes fonctionnaires le monopole de <hi rend="i">leurs</hi> révolutions.</p>
       <p>Pour nous, elles ne sont que des trahisons, les caricatures, parfois comiques, parfois tragiques, de la véritable révolution où s’engage l’essentiel. Le rôle de l’homme sur la terre ne s’identifie pas pour nous à sa fonction sociale, ni à son utilité productive, ni à ses qualités biologiques.</p>
       <p>Une révolution n’est pas seulement une redistribution des biens matériels suivant une autre méthode que la capitaliste. Nous ne sommes pas disposés à défendre la répartition actuelle des richesses, mais nous exigeons que, sous le prétexte, trop souvent fallacieux, de doter l’homme de ces biens matériels, on ne le prive pas à jamais de toute possibilité spirituelle, non seulement d’en posséder, mais d’en concevoir d’autres.</p>
-      <p>Une révolution n’est pas non plus une façon de développer ce qui dans l’homme est le plus animal, le plus soumis aux instincts de brutalité. Le <hi rend="i">spirituel</hi> à la Von Papen, ou le <pb n="16" xml:id="p16"/> <hi rend="i">matériel</hi> à la Staline, nous paraissent également attenter aux véritables valeurs spirituelles.</p>
+      <p>Une révolution n’est pas non plus une façon de développer ce qui dans l’homme est le plus animal, le plus soumis aux instincts de brutalité. Le <hi rend="i">spirituel</hi> à la Von Papen, ou le <pb n="16" xml:id="p16"/>
+        <hi rend="i">matériel</hi> à la Staline, nous paraissent également attenter aux véritables valeurs spirituelles.</p>
       <p>Une révolution ne consiste pas enfin à développer jusqu’au monstrueux la puissance abstraite de l’État. Le fondement de notre action est la liberté, le risque. L’autorité vient de la personne, non de ce qui lui est le plus opposé.</p>
       <p>Il n’y a pas d’autres révolutions que spirituelles. L’acte libre est à l’origine, non pas à la fin.</p>
       <p rend="center"/>

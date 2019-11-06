@@ -1,24 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
-<?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>« Quatre indications pour une culture personnaliste », <hi rend="i">L’Ordre nouveau</hi>, 3<hi rend="sup">e</hi> année, n° 18, février 1935, p. 13-16</title>
-      </titleStmt>
-      <editionStmt/>
+        <title>« Quatre indications pour une culture personnaliste », <hi rend="i">L’Ordre nouveau</hi>, 3ᵉ année, n° 18, février 1935, p. 13-16</title>
+       <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
+      <editionStmt>
+        <edition>Rougemont 2.0</edition>
+      </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>Université de Genève</publisher>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr"/>
+        </availability>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bibl>[Source ?]</bibl>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date when="1935-02"/>
+      </creation>
       <langUsage>
-        <language ident=""/>
+        <language ident="fr"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -37,7 +45,7 @@
       <p>C’est ainsi que la mesure des civilisations antiques était l’homme dans la cité ; que la mesure du monde capitaliste est l’argent, qui est une fausse mesure ; que la mesure du monde socialiste serait la production quantitative ou statistique, mesure non moins fausse que l’argent ; que la mesure enfin d’une civilisation nouvelle ne peut être que la personne.</p>
       <p>Une mesure vivante, ce n’est pas un étalon fixe. C’est un principe dynamique, c’est une tension permanente et féconde. Nous voyons aussitôt que la « mesure » du monde de l’argent est une fausse mesure culturelle. Car c’est ici d’un chiffre que dépendent la puissance, et la vertu, et l’invention, et l’amour même. Et ce chiffre n’est pas un « nombre d’or », un secret de la vie, mais une convention de banquiers. Il est contre nature que l’amour, la puissance, dépendent d’une chose morte, quand leur essence est vie. Or nous voyons la même erreur héritée par le socialisme.</p>
       <p>La fausseté, la stérilité de notre mesure culturelle devait provoquer l’invention d’une série de pseudo-mesures que le libéralisme et l’anarchie bourgeoise ont tolérées en marge du culte de l’argent : la passion, le bonheur, l’aventure, la sécurité, l’esthétisme… Presque toutes ces pseudo-mesures d’ordre culturel ou moral ont été supprimées par l’état soviétique, plus rigoureux dans son application d’une erreur initiale identique, par là même plus apte à créer de la grandeur, — mais cette grandeur est inhumaine — moins riche aussi de possibilités exceptionnelles.</p>
-      <p>La mesure antique est vivante, mais elle porte en elle-même le germe de sa mort. Une fois toute la société adaptée au cadre fixe des cités, hiérarchisée, soumise au bien d’une élite plus jalouse de ses droits que de ses charges, la mesure meurt, se mécanise, et toute tension disparaît. Il faut que la révolte des esclaves vienne recréer une tension par en bas <seg rend="footnotecharacters"><note place="bottom"><seg rend="footnotecharacters"/> Cf. Arnaud Dandieu : <hi rend="i">Y a-t-il un seuil entre cité et humanité</hi> ? (Archives de philosophie du droit, 1933, p. 212.)</note></seg>.</p>
+      <p>La mesure antique est vivante, mais elle porte en elle-même le germe de sa mort. Une fois toute la société adaptée au cadre fixe des cités, hiérarchisée, soumise au bien d’une élite plus jalouse de ses droits que de ses charges, la mesure meurt, se mécanise, et toute tension disparaît. Il faut que la révolte des esclaves vienne recréer une tension par en bas <note place="bottom"> Cf. Arnaud Dandieu : <hi rend="i">Y a-t-il un seuil entre cité et humanité</hi> ? (Archives de philosophie du droit, 1933, p. 212.)</note>.</p>
       <p>La mesure d’une société personnaliste est au contraire infiniment vivante : car la personne est un principe universel, et quand bien même tous les hommes seraient devenus des personnes, la tension, loin de disparaître, atteindrait au contraire son maximum créateur.</p>
       <p>La personne est par excellence la mesure d’une société <hi rend="i">ouverte</hi>.</p>
       <p>La société personnaliste a pour fin l’extension maximum du phénomène de la personne. On peut concevoir et souhaiter une « personnalisation » infinie de l’humanité. Principe de la véritable « démocratie » culturelle : une élite dont le sens et l’honneur soit de s’agréger le plus grand nombre d’hommes, du seul fait de leur accession à la personne.</p>
@@ -51,7 +59,8 @@
       <p rend="center"/>
       <p>4. — <hi rend="i">L’autorité culturelle ne sera pas l’état, mais la Révolution elle-même.</hi></p>
       <p>La Révolution appartient à la première communauté personnaliste qui saura s’imposer et gouverner conformément à la mesure au nom de laquelle elle s’est constituée. Non seulement la Révolution « appartient » de fait et de droit à cette première communauté, mais il faut dire encore qu’une telle communauté <hi rend="i">est</hi> la Révolution, sans nul autre attribut.</p>
-      <p>Nous avons défini dans <hi rend="i">Nous voulons</hi> <seg rend="footnotecharacters"><note place="bottom"><seg rend="footnotecharacters"/><hi rend="i">L’Ordre nouveau</hi>, n° 9, p. <num>vii</num>.</note></seg> le rôle de cette cellule-mère, « organisme d’appel et de vigilance doctrinale, gardienne du statut de la personne ». Nietzsche, me semble-t-il, avait prévu et précisé l’action proprement culturelle de ce « conseil suprême » de la révolution : « La nouvelle éducation devra éviter que les hommes deviennent des victimes d’une seule tendance et passent au rang d’<hi rend="i">organes</hi> ; il s’agit de lutter contre la tendance naturelle à la division du travail. Il faut créer des êtres dirigeants qui conservent une vue d’ensemble, qui contemplent le jeu de la vie et qui y participent, tantôt ici, tantôt <pb n="1" xml:id="p1"/><pb n="6" xml:id="p6"/> là, mais sans se laisser emporter par trop violemment. C’est à eux que la puissance finira par échoir ; elle leur sera confiée, parce qu’ils n’en useront point avec violence et ne la dirigeront pas vers un seul but à l’exclusion de tout autre <seg rend="footnotecharacters"><note place="bottom"><seg rend="footnotecharacters"/><hi rend="i">Œuvres posthumes</hi> de Nietzsche, p. 172.</note></seg>. »</p>
+      <p>Nous avons défini dans <hi rend="i">Nous voulons</hi>
+        <note place="bottom"><hi rend="i">L’Ordre nouveau</hi>, n° 9, p. <num>vii</num>.</note> le rôle de cette cellule-mère, « organisme d’appel et de vigilance doctrinale, gardienne du statut de la personne ». Nietzsche, me semble-t-il, avait prévu et précisé l’action proprement culturelle de ce « conseil suprême » de la révolution : « La nouvelle éducation devra éviter que les hommes deviennent des victimes d’une seule tendance et passent au rang d’<hi rend="i">organes</hi> ; il s’agit de lutter contre la tendance naturelle à la division du travail. Il faut créer des êtres dirigeants qui conservent une vue d’ensemble, qui contemplent le jeu de la vie et qui y participent, tantôt ici, tantôt <pb n="1" xml:id="p1"/><pb n="6" xml:id="p6"/> là, mais sans se laisser emporter par trop violemment. C’est à eux que la puissance finira par échoir ; elle leur sera confiée, parce qu’ils n’en useront point avec violence et ne la dirigeront pas vers un seul but à l’exclusion de tout autre <note place="bottom"><hi rend="i">Œuvres posthumes</hi> de Nietzsche, p. 172.</note>. »</p>
       <p>Mais il nous faut arrêter là cette citation : Nietzsche, en effet, exprime tôt après deux revendications, dont l’une est ridicule, et dont l’autre serait la négation de tout ce qui précède. Il demande que l’argent soit remis à son équipe d’éducateurs, et ceci pour qu’elle s’institue en véritable « caste dirigeante ».</p>
       <p>Or il est clair que le pouvoir, s’il est réel, n’a rien à faire avec l’argent : l’autorité ne se monnaye pas. Et la richesse matérielle n’est pas un élément constitutif de la personne, bien au contraire. Le révolutionnaire est pauvre, non tant par goût que par nécessité interne.</p>
       <p>Mais la revendication d’une <hi rend="i">caste</hi> est plus grave. Elle contredit les fins de la révolution. Elle nie et ruine le fondement même de la personne, mesure par excellence d’une société ouverte. L’erreur de Nietzsche est manifeste : il a conçu sa nouvelle culture hors du cadre communautaire. Or nous considérons ce cadre comme immédiat à la révolution. Si elle échoue à le créer, c’est qu’elle n’est pas une vraie révolution, mais simplement une dictature de plus. Or ce n’est pas avec les dictatures qu’on a jamais créé de la liberté : nous entendons la seule liberté effective, celle d’accéder à l’exercice de la personne, — d’obéir à sa vocation.</p>

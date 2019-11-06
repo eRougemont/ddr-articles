@@ -7,19 +7,14 @@
     <fileDesc>
       <titleStmt>
         <title>« Marcel Duchamp mine de rien », <hi rend="i">Preuves</hi>, Paris, n° 204, février 1968, p. 43-47.</title>
-      </titleStmt>
+       <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
       <editionStmt>
-        <edition>OBVIL</edition>
+        <edition>Rougemont 2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <publisher>Sorbonne Université, Labex OBVIL</publisher>
+        <publisher>Université de Genève</publisher>
         <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : 	« Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
-          </licence>
+          <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -28,11 +23,10 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <!-- Date de création du texte -->
-        <date when="[AAAA-MM-JJ]"/>
+        <date when="1968-02"/>
       </creation>
       <langUsage>
-        <language ident="fre"/>
+        <language ident="fr"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -108,7 +102,7 @@
       <p>À minuit, nous en parlions encore. Le choc nous avait jetés dans l’élucubration, plutôt que dans la terreur ou la méditation. (Cette réaction, je le crains, va se généraliser.) Et chacun s’efforçait de montrer que l’événement ne le prenait pas au dépourvu.</p>
       <p>— Rien de neuf en somme, disait le docteur, du ton qu’il eût diagnostiqué une bronchite simple, rien qu’une invention mécanique permettant d’appliquer pratiquement une série de résultats acquis depuis dix ans.</p>
       <p>— Je savais ! déclara le capitaine, avec cette simplicité exaspérante qu’affecte Sherlock Holmes devant Watson.</p>
-      <p>Il nous donnait ainsi, d’un mot, la clé de ses mystérieuses disparitions dans le Sud-Ouest. L’une des girls avait lu un article sur l’automobile atomique dans un magazine du genre <hi rend="i">Look</hi>. C. s’écria que l’idée que nous mourrons tous dans une grande explosion la hantait depuis son enfance. (Elle est née dans un tremblement de terre.) « C’est sacrilège, ce qu’on vient de faire, ajouta-t-elle. On a touché au secret du monde. On a piqué le mystère en plein plexus solaire… Il va se venger ! » Enfin Duchamp voulut bien s’interrompre dans un problème d’échecs, pour <pb n="47" xml:id="p47"/><anchor xml:id="_GoBack"/><pb n=""/> remarquer que la bombe confirmait son point de vue : la science n’est qu’une mythologie, ses lois et sa matière elle-même sont de purs mythes, et n’ont ni plus ni moins de réalité que les conventions d’un jeu quelconque.</p>
+      <p>Il nous donnait ainsi, d’un mot, la clé de ses mystérieuses disparitions dans le Sud-Ouest. L’une des girls avait lu un article sur l’automobile atomique dans un magazine du genre <hi rend="i">Look</hi>. C. s’écria que l’idée que nous mourrons tous dans une grande explosion la hantait depuis son enfance. (Elle est née dans un tremblement de terre.) « C’est sacrilège, ce qu’on vient de faire, ajouta-t-elle. On a touché au secret du monde. On a piqué le mystère en plein plexus solaire… Il va se venger ! » Enfin Duchamp voulut bien s’interrompre dans un problème d’échecs, pour <pb n="47" xml:id="p47"/>remarquer que la bombe confirmait son point de vue : la science n’est qu’une mythologie, ses lois et sa matière elle-même sont de purs mythes, et n’ont ni plus ni moins de réalité que les conventions d’un jeu quelconque.</p>
       <p>— N’empêche que la bombe a éclaté au moment prévu ! remarqua le docteur.</p>
       <p>— La belle preuve, répliqua le peintre. <hi rend="i">On avait tout arrangé pour cela</hi> !</p>
       <p>Quant au jeune poète dont vous avez lu les premiers essais (<hi rend="i">La Mort lente</hi>) il avait disparu dans les bois et nous revint au bout d’une heure, pâle et défait, disant que sa vie n’avait plus de sens. Les girls, enfin, parurent émues. C’est le moment que je choisis pour parler d’homéopathie, un de mes dadas. Ma thèse est simple : Qu’est-ce que l’homéopathie ? L’action d’un remède matériellement <hi rend="i">absent</hi>. Qu’est-ce que la bombe atomique ? L’action d’un point de matière subitement <hi rend="i">absent</hi>.</p>

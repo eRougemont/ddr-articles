@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--Odette: 2019-11-05T23:01:28+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>« Sur l’esprit incarné », <hi rend="i">La Nouvelle Revue française</hi>, n° 269, 1<hi rend="sup">er</hi> février 1936, p. 304-305.</title>
+       <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
+      <editionStmt>
+        <edition>Rougemont 2.0</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université de Genève</publisher>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>[Source ?]</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1936-02"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="ddr193602nrf_01"/> M. Julien Benda écrit dans le numéro de janvier de la <hi rend="i">NRF</hi> la phrase suivante : « La religion de l’esprit incarné est celle qui honore l’esprit en tant qu’il veut porter l’empreinte de certains intérêts terrestres, et le méprise en tant qu’il cherche à s’affranchir de ce genre de pression pour s’exercer en toute liberté. » Il écrit un peu plus loin qu’il déplore la disparition « des grandes disciplines intellectuelles, singulièrement des études théologiques ou simplement logiques ». S’il m’est permis de faire ici un peu de théologie et un peu de logique, je demanderai à M. Benda :</p>
+      <p>1° si les « docteurs » nationalistes qu’il attaque ont jamais prétendu que leur politique fût une « incarnation » de l’esprit ;</p>
+      <p>2° au cas où ils l’auraient fait, ce que j’ignore car je les pratique peu : s’il y a lieu de reprendre à son compte cette erreur de vocabulaire, ou en langage théologique, ce blasphème ;</p>
+      <p>3° si l’<hi rend="i">incarnation de l’Esprit</hi>, c’est-à-dire Jésus-Christ, fils de Dieu, a jamais « porté l’empreinte de certains intérêts terrestres », et conséquemment, si l’on a le droit d’opposer esprit pur à esprit incarné dans des termes tels qu’esprit incarné devienne synonyme de trahison intéressée ;</p>
+      <p>4° si M. Benda conçoit que l’opposition esprit pur contre esprit asservi (aux intérêts politiques) évoque précisément pour un chrétien l’opposition de Pilate et des docteurs nationalistes juifs qui criaient avec la populace : Crucifie ! et relâche Barabbas — opposition qui se résout pratiquement en unanimité contre le Christ, contre l’esprit incarné en Personne ;</p>
+      <p>5° si le clerc qui s’en lave les mains ne risque pas de faire le jeu des clercs qui crient avec les loups, et de trahir de la sorte doublement, étant admis toutefois que la mission de l’esprit est d’entrer dans le monde, non point pour s’y soumettre, mais pour <pb n="ddr193602nrf_02"/> le <hi rend="i">transformer en vérité</hi>. Mission que l’Évangile et la théologie résument par le seul mot de Rédemption, et que certains antichrétiens, plus pénétrés de christianisme qu’ils ne le croient, préfèrent appeler révolution.</p>
+      <p>Ces questions me paraissent capitales. Et je ne vois pas comment il serait possible d’y échapper. Depuis huit ans que sa <hi rend="i">Trahison des Clercs</hi> est apparue, M. Benda s’y applique pourtant non sans bonheur, curieusement suivi sur ce point par ses contradicteurs de droite. Mais alors son dernier article est trop clair. Il n’y manque plus qu’une épigraphe, qui conviendrait d’ailleurs à tous ses livres : <hi rend="i">ut evacuata sit crux</hi>.</p>
+    </body>
+  </text>
+</TEI>

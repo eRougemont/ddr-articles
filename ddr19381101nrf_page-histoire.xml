@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--Odette: 2019-11-05T23:01:28+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>« Page d’histoire », <hi rend="i">La Nouvelle Revue française</hi>, n° 302, 1<hi rend="sup">er</hi> novembre 1938, p. 866-867.</title>
+       <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
+      <editionStmt>
+        <edition>Rougemont 2.0</edition>
+      </editionStmt>
+      <publicationStmt><publisher>Université de Genève</publisher>
+        <publisher>Université de Genève</publisher>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>[Source ?]</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1938-11-01"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="ddr19381101nrf_01"/> D’un manuel futur : Leçon sur la crise des minorités en 1938.</p>
+      <p>1. <hi rend="i">Caractérisez l’état politique de l’Europe en 1938</hi>. — Les Démocraties de l’Ouest avaient fondé leur paix sur deux principes : droit des peuples à disposer d’eux-mêmes, arbitrage international. Au nom du premier principe fut créé l’État tchèque, au nom du second, la SDN. Mais le jacobinisme des Démocraties (centralisation rigide, confusion de l’État et de la Nation) s’opposait dans le fait à toute application honnête des deux principes. D’une part la SDN ne fut pas une Fédération, aucun des États constituants n’ayant renoncé à aucune de ses prérogatives au bénéfice de la Société ; d’autre part l’État tchèque opprima ses propres minorités, leur imposant un régime centraliste inspiré du modèle français.</p>
+      <p>2. <hi rend="i">Sur quoi se basaient les revendications hitlériennes</hi> ? — Les dictateurs du Centre européen furent les premiers à s’apercevoir du paradoxe politique que nous venons de définir. Ils eurent l’habileté de baser leurs revendications, à la fois sur l’un des principes que les Démocraties prétendaient défendre, et sur le système qu’elles pratiquaient en fait. C’est ainsi que l’Allemagne exigea l’autonomie des Sudètes au nom du droit de libre disposition des peuples, puis leur annexion au nom de « l’unité nationale ».</p>
+      <p>3. <hi rend="i">Quelle fut la réponse des Démocraties</hi> ? — Il était fatal, dans ces conditions, que les Démocraties se laissassent convaincre par le « bon droit » des exigences allemandes. Et c’est pourquoi, lorsqu’en septembre 1938, l’Allemagne appuya sa revendication de menaces militaires, les Démocraties cédèrent (entrevue de Berchtesgaden).</p>
+      <p>4. <hi rend="i">Pourquoi le conflit s’aggrava-t-il subitement</hi> ? — Le litige était réglé en principe. Mais alors (entrevue de Godesberg), Hitler démasqua l’aspect original (et non plus jacobin) de la dictature totalitaire : l’impérialisme religieux, ou sacral. Il exigea d’entrer <hi rend="i">en armes</hi> et sur le champ dans les territoires sudètes. Une cession purement diplomatique n’eût pas compté à ses yeux. La religion dont il était le fondateur voulait le sacrifice sanglant (ou son symbole), le viol de la victime, la « libération » violente de la proie désirée (guerre limitée).</p>
+      <p>5. <hi rend="i">Quelle fut la réaction de l’Europe</hi> ? — L’opinion démocratique apparut désorientée par cette exigence purement « rituelle ». Les uns remarquaient qu’il n’y avait guère de différence entre Berchtesgaden et Godesberg. Les autres pensaient <pb n="ddr19381101nrf_02"/> que l’exigence d’entrer en armes était une « querelle d’Allemands », une rodomontade gratuite, puisqu’en principe tout était résolu. Seul, le Premier ministre anglais sut voir et dire qu’il y avait là un fait nouveau, le signe d’une volonté d’hégémonie. C’était traduire en termes classiques la réalité pressentie de la nouvelle religion totalitaire. D’ailleurs, les réactions des masses ne tardèrent pas à démontrer que Chamberlain avait su exprimer l’une des tendances fondamentales et instinctives de l’Occident : la résistance à toute hégémonie, au nom d’un idéal latent de fédération des peuples sur pied d’égalité. Une vague de fond s’éleva contre la prétention allemande, que l’on sentait, obscurément, ruineuse pour l’avenir confédéral de l’Europe. Hitler comprit que son heure n’était pas encore venue. Il se vit contraint d’accepter la réunion à Munich d’une « Diète » de gouvernements égaux, qui régla le problème à l’avantage matériel de l’Allemagne, <hi rend="i">mais</hi> sur une base d’arbitrage international préfigurant ainsi un statut fédéral exclusif de toute hégémonie.</p>
+      <p>6. <hi rend="i">À qui profitèrent les accords de Munich</hi> ? — Cette victoire symbolique du principe fédératif ne fut pas exploitée par les nations qui l’avaient remportée comme malgré elles et en dépit de leurs intérêts nationalistes. En proie à des luttes intestines sans grandeur, les Démocraties de l’Ouest ne surent tirer d’un événement aussi considérable que des conclusions chagrines, au terme de calculs qu’on appelait alors « réalistes », et qui se bornaient à faire état des pertes matérielles subies. Le bénéfice moral, incalculable, fut perdu.</p>
+      <p>7. <hi rend="i">Conclusion</hi>. — La voie était dès lors ouverte aux ambitions totalitaires, les dictateurs ne trouvant plus devant eux que des États demeurés centralistes et maladroitement autarchiques, auxquels ils empruntaient leurs vieux systèmes mais pour les appliquer avec rigueur. Personne ne sut opposer au Führer l’idéal qui avait fait jusqu’alors la force et l’équilibre dynamique de l’Occident : l’utopie agissante d’une Fédération des Égaux, dont la seule Suisse figurait le microcosme.</p>
+      <p>C’est dans cette perspective historique que les événements ultérieurs (colonisation intra-européenne, état de guerre non déclarée), pour surprenants et monstrueux qu’ils soient apparus en leur temps, trouvent leur explication la moins douteuse.</p>
+    </body>
+  </text>
+</TEI>

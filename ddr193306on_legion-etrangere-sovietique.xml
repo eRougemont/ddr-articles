@@ -1,24 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
-<?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>« La Légion étrangère soviétique », <hi rend="i">L’Ordre nouveau</hi>, 1<hi rend="sup">re</hi> année, n° 2, juin 1933, p. 19-23</title>
-      </titleStmt>
-      <editionStmt/>
+       <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
+      <editionStmt>
+        <edition>Rougemont 2.0</edition>
+      </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>Université de Genève</publisher>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr"/>
+        </availability>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bibl>[Source ?]</bibl>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date when="1933-06"/>
+      </creation>
       <langUsage>
-        <language ident=""/>
+        <language ident="fr"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -37,7 +45,7 @@
       </div>
       <div>
         <head>2° Raisons philosophiques</head>
-        <p>C’est la bourgeoisie qui, la première, a pris au sérieux la matière, par suite la science et les faits, par suite les lois, polices, servitudes, déterminismes et autres déchets de l’intelligence créatrice. Tout cela jalonnant les étapes d’une retraite, prétendue stratégique, de l’esprit. Hegel met d’abord l’esprit au service de l’état ; puis Marx à celui des « faits » et de la « matière » ; enfin Staline le réduit à un rôle publicitaire, bientôt négligeable, au service de la Production divinisée. Telle est la « ligne générale » de la démission philosophique. Nombreux sont, parmi nos penseurs salariés, ceux qui prennent au sérieux la mythologie du déterminisme historique et économique, dépôt honteux du <num>xix<hi rend="sup">e</hi></num> siècle. Philosophiquement, ils n’ont aucune raison sérieuse pour refuser le marxisme-léninisme. (Professionnellement, par contre, ils en ont quelques-unes.) Le « monde d’objets » dans lequel la philosophie moderne s’est enfermée ne comporte plus d’autre liberté, pour l’esprit de ses inventeurs, que celle du renoncement et du suicide. La plupart de ces fabricants de « forces économiques » sont conscients de leur démission spirituelle. D’où la tristesse qu’ils répandent sur l’époque. Et leur seul baume, c’est de la voir partagée par <pb n="22" xml:id="p22"/> tous les malheureux qui s’en vont répétant : « Les faits sont les faits, et aucune idéologie ne pourra jamais nous libérer de leurs inéluctables conséquences. » Du bourgeois positiviste au marxiste orthodoxe, on passe sans heurt ni saut, par une simple accélération de chute. La trahison à l’esprit date peut-être de l’invention des lois économiques ; assurément, de leur divinisation. Le marxisme a simplement tiré toutes les conséquences pratiques de cette idéologie typiquement bourgeoise. C’est là ce qu’on appelle sa révolution !</p>
+        <p>C’est la bourgeoisie qui, la première, a pris au sérieux la matière, par suite la science et les faits, par suite les lois, polices, servitudes, déterminismes et autres déchets de l’intelligence créatrice. Tout cela jalonnant les étapes d’une retraite, prétendue stratégique, de l’esprit. Hegel met d’abord l’esprit au service de l’état ; puis Marx à celui des « faits » et de la « matière » ; enfin Staline le réduit à un rôle publicitaire, bientôt négligeable, au service de la Production divinisée. Telle est la « ligne générale » de la démission philosophique. Nombreux sont, parmi nos penseurs salariés, ceux qui prennent au sérieux la mythologie du déterminisme historique et économique, dépôt honteux du <num>xixᵉ</num> siècle. Philosophiquement, ils n’ont aucune raison sérieuse pour refuser le marxisme-léninisme. (Professionnellement, par contre, ils en ont quelques-unes.) Le « monde d’objets » dans lequel la philosophie moderne s’est enfermée ne comporte plus d’autre liberté, pour l’esprit de ses inventeurs, que celle du renoncement et du suicide. La plupart de ces fabricants de « forces économiques » sont conscients de leur démission spirituelle. D’où la tristesse qu’ils répandent sur l’époque. Et leur seul baume, c’est de la voir partagée par <pb n="22" xml:id="p22"/> tous les malheureux qui s’en vont répétant : « Les faits sont les faits, et aucune idéologie ne pourra jamais nous libérer de leurs inéluctables conséquences. » Du bourgeois positiviste au marxiste orthodoxe, on passe sans heurt ni saut, par une simple accélération de chute. La trahison à l’esprit date peut-être de l’invention des lois économiques ; assurément, de leur divinisation. Le marxisme a simplement tiré toutes les conséquences pratiques de cette idéologie typiquement bourgeoise. C’est là ce qu’on appelle sa révolution !</p>
       </div>
       <div>
         <head>3° Raisons mystiques</head>

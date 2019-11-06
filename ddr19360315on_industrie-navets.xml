@@ -1,38 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
-<?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>« Précisions utiles sur l’industrie des navets », <hi rend="i">L’Ordre nouveau</hi>, 4<hi rend="sup">e</hi> année, n° 29, mars 1936, p. 10-15</title>
-      </titleStmt>
-      <editionStmt/>
+        <title>« Précisions utiles sur l’industrie des navets », <hi rend="i">L’Ordre nouveau</hi>, 4ᵉ année, n° 29, mars 1936, p. 10-15</title>
+       <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
+      <editionStmt>
+        <edition>Rougemont 2.0</edition>
+      </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>Université de Genève</publisher>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr"/>
+        </availability>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bibl>[Source ?]</bibl>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date when="1936-03-15"/>
+      </creation>
       <langUsage>
-        <language ident=""/>
+        <language ident="fr"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
       <div>
-        <head><pb n="10" xml:id="p10"/> I</head>
+        <pb n="10" xml:id="p10"/>
+        <head>I</head>
         <p>Jusqu’à ces toutes dernières années, les difficultés que pouvait rencontrer un écrivain étaient de deux espèces : manque d’argent ou insuccès (auprès du public, de la critique, des éditeurs).</p>
         <p>La pauvreté et l’obscurité sont deux spectres classiques sans le concours desquels rien de très grand n’a pu se faire dans la littérature, depuis que Gœthe est mort et que le monde est moderne. À preuve Balzac, Stendhal, Baudelaire, Rimbaud, Dostoïevsky, Nietzsche, Rilke, Hamsun. Quant à Victor Hugo et à Tolstoï, qui paraissent contredire cette remarque, nous dirons que leur œuvre est un hommage que la richesse rend à la pauvreté dont elle a su tirer des sujets populaires.</p>
         <p>Donc, jusqu’à ces dernières années, l’écrivain doit se battre sur deux fronts : il doit gagner son pain, et il doit triompher des conformismes et des « cabales ». Certains périssent dans cette lutte ; beaucoup en tirent de l’énergie ; tous savent et sentent qu’elle est essentiellement humaine, c’est-à-dire qu’elle exprime un conflit permanent et fécond, celui du créateur et du monde tel qu’il est ou tel qu’il fut créé par d’autres, celui de l’aventure et des routines, celui de la personne et de l’impersonnel.</p>
         <p>Mais, depuis peu, les écrivains sont menacés, en France, par un troisième péril, par un péril que les époques précédentes n’avaient pas même soupçonné, et que notre époque confuse n’a pas encore su distinguer assez clairement pour riposter.</p>
       </div>
       <div>
-        <head><pb n="11" xml:id="p11"/> II</head>
+        <pb n="11" xml:id="p11"/>
+        <head>II</head>
         <p>S’il faut définir brièvement cette menace imprévue, nous dirons : de même que la production industrielle et l’invention technique se voient soumises, en régime capitaliste, à la spéculation, aux profits commerciaux, au jeu abstrait des trusts, bref, à une série de nécessités artificielles qui s’interposent entre le producteur et le consommateur, — de même la production littéraire et la création intellectuelle se voient soumises de plus en plus à des nécessités commerciales qui devraient normalement leur être subordonnées.</p>
         <p>Exemple : un éditeur refuse un livre dont la valeur artistique lui paraît évidente, mais qui ne pourra pas se vendre à plus de 2 000 exemplaires : or les « nécessités » de la publicité, de la distribution et de la rentabilité du capital investi dans la maison obligent l’éditeur à n’accepter que des livres susceptibles de se vendre à 3 000 exemplaires au moins. Par contre, ce même éditeur commandera à ce même auteur un bouquin sans valeur artistique mais « vendable », c’est-à-dire un navet de série. Si l’auteur est désargenté, il sera obligé de s’exécuter. La critique étant directement influencée par le « lancement » publicitaire organisé par l’éditeur, ce mauvais livre aura du succès. Et ce bon auteur finira par croire que ses bons livres sont mauvais et que ses mauvais livres sont bons.</p>
         <p>Mon exemple peut paraître simpliste. Mais il suffit d’avoir un peu fourré son nez dans le monde de l’édition parisienne pour savoir que ce cas est courant, et qu’il est même tellement courant qu’il explique à lui seul l’abaissement très frappant du niveau de notre production intellectuelle, depuis quelques années.</p>
@@ -47,8 +57,9 @@
         <p><pb n="13" xml:id="p13"/> 1. Les lois du capitalisme et l’importance sans cesse accrue des frais généraux obligent l’éditeur à « sortir » chaque année un certain nombre de livres fixé d’avance et fixé non point d’après la consommation possible et les besoins du public, mais d’après le budget de la maison.</p>
         <p>2. Le déluge de livres qui en résulte oblige l’éditeur à augmenter sans cesse sa publicité, à recourir à tous les procédés commerciaux en usage dans l’industrie des nouilles ou de l’automobile, et enfin à augmenter encore son capital : cercle vicieux typiquement capitaliste. Ainsi l’éditeur cesse d’être un artisan au service du livre. Il met le livre au service de trusts industriels. Il entre dans le domaine des gros chiffres, qui est la mort de la pensée.</p>
         <p>3. Obligé de vendre beaucoup et à tout prix, l’éditeur est contraint à organiser en grand sa distribution. Or c’est alors qu’interviennent les Messageries Hachette. Je ne referai pas une fois de plus le procès de cette institution.</p>
-        <p>J’indiquerai cependant un aspect précis et significatif de cette « politique ». Outre le courtage habituel aux commissionnaires (40 ou 45 %, suivant les cas) qu’il doit ristourner aux Messageries sur le prix des exemplaires vendus, l’éditeur qui, pour une raison ou pour une autre <seg rend="footnotecharacters"><note place="bottom"><seg rend="footnotecharacters"/> Par exemple s’il ne tient pas l’article policier ou le roman façon-Pierre-Benoit.</note></seg>, ne jouit pas d’un régime spécial, et qui a été « autorisé » <seg rend="footnotecharacters"><note place="bottom"><seg rend="footnotecharacters"/> C’est le terme même employé par les bons de commande des Messageries.</note></seg> à faire diffuser 1 000 ou 10 000 exemplaires d’un livre, doit s’engager à payer une somme forfaitaire <seg rend="footnotecharacters"><note place="bottom"><seg rend="footnotecharacters"/> Il y a quelques mois cette somme atteignait 2 fr. 70 par kilo, et des frais variables de camionnage venaient s’y ajouter. L’étendue et l’acuité de la crise actuelle ont depuis lors amené les Messageries à une conception moins vorace de leur rôle d’intermédiaire et leurs décrets ont subi quelques dérogations. Comme disent les chasseurs, quand une garenne se dépeuple, il faut, pour un temps, laisser le fusil au râtelier.</note></seg> par kilo de livres transportés (aller… et retour bien entendu !). Si l’on sait que le poids moyen d’un livre est d’environ 300 gr. on voit que le montant de certains débits peut atteindre un chiffre imposant. Ainsi donc si le livre se vend mal, ce n’est plus un <hi rend="i">manque à gagner</hi> <pb n=""/><pb n="14" xml:id="p14"/> pour l’éditeur, c’est une <hi rend="i">perte</hi>. Et cette perte, selon les contrats, peut se monter à des dizaines de milliers de francs. Il n’est donc plus question, matériellement, pour l’éditeur, de risquer un beau geste en faveur de quelque écrivain, peut-être génial, mais invendable sur les quais de gare.</p>
-        <p>Quant aux petits éditeurs, dont j’ai parlé, il a suffi de quelques années de ce régime pour qu’ils se vissent acculés soit à la faillite, soit à se vendre aux Messageries qui les avaient <hi rend="i">légalement</hi> pris au piège, et qui devenaient leur premier créancier <seg rend="footnotecharacters"><note place="bottom"><seg rend="footnotecharacters"/> Je n’insiste pas sur l’abaissement <hi rend="i">immédiat</hi> du niveau des maisons passées aux mains des Messageries. La loi des gros chiffres, imposée par ce trust, est inexorablement dégradante pour l’esprit.</note></seg>.</p>
+        <p>J’indiquerai cependant un aspect précis et significatif de cette « politique ». Outre le courtage habituel aux commissionnaires (40 ou 45 %, suivant les cas) qu’il doit ristourner aux Messageries sur le prix des exemplaires vendus, l’éditeur qui, pour une raison ou pour une autre <note place="bottom"> Par exemple s’il ne tient pas l’article policier ou le roman façon-Pierre-Benoit.</note>, ne jouit pas d’un régime spécial, et qui a été « autorisé » <note place="bottom"> C’est le terme même employé par les bons de commande des Messageries.</note> à faire diffuser 1 000 ou 10 000 exemplaires d’un livre, doit s’engager à payer une somme forfaitaire <note place="bottom"> Il y a quelques mois cette somme atteignait 2 fr. 70 par kilo, et des frais variables de camionnage venaient s’y ajouter. L’étendue et l’acuité de la crise actuelle ont depuis lors amené les Messageries à une conception moins vorace de leur rôle d’intermédiaire et leurs décrets ont subi quelques dérogations. Comme disent les chasseurs, quand une garenne se dépeuple, il faut, pour un temps, laisser le fusil au râtelier.</note> par kilo de livres transportés (aller… et retour bien entendu !). Si l’on sait que le poids moyen d’un livre est d’environ 300 gr. on voit que le montant de certains débits peut atteindre un chiffre imposant. Ainsi donc si le livre se vend mal, ce n’est plus un <hi rend="i">manque à gagner</hi>
+          <pb n="14" xml:id="p14"/> pour l’éditeur, c’est une <hi rend="i">perte</hi>. Et cette perte, selon les contrats, peut se monter à des dizaines de milliers de francs. Il n’est donc plus question, matériellement, pour l’éditeur, de risquer un beau geste en faveur de quelque écrivain, peut-être génial, mais invendable sur les quais de gare.</p>
+        <p>Quant aux petits éditeurs, dont j’ai parlé, il a suffi de quelques années de ce régime pour qu’ils se vissent acculés soit à la faillite, soit à se vendre aux Messageries qui les avaient <hi rend="i">légalement</hi> pris au piège, et qui devenaient leur premier créancier <note place="bottom"> Je n’insiste pas sur l’abaissement <hi rend="i">immédiat</hi> du niveau des maisons passées aux mains des Messageries. La loi des gros chiffres, imposée par ce trust, est inexorablement dégradante pour l’esprit.</note>.</p>
         <p>Encore une fois, je n’ai fait que résumer l’opération. Il y aurait cent exemples pittoresques à fournir sur la manière dont les Messageries conçoivent le commerce des produits de l’esprit ; sur la manière dont elles enterrent dans leurs caves des stocks de livres ou de journaux qui, bien que n’ayant jamais paru à l’étalage, sont retournés comme « invendus » avec une facture somptueuse ; enfin sur la brutalité des procédés utilisés pour « mettre au pas » les éditeurs, libraires, ou débitants de journaux qui feraient mine de résister. Tout cela est bien connu des éditeurs et des libraires, mais le public ne s’en doute guère. Et comment le lui faire savoir ? On ne l’atteint plus que par ces mêmes Messageries.</p>
       </div>
       <div>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--Odette: 2019-11-05T23:01:27+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>« Cahier de revendications [Présentation] », <hi rend="i">La Nouvelle Revue française</hi>, n° 231, 1<hi rend="sup">er</hi> décembre 1932, p. 801.</title>
+       <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
+      <editionStmt>
+        <edition>Rougemont 2.0</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université de Genève</publisher>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>[Source ?]</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1932-12"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="ddr193212nrf_p801_01"/> Est-il possible de définir une <hi rend="i">cause commune</hi> de la jeunesse française, une communauté d’attitude essentielle ? Il semble que la solidarité du péril crée en nous une unité que n’ont su faire ni maîtres ni doctrines, unité de refus devant la consternante misère d’une époque où tout ce qu’un homme peut aimer et vouloir se trouve coupé de son origine vivante, flétri, dénaturé, inverti, saboté. Des groupes tels que <hi rend="i">L’Ordre nouveau, Combat, Esprit, Plans, Réaction</hi>, par leur volonté proclamée de rupture, et plus encore par leurs revendications constructives, révèlent peut-être, dans leur diversité, les premières lignes de force d’une nouvelle révolution française. Leur anti-capitalisme n’est pas celui de la Troisième Internationale. Toutefois, la doctrine marxiste, en dehors de laquelle il s’est constitué, forme l’un de ses points de repère principaux. Il se peut qu’il y trouve quelques appuis occasionnels ; et certains de leurs objectifs respectifs sont communs… Déjà s’affirme dans l’attitude de tous ces groupes un véritable <hi rend="i">acte de présence à la misère du siècle</hi>, assez nouveau parmi les intellectuels, et si violemment accentué qu’il peut paraître suffisant pour définir un front unique, fût-il provisoire.</p>
+      <p>C’est dans cette vue qu’ont été réunies, — rapidement car tout nous presse — les déclarations que l’on va lire.</p>
+    </body>
+  </text>
+</TEI>

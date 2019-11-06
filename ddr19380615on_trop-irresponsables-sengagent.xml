@@ -1,23 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
-<?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>« Trop d’irresponsables s’engagent ! (Responsabilité des intellectuels) », <hi rend="i">L’Ordre nouveau</hi>, 5<hi rend="sup">e</hi> année, n° 42, 15 juin 1938, p. 19-22</title>
-      </titleStmt>
-      <editionStmt/>
+        <title>« Trop d’irresponsables s’engagent ! (Responsabilité des intellectuels) », <hi rend="i">L’Ordre nouveau</hi>, 5ᵉ année, n° 42, 15 juin 1938, p. 19-22</title>
+       <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
+      <editionStmt>
+        <edition>Rougemont 2.0</edition>
+      </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>Université de Genève</publisher>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr"/>
+        </availability>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bibl>[Source ?]</bibl>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date when="1938-06-15"/>
+      </creation>
       <langUsage>
-        <language ident=""/>
+        <language ident="fr"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -39,13 +48,13 @@
       <ab type="ornament">*</ab>
       <p>Pour qu’une pensée s’engage dans le réel, il ne faut pas et il ne suffit pas qu’elle se <hi rend="i">soumette</hi> à des réalités dont elle ignore ou répudie <pb n="21" xml:id="p21"/> la loi interne : la tactique d’un parti par exemple. Ce n’est pas dans l’utilisation accidentelle et partisane d’une pensée que réside son engagement. C’est au contraire dans sa démarche intime, dans son élan premier, dans sa prise sur le réel et dans sa volonté de le transformer, donc finalement de le dominer.</p>
       <p>S’engager, ce n’est pas se mettre en location. Ce n’est pas « prêter » son nom ou son autorité. Ce n’est pas faire payer sa prose par <hi rend="i">Ce Soir</hi> plutôt que par l’<hi rend="i">Intransigeant.</hi> Ce n’est pas signer ici plutôt que là. Ce n’est pas passer de l’esclavage d’une mode à celui d’une tactique politique. Ce n’est pas du tout devenir esclave d’une doctrine, mais au contraire, c’est se libérer et assumer les risques de sa liberté.</p>
-      <p>Il peut sembler paradoxal de soutenir que l’engagement d’une pensée suppose sa libération. En vérité, c’est le libéralisme qui a répandu l’idée que l’engagement ne peut être qu’un esclavage. La liberté réelle n’a pas de pires ennemis que les libéraux ; sinon en intention, du moins en fait. Les penseurs les plus violemment libres du <num>xix<hi rend="sup">e</hi></num> siècle, un Nietzsche, un Kierkegaard, un Baudelaire <seg rend="footnotecharacters"><note place="bottom"><seg rend="footnotecharacters"/> Baudelaire voulait que la critique des poètes — qu’il opposait à celle des philosophes libéraux — fût <hi rend="i">partiale</hi>, pleine de <hi rend="i">parti-pris</hi>, et même <hi rend="i">politique</hi> !</note></seg>, ont été les plus violemment engagés dans la réalité. Et cela suffirait bien à définir le sens que nous donnons à ce mot d’engagement.</p>
+      <p>Il peut sembler paradoxal de soutenir que l’engagement d’une pensée suppose sa libération. En vérité, c’est le libéralisme qui a répandu l’idée que l’engagement ne peut être qu’un esclavage. La liberté réelle n’a pas de pires ennemis que les libéraux ; sinon en intention, du moins en fait. Les penseurs les plus violemment libres du <num>xixᵉ</num> siècle, un Nietzsche, un Kierkegaard, un Baudelaire <note place="bottom">Baudelaire voulait que la critique des poètes — qu’il opposait à celle des philosophes libéraux — fût <hi rend="i">partiale</hi>, pleine de <hi rend="i">parti-pris</hi>, et même <hi rend="i">politique</hi> !</note>, ont été les plus violemment engagés dans la réalité. Et cela suffirait bien à définir le sens que nous donnons à ce mot d’engagement.</p>
       <ab type="ornament">*</ab>
       <p>Je l’ai dit ailleurs : un gant qui se retourne ne devient pas pour si peu une main vivante et agissante. Un libéral qui se soumet aux directives d’un parti ne devient pas pour si peu un penseur engagé. Et il ne faudrait pas que ces trahisons insignes ridiculisent toute espèce d’engagement.</p>
       <p>Une pensée qui, par sa nature et son mouvement originel, est libérale, irresponsable, ne devient pas libératrice et responsable du seul fait qu’elle se met « au service » d’une doctrine de lutte politique. Faire la révolution, cela demande un effort un peu plus grand, et d’une autre nature, que l’effort de signer un manifeste ou de s’inscrire dans les rangs d’une ligue. On rougit de rappeler de tels truismes. Mais on y est bien forcé par le spectacle de l’intelligentsia française.</p>
       <p><pb n="22" xml:id="p22"/> Précisons donc encore : la première tâche des intellectuels qui ont compris le péril totalitaire (de droite ou de gauche) ce n’est pas « d’adhérer » à quelque anti-fascisme, mais de s’attaquer à la forme de pensée d’où vont nécessairement sortir le fascisme et le stalinisme. Et c’est la pensée libérale.</p>
       <p>Voyez donc comme nos libéraux se mettent d’eux-mêmes en rangs et marquent le pas dès qu’une menace se précise contre les libertés françaises ! Le réflexe du libéral devant le péril, c’est de faire un fascisme. Fût-ce même pour se défendre du fascisme. Et peut-être surtout dans ce cas ! La panique de « l’union sacrée » qui vient de souffler sur notre élite en est l’ahurissant exemple.</p>
-      <p>Du moins a-t-elle eu cela de bon : les écrivains qui ont décidé tout récemment de renoncer à l’usage de leur pensée devant la menace hitlérienne (voir le manifeste de <hi rend="i">Ce Soir</hi>) ont exprimé en toute clarté qu’ils étaient de vrais libéraux, irresponsables nés <seg rend="footnotecharacters"><note place="bottom"><seg rend="footnotecharacters"/> Je fais exception pour deux ou trois d’entre eux, tels que Bernanos et Schlumberger, dont la bonne foi a été surprise, — comme on dit. Peu importent d’ailleurs les personnes : c’est la tendance qui est significative.</note></seg>, égarés pour un temps dans les voies de « l’engagement » politique, et faisant amende honorable. Ils étaient en rupture de bercail. Maintenant, tout est rentré dans l’ordre, les moutons se sont apaisés, et la situation s’éclaircit.</p>
+      <p>Du moins a-t-elle eu cela de bon : les écrivains qui ont décidé tout récemment de renoncer à l’usage de leur pensée devant la menace hitlérienne (voir le manifeste de <hi rend="i">Ce Soir</hi>) ont exprimé en toute clarté qu’ils étaient de vrais libéraux, irresponsables nés <note place="bottom">Je fais exception pour deux ou trois d’entre eux, tels que Bernanos et Schlumberger, dont la bonne foi a été surprise, — comme on dit. Peu importent d’ailleurs les personnes : c’est la tendance qui est significative.</note>, égarés pour un temps dans les voies de « l’engagement » politique, et faisant amende honorable. Ils étaient en rupture de bercail. Maintenant, tout est rentré dans l’ordre, les moutons se sont apaisés, et la situation s’éclaircit.</p>
       <p>Voici venir le temps des <hi rend="i">vrais</hi> dangers, c’est-à-dire des vraies <hi rend="i">luttes</hi> et des vrais engagements.</p>
     </body>
   </text>

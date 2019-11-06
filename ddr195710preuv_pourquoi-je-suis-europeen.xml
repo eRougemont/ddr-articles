@@ -2,24 +2,19 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2019-02-28T15:00:43+01:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>« Pourquoi je suis Européen », <hi rend="i">Preuves</hi>, Paris, n° 80, octobre 1957, p. 2.</title>
-      </titleStmt>
+       <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
       <editionStmt>
-        <edition>OBVIL</edition>
+        <edition>Rougemont 2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <publisher>Sorbonne Université, Labex OBVIL</publisher>
+        <publisher>Université de Genève</publisher>
         <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : 	« Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
-          </licence>
+          <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -28,11 +23,10 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <!-- Date de création du texte -->
-        <date when="[AAAA-MM-JJ]"/>
+        <date when="1957-10"/>
       </creation>
       <langUsage>
-        <language ident="fre"/>
+        <language ident="fr"/>
       </langUsage>
     </profileDesc>
   </teiHeader>

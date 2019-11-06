@@ -2,24 +2,19 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2019-02-28T15:00:43+01:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>« Sur l’Europe à faire », <hi rend="i">Preuves</hi>, Paris, n° 81, novembre 1957, p. 52-54.</title>
-      </titleStmt>
+       <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
       <editionStmt>
-        <edition>OBVIL</edition>
+        <edition>Rougemont 2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <publisher>Sorbonne Université, Labex OBVIL</publisher>
+        <publisher>Université de Genève</publisher>
         <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : 	« Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
-          </licence>
+          <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -28,18 +23,18 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <!-- Date de création du texte -->
-        <date when="[AAAA-MM-JJ]"/>
+        <date when="1957-11"/>
       </creation>
       <langUsage>
-        <language ident="fre"/>
+        <language ident="fr"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
-      <div subtype="level1">
-        <head><pb n="52" xml:id="p52"/> En marge d’un débat d’intellectuels</head>
+      <div>
+        <pb n="52" xml:id="p52"/>
+        <head>En marge d’un débat d’intellectuels</head>
         <p>On sait que, depuis 1946, les Rencontres internationales de Genève organisent en septembre une décade de débats centrés sur une série de conférences. <hi rend="i">L’Europe et le monde</hi> fut cette année le sujet jeté dans la lice pour y être « traité » en dix jours par une centaine d’intellectuels, armés pour la plupart de redoutables préjugés.</p>
         <p>J’ai pris le temps d’aller voir, de temps à autre, les progrès du dépeçage de ce thème pour lequel on aura remarqué que j’éprouve une secrète attirance. Perdu dans la foule anonyme, je suivais les « interventions » très sévèrement réglées des gladiateurs et je devais avoir l’air de souffrir en silence, si j’en crois les regards chargés de compréhension dont me gratifièrent quelques amis entraperçus. Qu’on en juge par ces notes en vrac.</p>
         <p>Paul-Henri Spaak, parlant hier soir sur les aspects politiques de l’intégration, a convaincu tout le monde sauf les intellectuels, qui l’attaquent ce matin sur tous les tons. Direct, adroit, bonhomme, ému quand il le faut, il les domine de loin sur son terrain. Mais à quoi bon ? Leurs objections ne sont fondées que sur un refus de principe, qu’ils se gardent bien d’exprimer.</p>
@@ -47,7 +42,8 @@
         <p>Une progressiste, appuyant le communiste, se plaint que l’Europe ne se fasse que « par en haut », ce qui n’est pas démocratique.</p>
         <p>— C’est vous qui avez tout fait pour empêcher les masses d’y participer ! répond Spaak. Tandis qu’André Philip ajoute qu’on qualifie d’antidémocratique « toute mesure approuvée par les trois quarts d’un peuple, mais refusée par les seuls communistes ».</p>
         <p>J’aurais aimé demander qu’on me rappelle la date des libres élections et du mouvement « d’en bas » qui ont porté Lénine au pouvoir. Et Kadar, donc ! Mais les interruptions ne sont pas admises, car « on ne fait pas de politique dans cette enceinte ».</p>
-        <p>Le seul qui enfreint la consigne, en condamnant l’action des Russes à Budapest, c’est un communiste polonais. J’attendais qu’on le rappelle à l’ordre. On a toléré son écart, par libéralisme sans doute, puisque après tout c’était un communiste. Certain libéralisme revient en fait à laisser tous les droits aux antilibéraux et à eux seuls, <hi rend="i">même</hi> <pb n="53" xml:id="p53"/> s’ils défendent les libertés. (Car il peut arriver que la dialectique leur en donne l’autorisation.)</p>
+        <p>Le seul qui enfreint la consigne, en condamnant l’action des Russes à Budapest, c’est un communiste polonais. J’attendais qu’on le rappelle à l’ordre. On a toléré son écart, par libéralisme sans doute, puisque après tout c’était un communiste. Certain libéralisme revient en fait à laisser tous les droits aux antilibéraux et à eux seuls, <hi rend="i">même</hi>
+          <pb n="53" xml:id="p53"/> s’ils défendent les libertés. (Car il peut arriver que la dialectique leur en donne l’autorisation.)</p>
         <p>Autre incident typique. Spaak dit avec chaleur :</p>
         <p>— Je ne crois pas à la guerre et chacun sait qu’aucun de nos pays ne la veut. — Je suis heureux de vous l’entendre dire ! interrompt le communiste Pierre Abraham. Et cela signifie : Je ne croyais pas cela de vous, connaissant votre goût pour les carnages massifs. Néanmoins, vous voilà compromis et condamné d’avance aux yeux de l’opinion si jamais votre Europe fait mine de résister aux libérateurs sibériens.</p>
         <p>La bonne foi d’un Spaak et d’un André Philip, hommes politiques, est d’autant plus frappante que ceux qui les attaquent sont des clercs patentés dont on pourrait penser que la première maxime est le respect du vrai. Or un professeur en Sorbonne vient déclarer sarcastiquement que « la petite Europe qu’on nous fabrique est si petite, si minuscule, qu’elle n’a même pas su faire une place à la Suisse ». L’étudiant de première année qui commettrait une erreur si grossière se verrait recalé sans merci. Mais la passion de ne pas sauver l’Europe est aveuglante. Ce masochisme appelle une étude scientifique. Beau sujet de thèse, dans vingt ans.</p>
@@ -57,7 +53,7 @@
         <p>3° Qu’avez-vous fait jusqu’ici pour l’Europe — mises à part vos attaques contre les partisans de son union —, et qu’êtes-vous disposés à faire ?</p>
         <p>En résumé : vous n’aimez pas notre Europe, celle pour laquelle nous luttons depuis dix ans. Mais quelle autre Europe voulez-vous ? Et qu’êtes-vous prêts à faire pour elle ? N’êtes-vous pas des Européens ? Si vous souhaitez une Europe soviétique, dites-le. Si vous préférez une Europe colonisée, dites-le. Si vous avez une autre idée, défendez-la.</p>
       </div>
-      <div subtype="level1">
+      <div>
         <head>En marge d’une enquête</head>
         <div subtype="level2">
           <head>I. — « Pourquoi je ne suis pas Européen »</head>

@@ -1,28 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
-<?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt/>
-      <editionStmt/>
+      <titleStmt>
+        <title>« Compte-rendu de Louis <hi rend="sc">Aragon</hi>, <hi rend="i">Le Paysan de Paris</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, janvier 1927, p. 123-124.</title>
+       <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
+      <editionStmt>
+        <edition>Rougemont 2.0</edition>
+      </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>Université de Genève</publisher>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr"/>
+        </availability>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bibl>[Source ?]</bibl>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date when="1927-01"/>
+      </creation>
       <langUsage>
-        <language ident=""/>
+        <language ident="fr"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
-      <p>« Compte-rendu de Louis <hi rend="sc">Aragon</hi>, <hi rend="i">Le Paysan de Paris</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, janvier 1927, p. 123-124.</p>
       <p><pb n="123" xml:id="p123"/> « Je n’admets pas qu’on reprenne mes paroles, qu’on me les oppose. Ce ne sont pas les termes d’un traité de paix. Entre moi et vous, c’est la guerre. » Voilà pour les critiques, « punaises glabres et poux barbus », qui perdraient leur temps à recenser les incohérences pittoresques de ce petit livre. Quant à ceux que certaines envolées magnifiques et hagardes pourraient enthousiasmer il leur réserve mieux encore : après une kyrielle d’injures qui ne font pas honneur à l’imagination d’autres fois si prestigieuse du poète : « Ils m’ont suivi, les imbéciles », ricane-t-il ; et sans rire : « À mort ceux qui paraphrasent ce que je dis ».</p>
       <p>Il y a chez Aragon une folie de la persécution, qui se cherche partout des prétextes, et une passion farouche pour la liberté, qui font de cet ombrageux personnage une manière de Rousseau surréaliste. Devant cette ostentation de révolte, ce mélange de fanfaronnade et d’intense désespoir, on songe au Frank de <hi rend="i">La Coupe et les Lèvres</hi>, à qui ses compagnons criaient : « Te fais-tu le bouffon de ta propre détresse ? »</p>
       <p>Tant d’insistance dans le mauvais goût ne m’empêchera pas de le dire, Aragon possède le tempérament le plus hardi et le plus original de la jeune littérature française. Il le proclame « J’appartiens à la grande race des torrents ». Génie inégal s’il en fut, voici parmi trop de talents intéressants, un écrivain qui s’impose avec des qualités et des défauts pareillement énormes. Il faut remonter loin dans notre littérature pour trouver semblable domination de la langue. Et parmi les modernes, il bat tous les records de l’image, ce qui nous vaut avec des bizarreries fatigantes et quelques sombres délires, des pages d’un lyrisme inouï. Que Louis Aragon ne se croie pas tenu de justifier ses visions par le moyen d’une métaphysique aussi prétentieuse qu’incertaine. Son affaire, c’est l’amour, et certain désespoir vaste et profond comme l’époque. « Voulez-vous des douleurs, la mort ou des chansons ? » On a l’hallucination du décor des capitales, créatrice d’un merveilleux de chaque instant, d’une véritable « mythologie moderne ».</p>
