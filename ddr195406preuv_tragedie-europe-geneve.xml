@@ -6,7 +6,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>« Tragédie de l’Europe à Genève », <hi rend="i">Preuves</hi>, Paris, n° 40, juin 1954, p. 3-4.</title>
+        <title>Tragédie de l’Europe à Genève</title>
        <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
       <editionStmt>
         <edition>Rougemont 2.0</edition>
@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>[Source numérisée]</bibl>
+        <bibl>« Tragédie de l’Europe à Genève », <hi rend="i">Preuves</hi>, Paris, n° 40, juin 1954, p. 3-4.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

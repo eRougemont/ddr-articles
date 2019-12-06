@@ -6,7 +6,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>« [Compte-rendu de Jean <hi rend="sc">Cassou</hi>, <hi rend="i">La Clef des songes</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, août 1929, p. 248-249.</title>
+        <title>[Compte-rendu de Jean <hi rend="sc">Cassou</hi>, <hi rend="i">La Clef des songes</hi>]</title>
        <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
       <editionStmt>
         <edition>Rougemont 2.0</edition>
@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>[Source ?]</bibl>
+        <bibl>« [Compte-rendu de Jean <hi rend="sc">Cassou</hi>, <hi rend="i">La Clef des songes</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, août 1929, p. 248-249.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

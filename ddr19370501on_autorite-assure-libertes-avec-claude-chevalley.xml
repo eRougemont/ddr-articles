@@ -6,8 +6,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>« L’autorité assure les libertés », <hi rend="i">L’Ordre nouveau</hi>, 5ᵉ année, n<hi rend="sup">°</hi> 40, 1<hi rend="sup">er</hi> mai 1937, p. 42-50 (avec Claude Chevalley)</title>
-       <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
+        <title>L’autorité assure les libertés</title>
+        <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author>
+      </titleStmt>
       <editionStmt>
         <edition>Rougemont 2.0</edition>
       </editionStmt>
@@ -18,7 +19,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>[Source ?]</bibl>
+        <bibl>« L’autorité assure les libertés », <hi rend="i">L’Ordre nouveau</hi>, 5ᵉ année, n<hi rend="sup">°</hi> 40, 1<hi rend="sup">er</hi> mai 1937, p. 42-50 (avec Claude Chevalley)</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

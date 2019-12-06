@@ -2,23 +2,24 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2019-11-05T23:01:28+01:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>« Au dossier d’une vieille querelle », <hi rend="i">La Nouvelle Revue française</hi>, n° 290, 1<hi rend="sup">er</hi> novembre 1937, p. 873-874.</title>
-       <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
+        <title>Au dossier d’une vieille querelle</title>
+        <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author>
+      </titleStmt>
       <editionStmt>
         <edition>Rougemont 2.0</edition>
       </editionStmt>
-      <publicationStmt><publisher>Université de Genève</publisher>
+      <publicationStmt>
         <publisher>Université de Genève</publisher>
         <availability status="restricted">
           <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>[Source ?]</bibl>
+        <bibl>« Au dossier d’une vieille querelle », <hi rend="i">La Nouvelle Revue française</hi>, n° 290, 1<hi rend="sup">er</hi> novembre 1937, p. 873-874.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -33,7 +34,9 @@
   <text>
     <body>
       <p><pb n="ddr19371101nrf_p873_01"/> Un clerc écrivait récemment qu’il faut se garder d’engager la raison dans une aventure — la vie — « où elle ne peut qu’être outragée » (car la vie est irrationnelle). D’autres clercs, conséquents, ne manqueront pas d’en conclure qu’ils n’ont pas à se mêler aux luttes sociales et politiques où leur raison a tout à perdre mais que s’ils s’y trouvent mêlés, comme il arrive parfois aux plus prudents, ils feront bien de s’y comporter selon les usages du forum, et de crier avec les loups. « Préservant » ainsi la raison, autant que leur sécurité.</p>
-      <p>On trouve dans la <hi rend="i">Logique de Port-Royal</hi>, un dilemme assez comparable, « par lequel un ancien Philosophe prouvait qu’on ne se devait point mêler des affaires de la République. <hi rend="i">Si on y agit bien</hi> — disait-il — <hi rend="i">on offensera les dieux ; donc on ne s’en doit point mêler</hi>. » Mais Aristote témoigne qu’on lui répondit : « <hi rend="i">Si on s’y gouverne selon les règles corrompues des hommes, on</hi> <pb n="ddr19371101nrf_p873_02"/> <hi rend="i">contentera les hommes. Si on y garde la vraie justice, on contentera les dieux. Donc on s’en doit mêler</hi>. »</p>
+      <p>On trouve dans la <hi rend="i">Logique de Port-Royal</hi>, un dilemme assez comparable, « par lequel un ancien Philosophe prouvait qu’on ne se devait point mêler des affaires de la République. <hi rend="i">Si on y agit bien</hi> — disait-il — <hi rend="i">on offensera les dieux ; donc on ne s’en doit point mêler</hi>. » Mais Aristote témoigne qu’on lui répondit : « <hi rend="i">Si on s’y gouverne selon les règles corrompues des hommes, on</hi>
+        <pb n="ddr19371101nrf_p873_02"/>
+        <hi rend="i">contentera les hommes. Si on y garde la vraie justice, on contentera les dieux. Donc on s’en doit mêler</hi>. »</p>
       <p>La <hi rend="i">Logique</hi> observe à propos du premier dilemme — ou sophisme — « qu’il n’est point fâcheux d’offenser les hommes, quand on ne le peut éviter qu’en offensant Dieu ». Et au sujet du second : « qu’il n’est pas avantageux de contenter les hommes en offensant Dieu ».</p>
       <p>J’en conclus qu’il est bon d’engager la raison dans la vie : non point pour qu’elle y reçoive des outrages, mais pour qu’elle-même en fasse subir de salutaires à une vie qui en a grand besoin.</p>
       <p>Que cela n’aille pas sans risques, c’est l’évidence. Mais il s’agit de savoir ce que l’on révère, de la vérité ou de la sécurité. Ce serait une raison bien débile, qui n’oserait s’exercer que sur du rationnel tout fait. S’il y a quelque part du rationnel (que ce soit dans le monde ou dans l’esprit) c’est que la raison s’est bel et bien risquée et se risque encore dans le chaos, et qu’elle a su y prévaloir sur quelques points. On ne voit pas bien pourquoi il faudrait s’arrêter.</p>

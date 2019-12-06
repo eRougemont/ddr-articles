@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>« Culture et famine », <hi rend="i">Preuves</hi>, Paris, n° 9, novembre 1951, p. 3.</title>
+        <title>Culture et famine</title>
        <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
       <editionStmt>
         <edition>Rougemont 2.0</edition>
@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>[Source numérisée]</bibl>
+        <bibl>« Culture et famine », <hi rend="i">Preuves</hi>, Paris, n° 9, novembre 1951, p. 3.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

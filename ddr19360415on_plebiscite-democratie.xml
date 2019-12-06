@@ -6,8 +6,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>« Plébiscite et démocratie », <hi rend="i">L’Ordre nouveau</hi>, n° 30, 4ᵉ année, 15 avril 1936, p. 21-25</title>
-       <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
+        <title>Plébiscite et démocratie</title>
+        <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author>
+      </titleStmt>
       <editionStmt>
         <edition>Rougemont 2.0</edition>
       </editionStmt>
@@ -18,7 +19,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>[Source ?]</bibl>
+        <bibl>« Plébiscite et démocratie », <hi rend="i">L’Ordre nouveau</hi>, n° 30, 4ᵉ année, 15 avril 1936, p. 21-25.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -33,7 +34,7 @@
   <text>
     <body>
       <div>
-        <pb n="21" xml:id="p21"/> 
+        <pb n="21" xml:id="p21"/>
         <head>1. En quoi le plébiscite diffère des élections parlementaires</head>
         <p>Pour une mentalité française actuelle, moyenne, les récentes « élections » nationales-socialistes doivent logiquement apparaître soit comme un truquage monumental, soit comme une manifestation de puissance d’un parti, au moins superflue. Les « élections » au Reichstag du 29 mars ne consistaient nullement en une concurrence libre de groupes ou d’opinions : un seul parti présentait des candidats, et le seul ministre de l’intérieur était en droit de nommer définitivement les députés. Le vote revenait donc à dire <hi rend="i">oui</hi> ou <hi rend="i">non</hi> à la politique nationale-socialiste, c’est-à-dire au Führer en personne. En fait, il ne s’agissait pas d’élections, au sens parlementaire, mais de plébiscite. Il ne s’agissait pas de doser les opinions, mais au contraire d’obtenir l’<hi rend="i">unanimité</hi> de la nation sur une question vitale. La « lutte électorale » revenait ainsi à la lutte du parti au pouvoir contre l’opposition secrète, informulée, des ennemis du régime, et contre l’inertie des citoyens et citoyennes qui eussent négligé de faire usage de leur droit de vote. Ceci posé, la technique de la propagande et du vote lui-même était indiquée par la nature du but visé, et il n’y a pas lieu de chicaner sur ce point, encore que certains membres du parti N.-S. reconnaissent qu’on a été « un peu fort » dans l’application des moyens de contrainte légale, surtout dans les petites localités (vote en masse, en cortège, à bulletins ouverts, etc., privant les opposants de toute faculté <hi rend="i">pratique</hi> de dire non). Le but étant l’unanimité, et non la majorité, et cette unanimité n’existant pas encore, il fallait <hi rend="i">créer</hi> de gré ou de force ses conditions. On peut contester la légitimité de la fin poursuivie, mais si on l’admet, il faut admettre aussi qu’elle « justifiait » les moyens mis en œuvre. L’indignation d’une partie de notre <pb n="22" xml:id="p22"/> presse contre les procédés de pression utilisés par le parti N.-S.
           vient d’un malentendu sur le mot <hi rend="i">élections</hi>, lié chez nous au régime parlementaire, c’est-à-dire à la « libre » concurrence des groupes, tandis qu’il ne désigne en Allemagne qu’une opération de propagande au profit d’un régime essentiellement anti-parlementaire.</p>

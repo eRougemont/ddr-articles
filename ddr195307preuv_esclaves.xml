@@ -6,7 +6,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>« “Nous ne sommes pas des esclaves !” », <hi rend="i">Preuves</hi>, Paris, n° 29, juillet 1953, p. 3-4.</title>
+        <title>“Nous ne sommes pas des esclaves !”</title>
        <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
       <editionStmt>
         <edition>Rougemont 2.0</edition>
@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>[Source numérisée]</bibl>
+        <bibl>« “Nous ne sommes pas des esclaves !” », <hi rend="i">Preuves</hi>, Paris, n° 29, juillet 1953, p. 3-4.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

@@ -6,7 +6,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>« [Compte-rendu de André <hi rend="sc">Malraux</hi>, <hi rend="i">Les Conquérants</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, décembre 1928, p. 1547-1548.</title>
+        <title>[Compte-rendu de André <hi rend="sc">Malraux</hi>, <hi rend="i">Les Conquérants</hi>]</title>
        <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
       <editionStmt>
         <edition>Rougemont 2.0</edition>
@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>[Source ?]</bibl>
+        <bibl>« [Compte-rendu de André <hi rend="sc">Malraux</hi>, <hi rend="i">Les Conquérants</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, décembre 1928, p. 1547-1548.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

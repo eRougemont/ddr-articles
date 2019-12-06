@@ -6,7 +6,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>« [Compte-rendu de C.-<hi rend="sc">C. Rivier</hi>, <hi rend="i">L’Athée</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, mai 1926, p. 661.</title>
+        <title>[Compte-rendu de C.-<hi rend="sc">C. Rivier</hi>, <hi rend="i">L’Athée</hi>]</title>
        <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
       <editionStmt>
         <edition>Rougemont 2.0</edition>
@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>[Source ?]</bibl>
+        <bibl>« [Compte-rendu de C.-<hi rend="sc">C. Rivier</hi>, <hi rend="i">L’Athée</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, mai 1926, p. 661.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

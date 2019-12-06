@@ -6,7 +6,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>« [Compte-rendu de <hi rend="sc">Hölderlin</hi>, <hi rend="i">La Mort d’Empédocle</hi>, traduit et introduit par André Babelon, et <hi rend="i">Poèmes de la folie</hi>, traduit par Pierre Jean Jouve] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, octobre 1930, p. 532-533.</title>
+        <title>[Compte-rendu de <hi rend="sc">Hölderlin</hi>, <hi rend="i">La Mort d’Empédocle</hi>, traduit et introduit par André Babelon, et <hi rend="i">Poèmes de la folie</hi>, traduit par Pierre Jean Jouve]</title>
        <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
       <editionStmt>
         <edition>Rougemont 2.0</edition>
@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>[Source ?]</bibl>
+        <bibl>« [Compte-rendu de <hi rend="sc">Hölderlin</hi>, <hi rend="i">La Mort d’Empédocle</hi>, traduit et introduit par André Babelon, et <hi rend="i">Poèmes de la folie</hi>, traduit par Pierre Jean Jouve] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, octobre 1930, p. 532-533.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

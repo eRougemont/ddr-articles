@@ -6,8 +6,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>« « Voyage en Hongrie <num>ii</num> », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, Genève, n° 269, novembre 1930, p. 577‑590.</title>
-       <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
+        <title>Voyage en Hongrie <num>ii</num> »</title>
+        <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author>
+      </titleStmt>
       <editionStmt>
         <edition>Rougemont 2.0</edition>
       </editionStmt>
@@ -18,7 +19,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>[Source ?]</bibl>
+        <bibl>« Voyage en Hongrie <num>ii</num> », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, Genève, n° 269, novembre 1930, p. 577‑590.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -33,7 +34,7 @@
   <text>
     <body>
       <div>
-        <pb n="577" xml:id="p577"/> 
+        <pb n="577" xml:id="p577"/>
         <head>11. Le retour d’Esztergóm</head>
         <p>Il faut se pencher aux portières et laisser l’air furieux emmêler les cheveux, glacer le masque et appuyer au front comme une caresse indéfinie de la puissance. Soir de voyage, tout enfiévré d’orgueil errant, de conquêtes vagues… Tout ce qui est de la terre renonce à s’affirmer en détails précis, se masse dans une confusion de violet sombre, et par la seule ligne dure de l’horizon s’oppose au ciel qui retire ses lueurs. Ciel blanc, où très peu d’or rose s’évanouit…</p>
         <p>Le train serpente dans un de ces paysages de nulle part qui sont les plus émouvants, entre des collines basses grattées par les vents, aux arbres rares, mais aux replis si doucement intimes qu’à cette heure on sent bien que poursuivre est une sorte d’enivrant péché. — Nous aurions une maison dans ce désert aux formes tendres et déjà familières, <pb n="578" xml:id="p578"/> et le passage des trains chaque soir nous redirait un adieu bref, — chaque soir plus infime, à cause de l’éloignement en nous-mêmes.</p>

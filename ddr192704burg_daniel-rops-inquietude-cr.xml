@@ -6,7 +6,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>« [Compte-rendu de <hi rend="sc">Daniel-Rops</hi>, <hi rend="i">Notre inquiétude</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, avril 1927, p. 563-564.</title>
+        <title>[Compte-rendu de <hi rend="sc">Daniel-Rops</hi>, <hi rend="i">Notre inquiétude</hi>]</title>
        <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
       <editionStmt>
         <edition>Rougemont 2.0</edition>
@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>[Source ?]</bibl>
+        <bibl>« [Compte-rendu de <hi rend="sc">Daniel-Rops</hi>, <hi rend="i">Notre inquiétude</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, avril 1927, p. 563-564.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

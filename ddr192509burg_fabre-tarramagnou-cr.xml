@@ -6,7 +6,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>« [Compte-rendu de Lucien <hi rend="sc">Fabre</hi>, <hi rend="i">Le Tarramagnou</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, septembre 1925, p. 1151-1152.</title>
+        <title>[Compte-rendu de Lucien <hi rend="sc">Fabre</hi>, <hi rend="i">Le Tarramagnou</hi>]</title>
        <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
       <editionStmt>
         <edition>Rougemont 2.0</edition>
@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>[Source ?]</bibl>
+        <bibl>« [Compte-rendu de Lucien <hi rend="sc">Fabre</hi>, <hi rend="i">Le Tarramagnou</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, septembre 1925, p. 1151-1152.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

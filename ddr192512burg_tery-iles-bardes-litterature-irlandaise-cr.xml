@@ -6,7 +6,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>« [Compte-rendu de Simone <hi rend="sc">Te</hi><hi rend="sc">ry</hi>, <hi rend="i">L’Île des bardes. Notes sur la littérature irlandaise contemporaine</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, décembre 1925, p. 1567.</title>
+        <title>[Compte-rendu de Simone <hi rend="sc">Tery</hi>, <hi rend="i">L’Île des bardes. Notes sur la littérature irlandaise contemporaine</hi>]</title>
        <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
       <editionStmt>
         <edition>Rougemont 2.0</edition>
@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>[Source ?]</bibl>
+        <bibl>« [Compte-rendu de Simone <hi rend="sc">Te</hi><hi rend="sc">ry</hi>, <hi rend="i">L’Île des bardes. Notes sur la littérature irlandaise contemporaine</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, décembre 1925, p. 1567.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

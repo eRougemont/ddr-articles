@@ -6,8 +6,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>« Sur le rêve des sciences », <hi rend="i">Preuves</hi>, Paris, n° 70, décembre 1956, p. 75-77.</title>
-       <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
+        <title>Sur le rêve des sciences</title>
+        <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author>
+      </titleStmt>
       <editionStmt>
         <edition>Rougemont 2.0</edition>
       </editionStmt>
@@ -18,7 +19,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>[Source numérisée]</bibl>
+        <bibl>« Sur le rêve des sciences », <hi rend="i">Preuves</hi>, Paris, n° 70, décembre 1956, p. 75-77.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

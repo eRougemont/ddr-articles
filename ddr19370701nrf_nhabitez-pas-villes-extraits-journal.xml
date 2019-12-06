@@ -2,23 +2,24 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2019-11-05T23:01:28+01:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>« N’habitez pas les villes (Extrait d’un Journal) », <hi rend="i">La Nouvelle Revue française</hi>, n° 286, 1<hi rend="sup">er</hi> juillet 1937, p. 63-87.</title>
-       <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
+        <title>N’habitez pas les villes (Extrait d’un Journal)</title>
+        <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author>
+      </titleStmt>
       <editionStmt>
         <edition>Rougemont 2.0</edition>
       </editionStmt>
-      <publicationStmt><publisher>Université de Genève</publisher>
+      <publicationStmt>
         <publisher>Université de Genève</publisher>
         <availability status="restricted">
           <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>[Source ?]</bibl>
+        <bibl>« N’habitez pas les villes (Extrait d’un Journal) », <hi rend="i">La Nouvelle Revue française</hi>, n° 286, 1<hi rend="sup">er</hi> juillet 1937, p. 63-87.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -48,7 +49,8 @@
       <p>Pour parer au plus pressé, écrit et envoyé six articles à des revues, hebdomadaires et journaux. Grande facilité de travail dans le silence à peu près absolu.</p>
       <p>Mais aussi j’ai l’impression nette d’utiliser la fin de l’élan intellectuel qui me soutenait à Paris. Ces deux derniers jours déjà, j’arrivais mal à prendre au sérieux l’actualité de ce que j’écrivais. Il faut avouer qu’il s’agissait, dans ces articles, de ce que les gens croient être actuel, ou sont censés croire actuel, dans la littérature ou les idées. C’est cela qui paie, et qui m’ennuie.</p>
       <p>Après quoi, je pourrai travailler.</p>
-      <p>Aujourd’hui c’est le jour du repos. J’ai trouvé au fond d’une armoire, derrière une pile d’assiettes, deux volumes sur l’histoire de l’île, ses coutumes, et son dialecte. L’un est l’œuvre d’un archiviste du continent. Il affecte une douce ironie sorbonnarde pour les petits événements qui se déroulèrent dans ce coin du pays, et surtout pour les légendes, locales, qui ont fortement exagéré et embelli tout cela… La science réclame de petits faits vrais. Elle tend aussi, il faut l’avouer, à ne tenir pour vrai que ce qui est petit. Laissons donc de côté ce petit travail qui a dû valoir les palmes à son auteur. Le second bouquin, c’est l’œuvre d’un vieux médecin tout plein de verve et de gaillarde érudition, comme il s’en trouve un peu partout pour sauver « l’esprit » d’un pays. J’ai passé tout l’après-midi dessus. — Cela commence par une chronique historique dont l’essentiel est naturellement l’énumération des débarquements qui ont honoré l’île, des premières galères romaines jusqu’au bateau à vapeur de Sadi Carnot — monument au point où il toucha terre — en passant par les drakkars norvégiens, les flottes anglaises des guerres de religion et les expéditions de saumoniers. Une période héroïque sous Richelieu. Depuis lors, semble-t-il <pb n="ddr19370701nrf_05"/>, les villages se dépeuplent, les traditions se perdent et les champs tombent en friche. La Révolution seule a ranimé l’ardeur des habitants, pour la plupart jacobins. Plusieurs des discours de leurs chefs ont été consignés par miracle : ils ne le cèdent en rien pour l’ampleur de leurs vues sur le monde, à l’éloquence des Conventionnels… On trouve encore dans ce livre des anecdotes paysannes assez libres, rédigées dans un patois un peu trop exemplaire. D’intéressantes précisions budgétaires sur les institutions de bienfaisance fondées par le docteur lui-même ou tout au moins à son instigation. Enfin, et cela nous sera des plus utiles, une minutieuse description de la faune et de la flore de l’île, du régime des marées, des courants et des vents. Merveilleux livre en vérité !</p>
+      <p>Aujourd’hui c’est le jour du repos. J’ai trouvé au fond d’une armoire, derrière une pile d’assiettes, deux volumes sur l’histoire de l’île, ses coutumes, et son dialecte. L’un est l’œuvre d’un archiviste du continent. Il affecte une douce ironie sorbonnarde pour les petits événements qui se déroulèrent dans ce coin du pays, et surtout pour les légendes, locales, qui ont fortement exagéré et embelli tout cela… La science réclame de petits faits vrais. Elle tend aussi, il faut l’avouer, à ne tenir pour vrai que ce qui est petit. Laissons donc de côté ce petit travail qui a dû valoir les palmes à son auteur. Le second bouquin, c’est l’œuvre d’un vieux médecin tout plein de verve et de gaillarde érudition, comme il s’en trouve un peu partout pour sauver « l’esprit » d’un pays. J’ai passé tout l’après-midi dessus. — Cela commence par une chronique historique dont l’essentiel est naturellement l’énumération des débarquements qui ont honoré l’île, des premières galères romaines jusqu’au bateau à vapeur de Sadi Carnot — monument au point où il toucha terre — en passant par les drakkars norvégiens, les flottes anglaises des guerres de religion et les expéditions de saumoniers. Une période héroïque sous Richelieu. Depuis lors, semble-t-il <pb n="ddr19370701nrf_05"/>, les villages se dépeuplent, les traditions se perdent et les champs tombent en friche. La Révolution seule a ranimé l’ardeur des habitants, pour la plupart jacobins. Plusieurs des discours de leurs chefs ont été consignés par miracle : ils ne le cèdent en rien pour l’ampleur de leurs vues sur le monde, à l’éloquence des Conventionnels… On trouve encore dans ce livre des anecdotes paysannes assez libres, rédigées dans un patois un peu trop exemplaire. D’intéressantes précisions budgétaires sur les institutions de bienfaisance fondées par le docteur lui-même ou tout au moins à son instigation. Enfin, et cela nous sera des plus utiles, une minutieuse description de la faune et de la flore de l’île, du
+        régime des marées, des courants et des vents. Merveilleux livre en vérité !</p>
       <p>Et la merveilleuse bibliothèque que celle qui rassemblerait tous les ouvrages analogues que, dans chaque sous-préfecture, un vieux docteur au fichu caractère a composé de sa longue expérience, de ses rancunes, de son amour caché, et de sa science hétéroclite de praticien et de collectionneur. L’esprit fort et l’esprit de clocher se font une guerre acharnée dans ces pages et ils l’emportent tour à tour, jusqu’à la synthèse finale d’une envolée tout à la fois patriotique, républicaine, et tolérante. La droite, la gauche, et une certaine espèce d’intelligence, ou d’ironie…</p>
       <p>Pour de tels hommes, certes il n’est pas deux France ! Ou plutôt elles se mêlent dans un combat indivisible et nécessaire au cœur de chacun d’eux. Voilà l’espèce d’hommes français que je voudrais croire la plus authentique.</p>
       <label>19 novembre</label>

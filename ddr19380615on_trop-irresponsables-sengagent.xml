@@ -6,8 +6,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>« Trop d’irresponsables s’engagent ! (Responsabilité des intellectuels) », <hi rend="i">L’Ordre nouveau</hi>, 5ᵉ année, n° 42, 15 juin 1938, p. 19-22</title>
-       <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
+        <title>Trop d’irresponsables s’engagent ! (Responsabilité des intellectuels)</title>
+        <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author>
+      </titleStmt>
       <editionStmt>
         <edition>Rougemont 2.0</edition>
       </editionStmt>
@@ -18,7 +19,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>[Source ?]</bibl>
+        <bibl>« Trop d’irresponsables s’engagent ! (Responsabilité des intellectuels) », <hi rend="i">L’Ordre nouveau</hi>, 5ᵉ année, n° 42, 15 juin 1938, p. 19-22.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

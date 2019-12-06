@@ -6,7 +6,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>« “L’Œuvre du <num>xxᵉ</num> siècle” : une réponse, ou une question ? », <hi rend="i">Preuves</hi>, Paris, n° 15, mai 1952, p. 1-2.</title>
+        <title>“L’Œuvre du <num>xxᵉ</num> siècle” : une réponse, ou une question ?</title>
        <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
       <editionStmt>
         <edition>Rougemont 2.0</edition>
@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>[Source numérisée]</bibl>
+        <bibl>« “L’Œuvre du <num>xxᵉ</num> siècle” : une réponse, ou une question ? », <hi rend="i">Preuves</hi>, Paris, n° 15, mai 1952, p. 1-2.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

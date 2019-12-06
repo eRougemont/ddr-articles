@@ -6,7 +6,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>« La Table Ronde le l’Europe », <hi rend="i">Preuves</hi>, Paris, n° 35, octobre 1953, p. 3-11.</title>
+        <title>La Table Ronde le l’Europe</title>
        <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
       <editionStmt>
         <edition>Rougemont 2.0</edition>
@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>[Source numérisée]</bibl>
+        <bibl>« La Table Ronde le l’Europe », <hi rend="i">Preuves</hi>, Paris, n° 35, octobre 1953, p. 3-11.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

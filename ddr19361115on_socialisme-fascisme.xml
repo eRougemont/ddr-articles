@@ -6,8 +6,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>« Du socialisme au fascisme », <hi rend="i">L’Ordre nouveau</hi>, 4ᵉ année, n° 35, 15 novembre 1936, p. 18-22</title>
-       <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
+        <title>Du socialisme au fascisme</title>
+        <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author>
+      </titleStmt>
       <editionStmt>
         <edition>Rougemont 2.0</edition>
       </editionStmt>
@@ -18,7 +19,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>[Source ?]</bibl>
+        <bibl>« Du socialisme au fascisme », <hi rend="i">L’Ordre nouveau</hi>, 4ᵉ année, n° 35, 15 novembre 1936, p. 18-22.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -33,7 +34,7 @@
   <text>
     <body>
       <div>
-        <pb n="18" xml:id="p18"/> 
+        <pb n="18" xml:id="p18"/>
         <head>Erreur française sur le fascisme</head>
         <p>S’il est un préjugé auquel les masses bourgeoises autant qu’ouvrières tiennent, comme elles tiennent aux axiomes fondamentaux de leur existence, — un sou est un sou, ne pas se laisser marcher sur les pieds, chacun pour soi et Dieu pour tous, etc. — c’est bien à ce slogan-là : le fascisme est à droite.</p>
         <p>Essayez de prononcer cette phrase en Italie ou en Allemagne, si vous voulez amuser le monde. Mais la politique étrangère ne suppose pas, en France, la connaissance de nos voisins : elle ne suppose que la lecture des journaux. (Bien sûr que sous cette forme, elle est inoffensive, tant qu’elle reste d’usage interne, c’est-à-dire purement électoral. Mais ce n’est pas toujours possible…)</p>

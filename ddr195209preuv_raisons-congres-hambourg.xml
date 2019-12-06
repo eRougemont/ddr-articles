@@ -6,7 +6,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>« Les raisons d’être du Congrès », <hi rend="i">Preuves</hi>, Paris, n° 30-31, août-septembre 1953, p. 140-142</title>
+        <title>Les raisons d’être du Congrès</title>
        <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
       <editionStmt>
         <edition>Rougemont 2.0</edition>
@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>[Source numérisée]</bibl>
+        <bibl>« Les raisons d’être du Congrès », <hi rend="i">Preuves</hi>, Paris, n° 30-31, août-septembre 1953, p. 140-142.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

@@ -6,8 +6,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>« À propos du 14 juillet », <hi rend="i">L’Ordre nouveau</hi>, 3ᵉ année, n° 22-23, juillet-août 1935, p. II</title>
-       <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
+        <title>À propos du 14 juillet</title>
+        <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author>
+      </titleStmt>
       <editionStmt>
         <edition>Rougemont 2.0</edition>
       </editionStmt>
@@ -18,7 +19,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>[Source ?]</bibl>
+        <bibl>« À propos du 14 juillet », <hi rend="i">L’Ordre nouveau</hi>, 3ᵉ année, n° 22-23, juillet-août 1935, p. II.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

@@ -6,7 +6,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>« Les joyeux butors du Kremlin. Remarques sur la liquidation de Staline par les siens », <hi rend="i">Preuves</hi>, Paris, n° 66, août 1956, p. 3-16.</title>
+        <title>Les joyeux butors du Kremlin. Remarques sur la liquidation de Staline par les siens</title>
        <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
       <editionStmt>
         <edition>Rougemont 2.0</edition>
@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>[Source numérisée]</bibl>
+        <bibl>« Les joyeux butors du Kremlin. Remarques sur la liquidation de Staline par les siens », <hi rend="i">Preuves</hi>, Paris, n° 66, août 1956, p. 3-16.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

@@ -6,7 +6,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>« Adieu, beau désordre… (Notes sur la jeune littérature et la morale) », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, Genève, mars 1926, p. 311-319.</title>
+        <title>Adieu, beau désordre… (Notes sur la jeune littérature et la morale)</title>
        <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
       <editionStmt>
         <edition>Rougemont 2.0</edition>
@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>[Source ?]</bibl>
+        <bibl>« Adieu, beau désordre… (Notes sur la jeune littérature et la morale) », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, Genève, mars 1926, p. 311-319.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

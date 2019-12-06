@@ -6,7 +6,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>« [Compte-rendu de Miguel de <hi rend="sc">Unamuno</hi>, <hi rend="i">Trois nouvelles exemplaires et un prologue</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, septembre 1925, p. 1164.</title>
+        <title>[Compte-rendu de Miguel de <hi rend="sc">Unamuno</hi>, <hi rend="i">Trois nouvelles exemplaires et un prologue</hi>]</title>
        <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
       <editionStmt>
         <edition>Rougemont 2.0</edition>
@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>[Source ?]</bibl>
+        <bibl>« [Compte-rendu de Miguel de <hi rend="sc">Unamuno</hi>, <hi rend="i">Trois nouvelles exemplaires et un prologue</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, septembre 1925, p. 1164.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

@@ -6,7 +6,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>« [Compte-rendu de Bernard <hi rend="sc">Lecache</hi>, <hi rend="i">Jacob</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, mai 1927, p. 689-690.</title>
+        <title>[Compte-rendu de Bernard <hi rend="sc">Lecache</hi>, <hi rend="i">Jacob</hi>]</title>
        <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
       <editionStmt>
         <edition>Rougemont 2.0</edition>
@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>[Source ?]</bibl>
+        <bibl>« [Compte-rendu de Bernard <hi rend="sc">Lecache</hi>, <hi rend="i">Jacob</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, mai 1927, p. 689-690.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

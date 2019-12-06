@@ -6,7 +6,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>« <hi rend="i">Les Éléments de la grandeur humaine</hi>, par Rudolf Kassner, traduit de l’allemand (Éditions de la <hi rend="i">NRF</hi>) », <hi rend="i">La Nouvelle Revue française</hi>, n° 217, 1<hi rend="sup">er</hi> octobre 1931, p. 640‑643.</title>
+        <title><hi rend="i">Les Éléments de la grandeur humaine</hi>, par Rudolf Kassner, traduit de l’allemand (Éditions de la <hi rend="i">NRF</hi>)</title>
        <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
       <editionStmt>
         <edition>Rougemont 2.0</edition>
@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>[Source ?]</bibl>
+        <bibl>« <hi rend="i">Les Éléments de la grandeur humaine</hi>, par Rudolf Kassner, traduit de l’allemand (Éditions de la <hi rend="i">NRF</hi>) », <hi rend="i">La Nouvelle Revue française</hi>, n° 217, 1<hi rend="sup">er</hi> octobre 1931, p. 640‑643.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

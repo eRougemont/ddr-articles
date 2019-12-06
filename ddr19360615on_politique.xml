@@ -6,8 +6,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>« Qu’est-ce que la Politique ? », <hi rend="i">L’Ordre nouveau</hi>, 4ᵉ année, n° 32, 15 juin 1936, p. 1-10.</title>
-       <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
+        <title>Qu’est-ce que la Politique ?</title>
+        <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author>
+      </titleStmt>
       <editionStmt>
         <edition>Rougemont 2.0</edition>
       </editionStmt>
@@ -18,7 +19,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>[Source ?]</bibl>
+        <bibl>« Qu’est-ce que la Politique ? », <hi rend="i">L’Ordre nouveau</hi>, 4ᵉ année, n° 32, 15 juin 1936, p. 1-10.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

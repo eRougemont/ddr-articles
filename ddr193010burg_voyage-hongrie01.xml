@@ -6,7 +6,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>« Voyage en Hongrie <num>i</num> », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, Genève, n° 268, octobre 1930, p. 405‑419</title>
+        <title>Voyage en Hongrie <num>i</num></title>
        <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
       <editionStmt>
         <edition>Rougemont 2.0</edition>
@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>[Source ?]</bibl>
+        <bibl>« Voyage en Hongrie <num>i</num> », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, Genève, n° 268, octobre 1930, p. 405‑419</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

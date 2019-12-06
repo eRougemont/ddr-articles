@@ -6,7 +6,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>« Sur l’Europe à faire », <hi rend="i">Preuves</hi>, Paris, n° 81, novembre 1957, p. 52-54.</title>
+        <title>Sur l’Europe à faire</title>
        <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
       <editionStmt>
         <edition>Rougemont 2.0</edition>
@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>[Source numérisée]</bibl>
+        <bibl>« Sur l’Europe à faire », <hi rend="i">Preuves</hi>, Paris, n° 81, novembre 1957, p. 52-54.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

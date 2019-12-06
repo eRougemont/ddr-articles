@@ -2,23 +2,24 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2019-11-05T23:01:28+01:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>« Au sujet du <hi rend="i">Journal</hi> d’André Gide », <hi rend="i">La Nouvelle Revue française</hi>, n° 316, 1<hi rend="sup">er</hi> janvier 1940, p. 24-32.</title>
-       <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
+        <title>Au sujet du <hi rend="i">Journal</hi> d’André Gide</title>
+        <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author>
+      </titleStmt>
       <editionStmt>
         <edition>Rougemont 2.0</edition>
       </editionStmt>
-      <publicationStmt><publisher>Université de Genève</publisher>
+      <publicationStmt>
         <publisher>Université de Genève</publisher>
         <availability status="restricted">
           <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>[Source ?]</bibl>
+        <bibl>« Au sujet du <hi rend="i">Journal</hi> d’André Gide », <hi rend="i">La Nouvelle Revue française</hi>, n° 316, 1<hi rend="sup">er</hi> janvier 1940, p. 24-32.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

@@ -6,7 +6,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>« [Compte-rendu de Paul <hi rend="sc">Eluard</hi>, <hi rend="i">Capitale de la douleur</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, mai 1927, p. 693-694.</title>
+        <title>[Compte-rendu de Paul <hi rend="sc">Eluard</hi>, <hi rend="i">Capitale de la douleur</hi>]</title>
        <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author></titleStmt>
       <editionStmt>
         <edition>Rougemont 2.0</edition>
@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>[Source ?]</bibl>
+        <bibl>« [Compte-rendu de Paul <hi rend="sc">Eluard</hi>, <hi rend="i">Capitale de la douleur</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, mai 1927, p. 693-694.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
