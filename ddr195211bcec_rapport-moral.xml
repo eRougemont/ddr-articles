@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Rapport moral présenté par M. Denis de Rougemont, directeur du CEC</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Rougemont 2.0</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université de Genève</publisher>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>« Rapport moral présenté par M. Denis de Rougemont, directeur du CEC », <title level="j">Bulletin du Centre européen de la culture</title>, Genève, n° 7, novembre 1952, p. 6-10.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1952-11"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="ddr195211bcec_01"/> Le Centre existe depuis deux ans, et pourtant, à plusieurs égards, il nous donne souvent l’impression d’être encore en pleine formation : l’élargissement de notre Conseil, dès aujourd’hui, en est un signe, fort heureux d’ailleurs.</p>
+      <p>Vous allez entendre une série de rapports sur nos activités diverses, présentés par leurs animateurs et par nos conseillers techniques. Je puis donc me borner, pour ma part, à dégager les grandes lignes de l’évolution du CEC.</p>
+      <div subtype="level1">
+        <head>I.</head>
+        <p><hi rend="i">Comment se situe notre action dans la réalité européenne d’aujourd’hui</hi> ? Je rappellerai d’abord que le CEC est une <hi rend="i">institution autonome</hi>, constituée en association internationale selon la loi suisse, et qu’il ne dépend ni du Conseil de l’Europe, ni des gouvernements, ni même du Mouvement européen, qui lui a cependant donné naissance et auquel le rattachent encore des liens personnels, quelques amitiés très actives, et bien entendu un désir réciproque de collaboration pratique. Le CEC n’est donc nullement un organisme politique, nous ne saurions trop le répéter.</p>
+        <p>Mais par rapport aux autres instances internationales qui s’occupent également de la culture, comment le CEC définit-il son action propre ?</p>
+        <p>On connaît l’Unesco : mondiale, gouvernementale, riche, quand nous sommes pauvres, autonomes, et européens. Les méthodes de travail des deux organismes sont aussi différentes que leurs buts. Nous en sommes restés, volontairement, à ce qu’on pourrait appeler le stade artisanal, choisissant parmi toutes les tâches possibles et imaginables celles-là seules qui nous paraissent <hi rend="i">urgentes</hi> et susceptibles de <hi rend="i">solutions pratiques et rapides</hi> ; évitant par ailleurs avec soin les quelques double-emplois qui pourraient se produire, d’autant plus rares, en fait, que nous nous cantonnons dans le plan des réalisations concrètes. Au surplus, on notera que le CEC n’est à aucun titre « un Unesco européen » : ni par sa structure, ni par ses méthodes, ni par ses objectifs.</p>
+        <p><pb n="ddr195211bcec_02"/> Le danger de double emploi avec l’Unesco semblerait plus réel dans le cas du <hi rend="i">Comité des experts culturels</hi> du Conseil de l’Europe, formé de délégués des gouvernements. Mais il se trouve que la plupart de ces délégués siègent aussi à l’Unesco, et sont donc en mesure de juger ce qui doit rester propre à l’Europe. L’action d’un Comité de ce genre est nécessairement plus lente et plus prudente que celle d’un organisme privé. De plus, leur secrétariat ne dispose pas d’un organisme permanent d’exécution. Aussi le Comité a-t-il proposé tant au Collège d’Europe qu’au CEC de réaliser certains de ses plans. Les entretiens que nous ont ménagé les experts de Strasbourg ont permis d’explorer en détail les possibilités de coopération.</p>
+        <p>Quant aux <hi rend="i">instituts culturels européens</hi>, l’une des raisons d’être du CEC était de leur offrir un lieu de rencontre et des instruments de coordination : la création de l’AIEE, comme on le verra, répond à ces nécessités.</p>
+        <p>En résumé, le CEC a son rôle à jouer, bien nettement distinct de celui des autres organismes existants. Bien ou mal, il est le seul à tenter d’une manière systématique et suivie la coordination des efforts culturels en vue de l’union de l’Europe. Et s’il n’existait pas, ou s’il disparaissait, les nécessités mêmes de cette coordination amèneraient à le réinventer.</p>
+        <p>Ceci, à condition, bien entendu, que l’on ne pense pas : l’Europe n’est qu’un problème politico-technocratique, et rien de plus pour le moment. Le rôle du Centre ne devient concevable — mais alors il s’impose avec évidence — que si l’on tient que l’Europe fut d’abord, est encore, et doit devenir de plus en plus une civilisation et une culture, une manière de vivre et de penser, une création constante en vue de la liberté, une entité qui <hi rend="i">signifie</hi> quelque chose de concret — spirituellement aussi — pour la vie quotidienne de chaque Européen.</p>
+      </div>
+      <div subtype="level1">
+        <head>II.</head>
+        <p>Esquissons maintenant le bilan de notre action depuis un an. Tout d’abord le passif : nos échecs, et nos manques à gagner, si je puis dire, dans notre effort pour informer une manière de penser européenne. Prenons trois exemples précis.</p>
+        <p>Notre <hi rend="i">Commission des historiens</hi> a cessé de se réunir, à la suite de certaines défections, mais aussi faute des fonds nécessaires à l’exécution de ses deux principaux projets : « Missi Europae<note place="bottom">Voir <ref target="file:///var/www/html/ddr-articles/work/ddr-bcec01bis/bcec195105"><hi rend="i">Bulletin</hi> de mai 1951</ref>.</note> » et brochures.</p>
+        <p><pb n="ddr195211bcec_03"/> La <hi rend="i">Commission universitaire</hi> n’a pas pris corps, des plans analogues au sien ayant été annoncés de divers côtés. Nous avons craint le double emploi. Mais nous constatons aujourd’hui qu’en réalité tout reste à faire.</p>
+        <p>Notre service d’articles de revues, <hi rend="i">Europa Features</hi>, a placé de bons articles, mais le marché des revues existantes s’est révélé trop limité pour que l’agence marche autrement qu’au ralenti, donc à perte.</p>
+        <p>Ce sont là des difficultés normales, les à-coups prévisibles dans toute action de ce genre. Mais il y a plus. Les obstacles les plus sérieux que nous rencontrons ne sont pas d’ordre technique. Ils résultent de la sourde opposition à nos entreprises que nous sentons dans certains milieux, officiels ou privés, politiques ou même « européens » d’étiquette. Parfois, nous découvrons que ces résistances, ces refus de coopérer, sont dus à des malentendus. Un bon service de <hi rend="i">public relations</hi> — qui nous manque encore — pourrait y remédier. Mais d’une manière plus générale, les motifs des échecs encourus jusqu’ici ou de notre défaut de rayonnement se ramènent à ceci : nous n’avons pas vu assez grand, pas alerté suffisamment la conscience des Pouvoirs quant au rôle vital et concret de la culture dans la construction de l’Europe. Pourquoi cela ? Faute de temps et de moyens. Notre personnel est trop réduit : chacun de nous se voit chargé d’un travail qui serait réparti entre 20 ou 30 personnes dans une organisation à l’américaine. (Nous nous contenterions de 2 ou 3.) Pourquoi ce manque de fonds ? Faute d’appuis suffisants dans les administrations publiques ou auprès d’elles. Pourquoi enfin ce manque d’appuis ? Parce que nous nous occupons de culture, et non de politique.</p>
+        <p>Passons à l’actif. J’y rangerai d’abord trois entreprises qui ont déjà donné des résultats réels, quoique non encore suffisants dans notre perspective.</p>
+        <p>Le <hi rend="i">Laboratoire européen de physique nucléaire</hi>, dont le premier plan fut élaboré au CEC, va se construire. Mais l’Unesco, chargée de le faire adopter par les États, en a retenu le bénéfice moral, et l’on verra tout à l’heure que la moitié seulement de notre programme est en voie d’exécution.</p>
+        <p>Le <hi rend="i">Prix européen de littérature</hi> doit être décerné en mars 1953, et nous avons reçu 370 manuscrits. Mais il reste à savoir quelle sera la portée « européenne » tant de ce prix que de la collaboration des guildes dont le prix n’est qu’un premier essai.</p>
+        <p>L’<hi rend="i">AIEE</hi> groupe déjà la plupart des instituts européens « sérieux », mais n’a pas encore entrepris les travaux en commun que l’on doit en attendre.</p>
+        <p><pb n="ddr195211bcec_04"/> Quant aux <hi rend="i">Plans de causerie</hi> (tirés à l’200 000 exemplaires, et qui ont permis des centaines de conférences en 6 langues), et à l’<hi rend="i">Association des festivals de musique</hi>, qui groupe à deux ou trois exceptions près toutes les grandes manifestations de ce genre en Europe, nous ne pouvons que nous déclarer très satisfaits de leur succès : il dépasse de beaucoup notre attente.</p>
+        <p>À ce même chapitre, nous voulons inscrire dès maintenant nos deux derniers nés : la <hi rend="i">Communauté des foyers de culture</hi> et les <hi rend="i">Agences de presse associées</hi>. Vous pourrez en juger tout à l’heure.</p>
+        <p>Les motifs de ces succès sont simples et j’en dirai trois : le CEC travaille <hi rend="i">directement avec les intéressés</hi>, avec les producteurs, dans une branche donnée de la culture ; il évite la bureaucratie, s’en tient à une <hi rend="i">pratique artisanale et empirique</hi> ; enfin, il travaille à bon marché, grâce à sa <hi rend="i">décentralisation</hi> systématique.</p>
+      </div>
+      <div subtype="level1">
+        <head>III.</head>
+        <p><hi rend="i">Quelles sont enfin les perspectives de développement du CEC</hi> ? Nous comptons pousser les actions en cours : reprendre les travaux de nos deux Commissions d’historiens et de savants ; grouper non plus quelques centaines, mais des milliers de foyers de culture ; accentuer le caractère « européen » de nos fédérations de guildes et de festivals ; établir un plan de recherches communes pour l’AIEE ; intensifier la production des articles pour l’APEA et élargir leur distribution à trois pays de plus ; composer une nouvelle série de plans de causerie…</p>
+        <p>Nous comptons ensuite lancer plusieurs activités nouvelles, actuellement à l’étude : un <hi rend="i">dialogue Europe-Amérique</hi>, des <hi rend="i">séminaires européens</hi> de musique, de théâtre et de pédagogie ; l’édition de reproductions et d’albums d’art, constituant dans l’ensemble une sorte de <hi rend="i">Musée de l’Europe</hi> ; une <hi rend="i">Association européenne des journalistes</hi> ; un <hi rend="i">Forum européen de radio</hi> ; une <hi rend="i">Commission de pédagogie sportive</hi> ; enfin, différentes séries de <hi rend="i">publications</hi>.</p>
+        <p>Comment éviter, dans tout cela, le danger évident de la dispersion de nos actions spécialisées ? Toute notre insistance portera sur la coordination des quelques 18 activités en cours ou à l’étude. Il s’agit en principe que chacune serve à toutes les autres, et demande aux autres des services, par le moyen de ce <hi rend="i">clearing-house</hi> que veut être le CEC.</p>
+        <p>C’est pourquoi nous inaugurons aujourd’hui une formule neuve pour notre réunion du Conseil supérieur : les responsables de nos activités vont chacun présenter leur rapport, en sorte que chacun pourra prendre une vision plus claire de ce que font les autres, <pb n="ddr195211bcec_05"/> ainsi que de l’ensemble complexe du CEC. Du même coup seront posées les bases d’un dialogue, que j’espère fécond, entre nos différentes branches d’étude et d’action.</p>
+        <p>Je vous prierai, en terminant, de juger l’état actuel du Centre en tenant compte d’une part des motifs d’échecs et de succès que je viens d’indiquer, c’est-à-dire de nos réalités quotidiennes, d’autre part de la vaste ambition européenne qui a fait naître le CEC et qui demeure sa raison d’être. Car, ainsi qu’aimait à le répéter un grand industriel français de mes amis<note place="bottom">Auguste Detœuf.</note> : « Ce n’est pas au pied du mur qu’on connaît le maçon, c’est en haut. »</p>
+      </div>
+    </body>
+  </text>
+</TEI>

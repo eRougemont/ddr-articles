@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Extrait du discours prononcé par Denis de Rougemont à l’inauguration du Centre</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Rougemont 2.0</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université de Genève</publisher>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>« Extrait du discours prononcé par Denis de Rougemont à l’inauguration du Centre », <title level="j">Bulletin du Centre européen de la culture</title>, Genève, n° 1, mai 1951, p. 13.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1951-05"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="ddr195105bcec_01"/> Notre programme n’est pas systématique, et il n’est pas non plus rigide. Il reste ouvert à l’événement. J’oserais dire qu’à certains égards, il est moins décisif en soi que l’existence même de ce Centre, par où j’entends que le principal, c’est qu’il y ait en Europe un lieu consacré à l’esprit, où des hommes travaillant en équipe vouent leurs efforts à l’union de l’Europe, c’est-à-dire au service d’une cause qui se confond aujourd’hui avec celle des hommes libres.</p>
+      <p>Car en fin de compte, pourquoi faut-il sauver l’Europe ? Non point pour l’opposer aux grandes nations nouvelles, non point pour élargir l’esprit nationaliste aux dimensions du continent, non par orgueil ou par satisfaction de nous-mêmes, et encore moins avec le fol espoir d’apaiser à jamais tous nos conflits, mais au contraire : pour maintenir les risques de la liberté, qui ont fait la vraie grandeur de l’homme européen, et pour sauver, en face de la terre des masses, et de la terre des machines, et des terres immenses de la fatalité, une Europe qui demeure la terre des hommes.</p>
+    </body>
+  </text>
+</TEI>

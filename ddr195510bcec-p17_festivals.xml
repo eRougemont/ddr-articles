@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--Odette: 2019-12-07T17:51:30+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pour les grands festivals de musique l’Europe est faite !</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Rougemont 2.0</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université de Genève</publisher>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>« Pour les grands festivals de musique l’Europe est faite ! », <title level="j">Bulletin du Centre européen de la culture</title>, Genève, n° 1, octobre 1955, p. 17-18.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1955-10"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="ddr195510bcec_p17_01"/> À la fin de 1951, répondant à une invitation lancée par le CEC, sur une proposition de son conseiller musical, Igor Markevitch, les directeurs d’une quinzaine de grands Festivals se réunissaient à Genève et décidaient, dans un enthousiasme unanime, de créer entre eux une Association européenne des festivals de musique. Un an plus tard, le Secrétariat qu’ils avaient constitué au Centre, publiait une première brochure contenant les programmes de tous les Festivals membres pour la saison suivante. Premier témoignage tangible d’un esprit de collaboration substitué à l’esprit de concurrence, et d’une vision européenne, dépassant les intérêts locaux tout en les servant.</p>
+      <p>L’idée initiale des promoteurs de l’Association était de présenter les meilleurs festivals existants <hi rend="i">dans leur ensemble</hi>, comme une manifestation cohérente et unique de la musique européenne, dans toute la richesse de ses diversités régionales et historiques, mais aussi dans toute la grandeur de son unité fondamentale d’inspiration.</p>
+      <p>Mais l’idéal ne prouve sa force que dans les réalisations auxquelles il donne naissance. Il doit être capable d’affronter les lentes et difficiles périodes d’adaptation aux réalités telles qu’elles sont, sans perdre pour autant son pouvoir d’entraînement au delà de ces réalités.</p>
+      <p>La dernière Assemblée générale de l’Association des festivals, réunie au Centre les 8 et 9 octobre, a démontré que l’idéal primitif avait victorieusement subi l’épreuve de quatre ans de travail en commun, d’études préparatoires, d’essais parfois manqués, et de mises au point de l’appareil.</p>
+      <p>Décidée à élargir rapidement désormais le champ de ses activités, l’Association a pris une série de décisions pratiques, tendant toutes à manifester l’esprit de coopération européenne qui l’anime, en même temps qu’à resserrer les liens professionnels entre ses membres. Ces mesures, dont nous donnerons quelques exemples, se répartissent en trois groupes :</p>
+      <p><pb n="ddr195510bcec_p17_02"/>I. <hi rend="i">Propagande pour les festivals et leur association</hi>.— Le secrétariat sera désormais chargé d’assurer les contacts internationaux des festivals, ainsi que d’aider à faire connaître tel d’entre eux dans tel autre pays. L’organisation de « pèlerinages musicaux » sera développée dans un souci de qualité culturelle. Un bulletin périodique d’informations destiné à la presse et aux critiques musicaux paraîtra prochainement. Enfin, la brochure-programme sera sensiblement améliorée, sur la base des expériences acquises.</p>
+      <p>II. <hi rend="i">Échanges</hi>. — Après s’être informés mutuellement de leurs projets pour la saison 1956, huit des festivals membres ont déjà conclu sur place, lors de l’Assemblée générale, des arrangements en vue d’échanger certaines de leurs « créations » les plus hardies et donc les plus coûteuses. D’autres échanges de cette nature seront organisés par l’intermédiaire du secrétariat. Un service d’informations mutuelles sur les nouveautés intéressantes dans le domaine musical sera constitué sans délai.</p>
+      <p>III. <hi rend="i">Entreprises communes</hi>. <anchor xml:id="_GoBack"/>— L’étude d’un projet de revue musicale européenne des festivals sera reprise sur des bases nouvelles. Des archives de documentation sur les pièces déjà jouées ou en préparation, leur mise en scène et leurs décors, ainsi que sur les artistes, chefs d’orchestres, etc., seront mises à la disposition des membres de l’Association. Enfin, certaines manifestations collectives de l’Association ont été envisagées pour l’année prochaine.</p>
+      <p>L’exécution de ce programme élargi, mais cependant concret, sera confiée au nouveau Secrétaire général de l’Association, que l’Assemblée générale a désigné en la personne de <hi rend="i">M. Abraham van der Vies</hi>. Musicologue et metteur en scène réputé, M. van der Vies vient d’occuper pendant cinq ans le poste de Directeur de l’Opéra d’Amsterdam, qu’il quitte pour se vouer à Genève au développement d’une œuvre « européenne », au sens le plus positif du terme.</p>
+    </body>
+  </text>
+</TEI>

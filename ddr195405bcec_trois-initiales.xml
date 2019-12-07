@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--Odette: 2019-12-07T17:51:30+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Trois initiales : trois questions, trois réponses</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Rougemont 2.0</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université de Genève</publisher>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>« Trois initiales : trois questions, trois réponses », <title level="j">Bulletin du Centre européen de la culture</title>, Genève, n° 3-4, mai-juillet 1954, p. 1-4.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1954-05"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="ddr195405bcec_01"/> — Pouvez-vous me dire en deux mots ce qu’est le Centre européen de la culture ?</p>
+      <p>— Je veux bien être bref, mais il me faut trois mots. Ou plutôt je vous répondrai sur les questions que posent les trois mots de notre nom : <hi rend="i">Centre, Européen et Culture</hi>.</p>
+      <div subtype="level1">
+        <head>C</head>
+        <p>— Je voudrais savoir d’abord ce que vous entendez par <hi rend="i">Culture</hi>.</p>
+        <p>— T. S. Eliot a répondu pour nous : « La culture peut être définie simplement comme ce qui rend la vie digne d’être vécue ». On pourrait dire aussi que la culture est l’ensemble des activités humaines qui ont pour fin de donner un sens à la vie.</p>
+        <p>— La politique fait-elle partie de ces activités ?</p>
+        <p>— Oui, en tant qu’elle implique une conception de l’homme et de la vie, par suite une conception de l’Europe et de son union propre à favoriser nos libertés. Non, si par politique on entend simplement l’action des politiciens d’aujourd’hui et ses péripéties, les querelles de partis, de nations ou de classes. Dans ce sens, le CEC ne s’occupe pas de politique.</p>
+        <p>— Le Centre veut-il être producteur de culture ou simplement organisateur de congrès, de comités et d’échanges ?</p>
+        <p>— La culture est produite par les personnes. Le Centre en tant que tel ne produit donc ni tableaux, ni poèmes, ni statues, ni théories scientifiques, ni doctrines philosophiques propres. Mais il a créé et créera encore des associations de producteurs et de distributeurs dans tous les domaines de la culture où cela se révèle utile et nécessaire : sciences, musique, livre, presse, histoire, enseignement, éducation<note place="bottom">Le présent numéro de notre Bulletin est en grande partie consacré aux associations éducatives sur le plan européen.</note>).</p>
+        <p><pb n="ddr195405bcec_02"/> — Le Centre pense-t-il avoir, de cette manière, vraiment servi ou aidé la culture, dans les divers pays du Continent ?</p>
+        <p>— Il existe, dans chacun de nos pays, des organismes étatiques ou semi-privés chargés de servir la culture nationale et son expansion : ce sont les « Relations culturelles ». L’apport du Centre a consisté dans la mise au point d’une méthode pratique de coopération <hi rend="i">supra-nationale</hi>. La culture a toujours vécu d’échanges en Europe. Rétablir ces échanges au-dessus des frontières étatiques, c’est rendre à la culture la première condition de sa santé.</p>
+        <p>— Et quelle serait selon vous la deuxième condition ?</p>
+        <p>— Ce serait d’aider financièrement les initiatives culturelles. Nos États ne consacrent qu’à peine l/1000<hi rend="sup">e</hi> de leur budget à la culture ; encore ne s’agit-il pour eux que d’instruction publique, ou de propagande pour les « valeurs nationales ». Nous travaillons sur un autre plan. Pour contribuer à rétablir la seconde condition de la santé culturelle en Europe, nous avons conçu le projet d’une <hi rend="i">Fondation européenne de la culture</hi>, comparable aux grandes fondations américaines<note place="bottom">Voir <ref target="file:///var/www/html/ddr-articles/work/ddr-bcec01bis/bcec195403"><hi rend="i">Bulletin</hi> de mars-avril 1954</ref>.</note>).</p>
+        <p>— Trouverez-vous les fonds nécessaires ?</p>
+        <p>— L’indépendance morale de l’Europe doit se payer.</p>
+      </div>
+      <div subtype="level1">
+        <head>E</head>
+        <p>— Le Centre est-il, ou veut-il être aussi, un agent d’union de l’Europe ?</p>
+        <p>— Certes.</p>
+        <p>— Mais le problème de l’Union n’est-il pas surtout politique et économique ? Et la crise que subit aujourd’hui l’effort d’intégration politique de l’Europe ne va-t-elle pas rendre vaines vos activités culturelles ?</p>
+        <p>— Cette crise est au contraire l’argument le plus fort en faveur de l’existence du Centre. On n’a pas réussi à créer l’union fédérale de l’Europe dans le délai optimum. Pourquoi ? À cause des résistances morales nées du nationalisme, et de vieilles craintes ou rancunes entretenues par la propagande soviétique. À cause de l’ignorance ou de la mauvaise éducation historique de l’opinion et de ceux qui disent la représenter. À cause de l’absence d’une <hi rend="i">conscience commune</hi> de l’Europe et de sa situation présente dans le monde. Comment combattre ce nationalisme qui tue les patries, ces craintes absurdes, <pb n="ddr195405bcec_03"/> cette ignorance, cette mauvaise éducation historique, et cette inconscience tragique ? Le problème est en réalité « culturel » au sens large du mot : c’est un problème d’éducation. C’est un problème qu’un organisme comme le Centre a justement pour raison d’être de poser tout d’abord, puis d’étudier, et dans la mesure des moyens qu’on lui donne, de résoudre. Les obstacles sont psychologiques ? C’est donc en profondeur qu’il nous faut travailler, dans les esprits et dans les cœurs.</p>
+        <p rend="noindent">—<space rend="tab">    </space>C’est la formule consacrée…</p>
+        <p rend="noindent">—<space rend="tab">    </space>Nous sommes là pour la prendre au sérieux.</p>
+      </div>
+      <div subtype="level1">
+        <head>C</head>
+        <p>— Vous disiez tout à l’heure : « un organisme comme le Centre ». Est-ce donc qu’il en existe d’autres ? Et ne ferait-il pas double emploi avec l’Unesco, par exemple ?</p>
+        <p>— C’est impossible, car l’Unesco n’a nullement pour but de favoriser l’union de l’Europe, ni l’éveil d’un sentiment européen. Certes, cette vaste organisation gouvernementale et mondiale s’occupe parfois sur un plan « régional » (en l’occurrence européen) de problèmes soulevés ou traités par le Centre : laboratoire européen de recherches nucléaires, éducation populaire, pédagogie sportive, ou encore dialogue Europe-Amérique. Il y aurait là, peut-être, danger de double-emploi<note place="bottom">Voir à ce sujet la <hi rend="bg_ffff00">page 4 de ce <hi rend="i">Bulletin</hi></hi>.</note>). Mais le Centre ne cessera pas pour autant de poursuivre la réalisation de ses initiatives : il ne s’agit pas ici d’une querelle de priorité, mais essentiellement de l’<hi rend="i">esprit</hi> dans lequel ces projets sont développés, et des <hi rend="i">buts</hi> que l’on vise. La mission proprement européenne du CEC ne court pas le risque d’être reprise en charge ni « dupliquée » par une bureaucratie mondiale, si riche soit-elle. Le danger n’est pas là…</p>
+        <p>-— À quel danger pensez-vous donc ?</p>
+        <p>— Non pas à celui qu’il y ait deux ou plusieurs Centres concurrents, mais à celui qu’il n’en existe plus même un.</p>
+        <p>— Que voulez-vous dire ?</p>
+        <p>— Il est sain pour l’objectivité et pour la liberté du jugement de se représenter parfois qu’une chose à quoi l’on tient pourrait disparaître. Qu’en résulterait-il ? Je constate que le Centre, du seul fait qu’il existe, polarise des possibilités, crée une certaine concentration d’énergies, offre un point de repère aux esprits qui méditent <pb n="ddr195405bcec_04"/> sur l’Europe et son union, et plus simplement leur donne des occasions de contact souvent fécondes. Certes le CEC est loin d’avoir exploité toutes ces possibilités. Nous nous sentons encore, après 4 ans, <hi rend="i">au début</hi> de notre action réelle. Mais si le Centre n’existait pas, il faudrait l’inventer — la phrase n’est pas de nous — et s’il venait à disparaître, il est certain que d’autres le recréeraient un jour, refaisant après nous les mêmes expériences et sans doute les mêmes erreurs, mais peut-être avec moins d’enthousiasme…</p>
+        <p>— Va-t-on soutenir le CEC, afin qu’il dure ?</p>
+        <p>— La vie n’est jamais qu’une suite de miracles.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

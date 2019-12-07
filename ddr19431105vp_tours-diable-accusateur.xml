@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Les tours du Diable <num>iv</num> : L’accusateur</title>
+        <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Rougemont 2.0</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université de Genève</publisher>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>« Les tours du Diable <num>iv</num> : L’accusateur », <title level="j">La Vie protestante</title>, Genève, 5 novembre 1943, p. 2.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1943-11-05"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb facs="ddr19431105vp_01"/> Il n’est peut-être au monde qu’une seu<anchor xml:id="_GoBack"/>le chose pire que de douter du bien et du réel, et c’est de douter du pardon, une fois qu’on a trahi le bien et le réel. Car douter du pardon nous replonge dans le mal, avec la sombre jouissance masochiste des « après moi le déluge » et des « tant pis pour moi ». Il faut croire au pardon pour oser confesser le mal qu’on a commis ; pour oser qualifier de faute sa propre faute ; et pour que puisse renaître la confiance qui donnera seule le courage de rebâtir. Celui qui doute du pardon ne peut pas confesser son crime, et celui qui ne le confesse pas n’en connaîtra jamais toute l’étendue.</p>
+      <p>Le Diable est cet Accusateur qui veut nous faire douter de notre pardon pour nous forcer à fuir dans les remèdes du pire. L’Apocalypse le désigne comme « l’Accusateur de nos frères, celui qui les accuse devant Dieu jour et nuit ». C’est lui qui demandait la tête de Job devant le tribunal céleste. Non content de nous prendre à ses pièges, sitôt qu’il nous a pris il est le premier à nous dénoncer devant Dieu de la manière la plus impitoyable. Non par amour de la justice, mais par amour de notre châtiment, par haine froide. Pour le stérile plaisir d’avoir raison.</p>
+      <p>Aussi, partout où l’on condamne <hi rend="i">sans pitié</hi> son prochain ou soi-même, soyez sûrs que c’est le Diable qui parle, l’Accusateur qui tient le pardon pour une simple faute de logique, la grâce pour une erreur de calcul statistique.</p>
+      <p>La duplicité infernale, c’est de nous faire croire qu’il n’y a pas de juge, ni d’ordre divin du réel, et aussitôt que nous l’avons cru, de nous accuser de contravention devant le Juge. Ainsi la morale laïque, morale du devoir kantien et des routines bourgeoises, excluant le Dieu personnel, nous accuse et nous prive en même temps de tout recours à Celui qui pardonne. Elle ne laisse aux meilleures de ses victimes que l’héroïsme auto-sadique de la révolte.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--Odette: 2019-12-07T17:51:31+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Les tours du Diable VIII : Le Diable démocrate</title>
+        <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Rougemont 2.0</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université de Genève</publisher>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>« Les tours du Diable VIII : Le Diable démocrate », <title level="j">La Vie protestante</title>, Genève, 3 décembre 1943, p. 2.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1943-12-03"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb facs="ddr19431203vp_01"/>
+      <p>Le <num>xix<hi rend="sup">e</hi></num> siècle, sans s’en douter, a remplacé la Providence par le <hi rend="i">progrès automatique</hi>. Devant les résultats présents de cette croyance quasi universelle dans les masses et l’élite, l’on est induit à reconnaître que le Progrès automatique n’était qu’un déguisement du Diable. Non pas qu’aucun progrès réel soit diabolique en soi ! Mais si l’on s’abandonne au rêve du Progrès, laissant aller les choses avec l’arrière-pensée fataliste et réconfortante que tout s’arrangera de soi-même, dans l’ensemble et à la longue, alors le Progrès devient le plus dangereux des soporifiques, une véritable drogue du Démon, l’un de ses nouveaux noms.</p>
+      <p>Nous avons cru à la <hi rend="i">bonté foncière de l’homme</hi>. Par gentillesse pour les autres, évidemment… Mais c’est toujours une manière de croire aussi à sa propre bonté. Et donc de s’aveugler sur le mal que l’on porte en soi. Et donc de ne pas se soucier de la présence active du Démon. Et donc enfin de lui laisser le champ libre pour nous duper.</p>
+      <p>Nous avons cru que <hi rend="i">le mal était relatif</hi> dans le monde, qu’il provenait d’une mauvaise répartition des biens, d’une éducation mal comprise, de lois inadéquates, ou de refoulements et d’injustices qui pouvaient être éliminés par des mesures adroites. Toutes ces croyances, en grande partie superstitieuses, ont eu pour principal effet de nous aveugler sur la réalité de l’homme, c’est-à-dire sur la réalité essentielle du mal enraciné dans notre liberté, dans nos données premières, dans la nature et dans la définition même de l’homme en tant qu’il est humain.</p>
+      <p>Nous avons été <hi rend="i">optimistes</hi> par principe, et presque par savoir-vivre, dirait-on, malgré tous les démentis de la réalité. Cet optimisme n’est pas la confiance naïve de l’enfant, mais une espèce de mensonge. Exactement : une <hi rend="i">fuite</hi> devant le réel. Car dans le réel, nous savons bien qu’il y a du mal, qu’il y a l’action du Diable. Mais cela nous scandalise et nous effraye. Alors nous essayons de conjurer le mal en le niant : c’est encore la mentalité magique. Nous pensons que celui qui dénonce le mal comme fondamental doit être lui-même très méchant. Nous croyons qu’en avouant le mal, nous le créons d’une certaine manière. Nous préférons ne pas insister. Nous « refoulons » dirait Freud. Cette fuite et ce mensonge inconscients, nous rendent incapables de comprendre ce qui se passe dans le monde, et nous livrent aux ruses les plus simples du Malin.</p>
+      <p>Nous avons éliminé de notre existence bourgeoise le sens du tragique, pour nous tourner exclusivement vers la recherche du confort et des vertus moyennes.</p>
+      <ab type="ornament">⁂</ab>
+      <p>De même que nous disions, en présence d’un miracle du bien : <hi rend="i">trop beau pour être vrai</hi> ! nous disions en présence de certaines descriptions du mal : <hi rend="i">trop affreux pour être vrai</hi> ! Cependant c’était vrai, mais cela nous gênait. Nous l’écartions irrésistiblement de nos pensées…</p>
+      <p>Car si ce « trop affreux » eût été vraiment vrai, il eût fallu agir d’urgence et sans réserve ; et si nous nous étions mis à agir sans réserve, nous aurions vu très vite que ce mal avait des racines dans nos vies aussi, et que d’une certaine manière, <hi rend="i">nous l’aimions</hi> ! Voilà le grand secret.</p>
+      <p>Le Diable a réussi à faire croire aux démocrates qu’ils n’aimaient pas du tout le mal, qu’ils ne le désiraient nullement, qu’ils étaient bons et les autres méchants, et que c’était tellement simple… Comme je voudrais que cela soit aussi simple ! Ne fût-ce que pour le moral militaire. Car, ainsi qu’aimait à le répéter un fameux général autrichien, Conrad von Hötzendorf : « Tout ce qui n’est pas aussi simple qu’une gifle ne vaut rien pour la guerre. » C’est sans doute vrai pour une armée. Mais cette guerre-ci oppose bien plus que des armées. Elle oppose des conceptions de la vie. C’est une espèce de guerre civile mondiale. Elle sera perdue si nous perdons d’abord le sens de la réalité morale.</p>
+      <ab type="ornament">⁂</ab>
+      <p>L’une des leçons claires qui se dégagent des événements actuels me paraît être celle-ci : la haine purement <hi rend="i">sentimentale</hi> du mal qui est chez autrui peut aveugler sur le mal que l’on porte en soi, et sur le sérieux du mal en général. La condamnation trop facile du méchant qui est en face peut recouvrir et favoriser beaucoup de complaisance intime à cette même méchanceté. Je pense aux vertueuses indignations du puritain tenté et qui se fait une caricature du vice d’autrui pour éviter de le reconnaître en lui-même.</p>
+      <p>… C’est pourquoi nous dirons aujourd’hui aux braves démocrates :</p>
+      <p>— Regardez le Diable qui est parmi nous ! Cessez de croire qu’il ne peut ressembler qu’à vos ennemis, car <hi rend="i">c’est à vous-mêmes qu’il s’arrangera toujours pour ressembler le plus</hi> ! C’est en vous seulement que vous le prendrez sur le fait. Et alors seulement, vous serez en état de la dépister chez autrui, et de l’y combattre avec succès. Car alors seulement, vous serez guéris de votre naïveté invraisemblable devant le danger totalitaire. Vous pourrez échapper à l’hypnose.</p>
+    </body>
+  </text>
+</TEI>

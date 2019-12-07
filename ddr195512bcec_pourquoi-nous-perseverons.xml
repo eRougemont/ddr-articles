@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pourquoi nous persévérons</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Rougemont 2.0</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université de Genève</publisher>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>« Pourquoi nous persévérons », <title level="j">Bulletin du Centre européen de la culture</title>, n° 2, décembre 1955, p. 1-2.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1955-12"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="ddr195512bcec_01"/> Toute la presse occidentale a parlé des « 17 <hi rend="i">niets</hi> de Molotov » à Genève. La question des échanges culturels serait donc tranchée négativement, les dix-sept offres ou demandes occidentales ayant été rejetées par le porte-parole des dirigeants de l’URSS. II n’y aurait plus lieu d’en parler, jusqu’à ce qu’une « détente » moins trompeuse nous soit proposée par le Kremlin.</p>
+      <p>Cette opinion nous paraît mal fondée, pour trois raisons :</p>
+      <p>1. Il n’est pas exact que les 17 propositions occidentales relatives aux échanges culturels aient été rejetées uniformément. (Nous donnons plus loin un résumé analytique des discours prononcés à Genève sur ce sujet.)</p>
+      <p>2. On ne voit pas pourquoi l’Occident — et l’Europe de l’Ouest en particulier — devrait s’abstenir de toute initiative dans le domaine culturel, du seul fait que les Soviétiques n’ont pas donné les suites espérées à leurs ouvertures officielles de l’été dernier.</p>
+      <p>3. Le désir d’engager le dialogue, ou simplement de mieux connaître ce qui se fait en Occident, demeure très fort chez un grand nombre d’intellectuels et d’artistes soviétiques, et nous fait un devoir de tout mettre en œuvre, avec une patience inlassable, pour manifester notre volonté d’y répondre.</p>
+      <p>Le fait évident — et souligné par M. Molotov — que l’Union soviétique ne veuille (et ne puisse) accepter aucune espèce de <hi rend="i">libre</hi> échange d’idées, d’œuvres et de personnes sur une base de réciprocité, n’exclut pas la possibilité d’échanges surveillés, limités, filtrés par les autorités soviétiques, mais <hi rend="i">échanges</hi> tout de même. Échangeons, échangeons, il en restera toujours quelque chose !</p>
+      <ab type="ornament">⁂</ab>
+      <p>Ceci marqué, la notion même d’échanges culturels doit être clarifiée.</p>
+      <p>Pour les dirigeants soviétiques, les échanges ont un but principal : obtenir des informations scientifiques et techniques qui leur manquent encore.</p>
+      <p>Pour les propagandistes officiels du type Ehrenbourg, les échanges ne sont qu’une occasion de présenter la dictature soviétique sous des aspects qui flattent notre intelligentsia dans certains de ses préjugés et dans son désir de paix, à la faveur de sa double ignorance des réalités russes et staliniennes (ou post-staliniennes).</p>
+      <p>Pour les intellectuels soviétiques du type Cholokhov, on peut imaginer que les échanges répondraient à un désir longtemps frustré de savoir ce qui se fait et ce que l’on pense ailleurs, de respirer un peu plus librement, de changer d’air pendant quelques instants.</p>
+      <p>Pour nous, les échanges ne sont qu’une forme naturelle et vitale d’exercice de l’intelligence dans la liberté et la cordialité. Notre désir d’échanges relève de la vocation occidentale de curiosité universelle, d’exploration de la Terre et de l’Homme, de dialogue vrai.</p>
+      <p>Les deux premières formes « d’échanges » sont trompeuses, parce qu’elles sont à sens unique : volonté d’acquérir sans rien donner, volonté de convaincre à seule fin de régner, sans le moindre respect pour l’interlocuteur.</p>
+      <p>Seules, les deux dernières formes d’échanges seront envisagées dans ce <hi rend="i">Bulletin</hi>, et donneront lieu aux propositions concrètes qui le terminent.</p>
+      <ab type="ornament">⁂</ab>
+      <p>Un rappel des phases principales de l’<hi rend="i">histoire</hi> des relations culturelles entre la Russie et l’Europe de l’Ouest jusqu’en 1917, servira d’introduction au problème actuel des échanges avec l’URSS.</p>
+      <p>Il sera suivi d’un examen documenté de la <hi rend="i">situation présente</hi>, sur la base duquel sont établies nos <hi rend="i">propositions</hi>.</p>
+    </body>
+  </text>
+</TEI>

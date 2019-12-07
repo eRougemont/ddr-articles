@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Le dialogue Europe USA</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Rougemont 2.0</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université de Genève</publisher>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>« Le dialogue Europe USA », <title level="j">Bulletin du Centre européen de la culture</title>, Genève, n° 5, août-septembre 1952, p. 25.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1952-08"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="ddr195208bcec_01"/> L’éditorial de notre <hi rend="i">Bulletin</hi> de juin-juillet a suscité de nombreux échos. Une trentaine de quotidiens et de revues du Continent l’ont reproduit en tout ou partie, et commenté dans un sens favorable. Il est clair que le problème des relations « culturelles » — au sens le plus large du mot — entre les USA et l’Europe devient de plus en plus actuel, et tous ceux dont la réflexion dépasse le plan des expédients politiques et militaires en prennent conscience.</p>
+      <p>Nous en voyons une preuve nouvelle dans la multiplication des groupes de discussion organisés au cours de ces dernières semaines sur le thème Europe-Amérique. Trois exemples :</p>
+      <p>— du 19 au 21 juillet, à Willingen près Kassel, rencontre organisée par la <hi rend="i">Commission œcuménique de coopération européenne</hi> (douze Américains et douze Européens) ;</p>
+      <p>— du 26 août au 1<hi rend="sup">er</hi> septembre, en marge du Congrès mondial de <hi rend="i">Pax Romana</hi>, entretiens entre universitaires américains et européens ;</p>
+      <p>— du 26 août au 6 septembre, séminaire de travail de l’<hi rend="i">Europäisches Forum</hi> (Alpbach, Tyrol) sur le sujet suivant : « L’Europe et l’Amérique dans la crise spirituelle du siècle. »</p>
+      <p>De brefs comptes rendus de ces rencontres nous parviendront bientôt. Nos lecteurs en trouveront des extraits dans le prochain numéro de ce <hi rend="i">Bulletin</hi>.</p>
+    </body>
+  </text>
+</TEI>
