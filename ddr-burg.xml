@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Bibliothèque universelle et Revue de Genève</title>
+        <title>Articles parus dans la <title level="j">Bibliothèque universelle et Revue de Genève</title> 1925–1930</title>
         <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author>
       </titleStmt>
       <editionStmt>
@@ -18,12 +18,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title level="j">Bibliothèque universelle et Revue de Genève</title></bibl>
+        <bibl><title level="j">Bibliothèque universelle et Revue de Genève</title> 1925–1930</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date notBefore="1925" notAfter="1930"/>
+        <date from="1925" to="1930"/>
       </creation>
       <langUsage>
         <language ident="fr"/>
