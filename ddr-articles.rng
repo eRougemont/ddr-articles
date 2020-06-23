@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar xmlns="http://relaxng.org/ns/structure/1.0" ns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <include href="http://oeuvres.github.io/Teinte/teinte.rng">
+    <start>
+      <element name="TEI">
+        <ref name="xml.lang"/>
+        <ref name="teiHeader"/>
+        <element name="text">
+          <element name="body">
+            <oneOrMore>
+              <element name="div">
+                <ref name="xml.id"/>
+                <attribute name="type">
+                  <value>article</value>
+                </attribute>
+                <ref name="pb"/>
+                <ref name="article.head"/>
+                <zeroOrMore>
+                  <choice>
+                    <ref name="block"/>
+                    <ref name="point"/>
+                  </choice>
+                </zeroOrMore>
+                <zeroOrMore>
+                  <choice>
+                    <ref name="div"/>
+                    <ref name="pb"/>
+                  </choice>
+                </zeroOrMore>
+              </element>
+            </oneOrMore>
+          </element>
+        </element>
+      </element>
+    </start>
+    <define name="pb">
+      <element name="pb">
+        <ref name="facs-att"/>
+        <ref name="n-att"/>
+      </element>
+    </define>
+  </include>
+  <define name="article.head">
+    <element name="head">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="date"/>
+          <ref name="emph"/>
+          <ref name="hi"/>
+          <ref name="lb"/>
+          <ref name="num"/>
+          <ref name="ref"/>
+          <ref name="indexable"/>
+        </choice>
+      </oneOrMore>
+      <ref name="note"/>
+    </element>
+  </define>
+</grammar>
