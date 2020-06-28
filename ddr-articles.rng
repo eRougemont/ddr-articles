@@ -3,6 +3,7 @@
   <include href="http://oeuvres.github.io/Teinte/teinte.rng">
     <start>
       <element name="TEI">
+        <ref name="xml.id"/>
         <ref name="xml.lang"/>
         <ref name="teiHeader"/>
         <element name="text">
