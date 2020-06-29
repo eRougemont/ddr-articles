@@ -1,4 +1,5 @@
 /work/
+_test*
 *.docx
 *.odt
 .~*
