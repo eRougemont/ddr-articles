@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Articles parus dans <title level="j">L’Ordre nouveau</title> (1933–1938)</title>
+        <title><title level="j">L’Ordre nouveau</title>, articles (1933–1938)</title>
         <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author>
       </titleStmt>
       <editionStmt>
@@ -23,7 +23,7 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <date from="1933" to=""/>
+        <date from="1933" to="1938"/>
       </creation>
       <langUsage>
         <language ident="fr"/>
