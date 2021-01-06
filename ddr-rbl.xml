@@ -32,7 +32,7 @@
   </teiHeader>
   <text>
     <body>
-      <div xml:id="ddr192612rbl_p3" type="article">
+      <div xml:id="ddr192612rbl_p3" when="1926-12" type="article">
         <pb n="p. 3" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-rbl/ddr192612rbl_p3_01.jpg/full/full/0/default.jpg"/>
         <head>Avant-propos (décembre 1926)<note place="bottom" resp="editor">« Avant-propos », <emph>Revue de Belles-Lettres</emph>, Lausanne-Neuchâtel-Genève-Fribourg, n° 1, décembre 1926, p. 3-5. Signé : Le Comité central.</note></head>
         <p>Une mauvaise humeur qui flotte dans l’air nous proposerait de débuter par l’inévitable discours sur les difficultés du temps, en général, et sur celles en particulier qu’implique la publication de notre revue. Mais nous savons, tout comme M. Coué, que ce serait de mauvaise méthode. Et, comme M. Coué, nous nous persuadons que tout ira très bien. Les circonstances l’exigent, d’ailleurs, plus que jamais, et plus que jamais, nous semble-t-il, notre revue a sa raison d’être.</p>
@@ -47,7 +47,7 @@
         <p>Que sommes-nous donc ? Le plus qu’on puisse dire, c’est que vous le saurez un peu mieux quand vous aurez lu nos huit numéros.</p>
         <p>Il faut que notre revue reste cette chose unique et indéfinissable, comme toute chose vivante… Gerbe de fleurs disparates, aux tiges divergentes, mais qu’un ruban rouge et vert lie par la grâce d’une volonté sans doute divine…</p>
       </div>
-      <div xml:id="ddr192612rbl_p13" type="article">
+      <div xml:id="ddr192612rbl_p13" when="1926-12" type="article">
         <pb n="p. 13" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-rbl/ddr192612rbl_p13_01.jpg/full/full/0/default.jpg"/>
         <head> Paradoxe de la sincérité (décembre 1926)<note place="bottom" resp="editor">« Paradoxe de la sincérité », <emph>Revue de Belles-Lettres</emph>, Lausanne-Neuchâtel-Genève-Fribourg, n° 1, décembre 1926, p. 13-25.</note></head>
         <p>Nous voyons un mythe prendre corps parmi les ruines de ce temps. Il fallait bien tirer quelque vertu d’une anarchie dont on ne veut pas avouer qu’elle est plus nécessaire — provisoirement — que satisfaisante pour l’esprit. C’est ainsi que nous trompant nous-mêmes, sous le prétexte toujours de probité intellectuelle ou de courage moral, nous avons élevé à la hauteur d’une vertu première — et qui légitime tous les dénis de morale à quoi nous obligeaient en réalité on sait quel dégoût, et certains désirs de grabuge moins avouables, — la sincérité, masque fier et un peu douloureux des défaitismes les plus subtils comme des plus pures et loyales inquiétudes.</p>
@@ -136,7 +136,7 @@
           <p>Hypocrisie, ce sourire des sphinx ; hypocrisie, masque ambigu d’une liberté plus précieuse que toute certitude… Ô vérité, ma vérité, non pas ce que je suis, mais ce que de toute mon âme je veux être !…</p>
         </div>
       </div>
-      <div xml:id="ddr192701rbl_p40" type="article">
+      <div xml:id="ddr192701rbl_p40" when="1927-01" type="article">
         <pb n="p. 40" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-rbl/ddr192701rbl_p40_01.jpg/full/full/0/default.jpg"/>
         <head>Billets aigres-doux (janvier 1927)<note place="bottom" resp="editor">« Billets aigres-doux », <emph>Revue de Belles-Lettres</emph>, Lausanne-Neuchâtel-Genève-Fribourg, n° 2, janvier 1927, p. 40. Signé : Julien Domingue.</note></head>
         <epigraph>
@@ -145,31 +145,31 @@
         <div>
           <head>Poste aux amours perdues</head>
           <quote>
-            <l>Sur le mont gris pâlissants
-              <lb/>Des bouquets de vagues brumes.
-              <lb/>Insulter ta beauté froide ?
-              <lb/>Oui, mais à qui s’adresser.
-              <lb/>Automne au sourire absent,
-              <lb/>Or luisant, terreau qui fume…
-              <lb/>Et tu laisses, ô col roide,
-              <lb/>En souffrance mes baisers.</l>
+            <l>Sur le mont gris pâlissants</l>
+            <l>Des bouquets de vagues brumes.</l>
+            <l>Insulter ta beauté froide ?</l>
+            <l>Oui, mais à qui s’adresser.</l>
+            <l>Automne au sourire absent,</l>
+            <l>Or luisant, terreau qui fume…</l>
+            <l>Et tu laisses, ô col roide,</l>
+            <l>En souffrance mes baisers.</l>
           </quote>
         </div>
         <div>
           <head>L’amour est un alibi</head>
           <quote>
-            <l>Nos lèvres sitôt que jointes,
-              <lb/>Ô dernier mensonge tu,
-              <lb/>Je m’enfuis vers d’autres rêves
-              <lb/>Où sourient quels anges fous.
-              <lb/>L’horaire dicte un adieu,
-              <lb/>La mode qu’on rie des pleurs,
-              <lb/>Lors je baise votre main
-              <lb/>Comme on signe d’un faux nom.</l>
+            <l>Nos lèvres sitôt que jointes,</l>
+            <l>Ô dernier mensonge tu,</l>
+            <l>Je m’enfuis vers d’autres rêves</l>
+            <l>Où sourient quels anges fous.</l>
+            <l>L’horaire dicte un adieu,</l>
+            <l>La mode qu’on rie des pleurs,</l>
+            <l>Lors je baise votre main</l>
+            <l>Comme on signe d’un faux nom.</l>
           </quote>
         </div>
       </div>
-      <div xml:id="ddr192701rbl_p54" type="article">
+      <div xml:id="ddr192701rbl_p54" when="1927-01" type="article">
         <pb n="p. 54" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-rbl/ddr192701rbl_p54_01.jpg/full/full/0/default.jpg"/>
         <head> Conte métaphysique : L’individu atteint de strabisme (janvier 1927)<note place="bottom" resp="editor">« L’individu atteint de strabisme. Conte métaphysique », Lausanne-Neuchâtel-Genève-Fribourg, <emph>Revue de Belles-Lettres</emph>, n° 2, janvier 1927, p. 54-55. Signé : Salomon de Crac.</note></head>
         <p>Comme le démiurge venait de peser sur le commutateur des étoiles… l’une, se décrochant sans plus d’hésitation, se mit à pérégriner dans les régions de chasse gardée du ci-devant soleil. C’est là qu’Urbain, premier du nom dans sa famille, laquelle n’avait compté jusqu’alors que d’authentiques avocats et un chapelier dont tous s’accordaient à dire qu’il ne péchait que par excès de bonne humeur printanière, Urbain donc, premier mauvais garçon d’une race entre toutes bénie — par qui ? elle était anticléricale, on ne saurait le taire, — Urbain dormait.</p>
@@ -177,19 +177,19 @@
         <p>Mais l’étoile chantait dans l’axe de sa vie normale et s’approchait en faisant la roue — celle à qui sourit la Fortune. Urbain, fort d’une hérédité judiciaire et française, dédaigna des avances que la perte de son sens de l’éternel rendait pourtant considérables, au sens étymologique du terme. Il loucha vers le néant, retourna ses poches, ôta ses gants qu’il jeta, puis, après un grand coup de pied dans le vide symbolique des systèmes, sortit, c’est-à-dire qu’il fit un pas dans une direction <emph>quelconque</emph>.</p>
         <p>L’étoile pleurait, sentimentale.</p>
       </div>
-      <div xml:id="ddr192701rbl_p61" type="article">
+      <div xml:id="ddr192701rbl_p61" when="1927-01" type="article">
         <pb n="p. 61" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-rbl/ddr192701rbl_p61_01.jpg/full/full/0/default.jpg"/>
         <head>Dans le Style (janvier 1927)<note place="bottom" resp="editor">« Dans le style », <emph>Revue de Belles-Lettres</emph>, Lausanne-Neuchâtel-Genève-Fribourg, n° 2, janvier 1927, p. 61-62.</note></head>
         <p>Nous recevons d’un Bellettrien facétieux cet « Hommage à Paul Morand » :</p>
-        <label>
-          <hi rend="sc">Billet circulaire </hi>
-          <lb/>
-          <emph>pour Paul Morand, auteur de « Lewis et Irène »</emph>
-        </label>
         <quote>
-          <l>L’auteur de maint roman de caractère gras
+          <label>
+            <hi rend="sc">Billet circulaire </hi>
+            <lb/>
+            <emph>pour Paul Morand, auteur de « Lewis et Irène »</emph>
+          </label>
+          <p>L’auteur de maint roman de caractère gras
             <lb/>quitte Charing-Cross, songeant aux
-            <lb/>titres, aux tire-l’œil.</l>
+            <lb/>titres, aux tire-l’œil.</p>
           <p>Lors : <emph>Lewis</emph>,
             <lb/>sifflant comme un fusil automatique,
             <lb/>fait balle au cerveau du poète
@@ -212,7 +212,7 @@
         <p>Les témoins étaient pour le marié : M. Philippe Berthelot, secrétaire général du ministre des Affaires étrangères ; et pour la mariée : Son Excellence M. Diamanty, ministre de Roumanie à Paris.</p>
         <p>C’est encore mieux dans le style.</p>
       </div>
-      <div xml:id="ddr192702rbl_p67" type="article">
+      <div xml:id="ddr192702rbl_p67" when="1927-02" type="article">
         <pb n="p. 67" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-rbl/ddr192702rbl_p67_01.jpg/full/full/0/default.jpg"/>
         <head> Lettre du survivant (février 1927)<note place="bottom" resp="editor">« Lettre du survivant », <emph>Revue de Belles-Lettres</emph>, Lausanne-Neuchâtel-Genève-Fribourg, n° 3, février 1927, p. 67-72. Signé : Arthur.</note></head>
         <epigraph>
@@ -237,7 +237,7 @@
         <p>Il doit être maintenant 5 heures du matin. Premiers appels d’autos dans la ville, mais il me semble que toutes choses s’éloignent de moi vertigineusement, par cette aube incolore. Il y a vingt-quatre heures donc, j’étais encore au bal. Cette constatation machinale ne correspond à rien dans mon esprit. Peut-être que j’ai perdu la notion du temps. Je ne me souviens plus que de cette déception insupportable et définitive de mon désir. Je ne vous en accuse pas. À peine si je puis encore évoquer votre visage. Peut-être ne vous ai-je pas vraiment aimée, mais bien ce goût profond de ma destruction, <pb n="p. 72" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-rbl/ddr192702rbl_p67_06.jpg/full/full/0/default.jpg"/> ce rongement, cette sournoise recherche de tout ce qui me navre au plus intime de mon être…</p>
         <p>Le revolver est chargé, sur cette table. (Je le caresse, entre deux phrases.) Mais voici que ce geste de ma mort aussi me lasse, l’image que je m’en forme… Je ne comprends plus pourquoi je devrais me tuer, pourquoi je souffre, ce que c’est que la souffrance, ce que c’est que ma vie, ma mort. Mon Dieu, il n’y a plus qu’un glissement gris, sans fin… Il faudrait que je dorme : il n’y aurait plus rien.</p>
       </div>
-      <div xml:id="ddr192702rbl_p85" type="article">
+      <div xml:id="ddr192702rbl_p85" when="1927-02" type="article">
         <pb n="p. 85" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-rbl/ddr192702rbl_p85_01.jpg/full/full/0/default.jpg"/>
         <head>Orphée sans charme (février 1927)<note place="bottom" resp="editor">« Orphée sans charme », <emph>Revue de Belles-Lettres</emph>, Lausanne-Neuchâtel-Genève-Fribourg, n° 3, février 1927, p. 85-87.</note></head>
         <epigraph>
@@ -264,7 +264,7 @@
         <p rend="center"/>
         <p>(Tout de même, Cocteau est un poète : j’en verrais une preuve, pour mon compte, dans le fait que je ne sais parler de lui autrement que par métaphores.)</p>
       </div>
-      <div xml:id="ddr192702rbl_p94" type="article">
+      <div xml:id="ddr192702rbl_p94" when="1927-02" type="article">
         <pb n="p. 94" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-rbl/ddr192702rbl_p94_01.jpg/full/full/0/default.jpg"/>
         <head>L’autre œil (février 1927)<note place="bottom" resp="editor">« L’autre œil », <emph>Revue de Belles-Lettres</emph>, Lausanne-Neuchâtel-Genève-Fribourg, n° 3, février 1927, p. 94-95. Signé : Topinet.</note></head>
         <div>
@@ -292,7 +292,7 @@
           <p>Un jour, on s’aperçut que cette chose avait recommencé, qu’on appelle, sans doute par antiphrase, la vie.</p>
         </div>
       </div>
-      <div xml:id="ddr192703rbl" type="article">
+      <div xml:id="ddr192703rbl" when="1927-03" type="article">
         <pb n="p. 124" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-rbl/ddr192703rbl_01.jpg/full/full/0/default.jpg"/>
         <head>
           <emph>Entr’acte</emph> de René Clair, ou L’éloge du Miracle (mars 1927)<note place="bottom" resp="editor">« <emph>Entr’acte</emph> de René Clair, ou L’éloge du Miracle », <emph>Revue de Belles-Lettres</emph>, Lausanne-Neuchâtel-Genève-Fribourg, n° 4, mars 1927, p. 124-127.</note></head>
@@ -311,7 +311,7 @@
         <p>Mais ce sont là critiques de style. D’ores et déjà, il faut admirer dans les films de René Clair un sens du miracle assez bouleversant. Et je ne parle pas du miracle genre conte de fée, comme le <emph>Voyage imaginaire</emph> en montre (beaucoup trop à mon <pb n="p. 127" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-rbl/ddr192703rbl_04.jpg/full/full/0/default.jpg"/> gré). Qu’une sorcière transforme un homme en chien, cela n’a rien d’étonnant au cinéma. C’est la photographie d’une chose qui ne serait étonnante que dans le réel ; ce n’est pas encore un miracle de ciné. Et les fées paraissent vieux jeu avec leur baguette, pour moi qui chaque soir crée ma chambre en tournant un commutateur. Le vrai miracle du cinéma, c’est, par exemple, l’éclosion d’une rose, un homme qui court au ralenti, certaines coïncidences de mouvements… C’est une réalité quotidienne dans une lumière qui la métamorphose ; c’est un <emph>temps</emph> nouveau, et l’espace en relation se modifie pour maintenir je ne sais quelle harmonie… C’est une réalité aussi réelle que celle dont nous avons convenu et que nous pensions la seule possible. Le monde « normal » nous apparaît alors comme l’une seulement des mille figures que peut revêtir une <emph>substantia</emph> dont nos sens trop faibles — bornés encore par des habitudes nées des nécessités sociales — nous empêchent de découvrir la richesse immédiate. Surréel qui n’est pas synonyme d’incompréhensible, non Madame, car alors quoi de plus surréaliste que le film 1905. Ce n’est peut-être qu’une question d’imagination ; il reste qu’un film comme <emph>Entr’acte</emph> est une aide puissante.</p>
         <p>Nous faisons nos premiers pas, étourdis, dans un pays d’illuminations vertigineuses, et nous en sommes encore à nous frotter les yeux… Peut-être, quand nos regards plus assurés sauront enfin gagner de vitesse les prodiges que déclenche René Clair, verrons-nous, pris par surprise dans l’exploration ivre d’un projecteur, des signes fatidiques, le visage d’un ange.</p>
       </div>
-      <div xml:id="ddr192704rbl_p131" type="article">
+      <div xml:id="ddr192704rbl_p131" when="1927-04" type="article">
         <pb n="p. 131" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-rbl/ddr192704rbl_p131_01.jpg/full/full/0/default.jpg"/>
         <head>Louis Aragon, le beau prétexte (avril 1927)<note place="bottom" resp="editor">« Louis Aragon, le beau prétexte », <emph>Revue de Belles-Lettres</emph>, Lausanne-Neuchâtel-Genève-Fribourg, n° 5, avril 1927, p. 131-144.</note></head>
         <epigraph>
@@ -379,8 +379,8 @@
           <p>Et avec Aragon lorsqu’il vous crie : « À bas le clair génie français. »</p>
           <p>Alors la voix de Rimbard<note place="bottom" resp="editor">On a conservée la graphie de l’original, sans doute voulue par l’auteur.</note> à la cantonade :</p>
           <quote>
-            <l>Qu’il vienne, qu’il vienne
-              <lb/>Le temps dont on s’éprenne !</l>
+            <l>Qu’il vienne, qu’il vienne</l>
+            <l>Le temps dont on s’éprenne !</l>
           </quote>
           <p><pb n="p. 140" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-rbl/ddr192704rbl_p131_10.jpg/full/full/0/default.jpg"/> Les œuvres les plus significatives de ce siècle sont écrites en haine de l’époque<note place="bottom">Proust excepté, et dans un domaine plus étroit, quelques esthètes du machinisme.</note>. Le reproche d’obscurité que l’on fait à la littérature moderne n’est qu’une manifestation de ce divorce radical entre l’époque et les quelques centaines (?) d’individus pour qui l’esprit est la seule réalité. C’est pourquoi nous ne pourrons plus séparer du concept de l’esprit celui de Révolution. Et j’entends ce mot dans son sens le plus vaste.</p>
           <p>Il y a eu quatre-vingt-treize, la Réforme, Karl Marx, la préface de Cromwell. Mais il ne s’agit pas de refaire notre petite révolution à nous, dans tel domaine. Et c’est même ceci que je ne puis pardonner aux surréalistes : qu’ils aient voulu s’allier aux dogmatiques d’extrême-gauche.</p>
@@ -410,7 +410,7 @@
           <p><pb n="p. 144" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-rbl/ddr192704rbl_p131_14.jpg/full/full/0/default.jpg"/> Révolution, ce n’est plus détruire, ce n’est plus combattre, c’est l’épanouissement violent d’une immense fleur palpitante au parfum de passions, c’est une atmosphère toute chargée d’éclairs qui nous atteignent sans cesse au cœur et nous revêtent miraculeusement d’aigrettes de folies et de joies ; n’allez pas nous toucher, nous sommes dangereux. Un orage de tendresse va crever sur le monde. Aigles d’amours, oiseaux doux et cruels, nous parlerons vos langues aériennes. On n’acceptera plus que des valeurs de passion. Balayez ces douanes de l’esprit, proclamez le grand Libre-Échange, voici déjà s’avancer des prodiges à cette invite la plus persuasive : nous sommes prêts à les accueillir.</p>
         </div>
       </div>
-      <div xml:id="ddr192704rbl_p151" type="article">
+      <div xml:id="ddr192704rbl_p151" when="1927-04" type="article">
         <pb n="p. 151" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-rbl/ddr192704rbl_p151_01.jpg/full/full/0/default.jpg"/>
         <head>Quatre incidents (avril 1927)<note place="bottom" resp="editor">« Quatre incidents », <emph>Revue de Belles-Lettres</emph>, Lausanne-Neuchâtel-Genève-Fribourg, n° 5, avril 1927, p. 151-153. Signé : Salomon de Crac.</note></head>
         <div>
@@ -442,7 +442,7 @@
           <p>On dit de ces phrases. Même, on en pleure.</p>
         </div>
       </div>
-      <div xml:id="ddr192705rbl_p180" type="article">
+      <div xml:id="ddr192705rbl_p180" when="1927-05" type="article">
         <pb n="p. 180" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-rbl/ddr192705rbl_p180_01.jpg/full/full/0/default.jpg"/>
         <head> Récit du pickpocket (fragment) (mai 1927)<note place="bottom" resp="editor">« Récit du pickpocket (fragment) », <emph>Revue de Belles-Lettres</emph>, Lausanne-Neuchâtel-Genève-Fribourg, n° 6, mai 1927, p. 180-185. Une note de bas de page indique : « La rédaction rappelle que les idées émises dans la <emph>Revue de Belles-Lettres</emph> sont propres à leur auteur et qu’elles n’engagent pas sa responsabilité. (N. de la R.) »</note></head>
         <epigraph>
@@ -471,7 +471,7 @@
         <p>.......................................................................................................................................................</p>
         <ab type="ornament">⁂</ab>
       </div>
-      <div xml:id="ddr192705rbl_p186" type="article">
+      <div xml:id="ddr192705rbl_p186" when="1927-05" type="article">
         <pb n="p. 186" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-rbl/ddr192705rbl_p186_01.jpg/full/full/0/default.jpg"/>
         <head> Conseils à la jeunesse (mai 1927)<note place="bottom" resp="editor">« Conseils à la jeunesse », <emph>Revue de Belles-Lettres</emph>, Lausanne-Neuchâtel-Genève-Fribourg, n° 6, mai 1927, p. 186-187.</note></head>
         <p>« On a reproché bien des choses aux romantiques : le goût du suicide, l’habitude de boire et de fumer excessivement, leurs amours, l’égoïsme, le mépris de la réalité, l’exaltation maladive de l’imagination et de la sensibilité, l’atrophie du sens critique sous toutes ses formes : raison, jugement, simple bon sens, et l’ignorance systématique, le mépris enfin de tous les principes qui sont à la base de la société même. »</p>
@@ -486,7 +486,7 @@
         <p>Alors n’est-ce pas, merci du conseil, Monsieur Y. Z., de ce conseil que vous avouez modestement n’être pas inédit. Mais point n’est besoin de rappeler <emph>Candide</emph> : nous pensons que bien avant Voltaire il y avait des autruches pour enseigner cette méthode à leurs petits.</p>
         <p>Le « satisfait » est un être inadmissible aujourd’hui. À plus forte raison, le satisfait artificiel.</p>
       </div>
-      <div xml:id="ddr192707rbl_p231" type="article">
+      <div xml:id="ddr192707rbl_p231" when="1927-07" type="article">
         <pb n="p. 231" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-rbl/ddr192707rbl_p231_01.jpg/full/full/0/default.jpg"/>
         <head>La part du feu. Lettres sur le mépris de la littérature (juillet 1927)<note place="bottom" resp="editor">« La part du feu. Lettres sur le mépris de la littérature », <emph>Revue de Belles-Lettres</emph>, Lausanne-Neuchâtel-Genève-Fribourg, n° 8, juillet 1927, p. 231-238.</note></head>
         <div>
@@ -545,7 +545,7 @@
           <p>Vous me demanderez « alors » ce que j’attends de ma vie. Je serais tenté de vous répondre, comme ce sympathique Philippe Soupault, que « ceci, c’est une autre histoire, une autre belle histoire, une autre très belle histoire ». (Et vous verriez à quoi cela peut servir, une citation.) Mais non, cher ami, voici qu’une envie me prend de vous conter un peu cette histoire. Seulement, allons ailleurs ; il y a trop de monde ici.</p>
         </div>
       </div>
-      <div xml:id="ddr192707rbl_p249" type="article">
+      <div xml:id="ddr192707rbl_p249" when="1927-07" type="article">
         <pb n="p. 249" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-rbl/ddr192707rbl_p249_01.jpg/full/full/0/default.jpg"/>
         <head> Les derniers jours (juillet 1927)<note place="bottom" resp="editor">« Les derniers jours », <emph>Revue de Belles-Lettres</emph>, Lausanne-Neuchâtel-Genève-Fribourg, n° 8, juillet 1927, p. 249-250.</note></head>
         <p>Ces « cahiers politiques et littéraires »<note place="bottom">20, rue Chalgrin, Paris 16<hi rend="sup">e</hi>.</note>, rédigés par Drieu la Rochelle et Emmanuel Berl, sont — avec la <emph>Revue de Belles-Lettres —</emph> la seule revue de langue française où l’on dise la vérité <emph>librement</emph> et pour elle-même. Nous regrettons de n’en pouvoir citer, faute de place, que ces quelques phrases de Drieu :</p>
@@ -554,7 +554,7 @@
         </quote>
         <p>Certains cris qui nous échappèrent n’avaient pas d’autre sens.</p>
       </div>
-      <div xml:id="ddr192707rbl_p256" type="article">
+      <div xml:id="ddr192707rbl_p256" when="1927-07" type="article">
         <pb n="p. 256" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-rbl/ddr192707rbl_p256_01.jpg/full/full/0/default.jpg"/>
         <head> Adieu au lecteur (juillet 1927)<note place="bottom" resp="editor">« Adieu au lecteur », <emph>Revue de Belles-Lettres</emph>, Lausanne-Neuchâtel-Genève-Fribourg, n° 8, juillet 1927, p. 256-258.</note></head>
         <p>Nous passons la main au central de Genève, fidèles à la tradition — en ceci au moins.</p>
@@ -579,7 +579,7 @@
         <p>Et puis, ils ont des vieux un peu là, du grand Arthur-Alfred-Albert <pb n="p. 258" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-rbl/ddr192707rbl_p256_03.jpg/full/full/0/default.jpg"/>au non moins grand Tanner. (On a fait ses preuves, quoi !) Et puis, qui sait, peut-être sauront-ils rallier le dernier disciple du Bienheureux Jean… Et puis, en voilà assez pour ranimer la curiosité des plus blasés.</p>
         <p>Lecteur, fais confiance au Central de Genève. Souviens-toi de la grandeur de ses traditions et ne va pas ajouter à cette lourde charge le poids de nos péchés. Ils sont bien nôtres. Et nous y tenons, ah ! comme nous y tenons !</p>
       </div>
-      <div xml:id="ddr192901rbl" type="article">
+      <div xml:id="ddr192901rbl" when="1929-01" type="article">
         <pb n="p. 78" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-rbl/ddr192901rbl_02.jpg/full/full/0/default.jpg"/>
         <head> « Belles-Lettres, c’est la clé des champs… » (janvier 1929)<note place="bottom" resp="editor">« Belles-Lettres, c’est la clef des champs… » [Réponse à l’enquête sur l’« Essence de Belles-Lettres »], <emph>Revue de Belles-Lettres</emph>, Lausanne-Neuchâtel-Genève-Fribourg, n° 1, janvier 1929, p. 78-79.</note></head>
         <p>1. Belles-Lettres, c’est la clef des champs.</p>
@@ -591,7 +591,7 @@
         <p>6. Peu de choses dans le monde moderne ont encore une « essence ». Celle de Belles-Lettres est en agréable odeur à l’Éternel et à Satan pareillement. Et ceux qu’elle enivre entrent en état de grâce ou de blasphème, selon. Mais ce qui importe d’abord, n’est-ce point de <emph>se livrer</emph>, purement et simplement.</p>
         <p>7. <emph>(Secret)</emph>.</p>
       </div>
-      <div xml:id="ddr192903rbl" type="article">
+      <div xml:id="ddr192903rbl" when="1929-03" type="article">
         <pb n="p. 168" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-rbl/ddr192903rbl_01.jpg/full/full/0/default.jpg"/>
         <head> Prison. Ailleurs. Étoile de jour (mars 1929)<note place="bottom" resp="editor">« Prison. Ailleurs. Étoile de jour », <emph>Revue de Belles-Lettres</emph>, Lausanne-Neuchâtel-Genève-Fribourg, n° 5, mars 1929, p. 168-170.</note></head>
         <div>
@@ -630,33 +630,41 @@
           <pb n="p. 170" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-rbl/ddr192903rbl_03.jpg/full/full/0/default.jpg"/>
           <head>Étoile de jour</head>
           <quote>
-            <l>Il naissait à son destin
-              <lb/>des rayons glissent et rient
-              <lb/>c’est la caresse des anges
-              <lb/>parmi les formes de l’ombre</l>
-            <l>C’était l’aube et le sourire
-              <lb/>adorable de savoir
-              <lb/>la dansante liberté
-              <lb/>d’un désir à sa naissance</l>
-            <l>L’étoile qui l’accueille au
-              <lb/>sommet ravi d’un silence
-              <lb/>c’est le miroir d’une absence
-              <lb/>mais le signe de sa grâce</l>
-            <l>Dans l’or vert évanouie
-              <lb/>au cœur éclatant du jour
-              <lb/>scintillera l’invisible
-              <lb/>gage d’un amour perdu.</l>
+            <lg>
+              <l>Il naissait à son destin</l>
+              <l>des rayons glissent et rient</l>
+              <l>c’est la caresse des anges</l>
+              <l>parmi les formes de l’ombre</l>
+            </lg>
+            <lg>
+              <l>C’était l’aube et le sourire</l>
+              <l>adorable de savoir</l>
+              <l>la dansante liberté</l>
+              <l>d’un désir à sa naissance</l>
+            </lg>
+            <lg>
+              <l>L’étoile qui l’accueille au</l>
+              <l>sommet ravi d’un silence</l>
+              <l>c’est le miroir d’une absence</l>
+              <l>mais le signe de sa grâce</l>
+            </lg>
+            <lg>
+              <l>Dans l’or vert évanouie</l>
+              <l>au cœur éclatant du jour</l>
+              <l>scintillera l’invisible</l>
+              <l>gage d’un amour perdu.</l>
+            </lg>
           </quote>
         </div>
       </div>
-      <div xml:id="ddr192904rbl" type="article">
+      <div xml:id="ddr192904rbl" when="1929-04" type="article">
         <pb n="p. 199" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-rbl/ddr192904rbl_01.jpg/full/full/0/default.jpg"/>
         <head>
           <emph>Souvenirs d’enfance et de jeunesse</emph>, par Philippe Godet (avril 1929)<note place="bottom" resp="editor">« <emph>Souvenirs d’enfance et de jeunesse</emph>, par Philippe Godet », <emph>Revue de Belles-Lettres</emph>, Lausanne-Neuchâtel-Genève-Fribourg, n° 6, avril 1929, p. 199.</note></head>
         <p>Quand avec un air fin mais un ton convaincu l’on a répété dans une ballade fameuse « Que voulez-vous, je suis bourgeois ! », l’on peut se permettre quelques malices, quelques jeux d’esprit ou de méchanceté, assuré que l’on est désormais d’être absous avec le sourire par la clientèle des librairies romandes, en mal de cadeaux de Noël ou de première communion. Parmi les compatriotes d’Amiel, Godet restera l’un des rares qui ont réussi à se connaître et que cela n’a point stérilisé : sa nature, il est vrai, s’y prêtait, peu complexe et comme réduite à deux dimensions ; la conscience ne pouvait y tuer un lyrisme quasi inexistant, mais bien y exciter un esprit critique fort alerte. Jugez-en à la façon dont il parle de « ses quelques succès, si disproportionnés avec son mérite ». Il ajoute : « j’ai eu la chance de discerner très jeune, avec une clairvoyance singulière, mes propres limites, et j’ai eu la sagesse de ne rien tenter au-delà ». C’est le comble de l’économie bourgeoise que cette administration exacte d’un petit capital. Le contraire de la poésie, bien sûr. Mais on n’en demande pas tant dans les familles. Et qu’importe si la perspective manque souvent à ces récits : ce n’est point un paysage d’âme qu’on y cherche, mais l’anecdote bien tournée, des noms connus. Tout est sur le même plan ; le dessin d’ailleurs est élégant.</p>
         <p>Mais comme tout cela manque de chair. Et de rêve. Est-ce qu’en ce temps-là on ne se nourrissait vraiment que de petits mots d’esprit et de malices ? Noisettes et cornichons ?</p>
       </div>
-      <div xml:id="ddr192911rbl" type="article">
+      <div xml:id="ddr192911rbl" when="1929-11" type="article">
         <pb n="p. 25" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-rbl/ddr192911rbl_01.jpg/full/full/0/default.jpg"/>
         <head> L’ordre social. Le Libéralisme. L’inspiration (novembre 1929)<note place="bottom" resp="editor">« L’ordre social. Le Libéralisme. L’inspiration », <emph>Revue de Belles-Lettres</emph>, Lausanne-Neuchâtel-Genève-Fribourg, n° 1, novembre 1929, p. 25-27.</note></head>
         <div>
@@ -680,7 +688,7 @@
           <p>Comme le poète terminait sa théorie sur la nature de l’inspiration, un doute lui vint. Il alla au cinéma. On donnait un film voluptueux. Il aima l’héroïne, mais sans espoir. Il lui écrivit, en sortant de là, dans une crèmerie pleine de couples à la mode. Mais en écrivant il pensait à une femme blonde assise près de lui. Ayant demandé un timbre pour attirer l’attention de la femme blonde — sans résultat —, il écrivit une adresse réelle, et mit la lettre dans la première boîte venue. Le lendemain, il reçut une réponse : « Vous avez commis une erreur, cher ami, mais bien excusable de la part d’un poète en état, sans doute, d’inspiration. Je trouve dans une enveloppe qu’hier vous m’adressâtes une déclaration d’amour destinée à une femme blonde. Je suis noire. Mais je sais qui c’est. J’ai fait suivre. Alexandrine un jour m’a laissé entendre qu’elle vous aime. Elle attend votre lettre depuis des mois. Je pense que ces lignes vous trouveront réunis. Avec ma bénédiction, je suis votre amie Joséphine. » — Le poète reprit son manuscrit et conclut : « L’inspiration est le nom qu’on donne en poésie à une suite de malentendus heureusement enchaînés. » Cette histoire, en effet, lui valut une Muse.</p>
         </div>
       </div>
-      <div xml:id="ddr193005rbl" type="article">
+      <div xml:id="ddr193005rbl" when="1930-05" type="article">
         <pb n="p. 160" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-rbl/ddr193005rbl_01.jpg/full/full/0/default.jpg"/>
         <head> Les soirées du Brambilla-club (mai 1930)<note place="bottom" resp="editor">« Les soirées du Brambilla-club », <emph>Revue de Belles-Lettres</emph>, Lausanne-Neuchâtel-Genève-Fribourg, n° 5, mai 1930, p. 160-168.</note></head>
         <epigraph>
@@ -714,10 +722,10 @@
         <p>Allons, allons, puisque te voilà bien <emph>perdu</emph> cette fois, dérive un peu vers ces Allemagnes où, tu le sais, la tristesse la plus amère invente encore des mélodies sentimentales, un peu bêtes, un peu trop lentes, comme tu les aimes — on n’a pas toujours envie de crâner.</p>
         <p>L’esplanade d’une petite ville de l’Allemagne du Sud, un soir de mai. Il y a dans les marronniers noirs des lampions et des touffes de gamins qui regardent avec la bouche ce qui se passe à l’intérieur d’une enceinte de toiles tendues au devant d’un petit théâtre. La rampe est d’un bleu stellaire, un bleu d’Aldébaran. On joue <emph>Rose de Tannenbourg</emph>, drame en 15 tableaux, un prologue et une conclusion. Le carton des armures sonne sourdement sous les coups d’un Kühnrich à la basse rugissante, plus traître que nature avec sa large face mangée par une barbe en crin de cheval du diable. L’héroïne est belle <pb n="p. 167" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-rbl/ddr193005rbl_08.jpg/full/full/0/default.jpg"/> comme une ballade de Bürger, tandis qu’elle arrose de ses larmes le seuil de la prison paternelle, tout en coulant un clin d’œil assassin vers le parterre agité de passions contradictoires. Durant les entr’actes, une fanfare de paysans bleu de roi joue sur un rythme impeccable, avec toujours les mêmes notes fêlées et l’accompagnement dans les feuillages de voix fausses mais aériennes, des chansons populaires qui sont ce que je connais de plus indiciblement nostalgique.</p>
         <quote>
-          <l>Und solltest du im Leben
-            <lb/>Ein Mädchen frei’n,
-            <lb/>Dann muss sie am Rheine
-            <lb/>Geboren sein…</l>
+          <l>Und solltest du im Leben</l>
+          <l>Ein Mädchen frei’n,</l>
+          <l>Dann muss sie am Rheine</l>
+          <l>Geboren sein…</l>
         </quote>
         <p>Il faudrait la mélodie. La fanfare s’éloigne. La nuit est chaude sur les collines. Un grand verre de bière à l’auberge déserte, ma pipe et mon chien qui bougonne. La petite maison du colonel en retraite a des fenêtres basses, mais défendues par des rosiers sauvages. Laquelle des trois filles est donc la plus jolie ? Sans doute celle qui dort dans la mansarde, et qui n’a pas peur…</p>
         <ab type="ornament">⁂</ab>
@@ -728,7 +736,7 @@
         <p rend="center"/>
         <p>Paris, le 28 avril.</p>
       </div>
-      <div xml:id="ddr1932rbl" type="article">
+      <div xml:id="ddr1932rbl" when="1932" type="article">
         <pb n="p. 56" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-rbl/ddr1932rbl_01.jpg/full/full/0/default.jpg"/>
         <head> La pluie et le beau temps (Dialogue dans une tête) (1932)<note place="bottom" resp="editor">« La pluie et le beau temps (Dialogue dans une tête) », <emph>Neuchâtel 1932</emph>, numéro thématique de la <emph>Revue de Belles-Lettres</emph>, Lausanne-Neuchâtel-Genève-Fribourg, n° 8, 1932, p. 56-59. Signé : Salomon de Crac.</note></head>
         <p><emph> Lord Artur.</emph> — Vous êtes terriblement jolie aujourd’hui, Mademoiselle Sonnette, avec qui avez-vous été méchante ?</p>
@@ -755,7 +763,7 @@
           <emph>Sonnette.</emph> — J’aime vos histoires, Lord Artur. <emph>(Un temps.)</emph> — Dites-moi, Lord Artur, si je pleurais, quel temps ferait-il pour vous ?</p>
         <p><emph>Lord Artur.</emph> — … Le beau mot : courtisane… Ce n’est pas qu’elle soit belle, peut-être, mais qu’elle pleure, qui me réchauffe. Parce qu’elle se tient là « vêtue de son péché », — comme une courtisane. Mais vous n’êtes qu’une petite fille.<note place="bottom">[Note à l’achevé d’imprimé :] « Relativement à « La pluie et le beau temps » de Salomon de Crac, tous droits demeurent réservés par Denis de Rougemont, à la suite d’une entente formelle avec les héritiers du baron de Crac, représentés par le baron W. de Münchhausen, au bar des Vikings (Paris), fin septembre 1931. »</note></p>
       </div>
-      <div xml:id="ddr1933rbl" type="article">
+      <div xml:id="ddr1933rbl" when="1933" type="article">
         <pb n="p. 55" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-rbl/ddr1933rbl_01.jpg/full/full/0/default.jpg"/>
         <head> Petites notes sur les vérités éternelles (1932-1933)<note place="bottom" resp="editor">« Petites notes sur les vérités éternelles », <emph>Revue de Belles-Lettres</emph>, Lausanne-Neuchâtel-Genève-Fribourg, n° 2, 1932-1933, p. 55-59.</note></head>
         <p>La lecture du bel article de M. Arnold Reymond, paru dans votre n° 1, me met la plume à la main. Voici quelques notes rapidement rédigées dans les marges. M. Reymond, je le crois, ne m’en voudra pas trop de leur vivacité : il connaît bien les Neuchâtelois, qui l’ont beaucoup aimé ; il sait que ces Neuchâtelois sont d’infatigables ergoteurs.</p>
@@ -783,14 +791,14 @@
         <p>Et puis, que ferions-nous en attendant que les théologiens aient mené à bien leur travail historique ? Et qu’arriverait-il si le résultat en était par exemple, de démontrer que tel « invariant chrétien » est toute autre chose que l’Évangile ? ou bien si, au contraire, ce n’était rien que l’Évangile ? Peine perdue ? — Grosses questions, questions un peu grosses, dira-t-on. Dans une époque comme la nôtre, ce sont celles qu’il faut poser si l’on veut réellement se tirer hors d’une confusion sans précédent — d’une confusion dont le profit ne sera jamais pour la foi.</p>
         <p>Car l’opération de la foi ne relève pas d’un « invariant », connu ou inconnu, passé ou à venir, mais bien d’un ordre, reçu <emph>hic et nunc</emph>, et d’une <emph>présence</emph>, qui juge tout.</p>
       </div>
-      <div xml:id="ddr1935rbl" type="article">
+      <div xml:id="ddr1935rbl" when="1935" type="article">
         <pb n="p. 25" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-rbl/ddr1935rbl_01.jpg/full/full/0/default.jpg"/>
         <head> René Guisan : un clerc (1935)<note place="bottom" resp="editor">« René Guisan : un clerc », <emph>Revue de Belles-Lettres</emph>, Lausanne-Neuchâtel-Genève-Fribourg, n° 7-8, 1935, p. 25-26. Ce double numéro, appartenant à la série annuelle 1932-1933, a de fait paru en 1935.</note></head>
         <p>Un clerc, un vrai clerc. Non pas cet être détaché, déraciné, de pure raison, que l’auteur d’un pamphlet fameux voulait nous donner pour modèle du clerc qui ne trahit pas. Mais une figure presque parfaite d’intellectuel en action, d’homme qui pense ce qu’il fait, qui fait ce qu’il pense. Nous manquons terriblement de tels hommes, en Suisse romande. Nous manquons terriblement de ce <emph>sens de la culture</emph> qu’incarnait à mes yeux René Guisan, lorsque je le voyais dans sa bibliothèque immense et qu’il me parlait avec feu d’actions réelles dont il était l’âme et l’agent, non pas en « homme d’action » — cette sotte espèce américaine — mais en homme de pensée agissante.</p>
         <p>Nous méprisons trop facilement la culture au nom de l’action. C’est sans doute parce que nous avons connu quelques rats de bibliothèque qui méprisaient trop facilement l’action au nom de la culture. En vérité, ni l’une ni l’autre ne valent rien dès l’instant qu’on les sépare et qu’on cesse de les mettre en tension. Il n’est d’action créatrice que soumise à la loi d’une pensée rigoureuse ; il n’est de pensée saine qu’engagée dans une œuvre efficace, au sein de contingences quotidiennes. Ces lieux communs, ces évidences fondamentales et sans cesse oubliées de nos jours, je ne les ai vues vraiment vécues chez nous que par cet homme solide et fin, passionné et précis, au parler vif et sachant écouter, rompu aux abstractions et sachant voir, toujours prêt à l’accueil le plus ardent mais aussi le plus utilement critique si vous alliez lui parler d’un projet, d’une œuvre en cours, des circonstances d’une humble vie. Il faut décrire <pb n="p. 26" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-rbl/ddr1935rbl_02.jpg/full/full/0/default.jpg"/> ces éléments de sa « personne » en termes d’apparence paradoxale : le secret de son œuvre résidait sans doute dans l’union vibrante qu’il incarnait, de qualités qui ont coutume, ailleurs, de se gêner mutuellement. Son érudition magnifique ne se limitait pas aux livres : elle embrassait aussi les incidents de la moindre paroisse « libriste » du canton de Vaud. Son sens aigu de la qualité intellectuelle, sa rigueur critique ne l’empêchaient nullement de se passionner pour les « problèmes » souvent si vagues qui peuplent une âme d’unioniste romand. Vraiment, le souvenir d’une influence et d’une présence aussi directes et essentielles doit nous interdire désormais de considérer que l’esprit est une faculté détachée, un refuge hors de la réalité médiocre et basse. Pour Guisan, l’esprit c’était l’acte, l’aide effective apportée <emph>hic et nunc</emph> à des hommes bien réels dans leurs limites reconnues et
           acceptées. Il me semble que c’est la leçon que nous devons prendre de sa vie : la leçon toute goethéenne du clerc qui sert sans rien trahir de la primauté de l’esprit. Peut-être que le seul chrétien peut comprendre, existentiellement, que cette exigence de service, cet abaissement de la pensée aux choses, cet acte de présence au monde est l’achèvement suprême, et non l’humiliation du spirituel.</p>
       </div>
-      <div xml:id="ddr193811rbl" type="article">
+      <div xml:id="ddr193811rbl" when="1938-11" type="article">
         <pb n="p. 2" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-rbl/ddr193811rbl_01.jpg/full/full/0/default.jpg"/>
         <head> Le Poète et le Vilain (novembre 1938)<note place="bottom" resp="editor">« Le Poète et le Vilain », <emph>Revue de Belles-Lettres</emph>, Lausanne-Neuchâtel-Genève-Fribourg, n° 1, novembre 1938, p. 2. Une note introductive précise : « Nous avons le plaisir de publier en tête de ce numéro une page inédite de Denis de Rougemont, qu’il a bien voulu extraire pour nous d’un ouvrage qu’il prépare et qu’il intitulera <ref target="https://www.unige.ch/rougemont/livres/ddr1947df"><emph>Doctrine fabuleuse</emph></ref>. »</note></head>
         <p>Le poète disait d’une belle voix d’amertume :</p>
@@ -803,33 +811,36 @@
         <p>— À chacun selon sa faim. Heureux ceux qui ont une grande faim, c’est à cause d’eux qu’il y a de grandes œuvres. Car le vilain qui n’a rien à donner, c’est lui qui vous donnera la joie du chant, plus précieuse que l’objet de vos requêtes au roi.</p>
         <p>— Oui, dit le poète, mais sans nobles, sans rois, peut-il y avoir des vilains ?</p>
       </div>
-      <div xml:id="ddr1968rbl" type="article">
+      <div xml:id="ddr1968rbl" when="1968" type="article">
         <pb n="p. 15" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-rbl/ddr1968rbl_01.jpg/full/full/0/default.jpg"/>
         <head> Hölderlin dans le souvenir des noms splendides (1968)<note place="bottom" resp="editor">« Hölderlin dans le souvenir des noms splendides », <emph>Revue de Belles-Lettres</emph>, Lausanne-Neuchâtel-Genève-Fribourg, n° 2, 1968, p. 15-19.</note></head>
         <p>Qu’est-ce qui persiste du poème qu’un jour ou l’autre nuit nous avons lu puis oublié ? Un « ton fondamental » ? Des mouvements de mots ? ou seulement un désir <emph>différent</emph> de tout autre désir auparavant connu de le revivre, ce poème, de le relire en sa mémoire, de le recomposer contre l’oubli comme son auteur l’avait écrit contre l’absence, — car elle seule attend l’expression et la permet. La poésie serait-elle ce qui subsiste quand on a tout perdu sauf certains mots ? Ce qui émeut quand plus rien n’est là ?</p>
         <p>Je ne gardais de Hölderlin que des souvenirs d’élans ou d’amples chutes, de rythmes brisés, de noms grecs, d’éclats de lumière élevés dans l’immense paysage intérieur. Ou moins encore, quelques syllabes et des tirets remplaçant le début ou la fin d’un verset, appels nostalgiquement privés de sens à cause de tant d’années d’oubli, pensais-je. Je notais quelquefois ces fragments mémorables pour essayer d’en retrouver le complément, fût-ce par la suggestion de l’arrangement graphique. Ainsi quelques départs :</p>
         <quote>
-          <l>Feiern möcht ich, aber wofür ?
-            <lb/>
-            <lb/>Ihr wandelt droben im Licht
-            <lb/><space rend="tab"> </space>..... selige Genien !
-            <lb/>
-            <lb/>Doch uns ist gegeben
-            <lb/>Auf keiner Statte zu ruhn
-            <lb/><space rend="tab"> </space>..... von Klippe
-            <lb/>zu Klippe.....
-            <lb/><space rend="tab"> </space>.... ins Ungewisse hinab.
-            <lb/>
-            <lb/>Doch weh mir !.....</l>
-          <l>Zum Parnassos will ich...</l>
+          <label>Feiern möcht ich, aber wofür ?</label>
+          <lg>
+            <l>Ihr wandelt droben im Licht</l>
+            <l>..... selige Genien !</l>
+          </lg>
+          <lg>
+            <l>Doch uns ist gegeben</l>
+            <l>Auf keiner Statte zu ruhn</l>
+            <l>..... von Klippe</l>
+            <l>zu Klippe.....</l>
+            <l>.... ins Ungewisse hinab.</l>
+          </lg>
+          <lg>
+            <l>Doch weh mir !.....</l>
+            <l>Zum Parnassos will ich...</l>
+          </lg>
         </quote>
         <p>ou ce cri eschylien :</p>
         <quote>
-          <l>Alter Dämon !.. herab
-            <lb/>Oder sende
-            <lb/>Einen Helden
-            <lb/>Oder
-            <lb/>Die Weisheit...</l>
+          <l>Alter Dämon !.. herab</l>
+          <l>Oder sende</l>
+          <l>Einen Helden</l>
+          <l>Oder</l>
+          <l>Die Weisheit...</l>
         </quote>
         <p>ou parfois, plus rarement, une large fin sereine :</p>
         <quote>
@@ -837,8 +848,8 @@
         </quote>
         <p>Je retrouvais sans trop de lacunes deux quatrains d’une déchirante simplicité, que j’avais traduits à vingt ans : <emph>Die Linien des Lebens sind verschieden</emph> et <emph>Das Angenehme dieser Welt hab ich genossen</emph>. Et subsistaient aussi certaines coupes du verset, ces attaques identiques de deux des grands poèmes de la folie :</p>
         <quote>
-          <l>Nah ist
-            <lb/>Und schwer zu fassen der Gott<note place="bottom"><emph>Patmos</emph>, 1801-1802.</note></l>
+          <l>Nah ist</l>
+          <l>Und schwer zu fassen der Gott<note place="bottom"><emph>Patmos</emph>, 1801-1802.</note></l>
           <l>Reif sind, in Feuer getaucht, gekochet<note place="bottom"><emph>Mnemosyne III</emph>, 1803.</note></l>
         </quote>
         <p>Invocation du rythme, pouvoirs du signe<note place="bottom">« Par le fait que (le poète) me nomme ce signe, il emprunte à mon monde sa matière, il me <emph>détermine</emph> à transférer cette matière dans le signe » écrit Hölderlin dans son grand essai sur la Démarche Poétique, au chapitre traitant du langage et de son « efficacité ».</note>, tirets qui jalonnent un silence, et ce n’est pas seulement absence du son, du sens, mais sourde pulsation d’un blanc, d’un vide. « <emph>Énigme, ce qui naît d’un jaillissement pur ! Et par le chant lui-même à peine dévoilé</emph> ». Groupes de mots émergeant de la mémoire comme de l’Égée vineuse ces îles de l’Archipel, témoins de quelque immense Hespérie effondrée mais dont les noms, par <emph>cette voix</emph> cités, suffisent à ranimer la gloire heureuse.</p>
@@ -853,13 +864,13 @@
         <p>Car il nous avertit que son langage n’est pas celui que parlent « la nature et l’art tels qu’il les a connus autrefois ». Ce n’est pas un langage imposé par le social impersonnel, tel que certains prétendent qu’il nous forme — « car si quelque langage de la nature et de l’art… préexistait pour lui… le poète se placerait en dehors de son champ d’efficacité, il sortirait de sa création »<note place="bottom">Essai cité, Éd. de la Pléiade, p. 630.</note>. Son langage, il le fait de noms sacrés et de signes élus, qualifiés par un « ton fondamental ». C’est une sorte de code initiatique, le chiffre de sa religion. Noms de fleuves et d’îles, de cités, de hauts-lieux ; et leur seul énoncé suffit à qualifier et activer la nostalgie constitutive du poème : le Gothard et l’Olympe, Pister, l’Indus, Patmos, et Dodone, et Delos, et Delphes, et le matin de Salamine, et l’Hespérie, « Couchant du temps ».</p>
         <p>Sous la Rousse et la Flamboyante, hautes parois de roches nues dominant Delphes (et de plus haut encore fonce un milan sur sa proie d’ombre) au bord de la fontaine aux eaux « saintes et sobres », écoutons-le<note place="bottom">Je cite l’<emph>Archipel</emph> dans la belle adaptation rythmique de Jean Tardieu. Éd. de la Pléiade, p. 826.</note> :</p>
         <quote>
-          <l>Jusqu’aux pieds du Parnasse j’irai, et, dès que dans l’ombre des chênes
-            <lb/>Brillera la lueur de ton flot surgissant, Castalie ! Ah ! je veux
-            <lb/>Dans la vasque puiser, à travers le parfum de tes fleurs, et répandre,
-            <lb/>Sur le sol où renaît la prairie, l’eau sacrée et mes larmes, afin,
-            <lb/>Qu’une offrande pourtant vienne encore, ô Dormants délaissés, vous atteindre !
-            <lb/>Et, plus loin, dans le val qui se tait, près des rocs suspendus de Tempé,
-            <lb/>Près de vous j’élirai ma demeure à jamais, près de vous, noms splendides !</l>
+          <l>Jusqu’aux pieds du Parnasse j’irai, et, dès que dans l’ombre des chênes</l>
+          <l>Brillera la lueur de ton flot surgissant, Castalie ! Ah ! je veux</l>
+          <l>Dans la vasque puiser, à travers le parfum de tes fleurs, et répandre,</l>
+          <l>Sur le sol où renaît la prairie, l’eau sacrée et mes larmes, afin,</l>
+          <l>Qu’une offrande pourtant vienne encore, ô Dormants délaissés, vous atteindre !</l>
+          <l>Et, plus loin, dans le val qui se tait, près des rocs suspendus de Tempé,</l>
+          <l>Près de vous j’élirai ma demeure à jamais, près de vous, noms splendides !</l>
         </quote>
       </div>
     </body>

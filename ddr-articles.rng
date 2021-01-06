@@ -11,6 +11,7 @@
             <oneOrMore>
               <element name="div">
                 <ref name="xml.id"/>
+                <ref name="att.when"/>
                 <attribute name="type">
                   <value>article</value>
                 </attribute>
@@ -36,8 +37,8 @@
     </start>
     <define name="pb">
       <element name="pb">
-        <ref name="facs-att"/>
-        <ref name="n-att"/>
+        <ref name="att.facs"/>
+        <ref name="att.n"/>
       </element>
     </define>
   </include>
