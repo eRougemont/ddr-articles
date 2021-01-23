@@ -21,6 +21,11 @@
         <bibl><title level="j">L’Ordre nouveau</title> (1933–1938)</bibl>
       </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <refsDecl>
+        <p><att cert="high">xm:id</att> of this file are unique for all the corpus of Rougemont.</p>
+      </refsDecl>
+    </encodingDesc>
     <profileDesc>
       <creation>
         <date from="1933" to="1938"/>

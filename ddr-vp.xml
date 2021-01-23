@@ -21,6 +21,11 @@
         <bibl><title level="j">La Vie protestante</title> (1938–1961)</bibl>
       </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <refsDecl>
+        <p><att cert="high">xm:id</att> of this file are unique for all the corpus of Rougemont.</p>
+      </refsDecl>
+    </encodingDesc>
     <profileDesc>
       <creation>
         <date from="1938" to="1961"/>

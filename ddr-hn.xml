@@ -21,6 +21,11 @@
         <bibl><title level="j">Hic et Nunc</title> (1932–1936)</bibl>
       </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <refsDecl>
+        <p><att cert="high">xm:id</att> of this file are unique for all the corpus of Rougemont.</p>
+      </refsDecl>
+    </encodingDesc>
     <profileDesc>
       <creation>
         <date from="1932" to="1936"/>

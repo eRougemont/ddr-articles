@@ -21,6 +21,11 @@
         <bibl><title level="j">Bulletin du Centre européen de la culture</title> (1951–1977)</bibl>
       </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <refsDecl>
+        <p><att cert="high">xm:id</att> of this file are unique for all the corpus of Rougemont.</p>
+      </refsDecl>
+    </encodingDesc>
     <profileDesc>
       <creation>
         <date from="1951" to="1977"/>

@@ -21,6 +21,11 @@
         <bibl><title level="j">Revue de Belles-Lettres</title> (1926–1968)</bibl>
       </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <refsDecl>
+        <p><att cert="high">xm:id</att> of this file are unique for all the corpus of Rougemont.</p>
+      </refsDecl>
+    </encodingDesc>
     <profileDesc>
       <creation>
         <date from="1926" to="1968"/>
