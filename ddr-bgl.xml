@@ -98,10 +98,10 @@
         <pb n="p. 131" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bgl/ddr193909bgl_01.jpg/full/full/0/default.jpg"/>
         <head>Puisque je suis un militaire… (septembre 1939)<note place="bottom" resp="editor">« Puisque je suis un militaire… », <emph>Bulletin de la Guilde du Livre</emph>, Lausanne, n° 9, septembre 1939, p. 131-133.</note></head>
         <epigraph>
-          <p>Puisque je suis un militaire,
-            <lb/>Il faut bien faire mon état.</p>
+          <l>Puisque je suis un militaire,</l>
+          <l>Il faut bien faire mon état.</l>
+          <bibl>Chanson du <num>xviii<hi rend="sup">e</hi></num> siècle.</bibl>
         </epigraph>
-        <bibl>Chanson du <num>xviii<hi rend="sup">e</hi></num> siècle.</bibl>
         <p>— Tu te rends compte ? dit un camarade. — Pas trop. Mais pour sûr on y est !</p>
         <p>L’impression générale, c’est qu’on nous a « mis dedans ». (Je dis <emph>on</emph>, je ne sais pas qui c’est. Comme le brave paysan vaudois, après la grêle, qui désignait d’un doigt le ciel coupable : « Je n’accuse personne, mais c’est dégoûtant ! ») Nous voilà faits, refaits par l’événement, plongés d’un coup dans le détail technique de ces grandes choses terribles qu’on imaginait, qu’on redoutait, qu’on croyait préparer, et qui nous trouvent sans peur et sans préparation dès l’instant qu’elles deviennent présentes, cessent d’être imaginées, ou même imaginables.</p>
         <p>Tout de même, après huit jours, les choses commencent à se situer. Les grandes masses de l’Europe, les grandes lignes de la guerre, et çà et là, dans nos frontières, des secteurs minuscules, comme au hasard, qu’on voit d’un coup avec une précision quasi absurde. Cette chambre paysanne ou j’écris maintenant, sur un bon papier quadrillé, tandis qu’Albert Mermoud, en travers de son lit, les hottes pendantes, dépouille le courrier de la Guilde… Je ne puis pas vous dire où cela se trouve sans contrevenir aux ordres les plus stricts, mais c’est très bien ainsi, Denis de Rougemont et le directeur de la Guilde « en campagne », car nous sommes <emph>n’importe où</emph>, sans raison raisonnable ou prévisible.</p>
@@ -194,13 +194,13 @@
             <lb/>Et les tristes discours…
             <lb/>… Est-ce quelque dédale où ta raison perdue
             <lb/>Ne se retrouve pas ?</p>
+            <bibl><surname>Malherbe</surname></bibl>
         </epigraph>
-        <bibl>MALHERBE</bibl>
         <epigraph>
           <p>Différence entre les Accusations et les Calomnies.</p>
           <p>On ne peut donner aux gardiens de la liberté d’un État un droit plus utile et plus nécessaire que celui de pouvoir accuser, soit devant le peuple, soit devant un magistrat ou tribunal quelconque, les citoyens qui auraient commis un délit contre cette liberté… Mais autant ces accusations sont utiles dans une république, autant les calomnies sont dangereuses et sans but… On accuse les citoyens devant les magistrats, on les calomnie sur les places publiques, dans les assemblées particulières.</p>
+          <bibl><surname>Machiavel</surname> : <emph>Discours sur la Première Décade de Tite-Live</emph>, chap. VII.</bibl>
         </epigraph>
-        <bibl>MACHIAVEL : <emph>Discours sur la Première Décade de Tite-Live</emph>, chap. VII.</bibl>
         <div>
           <head>Une accusation</head>
           <p>Le 13 novembre 1947, on pouvait lire dans notre presse de copieux comptes rendus de la plaidoirie prononcée par M<hi rend="sup">e</hi> Duperrier lors du procès de son client Georges Oltramare. Ainsi dans la <ref target="https://www.unige.ch/rougemont/articles/glaus"><emph>Gazette de Lausanne</emph></ref> :</p>
@@ -257,10 +257,8 @@
         <head>Lacs (août 1948)<note place="bottom" resp="editor">« Lacs », <emph>Bulletin de la Guilde du Livre</emph>, Lausanne, n° 8, août 1948, p. 192-194. Le titre appelle cette note de la rédaction : « Tiré de <ref target="https://www.unige.ch/rougemont/livres/ddr1948sn"><emph>Suite neuchâteloise</emph></ref>, admirablement édité par Ides et Calendes. »</note></head>
         <epigraph>
           <p>Combien j’aimai ce lac aux rives glauques ! sans rien d’alpestre, et dont les eaux, comme celles d’un marécage, longtemps se mêlent à la terre, et filtrent entre les roseaux.</p>
+          <bibl><title>L’Immoraliste</title>.</bibl>
         </epigraph>
-        <bibl>
-          <emph>L’Immoraliste</emph>
-        </bibl>
         <p>Près de ces eaux, ma vie sentimentale est née. Et depuis lors elle est restée lacustre. « Odeur de l’eau pour toute la vie », écrivait un <ref target="https://www.unige.ch/rougemont/livres/ddr1932paysan/9"><emph>Paysan du Danube</emph></ref>, et vingt ans ne l’ont pas démenti.</p>
         <p>Je dénombre mes lacs et ne puis retrouver que du bonheur à ces souvenirs. Non qu’ils me parlent tous de jours heureux, mais la mémoire des plus amers ou des plus seuls a gardé le charme des eaux. Faut-il penser que la souffrance au bord d’un lac n’est jamais sans quelque douceur ?</p>
         <p>Cherchant d’où vient cet agrément, et pourquoi dans le monde lacustre on ressent la vie mieux qu’ailleurs, plus savoureuse et plus présente, je me dis : c’est qu’un vrai lac est un univers clos, si grands soient les miroirs qu’il offre aux ciels changeants, et si profonds ses lointains de lumière. La pente derrière moi, l’horizon des collines, sont le cadre qui donne au tableau sa signification privilégiée. Ici le cœur et l’âme ont leur théâtre pur, où tout est sens, écho, dialogue à l’infini. Ici la joie trouve un espace où se déployer sans se perdre, la méditation des ciels bas, la passion des orages complets, et la peine une baie secrète, où les cris des oiseaux dans la brume s’occupent d’une vie bien différente… Enfin la variété des objets, des lumières, des premiers plans et des éloignements qu’un peu de vent déplace, illumine ou éteint, voilà qui satisfait comme nul autre paysage ce goût profond de composer, de contraster, de voiler puis de découvrir, de plonger à l’abandonnée, de s’écarter, de revenir, de boire des yeux, de comparer, de contempler sans fin, où l’on a reconnu l’amour, comme il aime à s’y retrouver.</p>
