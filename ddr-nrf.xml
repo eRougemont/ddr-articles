@@ -23,7 +23,7 @@
     </fileDesc>
     <encodingDesc>
       <refsDecl>
-        <p><att cert="high">xm:id</att> of this file are unique for all the corpus of Rougemont.</p>
+        <citeStructure unit="article" match="//div[@type='article']" use="@xml:id"/>
       </refsDecl>
     </encodingDesc>
     <profileDesc>

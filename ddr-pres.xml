@@ -22,6 +22,11 @@
         <bibl><title level="j">Présence</title> (1932–1946)</bibl>
       </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <refsDecl>
+        <citeStructure unit="article" match="//div[@type='article']" use="@xml:id"/>
+      </refsDecl>
+    </encodingDesc>
     <profileDesc>
       <creation>
         <date from="1932" to="1946"/>

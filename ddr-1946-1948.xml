@@ -19,9 +19,14 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>{bibl}</bibl>
+        <bibl>Articles divers (1946-1948)</bibl>
       </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <refsDecl>
+        <citeStructure unit="article" match="//div[@type='article']" use="@xml:id"/>
+      </refsDecl>
+    </encodingDesc>
     <profileDesc>
       <creation>
         <date from="1946" to="1948"/>

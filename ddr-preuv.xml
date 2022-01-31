@@ -23,7 +23,7 @@
     </fileDesc>
     <encodingDesc>
       <refsDecl>
-        <p><att cert="high">xm:id</att> of this file are unique for all the corpus of Rougemont.</p>
+        <citeStructure unit="article" match="//div[@type='article']" use="@xml:id"/>
       </refsDecl>
     </encodingDesc>
     <profileDesc>
@@ -404,7 +404,7 @@
           <p>Comment penser l’Europe et son apport vital à la conception de l’humain, si l’on persiste à tout mêler, et à confondre les mots clés qui déterminent notre existence concrète ? Comment répondre, par exemple, à la critique marxiste autant que fasciste de l’atomisation de nos sociétés, et comment réfuter l’éthique collectiviste si l’on se met hors d’état d’opposer à l’individu la <emph>personne</emph> au lieu de la masse ; aux désordres de la démocratie, la démocratie saine et non la dictature ; à l’anarchie individualiste, le <emph>sens communautaire</emph> et non le collectivisme ; bref, à la peste, l’hygiène et non le choléra ? Comment défendre contre les communistes l’individu vidé, égoïste, impuissant, qui est justement la cause, autant que la victime, des réactions collectivistes du corps social ? Si nous avons perdu le sens de la personne, de l’être-en-relations tel que l’ont défini dans leurs longues disputes trinitaires les grands conciles, je ne sais plus quelle Europe nous défendrons.</p>
           <p>Celle dont je parle est une <emph>notion de l’homme</emph>, et non pas une somme d’intérêts dont le reste du monde pourrait se passer.</p>
           <p rend="center"/>
-          <p><hi rend="sc">Faire des sacrifices raisonnables. —</hi> Ayant remarqué chez les meilleurs esprits certaines <pb n="p. 11" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-preuv/ddr195401preuv_09.jpg/full/full/0/default.jpg"/> tendances à « apaiser » les adversaires de l’union, à dorer la pilule aux États, à n’insister que sur les avantages d’un peu plus de coopération sans douleur, tout en se gardant d’attaquer de front les préjugés nationalistes et de mentionner les sacrifices indispensables, j’ai cru bon de finir sur ces mots <hi rend="bg_ffff00">mon discours de clôture au Capitole</hi> :</p>
+          <p><hi rend="sc">Faire des sacrifices raisonnables. —</hi> Ayant remarqué chez les meilleurs esprits certaines <pb n="p. 11" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-preuv/ddr195401preuv_09.jpg/full/full/0/default.jpg"/> tendances à « apaiser » les adversaires de l’union, à dorer la pilule aux États, à n’insister que sur les avantages d’un peu plus de coopération sans douleur, tout en se gardant d’attaquer de front les préjugés nationalistes et de mentionner les sacrifices indispensables, j’ai cru bon de finir sur ces mots <ref>mon discours de clôture au Capitole</ref> :</p>
           <quote>
             <p>Il est clair que certains sacrifices doivent être consentis par les uns et les autres. Certains risques doivent être courus. Les refuser pourtant serait tout perdre, à coup sûr et à bref délai.</p>
             <p>On compare volontiers notre Europe à Byzance. Cet empire qui sombra pour toujours il y a cinq siècles exactement, avait cessé de vivre son grand rôle historique dès l’an 1204, où l’armée des Croisés pilla sa capitale et viola son sanctuaire. Chute immense, dont la cause directe fut le refus d’un sacrifice minime.</p>
@@ -1039,7 +1039,7 @@
           <head>Dimanche 4 novembre 1956, soir</head>
           <p>La radio, à sept heures et quart, transmettait le dernier message : « Nous mourons pour la liberté, pour la Hongrie et pour l’Europe. »</p>
           <p>Cette Europe qui aurait pu, en s’unissant plus tôt, cette Europe qui pouvait, en rassemblant ses forces à l’appel angoissé de la liberté, éviter la honte éternelle qui accable désormais toute cette génération, la Hongrie massacrée sous les yeux de l’Occident, hurlant : « L’Europe à l’aide ! » et mourant sans réponse.</p>
-          <p>(<hi rend="bg_ffff00">Écrit pour le <emph>Journal de Genève</emph> un bref article</hi>. Que peut-on faire ? Il y a seize ans, j’en publiais <hi rend="bg_ffff00">un autre sur l’entrée d’Hitler à Paris</hi>. Hitler nous menaçait à bout portant. Quinze jours de prison militaire m’avaient au moins prouvé qu’il est des mots qui portent. Mais les Russes sont si loin, et c’est pire.)</p>
+          <p>(<ref>Écrit pour le <emph>Journal de Genève</emph> un bref article</ref>. Que peut-on faire ? Il y a seize ans, j’en publiais <ref>un autre sur l’entrée d’Hitler à Paris</ref>. Hitler nous menaçait à bout portant. Quinze jours de prison militaire m’avaient au moins prouvé qu’il est des mots qui portent. Mais les Russes sont si loin, et c’est pire.)</p>
         </div>
         <div subtype="level2">
           <head>Nuit du 5 au 6 novembre 1956, à Paris</head>

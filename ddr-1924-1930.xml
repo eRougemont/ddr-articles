@@ -21,6 +21,11 @@
         <bibl>Articles divers (1924–1930)</bibl>
       </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <refsDecl>
+        <citeStructure unit="article" match="//div[@type='article']" use="@xml:id"/>
+      </refsDecl>
+    </encodingDesc>
     <profileDesc>
       <creation>
         <date from="1924" to="1930"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
 <?xml-model href="ddr-articles.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="ddr-hn">
   <teiHeader>
@@ -23,7 +23,7 @@
     </fileDesc>
     <encodingDesc>
       <refsDecl>
-        <p><att cert="high">xm:id</att> of this file are unique for all the corpus of Rougemont.</p>
+        <citeStructure unit="article" match="//div[@type='article']" use="@xml:id"/>
       </refsDecl>
     </encodingDesc>
     <profileDesc>

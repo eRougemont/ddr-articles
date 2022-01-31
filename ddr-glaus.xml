@@ -22,6 +22,11 @@
         <bibl><title level="j">Gazette de Lausanne</title> (1940–1984)</bibl>
       </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <refsDecl>
+        <citeStructure unit="article" match="//div[@type='article']" use="@xml:id"/>
+      </refsDecl>
+    </encodingDesc>
     <profileDesc>
       <creation>
         <date from="1940" to="1984"/>
@@ -310,6 +315,7 @@
         </div>
       </div>
       <div xml:id="ddr19630202glaus" type="article" when="1963-02-02">
+        <pb n="p. 20" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-glaus/ddr19630202glaus_01.jpg/full/full/0/default.jpg"/>
         <head>L’éloge, l’élan, l’amour, le monde ouvert à ceux qui s’ouvrent, cela existe… (2-3 février 1963)<note place="bottom" resp="editor">« L’éloge, l’élan, l’amour, le monde ouvert à ceux qui s’ouvrent, cela existe… », <emph>Gazette de Lausanne (supplément littéraire)</emph>, Lausanne, n° 27, 2-3 février 1963, p. 20. Il s’agit d’une réponse à l’enquête « Homo helveticus : existe-t-il en Suisse romande ? »</note></head>
         <p>Le problème « d’exprimer ce que cela veut dire d’être d’Yverdon, de Féchy » relève, me semble-t-il, de la sociologie plutôt que de la littérature. Si l’on est né à Tübingen, à Eboli, à Collombay ou à Stratford sur l’Avon, est-ce vraiment plus facile à expliquer ? A-t-on vraiment de meilleures chances ? L’idée que la littérature ait pour fonction d’exprimer l’homme en tant que national ou régional — <emph>homo helveticus</emph> dans le cas particulier, <emph>valdensis</emph> serait plus exact — cette idée m’est tellement étrangère que je crains de ne pouvoir rendre justice à la problématique de M. Tauxe. Je sais bien que ce souci « quasi obsessionnel » bloque beaucoup d’esprits dans nos cantons romands. Un seul en a tiré une œuvre forte, c’est Ramuz. Mais il ne croyait pas à l’Helvetia et à l’<emph>homo helveticus</emph>. Il ne croyait qu’au pays de Vaud, réduit aux vignes, et pimenté d’exotisme valaisan. « Entre nous, nous sommes racistes » me disait-il un jour — provocateur ! Il aurait sans nul doute échoué dans son « projet » s’il avait emprunté ses « instruments » à une philosophie, même existentialiste. Il s’est fait un langage de peintre, en prose. Plutôt que d’une « rationalité adéquate », le jeune Suisse romand qui veut écrire n’aurait-il pas besoin, tout simplement, de ce qu’on appelle en France la classe de rhétorique ? Je ne sens pas que ce soit aux « préjugés spiritualistes » qu’il se heurte, mais plutôt au matérialisme néo-bourgeois, réaliste et moralisant, et à une maladresse verbale cultivée par l’école primaire et secondaire. Tout cela n’a rien à voir avec Calvin, spirituel de plein vent, et de langue assurée — et les remarques de M. Tauxe sur ce point sont aussi justes qu’opportunes.</p>
         <p>Quelles sont les chances particulières du Suisse romand ? Bénéficiant d’une structure sociale, politique et religieuse, exemplairement fédéraliste et pluraliste, qui lui permet de participer à tout un jeu de dimensions spirituelles et physiques, les unes très vastes et presque universelles — confession, langue française, culture européenne — les autres cantonales, locales ou familiales, le Suisse romand qui veut écrire n’a qu’à jouer ses atouts et bien savoir sa langue. Cela donne Rousseau, Staël ou Constant. Et cela n’empêche nullement Cendrars ou Cingria.</p>

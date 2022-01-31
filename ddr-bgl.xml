@@ -21,6 +21,11 @@
         <bibl><title level="j">Bulletin de la Guilde du Livre</title> (1937–1948)</bibl>
       </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <refsDecl>
+        <citeStructure unit="article" match="//div[@type='article']" use="@xml:id"/>
+      </refsDecl>
+    </encodingDesc>
     <profileDesc>
       <creation>
         <date from="1937" to="1948"/>

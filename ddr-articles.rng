@@ -41,6 +41,23 @@
         <ref name="att.n"/>
       </element>
     </define>
+    <define name="encodingDesc">
+      <element name="encodingDesc">
+        <element name="refsDecl">
+          <element name="citeStructure">
+            <attribute name="unit">
+              <value>article</value>
+            </attribute>
+            <attribute name="match">
+              <value>//div[@type='article']</value>
+            </attribute>
+            <attribute name="use">
+              <value>@xml:id</value>
+            </attribute>
+          </element>
+        </element>
+      </element>
+    </define>
   </include>
   <define name="article.head">
     <element name="head">
