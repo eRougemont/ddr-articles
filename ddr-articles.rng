@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<grammar xmlns="http://relaxng.org/ns/structure/1.0" ns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<grammar xml:lang="fr"
+  xmlns="http://relaxng.org/ns/structure/1.0" 
+  
+  ns="http://www.tei-c.org/ns/1.0"
+  datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
+  >
   <include href="http://oeuvres.github.io/teinte/teinte.rng">
     <start>
       <element name="TEI">
@@ -10,7 +15,11 @@
           <element name="body">
             <oneOrMore>
               <element name="div">
-                <ref name="xml.id"/>
+              <attribute name="xml:id">
+                <data type="ID">
+                  <param name="pattern">ddr\d+[a-z]+</param>
+                </data>
+              </attribute>
                 <ref name="att.when"/>
                 <attribute name="type">
                   <value>article</value>
