@@ -1,0 +1,73 @@
+[
+  {
+    "id": "http://zotero.org/groups/5018778/items/UKF7HUTE",
+    "type": "article-newspaper",
+    "container-title": "Cahiers du Sud",
+    "event-place": "Marseille",
+    "note": "issue: n° 162",
+    "page": "p. 386-391",
+    "publisher-place": "Marseille",
+    "title": "[recension, journal] <i>La Révolution nécessaire</i> par Arnaud Dandieu et Robert Aron (Grasset)",
+    "URL": "https://www.unige.ch/rougemont/articles/1932-1935/ddr193406cs",
+    "author": [
+      {
+        "family": "Rougemont",
+        "given": "Denis",
+        "dropping-particle": "de"
+      }
+    ],
+    "reviewed-author": [
+      {
+        "family": "Dandieu",
+        "given": "Arnaud"
+      },
+      {
+        "family": "Aron",
+        "given": "Robert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1934",
+          6
+        ]
+      ]
+    }
+  },
+  {
+    "id": "http://zotero.org/groups/5018778/items/5B44I2VV",
+    "type": "article-journal",
+    "container-title": "Cahiers du Sud",
+    "issue": "n° 162",
+    "note": "publisher-place: Marseille",
+    "page": "p. 386-391",
+    "title": "[recension, revue] <i>La Révolution nécessaire</i> par Arnaud Dandieu et Robert Aron (Grasset)",
+    "URL": "https://www.unige.ch/rougemont/articles/1932-1935/ddr193406cs",
+    "author": [
+      {
+        "family": "Rougemont",
+        "given": "Denis",
+        "dropping-particle": "de"
+      }
+    ],
+    "reviewed-author": [
+      {
+        "family": "Dandieu",
+        "given": "Arnaud"
+      },
+      {
+        "family": "Aron",
+        "given": "Robert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1934",
+          6
+        ]
+      ]
+    }
+  }
+]

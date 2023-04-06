@@ -1,0 +1,135 @@
+{
+  "description": "Rougemont, articles, Zotero items, ",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://www.unige.ch/rougemont/articles/ddr-zotero-articles.json",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+    "type": {
+        "type": "string",
+        "enum": [
+          "article",
+          "article-journal",
+          "article-magazine",
+          "article-newspaper",
+          "book",
+          "chapter",
+          "review",
+          "review-book"
+        ]
+      },
+      "URL": {
+        "type": "string"
+      },
+      "title": {
+        "type": "string"
+      },
+      "author": {
+        "type": "array",
+        "items": {
+          "$ref": "#/$defs/name-variable"
+        }
+      },
+      "container-title": {
+        "type": "string"
+      },
+      "publisher-place": {
+        "type": "string"
+      },
+      "publisher": {
+        "type": "string"
+      },
+      "issue": {
+        "type": "string"
+      },
+      "page": {
+        "type": "string"
+      },
+      "issued": {
+        "$ref": "#/$defs/date-variable"
+      },
+      
+      "date": {
+        "type": "string"
+      }
+    },
+    "required": [ "URL", "title", "author", "issued"]
+  },
+  "$defs": {
+    "name-variable": {
+      "anyOf": [
+        {
+          "type": "object",
+          "properties": {
+            "family": {
+              "type": "string"
+            },
+            "given": {
+              "type": "string"
+            },
+            "dropping-particle": {
+              "type": "string"
+            },
+            "non-dropping-particle": {
+              "type": "string"
+            },
+            "suffix": {
+              "type": "string"
+            },
+            "comma-suffix": {
+              "type": ["string", "number", "boolean"]
+            },
+            "static-ordering": {
+              "type": ["string", "number", "boolean"]
+            },
+            "literal": {
+              "type": "string"
+            },
+            "parse-names": {
+              "type": ["string", "number", "boolean"]
+            }
+          },
+          "additionalProperties": false
+        }
+      ]
+    },
+    "date-variable": {
+      "title": "Date content model.",
+      "description": "The CSL input model supports two different date representations: an EDTF string (preferred), and a more structured alternative.",
+      "anyOf": [
+        {
+          "type": "object",
+          "properties": {
+            "date-parts": {
+              "type": "array",
+              "items": {
+                "type": "array",
+                "items": {
+                  "type": ["string", "number"]
+                },
+                "minItems": 1,
+                "maxItems": 3
+              },
+              "minItems": 1,
+              "maxItems": 2
+            },
+            "season": {
+              "type": ["string", "number"]
+            },
+            "circa": {
+              "type": ["string", "number", "boolean"]
+            },
+            "literal": {
+              "type": "string"
+            },
+            "raw": {
+              "type": "string"
+            }
+          },
+          "additionalProperties": false
+        }
+      ]
+    }
+  }
+}

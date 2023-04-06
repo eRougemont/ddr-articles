@@ -1,0 +1,34 @@
+[
+	{
+		"id": "http://zotero.org/groups/5018778/items/V28FBGJH",
+		"type": "chapter",
+		"container-title": "Søren Kierkegaard",
+		"event-place": "Paris",
+		"page": "7-13",
+		"publisher": "Édition « Je sers »",
+		"publisher-place": "Paris",
+		"title": "Préface",
+		"URL": "https://www.unige.ch/rougemont/articles/1932-1935/ddr1934sk",
+		"volume": "t. III",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"container-author": [
+			{
+				"family": "Koch",
+				"given": "Carl"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1934"
+				]
+			]
+		}
+	}
+]
