@@ -17,7 +17,7 @@
               <element name="div">
               <attribute name="xml:id">
                 <data type="ID">
-                  <param name="pattern">ddr\d+[a-z]+</param>
+                  <param name="pattern">ddr\d+[a-z]+(_\w+)?</param>
                 </data>
               </attribute>
                 <ref name="att.when"/>
