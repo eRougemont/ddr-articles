@@ -54,7 +54,7 @@
         "type": "string"
       }
     },
-    "required": [ "URL", "title", "author", "issued"]
+    "required": [ "URL", "title", "author", "issued", "container-title"]
   },
   "$defs": {
     "name-variable": {
