@@ -510,7 +510,7 @@
             <biblScope unit="page">7-9</biblScope>
         </imprint>
     </monogr>
-    <note type="extra">Précédé de la notice suivante : « Nous sommes particulièrement heureux de donner ici le témoignage de M. Denis de Rougemont, qui appartient aujourd’hui au groupe de <ref target="https://www.unige.ch/rougemont/articles/on">l’Ordre nouveau</ref> et qui a eu ces années dernières une profonde influence personnelle sur plusieurs jeunes écrivains révolutionnaires. M. Denis de Rougemont est protestant, et collaborateur à la <ref target="https://www.unige.ch/rougemont/articles/nrf"><hi>NRF</hi></ref>, etc. »</note>
+    <note type="extra">Précédé de la notice suivante : « Nous sommes particulièrement heureux de donner ici le témoignage de M. Denis de Rougemont, qui appartient aujourd’hui au groupe de <ref target="https://www.unige.ch/rougemont/articles/on">l’Ordre nouveau</ref> et qui a eu ces années dernières une profonde influence personnelle sur plusieurs jeunes écrivains révolutionnaires. M. Denis de Rougemont est protestant, et collaborateur à la <ref target="https://www.unige.ch/rougemont/articles/nrf"><hi rend="i">NRF</hi></ref>, etc. »</note>
 </biblStruct>
 
 <biblStruct type="journalArticle" corresp="http://zotero.org/groups/5018778/items/US353AYJ">
@@ -10339,7 +10339,7 @@
             <biblScope unit="page">3-14</biblScope>
         </imprint>
     </monogr>
-    <note type="extra">Texte non signé. On dispose cependant d’un manuscrit de Rougemont aux archives de la Bibliothèque publique et universitaire de Neuchâtel, sous l’identifiant 547. Comme l’indique l’auteur en note, ce « aperçu » emprunte très largement à l’ouvrage de Vladimir <hi rend="smallcaps">Weidlé</hi>, <hi>La Russie absente et présente</hi>, paru chez Gallimard en 1949.</note>
+    <note type="extra">Texte non signé. On dispose cependant d’un manuscrit de Rougemont aux archives de la Bibliothèque publique et universitaire de Neuchâtel, sous l’identifiant 547. Comme l’indique l’auteur en note, ce « aperçu » emprunte très largement à l’ouvrage de Vladimir <hi rend="smallcaps">Weidlé</hi>, <hi rend="i">La Russie absente et présente</hi>, paru chez Gallimard en 1949.</note>
 </biblStruct>
 
 <biblStruct type="journalArticle" corresp="http://zotero.org/groups/5018778/items/JTK9HDYB">
