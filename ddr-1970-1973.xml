@@ -38,7 +38,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="article" when="1970" xml:id="ddr1970livr">
+      <div type="article" when="1970" xml:id="ddr19700000livr">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1970-1973/ddr1970livr_01.jpg/full/full/0/default.jpg" n="p. 12"/>
         <head>La place du livre dans l’information de l’homme moderne (1970)<note resp="editor" xml:id="fned1">« La place du livre dans l’information de l’homme moderne », <hi rend="i">Premier festival international du livre de Nice : colloques 1969</hi>, Nice, Festival international du livre, 1970, p. 12-14 et 18-21.</note></head>
         <p>Mesdames et Messieurs, à ma stupéfaction, je me trouve en plein accord avec mon ami Louis Armand, sauf sur un seul point, c’est quand il dit que les mathématiques ne se prêtent pas à la liturgie, ne se prêtent pas au chant. Il y a tout de même un exemple, c’est la manière de psalmodier la table des multiplications à l’école primaire qui m’a toujours frappé, et ceci prouve que la liturgie n’est pas seulement l’expression d’une émotion mais un moyen mnémotechnique dans certains cas.</p>
@@ -84,7 +84,7 @@ Quelqu’un me demande « si le livre étant tributaire de la langue, il n’y 
 d’avance ou de critiques de livres. Enfin, la revue, ça tourne autour du livre, c’est une antichambre du livre ou c’est le lieu où l’on parle du livre d’une manière un peu plus prolongée.</p>
         <p>Je ne voudrais pas prendre plus de temps, M. Le Lionnais a encore beaucoup de choses à dire sans doute.</p>
       </div>
-      <div type="article" when="1970-03" xml:id="ddr197003treje">
+      <div type="article" when="1970-03" xml:id="ddr19700300treje">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1970-1973/ddr197003treje_01.jpg/full/full/0/default.jpg" n="p. 22"/>
         <head>Deux en un, ou le fédéralisme (mars 1970)<note resp="editor" xml:id="fned2">« Deux en un, ou le fédéralisme », <hi rend="i">30 jours d’Europe</hi>, Paris, n° 140, mars 1970, p. 22-23.</note></head>
         <epigraph>
@@ -174,7 +174,7 @@ d’avance ou de critiques de livres. Enfin, la revue, ça tourne autour du livr
         <p>Au sujet de la brève interview par téléphone que vous avez bien voulu publier dans votre numéro du 24 mars, permettez-moi une remarque dont je serais obligé de faire part à vos lecteurs.</p>
         <p>« L’acte de reconnaissance » mis en valeur par votre titre ne saurait signifier que la Fondation FVS de Hambourg m’aurait exprimé sa gratitude émue, comme on pourrait croire que je l’ai dit (si l’on ne me connaissait pas du tout) mais simplement que <hi rend="i">je</hi> lui suis reconnaissant d’avoir <hi rend="i">reconnu le travail</hi> du Centre européen de la culture. Il y a là une nuance, vous en conviendrez !</p>
       </div>
-      <div type="article" when="1970-05" xml:id="ddr197005fcz">
+      <div type="article" when="1970-05" xml:id="ddr19700500fcz">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1970-1973/ddr197005fcz_01.jpg/full/full/0/default.jpg" n="p. 242"/>
         <head>« S’unir, au-delà de nos fausses souverainetés, pour préserver nos vraies diversités » (mai-juin 1970)<note resp="editor" xml:id="fned6">« S’unir, au-delà de nos fausses souverainetés, pour préserver nos vraies diversités », <hi rend="i">Feuille centrale de Zofingue</hi>, Zofingue, n° 5-6, mai-juin 1970, p. 242-245.</note></head>
         <label type="question">Vous êtes l’auteur d’une phrase fameuse : « Il faut faire des Européens avant de faire l’Europe » ; comment y parvenir ?</label>
@@ -200,7 +200,7 @@ arbitraires opérées dans l’ensemble vivant de la culture européenne. On par
 <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1970-1973/ddr197005fcz_04.jpg/full/full/0/default.jpg" n="p. 245"/>
 les « agences » de l’Europe unie dont je vous parlais tout à l’heure. Il est vrai que le projet d’union de l’Europe a généralement passé pour chimérique en Suisse. Et jusqu’à présent, à chaque étape de cette lente unification, notre gouvernement a dû faire des pieds et des mains pour rattraper l’histoire en train de se faire ! On craint souvent en Suisse que la politique d’unification européenne vise à mêler les peuples pour éliminer peu à peu les caractéristiques nationales et les remplacer par un sentiment européen. Il est clair qu’une Europe une et indivisible serait tout simplement une catastrophe pour la Suisse. Mais personne ne la préconise, je crois. Il est clair, en revanche, qu’une Europe fédérée, respectueuse de ses diversités comme nous des nôtres, s’accorderait avec la vocation traditionnelle de la Suisse. Savoir si elle se fera dépend de nous aussi : c’est à nous de faire valoir dans les Conseils qui élaborent l’Europe future les avantages de la formule fédéraliste. Car je pense que prétendre conserver les bénéfices de notre fédéralisme pour nous seuls, serait le plus sûr moyen de les perdre !</p>
       </div>
-      <div type="article" when="1970-05" xml:id="ddr197005mc">
+      <div type="article" when="1970-05" xml:id="ddr19700500mc">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1970-1973/ddr197005mc_01.jpg/full/full/0/default.jpg" n="p. 21"/>
         <head>La passion en 1970, est-ce possible ? (mai 1970)<note resp="editor" xml:id="fned7">« La passion en 1970, est-ce possible ? », <hi rend="i">Marie Claire</hi>, Paris, n° 213, mai 1970, p. 21.</note></head>
         <label type="question">« La passion, écrit Denis de Rougemont, est cette forme de l’amour qui refuse l’immédiat, fuit le prochain, veut la distance et l’invente au besoin, pour mieux se ressaisir et s’exalter. »</label>
@@ -220,7 +220,7 @@ les « agences » de l’Europe unie dont je vous parlais tout à l’heure. I
         <p>Les interdits, les tabous, les convenances ne sont pas arbitraires. Ils expriment des répulsions humaines. Supprimez des obstacles extérieurs et vous créez des obstacles intérieurs. Si on supprime des gênes extérieures, cela ne correspond qu’à des permissions extérieures.</p>
         <p>Voyez Tristan et Iseut. Quand ils ont supprimé l’obstacle qui empêchait et exaltait à la fois leur passion (présence du roi Marc, mari d’Iseut), quand ils se retrouvent seuls dans la forêt, ils inventent un autre obstacle pour préserver leur passion : l’épée déposée entre eux, symbole de chasteté. La passion est toujours possible. Le mythe de Tristan et Iseut est assez rusé pour se reproduire, quelles que soient les circonstances.</p>
       </div>
-      <div type="article" when="1970-06" xml:id="ddr197006treje">
+      <div type="article" when="1970-06" xml:id="ddr19700600treje">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1970-1973/ddr197006treje_01.jpg/full/full/0/default.jpg" n="p. 21"/>
         <head>Qu’est-ce que la culture européenne ? (juin 1970)<note resp="editor" xml:id="fned8">« Qu’est‑ce que la culture européenne ? », <hi rend="i">30 Jours d’Europe</hi>, Paris, n° 143, juin 1970, p. 21.</note></head>
         <p>Dans le précieux recueil des textes <hi rend="i">Pour l’Europe</hi>, publié par Robert Schuman à la fin de sa vie, je lis ces mots qu’on ne saurait souhaiter plus éclairants et qui servent de titre au deuxième chapitre : <hi rend="i">L’Europe, avant d’être une alliance militaire ou une entité économique, doit être une communauté culturelle</hi>.</p>
@@ -328,7 +328,7 @@ Parce que vous pensez que la Suisse ne pourrait pas rester l’écart d’un tel
         <p>Mais si vous reprenez l’exemple de la Suisse, vous voyez qu’on n’y a jamais eu cette idée folle de faire coïncider l’économie et la langue, et nous avons toujours pensé qu’il y avait des ordres de réalités à ne pas mélanger. Il n’était pas question d’imposer la même religion, la même économie, les mêmes impôts d’après la langue. Nous avons parfaitement conçu tous ces mélanges et nous nous débrouillons, parce que nous avons des petites communautés.</p>
         <p>En fait, mon modèle de gouvernement de l’Europe reproduit le Conseil fédéral suisse. Qu’est-ce que le Conseil fédéral ? Ce sont sept agences différentes qui font chacune leur travail, et dont les chefs réunis forment l’exécutif, le souverain étant le peuple. Cela me paraît un modèle parfaitement valable pour l’Europe et qui pourrait donner des résultats considérables, à l’échelle du continent. Cette recherche d’un équilibre humain est d’ailleurs beaucoup plus révolutionnaire qu’on ne le pense. Elle suppose la fin du gigantisme des villes, la recréation de petites unités de 25 000 ou 50 000 habitants, avec leur vie civique, c’est une transformation du cadre européen qui peut aller très loin.</p>
       </div>
-      <div type="article" when="1970-12" xml:id="ddr197012lo">
+      <div type="article" when="1970-12" xml:id="ddr19701200lo">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1970-1973/ddr197012lo_01.jpg/full/full/0/default.jpg" n="p. 12"/>
         <head>Denis de Rougemont, propos recueillis par E. Liard (décembre 1970)<note resp="editor" xml:id="fned12">« Denis de Rougemont », <hi rend="i">Livres ouverts</hi>, Lausanne, n° 2, décembre 1970, p. 12-13. Propos recueillis par E. Liard et présentés par cette note : « Les Éditions de la Baconnière ont publié, dans le courant du mois d’octobre, deux ouvrages de Denis de Rougemont, un grand Européen que l’on peut placer à côté de Robert Schuman et de Jean Monnet. Ce sont <ref target="https://www.unige.ch/rougemont/livres/ddr1970udce"><hi rend="i">L’Un et le Divers</hi></ref> et <ref target="https://www.unige.ch/rougemont/livres/ddr1970cde"><hi rend="i">Le Cheminement des esprits</hi></ref>. Le premier est une plaquette réunissant deux discours qui illustrent cette parole d’Héraclite : “Ce qui s’oppose coopère et de la lutte des contraires procède la plus belle harmonie ». Depuis l’aube de la pensée occidentale, l’Un et de Divers s’opposent, ont besoin l’un de l’autre, et ne se réalisent que l’un par l’autre. Le fédéralisme est l’expression politique de l’harmonie qui naît de leur lutte créatrice. Le titre du second est emprunté à une phrase de Robert Schuman : “L’unité de l’Europe ne se fera ni uniquement ni principalement par des institutions européennes ; leur création suivra le cheminement des esprits. » Les textes recueillis dans ce livre sont très variés de forme, allant du « discours solennel » devant tous les recteurs de l’Europe à l’interview improvisée pour une revue de militants. Chacun marque une péripétie dans la Quête de l’union de nos peuples et de leurs élites responsables. Cheminement vers l’Europe fédérée : il s’agit de surmonter les obstacles à l’union, qui sont d’abord dans les esprits. Puis d’orienter espoirs et volontés vers une communauté nouvelle. Au-delà des problèmes de <hi rend="i">niveau de vie</hi>, la fédération de l’Europe devient alors la condition d’un nouveau <hi rend="i">mode de vie</hi>, plus libre et riche de sens. Pour les lecteurs de <hi rend="i">Livres ouverts</hi>, nous avons posé à Denis de Rougemont quelques questions suggérées par la lecture de ses ouvrages. »</note></head>
         <label type="question">Quelle est l’occasion de la parution de ces deux livres, qui sortent peu de temps après <ref target="https://www.unige.ch/rougemont/livres/ddr1970loe">un ouvrage publié chez Albin Michel</ref> ?</label>
@@ -349,7 +349,7 @@ départements fédéraux suisses. Chaque type de région, car il y aura des rég
         <label type="question">Estimez-vous que vos idées sur la fédération de l’Europe ont fait du chemin dans les esprits ces dernières années ?</label>
         <p>Oui, elles ont progressé, surtout en France, qui est le pays le plus éloigné de comprendre le fédéralisme. De nombreux témoignages me sont parvenus de gens qui m’appuient fortement, comme Louis Armand, Jean-Jacques Servan-Schreiber et de nombreux jeunes universitaires de toutes couleurs politiques. 65 % de la population des pays du Marché commun est favorable aux États-Unis d’Europe, et 75 % de ces Européens sont des jeunes.</p>
       </div>
-      <div type="article" when="1971" xml:id="ddr1971beu">
+      <div type="article" when="1971" xml:id="ddr19710000beu">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1970-1973/ddr1971beu_01.jpg/full/full/0/default.jpg" n="p. 1"/>
         <head><hi rend="i">Le cheminement des esprits</hi> (1971)<note resp="editor" xml:id="fned13">« Le cheminement des esprits », in <hi rend="i">Bâtir l’Europe unie : témoignages recueillis par l’Association des amis de Robert Schuman</hi>, Metz, Éd. Le Lorrain, 1971, 1 p. (non paginé).</note></head>
         <p>À l’occasion du <num>xx<hi rend="sup">e</hi></num> anniversaire du Centre européen de la culture, son directeur réunit les principaux textes qui ont jalonné l’évolution de cette entreprise si féconde en initiatives d’union des hommes au-delà des nations.</p>
@@ -359,7 +359,7 @@ départements fédéraux suisses. Chaque type de région, car il y aura des rég
         <p>Les textes ici recueillis sont très variés de forme, allant du « discours solennel » devant tous les recteurs de l’Europe à l’interview improvisée pour une revue de militants. Chacun marque une péripétie dans la Quête de l’union de nos peuples et de leurs élites responsables.</p>
         <p>Cheminement vers l’Europe fédérée : il s’agit de surmonter les obstacles à l’union, qui sont d’abord dans les esprits. Puis d’orienter espoirs et volontés vers une communauté nouvelle. Au-delà des problèmes de niveau de vie, la fédération de l’Europe devient alors la condition d’un nouveau mode de vie, plus libre et riche de sens.</p>
       </div>
-      <div type="article" when="1971" xml:id="ddr1971me">
+      <div type="article" when="1971" xml:id="ddr19710000me">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1970-1973/ddr1971me_01.jpg/full/full/0/default.jpg" n="p. 1"/>
         <head>L’héritage culturel de l’Europe (1971)<note resp="editor" xml:id="fned14">« L’héritage culturel de l’Europe », <hi rend="i">Mémoires de l’Europe</hi>, Paris, Laffont, 1971, 4 p. (non paginé).</note></head>
         <p>Tout héritage du passé est porteur d’avenir. Il est cette part du passé qui à la fois m’ouvre un certain avenir et par avance le limite. Je ne le connaîtrai vraiment qu’en découvrant à l’expérience ce qu’il me dicte ou m’interdit, mais aussi ce qu’il m’incite ou m’autorise à modifier d’une manière inédite — qui sera moi.</p>
@@ -424,7 +424,7 @@ Cette limitation du jugement, ce blocage du sens critique et l’agressivité st
           <p>Tout cela n’existe guère comme vertus, ou s’est vu décrié dans les cultures antiques de l’Inde, de la Chine, du Mali, des Incas, ou de la Rome impériale. Tout cela est mal vu de nouveau en URSS et dans la Chine de Mao. Mais c’est bien à tout cela que l’Europe a dû ses pouvoirs d’invention, d’innovation, d’expansion planétaire, d’universalité : au respect de la véracité des poids et mesures, de la parole exacte, de l’autre en tant que tel, et de la foi jurée. Tout cela <hi rend="i">peut</hi> permettre à chaque Européen de dépasser un jour, fût-ce d’une manière infime — mais décisive, puisque sa personne même se définit dans cette marge de liberté — le programme hérité de ses ancêtres et de vingt-huit siècles de pensée occidentale.</p>
         </div>
       </div>
-      <div type="article" when="1971" xml:id="ddr1971hpm">
+      <div type="article" when="1971" xml:id="ddr19710000hpm">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1970-1973/ddr1971hpm_01.jpg/full/full/0/default.jpg" n="p. 41"/>
         <head>Quand Paul Martin voulait faire courir l’Europe (1971)<note resp="editor" xml:id="fned15">« Quand Paul Martin voulait faire courir l’Europe », <hi rend="i">Hommage à Paul Martin</hi>, [S.l.], [s.n.], [1971], p. 41.</note></head>
         <p>Ma première rencontre avec Paul Martin s’est produite sur la scène du Théâtre de Lausanne, envahie par les bellettriens : bras dessus, bras dessous nous chantions à tue-tête en nous balançant tantôt à gauche tantôt à droite. Mon bras droit tenait le gauche d’un aîné prestigieux capable de courir 800 mètres d’un trait et champion olympique pour cette raison, sans doute.</p>
@@ -435,7 +435,7 @@ Cette limitation du jugement, ce blocage du sens critique et l’agressivité st
         <p>Quelques années plus tard, j’eus la surprise de recevoir des papiers à en-tête du Conseil de l’Europe annonçant la création par ce dernier d’un « Brevet européen du sportif ». On m’en communiquait le texte « pour mon information, pensant que ce sujet était peut-être de nature à m’intéresser ». Je reconnus au premier coup d’œil « notre » texte.</p>
         <p>Strasbourg s’attribuait la médaille, mais Paul Martin avait gagné la course.</p>
       </div>
-      <div type="article" when="1971" xml:id="ddr1971ahnf">
+      <div type="article" when="1971" xml:id="ddr19710000ahnf">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1970-1973/ddr1971ahnf_01.jpg/full/full/0/default.jpg" n="p. 119"/>
         <head>Souvenir d’Honegger et de <hi rend="i">Nicolas de Flue</hi> (1971)<note resp="editor" xml:id="fned16">« Souvenirs d’Honegger et de <hi rend="i">Nicolas de Flue</hi> », <hi rend="i">Encyclopédie des Musiques sacrées</hi>, Paris, Labergerie, 1971, t. III, p. 119-121.</note></head>
         <div>
@@ -467,7 +467,7 @@ l’aisance même à nous mettre d’accord sur ces règles du jeu, puis à joue
           <p>En ce point, tout s’éclaire et s’enchaîne. L’anecdote dont je parlais prend force d’exemple, les hasards apparents deviennent autant de signes, l’aléatoire devient liberté de choisir qui ne se renonce que dans le choix du <hi rend="i">sens</hi>. Or ce sens tout d’abord jalonné par les signes, doit être décidé par la personne, et ne peut l’être que dans l’acte de foi, par quoi je n’entends pas du tout l’adhésion à quelque <hi rend="i">credo</hi>, mais la réalité de l’opération en nous de quelque chose, disons l’Esprit, qui n’est pas vérifiable autrement que par ses créations ou incarnations. Celles-ci seront pour l’un certaines actions, pour l’autre certains objets de mots ou de couleurs ; pour Arthur Honegger, elles furent <hi rend="i">sa</hi> musique.</p>
         </div>
       </div>
-      <div type="article" when="1971" xml:id="ddr1971epfl">
+      <div type="article" when="1971" xml:id="ddr19710000epfl">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1970-1973/ddr1971epfl_01.jpg/full/full/0/default.jpg" n="p. 7"/>
         <head>L’ingénieur dans la cité (1971-1972)<note resp="editor" xml:id="fned17">« L’ingénieur dans la cité », <hi rend="i">Brochure d’information</hi>, Lausanne, École polytechnique fédérale, 1971-1972, p. 7-8.</note></head>
         <p>La question « Que faire de ma vie ? » définit l’anxiété du jeune homme d’aujourd’hui lorsqu’il atteint l’âge des études. Cette question n’est devenue générale, et anxieuse, qu’au <num>xx<hi rend="sup">e</hi></num> siècle. Autrefois, le fils d’un drapier devenait drapier, le fils d’un paysan laboureur, le fils d’un notaire héritait de la charge familiale, et le fils d’un pasteur devenait pasteur — ou tournait mal, selon le proverbe allemand, assez bien illustré par l’exemple de Nietzsche. Aujourd’hui que tout est possible, ouvert à tous, et non déterminé par les coutumes, choisir une profession devient un long tourment, et fort peu de jeunes gens « sûrs de leur vocation » peuvent se flatter de ne l’avoir jamais connu. Non seulement on n’imagine plus de suivre les traces de son père, mais on fera de préférence n’importe quoi d’autre. Or prendre le contre-pied de la tradition de famille, c’est affronter sans guide l’infini des possibles. D’où le gémissement innombrable qui monte des jeunes générations — contestataires ou non, d’ailleurs.</p>
@@ -486,7 +486,7 @@ l’aisance même à nous mettre d’accord sur ces règles du jeu, puis à joue
         <p>Loin de récuser l’esprit de géométrie et ses méthodes, l’esprit de finesse en fera son plus cher ennemi, et finalement son allié le plus sûr. L’urbaniste écoutera le sociologue, le psychologue analysera l’économiste, l’écologiste défiera le technocrate, et le théologien tentera de déceler les fins réelles que les uns et les autres poursuivent sous le couvert d’idéaux allégués.</p>
         <p>La technologie de demain devra combiner sa rigueur avec les exigences de l’art d’être homme et celles de la santé du corps social : problèmes très neufs pour l’ingénieur ! Qu’il les assume, et du même coup il se verra réintégré dans la vie de la cité, de la communauté, et dans le grand dialogue dramatique de la nature et de la culture qui dominera la fin de notre siècle.</p>
       </div>
-      <div type="article" when="1971" xml:id="ddr1971integ">
+      <div type="article" when="1971" xml:id="ddr19710000integ">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1970-1973/ddr1971integ_02.jpg/full/full/0/default.jpg" n="p. 220"/>
         <head>L’Europe est d’abord une unité de culture (1971)<note xml:id="fn21">« L’Europe est d’abord une unité de culture », <hi rend="i">Intégration : Vierteljahreshefte zur Europaforschung</hi>, Bruxelles, Bonn, n° 3-4, 1971, p. 219-225. Présenté par cette note : « Conférence donnée le 11 octobre 1971 devant le parti libéral genevois. » Accompagnée de ce résumé, également traduit en allemand, anglais, italien et néerlandais : « À l’union fédérale des Européens, l’État-nation oppose le dogme sacro-saint de sa souveraineté illimitée, illusoire d’ailleurs, à cela près qu’elle bloque tout ! L’école, aux trois degrés, nous fait croire que l’État-nation est le dernier mot de l’évolution, qu’il correspond à une langue et à une culture particulière, qu’il forme une unité économique et qu’il se définit par des “frontières naturelles” : tout cela est faux, comme le fait voir l’auteur par des exemples indiscutables. Notre culture est la création commune et trois fois millénaire de tous les Européens. Ses grands courants, écoles et styles relient des foyers locaux ou régionaux, mais ignorent totalement les frontières nationales. C’est sur la base de cette unité de culture que nous pourrons édifier l’union fédérale de nos diversités. »</note></head>
         <p>Je pars de ce qui me paraît une évidence majeure : il nous faut faire l’Europe afin de rester nous-mêmes, disons, pour aller vite : ni moujiks ni yankees. Une Europe divisée en vingt-cinq nations, chacune trop petite pour se défendre seule, et chacune acharnée à rester seule, au nom d’une souveraineté de plus en plus mythique — cette Europe divisée n’a pas la moindre chance de résister d’une part à la colonisation idéologique, militaire et policière par les Russes — je songe aux pays de l’Est européen —, d’autre part à la colonisation de notre économie et de nos coutumes sociales par les Américains.</p>
@@ -573,7 +573,7 @@ cela va donner :</p>
           <p>Les seules que nous croyons voir, que nous imaginons voir, c’est à cause de ce vieux fond inconscient qui ressort et qui influe nos décisions à notre insu. Autrement dit, il faudrait une bonne petite psychanalyse de la santé des Suisses…</p>
         </div>
       </div>
-      <div type="article" when="1971-93" xml:id="ddr197193treje">
+      <div type="article" when="1971-93" xml:id="ddr19719300treje">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1970-1973/ddr197193treje_01.jpg/full/full/0/default.jpg" n="p. 31"/>
         <head>Les régions et la civilisation (mars 1971)<note resp="editor" xml:id="fned19">« Les régions et la civilisation », <hi rend="i">30 Jours d’Europe</hi>, Paris, n° 152, mars 1971, p. 35-36.</note></head>
         <p>Le thème de la région s’impose de plus en plus à l’attention des responsables de la vie politique de nos pays, qu’il s’agisse de régions économiques, ethniques, écologiques ou simplement administratives.</p>
@@ -612,7 +612,7 @@ seules réelles, et de leurs interdépendances. Or ces entités sont souvent dé
           <p>Dans tous ces domaines, l’articulation de la recherche fondamentale et des applications prospectives, de la science et de la politique, de la pensée et de l’action, peut être fournie par la région.</p>
         </div>
       </div>
-      <div type="article" when="1971-03" xml:id="ddr197103ef">
+      <div type="article" when="1971-03" xml:id="ddr19710300ef">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1970-1973/ddr197103ef_01.jpg/full/full/0/default.jpg" n="p. 11"/>
         <head>Arnaud Dandieu, la révolution et les régions (mars 1971)<note resp="editor" xml:id="fned20">« Arnaud Dandieu, la révolution et les régions », <hi rend="i">L’Europe en Formation</hi>, Nice, n° 132, mars 1971, p. 11-12.</note></head>
         <epigraph>
@@ -763,7 +763,7 @@ hier. » Ce n’est pas une manière de parler, c’est la réalité. On ne dit
         <label type="question">Comment voyez-vous l’avenir ?</label>
         <p>Je crois au progrès. Je l’ai décrit, dans <ref target="https://www.unige.ch/rougemont/livres/ddr1957aoh"><hi rend="i">L’Aventure occidentale de l’homme</hi></ref>, en tant qu’accroissement des risques humains, comme le montre la science, qui est à double tranchant. Ou bien, je vous l’ai dit, nous irons vers l’ennui collectif. Mais il me semble improbable que cet ennui ne recrée pas en profondeur la soif de quelque chose qui soit au-delà de l’ordre et qu’il ne provoque pas une rébellion de l’esprit, une sédition de l’inconscient, dont nous percevons déjà les signes.</p>
       </div>
-      <div type="article" when="1971-07" xml:id="ddr197107treje">
+      <div type="article" when="1971-07" xml:id="ddr19710700treje">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1970-1973/ddr197107treje_01.jpg/full/full/0/default.jpg" n="p. 20"/>
         <head>Fédération ou confédération ? (juillet-août 1971)<note resp="editor" xml:id="fned22">« Fédération ou confédération ? », <hi rend="i">30 Jours d’Europe</hi>, Paris, n° 156-157, juillet-août 1971, p. 20.</note></head>
         <p>Le général de Gaulle estimait que les deux mots ne différaient que d’une syllabe insignifiante et qu’il n’y avait pas lieu d’en disputer.</p>
@@ -800,7 +800,7 @@ hier. » Ce n’est pas une manière de parler, c’est la réalité. On ne dit
           <p>L’année 1970, consacrée par le Conseil de l’Europe à la préservation de la nature, a provoqué dans le grand public européen deux réactions contradictoires : tout d’abord, une prise de conscience des réalités écologiques et des dangers de la pollution, beaucoup plus générale qu’on osait l’espérer, surtout dans la jeunesse. Et puis, une sorte de rumeur, de ricanements irrités ou moqueurs, révélant une réaction de refus de cette prise de conscience, analogue au rejet d’une greffe, réaction cachant probablement une certaine anxiété, ou la peur, et qui explique le succès du « pamphlet » de Pauwels : beaucoup de personnes, surtout âgées, ne demandent qu’à se réfugier avec un soulagement profond et jubilant dans les illusions de hier, et voilà ce bon M. Pauwels qui vient leur dire, dans son titre même, qu’ils ont bien raison de le faire ! Ah ! l’habile homme ! De la fenêtre du vingtième étage d’un gratte-ciel, il tend son livre à ceux qui tombent du quarantième en leur criant : « Jusqu’ici tout va bien, continuez ! »</p>
         </div>
       </div>
-      <div type="article" when="1972" xml:id="ddr1972ml">
+      <div type="article" when="1972" xml:id="ddr19720000ml">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1970-1973/ddr1972ml_01.jpg/full/full/0/default.jpg" n="p. 21"/>
         <head>Au centre du monde, Lavaux (1972)<note resp="editor" xml:id="fned25">« Au centre du monde, Lavaux », <hi rend="i">Merveilleux Lavaux</hi>, Lausanne, Éditions du Grand Pont, 1972, p. 21-22.</note></head>
         <p>Le centre du monde est partout, la théorie de la relativité l’a démontré.</p>
@@ -834,7 +834,7 @@ et téléphone, et de stations d’épuration. Les chemins de fer et l’autorou
           <hi rend="i">Juillet 1972</hi>
         </p>
       </div>
-      <div type="article" when="1972" xml:id="ddr1972fbs">
+      <div type="article" when="1972" xml:id="ddr19720000fbs">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1970-1973/ddr1972fbs_01.jpg/full/full/0/default.jpg" n="p. 149"/>
         <head>Forteresse au centre de l’Europe : la Suisse (1972)<note resp="editor" xml:id="fned26">« Forteresse au centre de l’Europe : la Suisse », <hi rend="i">La France, la Belgique, la Suisse par-dessus les toits</hi>, Zurich, Sélection du Reader’s Digest, 1972, p. 149-151. Titre donné par l’éditeur.</note></head>
         <p>Je rentrais de l’espace. Des heures durant, je l’avais vue qui tournait lentement, merveilleuse, éclatante, seule vivante, bleue, verte et blanche dans le noir éternel, et je l’avais aimée comme une femme qui vient, comme une patrie d’enfance qu’on retrouve. Aimée aux larmes. Il n’y avait qu’elle au monde ! Puis une ombre innombrable vient à notre rencontre, nous entoure et nous engloutit, la nuée, la nuit, le néant. On nous transpose dans d’autres dimensions. Nous volons maintenant en orbite à la poursuite d’une aube de la Terre. Où allons-nous descendre, et sur quel continent, de l’autre côté des nuages ? Un pays oblique apparaît, sombre encore dans le jour qui naît. Des clochers et des tours s’éclairent, touchés par le soleil rasant. Ah ! ce ne peut être que l’Europe ! Ces champs morcelés et striés dans tous les sens, et ces forêts irrégulières en tapisserie, ces villages et ces bourgs bien ramassés, ces villes bien étagées ou rayonnantes, ces chemins sinueux et ces routes bordées d’arbres : partout s’affirme la présence humaine, son activité, sa mesure. Ni toundras, ni pampas, ni déserts. Point de défis brutaux à la nature, plutôt un lent dialogue amical et confiant.</p>
@@ -847,7 +847,7 @@ que leur plan s’est développé soit à partir d’un château sur sa colline,
         <p>La Suisse est née de la fédération de trois « communes forestières » ou <hi rend="i">Waldstätten</hi>, vallées d’Uri, de Schwyz et de Nidwald, commandant les approches du Gothard. Ce col ouvert au commencement du <num>xiii<hi rend="sup">e</hi></num> siècle traversait les deux chaînes des Alpes à leur seul point d’intersection, et reliait ainsi d’un seul trait les deux moitiés du Saint-Empire. Les communes forestières furent déclarées « immédiates à l’Empire », c’est-à-dire libérées du pouvoir des seigneurs voisins, dont les Habsbourg étaient les plus gênants. La Suisse est née du Gothard, cœur des Alpes et château d’eau de l’Europe médiane. Elle est née des communes rurales qui formaient la grand-garde du col. Et ce sont les greffiers des villes lombardes, traversant le col à dos de mulet, qui vinrent apprendre aux premiers Suisses confédérés à rédiger leurs pactes en beau latin.</p>
         <p>La vocation de la Suisse est de revaloriser ce qui est petit contre le gigantisme, sauvant ainsi son âme et ses paysages, en même temps que les conditions mêmes d’une participation des citoyens aux choses publiques.</p>
       </div>
-      <div type="article" when="1972" xml:id="ddr1972ea">
+      <div type="article" when="1972" xml:id="ddr19720000ea">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1970-1973/ddr1972ea_01.jpg/full/full/0/default.jpg" n="p. 169"/>
         <head>Europe divisée ou Europe fédérée ? (1972)<note resp="editor" xml:id="fned27">« Europe divisée ou Europe fédérée ? », <hi rend="i">L’Europe en l’an 2000</hi>, Fayard, 1972, p. 169-199.</note></head>
         <div>
@@ -1201,7 +1201,7 @@ les hippies. Ce ne sont là que deux exemples pris au passé récent mais il est
           </div>
         </div>
       </div>
-      <div type="article" when="1972-03" xml:id="ddr197203ce">
+      <div type="article" when="1972-03" xml:id="ddr19720300ce">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1970-1973/ddr197203ce_01.jpg/full/full/0/default.jpg" n="p. 1"/>
         <head>Le sort de l’an 2000 se joue dans nos écoles (mars 1972)<note resp="editor" xml:id="fned28">« Le sort de l’an 2000 se joue dans nos écoles », <hi rend="i">Civisme européen</hi>, Genève, n° 1 mars 1972, 4 p. (non paginé).</note></head>
         <div>
@@ -1390,7 +1390,7 @@ la France, une partie de la Belgique, un petit bout de l’Italie. Cet ensemble 
         <p>La vocation de la Suisse est de revaloriser ce qui est petit contre le gigantisme, sauvant ainsi son âme et ses paysages, en même temps que les conditions mêmes d’une participation des citoyens aux choses publiques. Petit veut dire aussi mesquin, prudent, hostile à toute espèce de grandeur. Les Suisses qui s’en offusquent vont ailleurs, et ils y font de grandes choses. Carlo Maderno, Borromini et les frères Fontana, tous Tessinois et tous cousins, ont bâti la Rome baroque, Saint-Pierre et les grandes basiliques. L’ingénieur Ammann, de Soleure, construit au <num>xx<hi rend="sup">e</hi></num> siècle les plus grands ponts du monde, le Golden Gate et le Washington Bridge. Le Corbusier, natif de La Chaux-de-Fonds, qui n’a guère fait en Suisse que la maison de sa mère, ira bâtir des capitales en Inde et sera l’inspirateur de Brasilia.</p>
         <p>Voyez grand, transformez le monde à votre idée et, si vous tenez à votre démesure, exportez-la, mais ne touchez pas au trésor, au mystère de la « pax helvetica », votre contribution à l’aventure humaine.</p>
       </div>
-      <div type="article" when="1972-06" xml:id="ddr197206acr">
+      <div type="article" when="1972-06" xml:id="ddr19720600acr">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1970-1973/ddr197206acr_01.jpg/full/full/0/default.jpg" n="p. 7"/>
         <head>Qu’est-ce que la culture ? : quatre thèses et une hypothèse (juin 1972)<note resp="editor" xml:id="fned31">« Qu’est-ce que la culture ? : quatre thèses et une hypothèse », <hi rend="i">Cahiers de l’Alliance culturelle romande</hi>, Genève, n° 18, juin 1972, p. 7-9.</note></head>
         <div>
@@ -1437,7 +1437,7 @@ répondant à un stimulus extérieur. Le message se voit ainsi restitué par le 
           <p>« <hi rend="i">Il vous a été dit… mais moi je vous dis…</hi> » Cette phrase évangélique ne nie pas le passé. Elle s’y réfère, l’englobe, le situe et le dépasse. Elle le conteste comme l’amour prévaut contre l’indifférence, qui n’est souvent qu’angoisse refoulée. Elle l’abolit en création. Tel est le <hi rend="i">sens</hi>.</p>
         </div>
       </div>
-      <div type="article" when="1973" xml:id="ddr1973ti">
+      <div type="article" when="1973" xml:id="ddr19730000ti">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1970-1973/ddr1973ti_01.jpg/full/full/0/default.jpg" n="p. 9"/>
         <head><hi rend="i">La Merveilleuse histoire de Tristan et Iseut</hi> [préface] (1973)<note resp="editor" xml:id="fned32"><hi rend="i">La Merveilleuse histoire de Tristan et Iseut</hi>, Gallimard, 1973, p. 8-25. Préface à l’édition d’André Mary.</note></head>
         <p>Gaston Paris, Joseph Bédier, Ernest Vinaver, et à leur suite André Mary, en restituant pour les lecteurs du <num>xx<hi rend="sup">e</hi></num> siècle les textes originaux de la légende de Tristan et son contexte culturel et historique, ont fait bien plus qu’une œuvre scientifique et « sérieuse » aux yeux de leurs confrères : ils ont permis à l’Occident moderne de reprendre conscience d’une de ses sources, d’une de ses dimensions constitutives, celle de l’émotion, celle de l’âme.</p>
@@ -1588,7 +1588,7 @@ reboutée de Dieu, avec quelle rigueur le péché vous malmène ! »</p>
         </quote>
         <p>— un seul vers qui nous jette au cœur du Mythe et qui demeure, à tout jamais, la plus poignante définition de la passion.</p>
       </div>
-      <div type="article" when="1973-01" xml:id="ddr197301unif">
+      <div type="article" when="1973-01" xml:id="ddr19730100unif">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1970-1973/ddr197301unif_01.jpg/full/full/0/default.jpg" n="p. 15"/>
         <head>Université et universalité (janvier 1973)<note resp="editor" xml:id="fned33">« Université et universalité », <hi rend="i">Uni-Information</hi>, Genève, n° 31, janvier 1973, p. 15-16. Propos recueillis par Jacques Grinevald.</note></head>
         <label type="question">Depuis quelques années, tout le monde s’est mis à parler d’interdisciplinarité. Pourquoi ?</label>
@@ -1612,7 +1612,7 @@ Exemples de b)</label>
         <p>Notre taille, Dieu merci minuscule ! Elle seule permet la coexistence quotidienne des diverses disciplines et des enseignants, leurs échanges vivants, la possibilité pour les étudiants de suivre des cours qui ailleurs seraient répartis entre quatre ou cinq facultés.</p>
         <p>Les universités qui luttent contre le gigantisme en se scindant selon leurs spécialités <hi rend="i">—</hi> voir les treize qui sont issues de la Sorbonne <hi rend="i">—</hi> vont en sens inverse de l’interdisciplinarité nécessaire, si justement revendiquée par Mai 68, mais si curieusement oubliée par les réformes qui ont suivi.</p>
       </div>
-      <div type="article" when="1973-03" xml:id="ddr197303bcs">
+      <div type="article" when="1973-03" xml:id="ddr19730300bcs">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1970-1973/ddr197303bcs_01.jpg/full/full/0/default.jpg" n="p. 34"/>
         <head>De Genève à l’Europe par les régions (mars 1973)<note resp="editor" xml:id="fned34">« De Genève à l’Europe par les régions », <hi rend="i">Bulletin du Crédit suisse</hi>, mars 1973, p. 33-36. Texte introduit par cette note : « M. Denis de Rougemont, né en 1906 à Neuchâtel, dirige le Centre européen de la culture et l’Institut universitaire d’études européennes. Il compte au nombre des grands écrivains et essayistes suisses de notre temps. Ses écrits portent principalement sur les problèmes européens et leur solution. Son œuvre, traduite en plusieurs langues, lui a valu diverses distinctions nationales. »</note></head>
         <p>Plasticages en Bretagne, sous-développement du Mezzogiorno, création d’une Direction générale de la politique régionale au Marché commun, bagarres entre Wallons et Flamands, rejet du référendum de 1969 en France, élection des parlements régionaux en Italie, dramatique procès de Burgos : entre ces événements qui tantôt font grand bruit dans les journaux, tantôt passent à peu près inaperçus du grand public, quoi de commun à première vue, sinon le terme de « région » pris dans des sens très différents ? Car si tous les États européens sont amenés à reconnaître l’existence d’un problème régional, celui-ci, selon les cas ou les pays, sera de nature ethnique ou économique, linguistique ou géographique, traditionnelle ou prospective. La confusion semble totale et cependant, en observant les choses de haut, par grands ensembles, on s’aperçoit qu’une loi commande l’apparition du phénomène régional en cette seconde moitié du <num>xx<hi rend="sup">e</hi></num> siècle : à la croissance si rapide de nos sociétés nationales, à leur excessive distension, répondent, quasi mécaniquement, la fragmentation, les coagulations locales ; à la vertigineuse uniformisation de collectivités urbaines agrandies hors de toutes les prises de l’individu, répond le besoin d’une différenciation sécurisante, le besoin de petites communautés où la participation civique redevienne possible.</p>
@@ -1725,7 +1725,7 @@ Or tous les problèmes concrets qui se posent dans cette région appellent des s
         <p>Mon fils est psychologue, ma fille assistante du maître de conférences à l’Université de Paris. C’est amusant, car elle est enseignante et moi je suis membre du conseil dans la même université. Nous nous retrouvons chacun de l’autre côté de la barrière.</p>
         <label type="question">Plus de juges, plus de pasteurs, point de militaires, mais toujours des intellectuels chez les de Rougemont. Comment nier l’hérédité des dons ?</label>
       </div>
-      <div type="article" when="1973-07" xml:id="ddr197307refo">
+      <div type="article" when="1973-07" xml:id="ddr19730700refo">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1970-1973/ddr197307refo_01.jpg/full/full/0/default.jpg" n="p. 388"/>
         <head>L’Europe, c’est d’abord une culture (juillet-août 1973)<note resp="editor" xml:id="fned36">« L’Europe, c’est d’abord une culture », <hi rend="i">Reformatio</hi>, Zurich, n° 7-8, juillet-août 1973, p. 388-395.</note></head>
         <epigraph>
@@ -1824,7 +1824,7 @@ et mondiales, et je sais très bien auxquelles je cotise. Cette pluralité d’a
         <p>J’applaudis au projet d’une grande discussion sur le sens concret de l’expression « propriété socialisée ».</p>
         <p>Pour nous y préparer, lisons Proudhon, que l’on trouve aujourd’hui en livre de poche. L’affaire Lip est déjà prévue, définie, et à mon sens résolue, dans la pensée du grand fédéraliste franc-comtois.</p>
       </div>
-      <div type="article" when="1973-10" xml:id="ddr197310mrs">
+      <div type="article" when="1973-10" xml:id="ddr19731000mrs">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1970-1973/ddr197310mrs_01.jpg/full/full/0/default.jpg" n="p. 3"/>
         <head>Sur la taille des régions (octobre 1973)<note resp="editor" xml:id="fned39">« Sur la taille des régions », <hi rend="i">Mouvement Région Savoie</hi>, n° 2, octobre 1973, p. 3-4.</note></head>
         <p>C’est au Technocrate inconnu que l’on doit l’expression, de « taille européenne ». Beaucoup l’emploient, l’air entendu, mais nul ne sait ce qu’elle signifie. Les régions, nous dit-on, doivent être de « taille européenne ». Quelle est cette taille ? Qui en décide ? Au nom de quoi ? Que veut-on dire ?</p>
@@ -1844,7 +1844,7 @@ et mondiales, et je sais très bien auxquelles je cotise. Cette pluralité d’a
         <p>Pour défendre leurs libertés contre l’État.</p>
         <p rend="right">Juin 1973.</p>
       </div>
-      <div type="article" when="1973-11" xml:id="ddr197311acr">
+      <div type="article" when="1973-11" xml:id="ddr19731100acr">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1970-1973/ddr197311acr_01.jpg/full/full/0/default.jpg" n="p. 151"/>
         <head>Une possibilité européenne : la région genevoise (novembre 1973)<note resp="editor" xml:id="fned40">« Une possibilité européenne : la région genevoise », <hi rend="i">Cahiers de l’Alliance culturelle romande</hi>, Genève, n° 19, novembre 1973, p. 151-152.</note></head>
         <p>L’angoisse devant la solitude-en-foule des grandes villes embouteillées. L’angoisse devant les mass médias d’État, où tout ce qui n’est pas publicité tonitruée pour des produits, des modes ou des révolutions manipulées, ne s’entend plus. L’angoisse des individus qui ont perdu prise sur leur vie, et n’ont plus foi dans les mythes nationaux — tout nous pousse aujourd’hui à chercher des formes de <hi rend="i">communauté</hi> nouvelles ou renouvelées, utopiques ou pratiques, subversives ou religieuses, ou les deux à la fois le plus souvent. Cette recherche fonde la région comme formule politique ou civique<note xml:id="fn65">C’est le même mot : politique vient de <hi rend="i">polis</hi>, cité grecque, civisme de <hi rend="i">civitas</hi>, cité romaine.</note> de demain.</p>

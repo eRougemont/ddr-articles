@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="ddr-articles.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!-- <?xml-model href="ddr-articles.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> -->
 <?xml-stylesheet type="text/css" href="http://oeuvres.github.io/teinte/author-tei.css"?>
 <?xml-stylesheet type="text/xsl" href="https://oeuvres.github.io/teinte_xsl/tei_html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ddr-1946-1948" xml:lang="fr">
@@ -38,7 +38,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="article" when="1946-10" xml:id="ddr194610font">
+      <div type="article" when="1946-10" xml:id="ddr19461000font">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1946-1948/ddr194610font_01.jpg/full/full/0/default.jpg" n="p. 362"/>
         <head>Le supplice de Tantale (octobre 1946)<note resp="editor" xml:id="fned1">« Le supplice de Tantale », <hi rend="i">Fontaine</hi>, Alger, n° 55, octobre 1946, p. 362-367.</note></head>
         <p>L’eau fuit ses lèvres, la branche fuit sa main, et le rocher qui surplombe sa tête va tomber mais ne tombe jamais. Pour l’observateur non prévenu, tout se passe comme si le désir de Tantale suffisait à repousser les objets qu’il désire, et sa crainte l’objet qu’il redoute. Quand il se penche vers la surface de la rivière où il baigne à mi-corps, quand il lève le bras vers ces fruits mûrs qui font ployer la branche au-dessus de son front, on dirait que son geste même déclenche un mécanisme qui l’annule. Mais on dirait aussi que son regard, dès qu’il l’élève avec angoisse vers le rocher, retient le rocher. Étrange lieu que ce coin du Tartare, où la pesante logique de la matière est abolie pour peu que l’homme se manifeste. Serait-ce un pur lieu de l’esprit ? Oui, car à l’instant même où Tantale est ému, où il forme un projet, où il agit, les lois de la chute des corps et de leur inertie, qui sont celles mêmes de la mort, font place aux lois des dieux, qui sont celles de l’esprit ; et des dieux irrités contre l’homme, c’est-à-dire d’un esprit coupable.</p>
@@ -80,7 +80,7 @@ les biens de l’oncle, pour lui avoir dédié, entre tant d’autres, une seule
         <p>Si un homme veut la Vie éternelle par seule crainte de mourir à cette vie temporelle, les eaux vives fuiront ses lèvres ; car il faudrait, pour y être immergé, accepter de mourir d’abord à ses propres désirs et à soi-même. (Et c’est le symbole du Baptême.)</p>
         <p>Telle est la ruse de l’Amour insondable. Admirons-en la précision miraculeuse ! Pour <hi rend="i">si peu</hi> d’égoïsme qu’il subsiste dans l’acte de porter les lèvres ou la main vers cette eau, vers ces fruits offerts, l’amour de soi domine encore le pur Amour, et le plaisir anticipé suffit encore <hi rend="i">à</hi> refouler cette larme, qui pouvait seule, et dans un seul instant, mériter la joie éternelle.</p>
       </div>
-      <div type="article" when="1946" xml:id="ddr1946hrb">
+      <div type="article" when="1946" xml:id="ddr19460000hrb">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1946-1948/ddr1946hrb_01.jpg/full/full/0/default.jpg" n="p. 162"/>
         <head>Théologie et littérature (1946)<note resp="editor" xml:id="fned2">« Théologie et littérature », <hi rend="i">Hommage et reconnaissance : recueil de travaux publiés à l’occasion du soixantième anniversaire de Karl Barth</hi>, Neuchâtel, Delachaux et Niestlé, 1946, p. 162-167.</note></head>
         <p>1. Il faut tenir la théologie chrétienne pour la mère de la pensée occidentale, de même que l’Église, par son culte, est la mère de presque tous nos arts.</p>
@@ -140,7 +140,7 @@ L’Américain, lui, c’est ce qui le distingue de l’Européen, court à la c
         <p>Il faut que Genève devienne une sorte de Salzbourg intellectuel, ajoute notre interlocuteur. Tout le monde insiste pour cela ; parce que la Suisse est en dehors de l’ONU, parce qu’on y parle sans mandat, pas au nom d’un peuple, mais d’un réel esprit européen. Nous ne sommes pas une nation, nous sommes une confédération, donc bien préparés et prédisposés pour une mission de ce genre.</p>
         <label type="question">Denis de Rougemont souhaite encore que l’an prochain on invite des conférenciers américains, dont la voix ne peut plus être séparée des dialogues européens. Il souhaite encore que l’on organise à Genève un Café de Flore de l’Esprit européen, ou chacun se rencontrera librement, en dehors de toute officialité. Excellente idée. Genève, rose des vents de l’esprit, continuera ainsi à jouer son rôle de cité internationale, à condition, bien entendu, que l’esprit puisse y souffler librement où il veut.</label>
       </div>
-      <div type="article" when="1947" xml:id="ddr1947tho">
+      <div type="article" when="1947" xml:id="ddr19470000tho">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1946-1948/ddr1947tho_01.jpg/full/full/0/default.jpg" n="p. 12"/>
         <head>L’opportunité chrétienne (1947)<note resp="editor" xml:id="fned4">« L’opportunité chrétienne », <hi rend="i">La Troisième heure</hi>, New York, fasc. II, 1947, p. 12-15.</note></head>
         <p>Depuis des siècles, depuis la Renaissance, le christianisme a vécu sur la défensive.</p>
@@ -169,7 +169,7 @@ elles ont, tout simplement à <hi rend="i">donner leurs croyances</hi>, avec une
         <p><pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1946-1948/ddr1947tho_04.jpg/full/full/0/default.jpg" n="p. 15"/>
 Un mot encore. Ce programme, qui résume à mes yeux les plus grandes chances d’action du christianisme au <num>xx<hi rend="sup">e</hi></num> siècle, resterait une pure utopie si les chrétiens s’en remettaient aux Églises pour le réaliser. Les Églises comme corps organisés ne peuvent que soutenir et encadrer l’action chrétienne. Celle-ci se fera, comme elle s’est toujours faite, par des <hi rend="i">personnes</hi> et par des <hi rend="i">petits</hi> groupes ; par quelques « fous de Dieu » comme saint François d’Assise ; par des gens de peu réunis dans une chambre ; par des mystiques qui n’auront l’air de rien ; par des hommes dont on dira qu’ils exagèrent, qu’ils rêvent, qu’ils n’ont pas le sens commun, qu’ils voient trop grand… Peut-être même par des petites revues comme celle-ci ?</p>
       </div>
-      <div type="article" when="1947-11" xml:id="ddr194711ao">
+      <div type="article" when="1947-11" xml:id="ddr19471100ao">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1946-1948/ddr194711ao_01.jpg/full/full/0/default.jpg" n="p. 48"/>
         <head>La liberté dans l’amour [Réponse à une enquête] (novembre 1947)<note resp="editor" xml:id="fned5">« La liberté dans l’amour » [Réponse à une enquête], <hi rend="i">L’Âge d’or</hi>, Paris, n° 8, novembre 1947, p. 48-50. </note></head>
         <p>Le problème me paraît capital, mais son énoncé sur plus d’un point critiquable ou obscur. Je me propose donc de serrer de près les termes de votre questionnaire.</p>
@@ -185,7 +185,7 @@ dans le domaine sexuel sont négligeables parmi nous, si on les compare à celle
         <p>Si l’on estime que l’état présent de nos mœurs est satisfaisant, il en résulte qu’une « éthique de l’amour » (entendons de la sexualité) n’est pas nécessaire ; car en fait nous n’en avons plus, ou juste assez pour que le piquant d’une tricherie que toutes nos modes, romans et films favorisent<note resp="editor" xml:id="fned6">Syntaxe fautive.</note>. Si l’on estime au contraire, comme je le fais, que nous vivons dans le chaos, l’amertume et la contradiction, il nous faut rétablir une éthique, c’est-à-dire recréer des tensions entre la « nature » et un ordre, ou plus exactement : entre nos instincts déréglés et les règles d’un jeu nouveau.</p>
         <p>Quel jeu ? Quelles règles ? Sujet d’autre enquête.</p>
       </div>
-      <div type="article" when="1947" xml:id="ddr1947eerig">
+      <div type="article" when="1947" xml:id="ddr19470000eerig">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1946-1948/ddr1947eerig_02.jpg/full/full/0/default.jpg" n="p. 143"/>
         <head>Les maladies de l’Europe (1947)<note resp="editor" xml:id="fned7">« Les maladies de l’Europe », <hi rend="i">L’Esprit européen : textes in extenso des conférences et entretiens organisés par les Rencontres internationales de Genève 1946</hi>, Neuchâtel, Éditions de la Baconnière, 1947, p. 143-163. Accompagné de la note : « Conférence du 8 septembre 1946. »</note></head>
         <p>On m’a prié de vous parler ce soir d’une Europe à laquelle je reviens après six ans d’absence, et certains événements. L’émotion de pareils revoirs rend souvent malaisé l’échange de la parole, mais donne aussi parfois, au tout premier regard, une lucidité sans recours.</p>
@@ -313,7 +313,7 @@ nouvelle, <hi rend="i">une confiance</hi> — ouvrant l’Europe au monde, du m�
         <p>C’est pourquoi, sans reculer devant l’apparence d’un calembour, mais qui formule non sans bonheur, je crois, l’attitude d’engagement et de solidarité qui doit ici nous inspirer, je dirai, songeant à l’Europe et à sa vocation mondiale, et je vous invite à le dire avec moi :</p>
         <p>Je pense, donc j’en suis !</p>
       </div>
-      <div type="article" when="1947-01" xml:id="ddr194701nef">
+      <div type="article" when="1947-01" xml:id="ddr19470100nef">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1946-1948/ddr194701nef_01.jpg/full/full/0/default.jpg" n="p. 3"/>
         <head>La guerre des sexes en Amérique (janvier 1947)<note resp="editor" xml:id="fned8">« La guerre des sexes en Amérique », <hi rend="i">La NEF</hi>, Paris, n° 26, janvier 1947, p. 3-12.</note></head>
         <quote>
@@ -390,10 +390,16 @@ en droit d’y voir une « révolte des instincts », ou d’y dénoncer je ne
           <p>Entre les moralistes puritains qui tentaient follement de faire « comme si » l’instinct sexuel pouvait être passé sous silence ou nié ; les sexologues qui tenteront follement de faire « comme si » ce même instinct souffrait des mesures rationnelles ; les <hi rend="i">producers</hi> de Hollywood qui tentent follement de l’exciter tout en le contenant dans de « justes » limites, fixées par le Comité Hays, — le jeune Américain, s’il trouve une voie saine et quelques disciplines praticables, sera vraiment le génie du siècle et l’objet d’une grâce spéciale. Or c’est bien ce qu’il pense être, étant Américain. Je ne l’observe pas sans inquiétude ; non plus sans beaucoup d’amitié.</p>
         </div>
       </div>
-      <div type="article" when="1947-03" xml:id="ddr194703font">
+      <div type="article" when="1947-03" xml:id="ddr19470300font">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1946-1948/ddr194703font_01.jpg/full/full/0/default.jpg" n="p. 899"/>
         <head>Journal d’un intellectuel en exil (mars 1947)<note resp="editor" xml:id="fned9">« Journal d’un intellectuel en exil », <hi rend="i">Fontaine</hi>, Alger, n° 58, mars 1947, p. 899-916.</note></head>
-        <label type="dateline">Janvier 1941</label>
+        <biblStruct>
+                <monogr>
+                        <imprint></imprint>
+                </monogr>
+        </biblStruct>
+        <bibl></bibl>
+              <label type="dateline">Janvier 1941</label>
         <p><hi rend="sc">L’avant-garde à New York</hi>. — J’ai enfin découvert un « milieu littéraire » dans ce pays. Et ce n’était pas une terrasse de café, ni l’antichambre d’une maison d’édition, ni un salon — rien de tout cela n’existe en Amérique — mais une <hi rend="i">party</hi>. Et cette <hi rend="i">party</hi> n’était pas animée par la vivacité des discussions, la coquetterie des femmes, ou la célébrité des invités, mais par les plateaux de cocktails que l’on passait continuellement d’un groupe à l’autre. Il y avait là bon nombre des « intellectuels » de vingt à quarante ans dont je retrouve les noms dans les petites revues de l’avant-garde américaine. Peu de gaieté bruyante, mais un humour bonhomme, un peu loufoque, et beaucoup de sérieux professoral : car les poètes ici sont professeurs, tandis que les romanciers sont plutôt journalistes. Quant à leurs femmes et amies, elles m’ont paru cultiver le genre des nihilistes russes d’antan. La plupart sont trotskistes, ont lu Freud, ou en parlent.</p>
         <p><pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1946-1948/ddr194703font_02.jpg/full/full/0/default.jpg" n="p. 900"/>
 À lire les revues ou <hi rend="i">little mags</hi> où ils écrivent, à les voir chez eux ou ensemble, j’éprouve une sorte de tristesse. Ils paraissent encore moins intégrés que leurs confrères européens à la vie de leur propre nation. Cela tient sans doute à mille raisons matérielles et sociales d’abord, dont j’ai deviné quelques-unes en fréquentant les éditeurs d’ici. Atteindre le public d’un si vaste pays suppose trop de compromissions visant au succès commercial. Les meilleurs se voient donc relégués dans une opposition sans portée politique, spectateurs irrités de la vie américaine, disciples réticents de nos écoles d’Europe, cherchant une méthode de pensée plutôt que des fondements spirituels, compensant par la brusquerie de leurs jugements et un style <hi rend="i">tough</hi> (nous dirions « dur » ou « vache ») leur défaut de responsabilité. Tout cela ne les empêche pas, bien au contraire, de rechercher surtout la « vie » dans leurs écrits, avec une sorte de nostalgie à la Lawrence. Ils jugent en général trop formalistes ou rhétoriques nos poèmes et nos essais.</p>
@@ -534,7 +540,7 @@ encore inéchangeables cette année. Mais il convient de les maquiller un peu, p
           <p>Cependant notre sort vous paraissait enviable, à juste titre. Les pires tourments de l’esprit et du cœur ont toujours paru préférables à la torture physique, ou même à sa menace. Autant dire qu’on les tient pour moins sérieux. Nous étions mal placés pour discuter cela, donc en somme pour défendre l’esprit, — qui était pourtant tout ce qu’il restait à défendre par nous, dans l’exil…</p>
         </quote>
       </div>
-      <div type="article" when="1947" xml:id="ddr1947cff">
+      <div type="article" when="1947" xml:id="ddr19470000cff">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1946-1948/ddr1947cff_01.jpg/full/full/0/default.jpg" n="p. 143"/>
         <head>La lutte des classes (1947)<note resp="editor" xml:id="fned10">« La lutte des classes », <hi rend="i">CFF : pour un anniversaire : 1847-1947</hi>, Lausanne, Mermod, 1947, p. 143-152.</note></head>
         <p>Les trains suisses, bien qu’ils vous conduisent en moins d’une heure d’un monde à l’autre — de Neuchâtel à Berne par exemple — ne servent cependant qu’aux petits déplacements, qui sont des voyages concentrés et plus émouvants que les vrais, parce qu’entre le départ et l’arrivée ne s’établit jamais cette monotonie des heures de plaine et d’océan de nuit où rien ne bouge. Comme il n’y a pas de place en Suisse pour un véritable voyage, on s’en tire en coupant le milieu, ce remplissage de kilomètres, ces deux mesures de musique russe indéfiniment répétées, pour ne garder que le meilleur, le plus actif et le plus déchirant, la rupture et la découverte, l’évasion qui se mue en invasion, ce début qui clôt une vie, cette conclusion qui en ouvre une autre, tandis qu’entre les deux s’opère en un clin d’œil la silencieuse révolution du centre où se confondent les extrêmes
@@ -566,7 +572,7 @@ un magazine. Je croyais autrefois que les premières étaient vides. C’était 
         <p>Les passagers de première classe, en Suisse, je les nomme les imperméables. Ils traversent et passent, et rien ne les touche. Ce sont aussi, et pour la même raison, des transparents. (Avez-vous remarqué que les trains qui vous croisent sont transparents s’ils vont très vite ? On ne cesse de voir le paysage au travers.) Ils appartiennent au vaste monde dont je rêvais avec fièvre, à 12 ans, quand je lisais sur les longs wagons bruns qui s’engouffraient au tunnel du Gothard : <hi rend="i">Amsterdam-Köln-Olten-Zagreb-Bucuresti</hi>.</p>
         <p>Voilà la Suisse en raccourci, telle que je l’aime : croisement des traditions locales les plus touchantes et des express européens, petits trajets portés sur les axes du monde. Quel ennui, ces secondes entre les deux !</p>
       </div>
-      <div type="article" when="1947" xml:id="ddr1947ccs">
+      <div type="article" when="1947" xml:id="ddr19470000ccs">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1946-1948/ddr1947ccs_01.jpg/full/full/0/default.jpg" n="p. I"/>
         <head>Préface à <hi rend="i">Le Cœur est un chasseur solitaire</hi> de Carson McCullers (1947)<note resp="editor" xml:id="fned11">Préface à <hi rend="i">Le Cœur est un chasseur solitaire</hi> de Carson McCullers, Paris, Stock, 1947, p. I-V.</note></head>
         <p>Je ne connais dans tout New York qu’une seule vraie terrasse de café, celle du Brevoort, au bas de la Cinquième Avenue. C’est là que Dos Passos situe plusieurs des scènes de ses romans, et c’est là qu’il y a bien six ans j’ai connu Carson McCullers. Elle avait l’air d’une toute jeune fille montée en graine, avec ses petits bas rouges au-dessous des genoux, son long visage pâle, sa frange noire en désordre et sa contenance effarouchée. Ses mains tremblaient, et l’on pensait que sans sa mère qui l’accompagnait ce jour-là, elle ne ferait pas deux pas toute seule dans la ville. Je la félicitai sur le beau titre de son premier roman qui venait de paraître — écrit entre 19 et 22 ans — et elle me dit merci, bien sérieusement selon la coutume des femmes américaines lorsqu’on leur fait un compliment. Je suppose que mon étonnement eût atteint la stupéfaction si j’avais lu avant cette brève rencontre <hi rend="i">The Heart is a lonely Hunter</hi>. Un peu plus tard je la revis à Brooklyn, dans une sombre maison de quatre étages où m’avait amené Golo, le plus jeune fils de Thomas Mann. Un mélange improbable de Kafka, d’Enfants terribles et de style vieux New York en définissait l’atmosphère. On écrivait, on composait, on sculptait, on jouait du
@@ -681,7 +687,7 @@ le plus faible. Elle s’oppose donc à tout ce que les autres proposent. Elle s
         <p>Voyez-vous, on ne se rend pas compte, en Suisse, qu’il existe en nous, aujourd’hui, un sentiment européen, ce qui n’empêche pas, il est vrai, bon nombre d’entre nous de douter de la naissance d’une fédération européenne. Mais ce qui me paraît important et encourageant tout à la fois, c’est qu’on assiste au même phénomène qu’il y a cent ans. En 1846, il existait un sentiment suisse, mais l’on doutait de la possibilité de créer un État fédéral. Comme je l’ai dit dans ma conférence de mardi soir, ce qui étonne tous les historiens de notre Confédération, c’est justement l’extrême rapidité avec laquelle la Constitution de 1848 fut proposée, écrite, adoptée et mise en pratique. En 1846, elle était encore une utopie. Trois ans plus tard, elle fonctionnait si bien que l’on eût dit qu’elle allait de soi. Notez bien que ce sentiment suisse, dans les années précédant 1848, était informulé, et qu’il a fallu la campagne de la Société helvétique et les écrits du doyen Bridel pour que l’opinion publique prît enfin conscience de ce sentiment suisse.</p>
         <p>Aujourd’hui, il ne faut pas se leurrer, il y a une crise du fédéralisme suisse. Et cette crise vient de ce que nous sommes entourés d’États-nations, qui menacent notre fédéralisme. Cela explique aussi pourquoi le centralisme fait chez nous des progrès aussi terrifiants. Aussi suis-je convaincu que le salut de notre fédéralisme ne peut venir que d’une Europe fédérée.</p>
       </div>
-      <div type="article" when="1947-10" xml:id="ddr194710nef">
+      <div type="article" when="1947-10" xml:id="ddr19471000nef">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1946-1948/ddr194710nef_01.jpg/full/full/0/default.jpg" n="p. 49"/>
         <head>L’attitude fédéraliste (octobre 1947)<note resp="editor" xml:id="fned15">« L’attitude fédéraliste », <hi rend="i">La NEF</hi>, Paris, n° 35, octobre 1947, p. 49-60. Texte introduit par cette note : « Le congrès de l’Union européenne des fédéralistes, qui s’est tenu à Montreux en août dernier, a fait ressortir que le fédéralisme n’était pas seulement une doctrine empirique pour régler les rapports des nations entre elles mais qu’il impliquait une prise de position générale, aussi bien en matière politique qu’en matière philosophique. Cette conception du fédéralisme intégral apparaît par les textes groupés ici, et où se manifestent à la fois les conséquences pratiques et spirituelles d’une position d’ensemble. » Une note finale conclut : « Texte définitif d’une conférence prononcée au congrès de l’Union européenne des fédéralistes, Montreux, août 1947. »</note></head>
         <p>Le danger que présente un tel sujet, c’est qu’il risque d’entraîner à des généralisations théoriques ; or, <hi rend="i">rien n’est plus contraire à l’essence même du fédéralisme que l’esprit théorique et les généralisations</hi>.</p>
@@ -819,7 +825,7 @@ Et surtout il peut dépasser l’opposition chaque jour moins convaincante d’u
           <p>La véritable troisième force, ce n’est pas je ne sais quel groupement de doubles négations et de demi-mesures — c’est l’Europe fédérée devant les deux empires. C’est l’Europe rejoignant le <num>xix<hi rend="sup">e</hi></num> siècle, pour en prendre la tête et inventer l’avenir. C’est le fédéralisme, qui veut que la Terre promise ne soit pour nous ni l’Amérique ni la Russie, mais cette vieille terre à rajeunir, à libérer de ses cloisons, à reconquérir : notre Europe.</p>
         </div>
       </div>
-      <div type="article" when="1948-01" xml:id="ddr194801paru">
+      <div type="article" when="1948-01" xml:id="ddr19480100paru">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1946-1948/ddr194801paru_01.jpg/full/full/0/default.jpg" n="p. 10"/>
         <head>Rencontre avec Denis de Rougemont (janvier 1948)<note resp="editor" xml:id="fned18">« Rencontre avec Denis de Rougemont », <hi rend="i">Paru</hi>, Paris, janvier 1948, p. 10-15. Propos recueillis par André Bourin</note></head>
         <label type="question">Vive le lettrisme !</label>
@@ -871,7 +877,7 @@ Je demande à Denis de Rougemont quels hommes prendraient part aux états géné
         <p>La bombe n’est pas dangereuse du tout, me répond-il. C’est un objet. Les objets ne m’ont jamais fait peur, non plus que les machines. Ce qui est dangereux, horriblement dangereux, c’est l’homme. C’est lui qu’il faut contrôler.</p>
         <p>Adieu !</p>
       </div>
-      <div type="article" when="1948" xml:id="ddr1948cpl">
+      <div type="article" when="1948" xml:id="ddr19480000cpl">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1946-1948/ddr1948cpl_01.jpg/full/full/0/default.jpg" n="p. 57"/>
         <head>Notes sur la voie clandestine (hiver 1948)<note resp="editor" xml:id="fned19">« Notes sur la voie clandestine », <hi rend="i">Cahiers de la Pléiade</hi>, Paris, n° 3, hiver 1948, p. 57-63.</note></head>
         <p>Il faut être aussi rationnel que possible. Pas davantage. On verra bien jusqu’où cela va. Ensuite on verra mieux ce qui va plus loin. Ce n’est pas une erreur qui doit ouvrir la voie. Mais essayons de ramener l’attention sur cet obstacle tant de fois refusé dans un écart désarçonnant : qu’est-ce que le destin d’un homme, — mon destin ? C’est ici que la voie prend naissance.</p>

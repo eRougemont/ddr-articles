@@ -38,7 +38,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="article" when="1978" xml:id="ddr1978ep">
+      <div type="article" when="1978" xml:id="ddr19780000ep">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1978-1981/ddr1978ep_01.jpg/full/full/0/default.jpg" n="p. 29"/>
         <head>L’Europe est une culture commune (1978)<note resp="editor" xml:id="fned1">« L’Europe culturelle », <hi rend="i">L’Europe et ses populations</hi>, La Haye, M. Nijhoff, 1978, p. 29-32.</note></head>
         <p>L’Europe, qui a dominé le monde pendant des siècles, n’est pas le produit d’une terre assez ingrate, encore couverte de forêts quand l’Égypte et Sumer illustraient toute la civilisation. Elle n’est pas le produit démontrable d’un climat, d’une pression démographique, d’une aire géographique, ni d’un sous-sol riche : tout autre continent pourrait se réclamer, sur la plupart de ces points, d’avantages décisifs. Elle n’est pas fille de la Nature, mais de l’Homme.</p>
@@ -73,7 +73,7 @@ et au régime des castes. Parce que là où l’homme est conçu comme une perso
 est universel : encore convient-il de marquer que c’est le rayonnement de l’Europe qui l’a rendu tel, et qu’il exprime l’une des ambitions les plus constantes de l’esprit de recherche profane, spécifiquement européen.</p>
         <p>Ainsi la vie et la vitalité de notre culture n’impliquent rien de moins que l’Europe tout entière, non seulement dans l’espace, mais dans le temps, depuis bientôt trois millénaires.</p>
       </div>
-      <div type="article" when="1978" xml:id="ddr1978jur">
+      <div type="article" when="1978" xml:id="ddr19780000jur">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1978-1981/ddr1978jur_01.jpg/full/full/0/default.jpg" n="p. 90"/>
         <head>Le Jura libre à l’heure des régions (1978)<note resp="editor" xml:id="fned2">« Le Jura libre à l’heure des régions », <hi rend="i">Oui au canton du Jura = Ja zum Kanton Jura</hi>, Bern, Annuaire de la Nouvelle Société Helvétique, 1978, p. 90-95.</note></head>
         <p>Si l’on n’est pas né Jurassien, si l’on n’a pas de raisons déraisonnables, intéressées au sens vital, émotives, indicibles et donc vraiment sérieuses, de prendre tel ou tel parti dans la profonde, longtemps sourde et tout d’un coup coléreuse délibération en cours chez les habitants des vallées et des plateaux de ce pays, comment se former un jugement sain sur « le problème jurassien » ? Essayons de situer le litige dans l’espace et le temps d’aujourd’hui, c’est-à-dire dans la problématique du continent européen et de ce dernier tiers du <num>xx<hi rend="sup">e</hi></num> siècle.</p>
@@ -254,7 +254,7 @@ c’est bien parce que nous ne sommes plus des citoyens responsables que l’Ét
         <p>Dans mes conférences, je dis toujours qu’il faut renoncer à cette idée romantique de la prise du pouvoir. D’ailleurs, qu’est-ce que le pouvoir aujourd’hui ? Sinon le fait de jeter les gens en prison ou de refuser de signer les accords européens ? Il ne faut pas prendre le pouvoir, ni le renverser, mais le créer par en bas : revenir à des communautés de petites tailles, à des municipalités, à des entreprises, à des régions avec au-dessus la fédération européenne. Il faut dépasser les États-nations et leur carcan actuel pour revenir à un mode de vie communautaire qui nous soit propre en essayant de passer progressivement d’une technologie « dure » à une technologie douce…, etc.</p>
         <p>Depuis quarante ans, je le redis : la puissance, c’est la prise de pouvoir sur autrui, la liberté, c’est la prise de pouvoir sur soi-même.</p>
       </div>
-      <div type="article" when="1978-02" xml:id="ddr197802pa">
+      <div type="article" when="1978-02" xml:id="ddr19780200pa">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1978-1981/ddr197802pa_02.jpg/full/full/0/default.jpg" n="p. 19"/>
         <head>Un autre avenir pour la planète (février 1978)<note resp="editor" xml:id="fned9">« Un autre avenir pour la planète : conversation avec Denis de Rougemont », <hi rend="i">Panorama aujourd’hui</hi>, n° 111, février 1978, p. 19-22. Propos recueillis par Claude Goure et introduits par le chapeau suivant : « On avait quelque peu oublié cet homme… L’un des penseurs les plus importants de l’époque, constamment engagé sur les fronts où la liberté s’est trouvée menacée… Un veilleur qui depuis plus de quarante ans ne cesse d’avertir des dangers qui nous menacent : la terre est pillée, le pétrole, les minerais, l’eau s’épuisent, le nucléaire menace et avec lui le totalitarisme des États-nations… Denis de Rougemont nous a longuement reçu dans la vieille ferme jurassienne qu’il a aménagée avec son épouse. Une conversation, où l’on éprouve soudain le sentiment d’être un peu plus intelligent. Et l’envie de lire ou de relire <ref target="https://www.unige.ch/rougemont/livres/ddr1977aena">son dernier ouvrage</ref>. Le livre le plus important peut-être de cette fin du <num>xx<hi rend="sup">e</hi></num> siècle. Parce qu’il indique l’avenir que nous avons à faire. »</note></head>
         <label type="question">Nous allons tous vers une catastrophe !</label>
@@ -328,7 +328,7 @@ En Europe, le budget de la recherche solaire équivaut à 0,5 % du budget des r
         <p>Qu’attendre de l’avenir, sinon d’abord qu’il dure. Pour la première fois dans l’Histoire, cela dépend de nous. Nous en avons la liberté, donc la responsabilité…</p>
         <p>J’ai confiance cependant. Ce n’est pas de l’optimisme. Non, je suis comme Martin Luther : même si j’apprenais que la fin du monde est pour demain, je planterai quand même un petit pommier ! C’est une sorte de vitalité, de foi, de confiance profondes sans laquelle on ne peut agir.</p>
       </div>
-      <div type="article" when="1978-02" xml:id="ddr197802hi">
+      <div type="article" when="1978-02" xml:id="ddr19780200hi">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1978-1981/ddr197802hi_02.jpg/full/full/0/default.jpg" n="p. 22"/>
         <head><hi rend="i">L’Avenir est notre affaire</hi> ou la méditation apocalyptique d’un optimiste (février-mars 1978)<note resp="editor" xml:id="fned11">« <hi rend="i">L’Avenir est notre affaire</hi> ou la méditation apocalyptique d’un optimiste », <hi rend="i">Hachette-Informations</hi>, Paris, n° 11, février-mars 1978, p. 21-24. Propos recueillis par Pierre Murr et introduits par le chapeau suivant : « Philosophe et historien, écrivain engagé dans la plupart des grands combats de son siècle (la lutte contre le nazisme, l’unité européenne) et auteur d’un essai mondialement célèbre : <ref target="https://www.unige.ch/rougemont/livres/ddr1939ao"><hi rend="i">L’Amour et l’Occident</hi></ref>, Denis de Rougemont est de ces rares esprits qui sont la conscience d’une époque. Ses livres n’ont jamais été de ces best-sellers frivoles et bruyants que quelques mois suffisent pourtant à engloutir dans le silence ; ils n’ont cessé de demeurer, au contraire, des ouvrages de référence, des études sur lesquelles on ne se lasse pas de revenir — guides pour le passé et le devenir de notre civilisation. Il y a quelques mois, les Éditions Stock ont publié <ref target="https://www.unige.ch/rougemont/livres/ddr1977aena"><hi rend="i">L’Avenir est notre affaire</hi></ref>. Sous ce titre en forme de manifeste, Denis de Rougemont s’est attaché à l’examen des agressions techniciennes contre la nature tout entière qui, jointes à une terrible dégradation des relations humaines, caractérisent notre fin de siècle avec ses villes ingouvernables, ses ressources naturelles qui s’épuisent, ses menaces nucléaires, sa démographie galopante et ses pollutions de toutes sortes. C’est à cette Apocalypse que tous les experts nous promettent, qu’il a opposé ses idées régionalistes et les expériences communautaires, l’emploi des énergies douces et l’autogestion politique… Comment s’étonner de ce que les écologistes aient salué en Denis de Rougemont un allié des plus précieux, sinon tout à fait inattendu ? Rarement livre aura été accueilli avec autant de chaleur par la presse. Mais surtout rarement aura-t-il été ressenti comme aussi fondamental. « Livre important », « synthèse nécessaire », « salutaire avertissement », « nouveau Contrat social », « ouvrage qui fera date », « événement »… — ces épithètes interchangeables se sont retrouvées sous la plume des critiques. La tentation était grande, on le comprend, de rencontrer Denis de Rougemont et de parler avec lui de <ref target="https://www.unige.ch/rougemont/livres/ddr1977aena"><hi rend="i">L’Avenir est notre affaire</hi></ref>, des thèmes qu’il aborde et des échos qu’il a suscités. »</note></head>
         <label type="question">C’est le philosophe E. M. Cioran, je crois, qui a défini <ref target="https://www.unige.ch/rougemont/livres/ddr1977aena"><hi rend="i">L’Avenir est notre affaire</hi></ref> comme la « méditation apocalyptique d’un optimiste ». Je me demande, après avoir achevé votre livre, quel est le sentiment qui l’emporte : l’évidence de cette Apocalypse que vous nous décrivez, ou cette confiance obstinée en un avenir différent, un avenir qui deviendrait enfin notre affaire.</label>
@@ -439,7 +439,7 @@ apportaient une réponse — terrifiante, effroyable — à cette soif communaut
         <label type="question">20. En préconisant une Europe des régions fédérées, vous voulez donc une « helvétisation » de l’Europe. En Suisse, tout n’est pas toujours comme dans le meilleur des mondes…</label>
         <p>Bien sûr que non ! Mais c’est souvent moins mal qu’ailleurs et l’on y fait de moins grandes bêtises. Non parce qu’on est meilleur, mais parce qu’on est plus petit.</p>
       </div>
-      <div type="article" when="1978-05" xml:id="ddr197805smh">
+      <div type="article" when="1978-05" xml:id="ddr19780500smh">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1978-1981/ddr197805smh_01.jpg/full/full/0/default.jpg" n="p. 1"/>
         <head>De l’Europe des États coalisés à l’Europe des peuples fédérés (mai 1978)<note resp="editor" xml:id="fned14">« De l’Europe des États coalisés à l’Europe des peuples fédérés », <hi rend="i">Schweizerische Monatshefte</hi>, n° 5, mai 1978, 16 p. Avec cette note à la conclusion : « Onzième conférence Winston Churchill prononcée à l’Université de Fribourg, le 21 novembre 1977. »</note></head>
         <p>Je voudrais vous faire voir, ce soir, que l’idée d’une Europe fédérée n’est nullement la lubie de quelques-uns, mais une nécessité qui sera subie par tous si nous ne savons pas la choisir et la former à notre idée en temps utile ; qu’elle n’est donc pas un vague idéalisme, mais le seul réalisme digne aujourd’hui de ce nom ; et enfin, qu’elle n’est pas seulement conservation mais invention, pas seulement sauvetage mais nouveau mode de vie.</p>
@@ -671,7 +671,7 @@ seules le citoyen pourrait devenir une personne à la fois libre et responsable.
         <p>Mais attention : résoudre les problèmes que nous pose la croissance, au sens actuel, ce ne serait pas encore le bonheur, comme le croient tous les technocrates de droite ou de gauche et, avec eux, l’immense majorité de nos contemporains. Et c’est ce que pourra faire sentir à quelques-uns cette dernière question, la plus « gênante » de toutes :</p>
         <p>« Quand vous aurez gagné le monde au prix de votre âme, que vous restera-t-il à aimer ? »</p>
       </div>
-      <div type="article" when="1978-09" xml:id="ddr197809cfed">
+      <div type="article" when="1978-09" xml:id="ddr19780900cfed">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1978-1981/ddr197809cfed_01.jpg/full/full/0/default.jpg" n="p. 213"/>
         <head>Paradoxes marxiens (septembre 1978)<note resp="editor" xml:id="fned18">« Paradoxes marxiens », <hi rend="i">Les Cahiers du fédéralisme</hi>, n° 4, supplément à <hi rend="i">L’Europe en formation</hi>, Nice, n° 220-221, septembre 1978, p. 213-215.</note></head>
         <p>C’est un patron allemand de Manchester qui apprend à un autre bourgeois, également allemand, ce qu’est le sort des ouvriers anglais. Cette <hi rend="i">information</hi>, relative à l’état de l’injustice sociale dans la société capitaliste, produira des effets sans commune mesure avec l’énergie dépensée pour la coder et la transmettre de Friedrich Engels à Karl Marx. Car il en sortira les Internationales, une révolution, deux empires, des dizaines de milliers de volumes, tracts, manifestes, études et thèses, et trente millions d’assassinats individuels ou par déportations massives, par génocides ou dans les prisons et les camps du Goulag.</p>
@@ -778,7 +778,7 @@ polarise les économies « nationales » et les entraîne dans une dépendance
           <p>Le couple de 1980 n’est plus soumis à un choix déterminé par les familles ou par l’intérêt. Vouloir se marier, avoir ou non des enfants, est devenu un acte responsable autant que libre, dont les partenaires ne fusionnent pas, ne sont pas subordonnés l’un à l’autre, mais conjuguent dans une totale égalité leurs différences pour créer une œuvre. Toutes les enquêtes le confirment : les jeunes sont plus sensibles à l’aspect « œuvre commune » du mariage que nous l’étions autrefois. Je vois là une espérance. Pour moi, le couple de demain est une image claire du système fédéraliste auquel je rêve.</p>
         </div>
       </div>
-      <div type="article" when="1978-11" xml:id="ddr197811panda">
+      <div type="article" when="1978-11" xml:id="ddr19781100panda">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1978-1981/ddr197811panda_01.jpg/full/full/0/default.jpg" n="p. 5"/>
         <head>Le choix du siècle (novembre 1978)<note resp="editor" xml:id="fned23">« Le choix du siècle », <hi rend="i">Panda nouvelles</hi>, n° 8, novembre 1978, p. 5-6. Présenté par la notice suivante : « Nous présentons ici le texte complet du discours de D. de Rougemont, prononcé à Berne lors de la conférence de presse où fut présentée notre Conception globale de l’énergie suisse. Nous sommes à la veille du choix du siècle. Pour nous il n’y a pas de tabou nucléaire, nous voulons à l’avenir, plus que jamais, décider démocratiquement des affaires de notre pays. » Une note finale précise : « Les titres des paragraphes sont de la rédaction ».</note></head>
         <div>
@@ -833,7 +833,7 @@ polarise les économies « nationales » et les entraîne dans une dépendance
           </quote>
         </div>
       </div>
-      <div type="article" when="1978-11" xml:id="ddr197811dial">
+      <div type="article" when="1978-11" xml:id="ddr19781100dial">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1978-1981/ddr197811dial_01.jpg/full/full/0/default.jpg" n="p. 22"/>
         <head>Dialogue-interview avec Denis de Rougemont (novembre 1978)<note resp="editor" xml:id="fned24">« Dialogue-interview avec Denis de Rougemont », <hi rend="i">Dialogue : revue d’information politique destinée à la jeunesse</hi>, Lutry, n° 1, novembre 1978, p. 22-23.</note></head>
         <label type="question">Les partis politiques constituent l’un des piliers du système démocratique suisse ; ont-ils selon vous rempli leur rôle et le remplissent-ils encore actuellement ?</label>
@@ -865,7 +865,7 @@ Lors d’un débat au Conseil général de l’Isère (déc. 1976) au sujet du s
         <p>La formation civique n’a d’autre fin que de rendre chaque individu conscient de la personne qu’il peut devenir, à la fois <hi rend="i">libre</hi> d’accomplir sa vocation et <hi rend="i">responsable</hi> de l’accomplir dans la communauté.</p>
         <label type="question">M. Denis de Rougemont, nous vous remercions.</label>
       </div>
-      <div type="article" when="1979" xml:id="ddr1979gtg">
+      <div type="article" when="1979" xml:id="ddr19790000gtg">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1978-1981/ddr1979gtg_01.jpg/full/full/0/default.jpg" n="p. 16"/>
         <head>Le mythe et l’opéra (1979)<note resp="editor" xml:id="fned25">« Le mythe et l’opéra », <hi rend="i">Le Grand Théâtre de Genève</hi>, Genève, Fondation du Grand Théâtre de Genève, 1979, p. 16-17.</note></head>
         <p>Nous sortons à peine d’une période où l’on disait l’opéra passé de mode, parce que régnait la mode des avant-gardes en succession précipitée, si curieusement liée à l’ère bourgeoise dans l’histoire de notre culture européenne qui avait été jusqu’alors celle des styles et de leur déploiement dans le temps et l’espace du continent.</p>
@@ -884,7 +884,7 @@ Roman breton jusqu’à Wagner. C’est par lui que la passion est entrée dans 
         <p>L’opéra : une école de l’âme, s’il est vrai, selon les gnostiques, que l’âme désigne cette part de l’humain intermédiaire entre le corps et l’intellect, ou mieux, entre la chair et l’esprit, et qui est la part du cœur, de l’affectivité, de l’amour, de la danse et du rêve. Tout ce qui échappe à la technologie, et qu’elle tend à éliminer.</p>
         <p>Le <num>xx<hi rend="sup">e</hi></num> siècle n’a pas su produire à l’expression un mythe nouveau. « La musique savante manque à notre désir » (Rimbaud). Mais l’opéra, impatiemment interrogé par la jeunesse, lui dira-t-il peut-être un jour : vois ton image et reconnais ton rêve ?</p>
       </div>
-      <div type="article" when="1979" xml:id="ddr1979ge_p3">
+      <div type="article" when="1979" xml:id="ddr19790000ge_p3">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1978-1981/ddr1979ge_p3_01.jpg/full/full/0/default.jpg" n="p. 3"/>
         <head><hi rend="i">Genève et l’Europe : un exemple de coopération transfrontalière</hi> [préface] (1979)<note resp="editor" xml:id="fned26">« Préface » à <hi rend="i">Genève et l’Europe : un exemple de coopération transfrontalière</hi>, Genève, Institut universitaires d’études européennes, 1979, p. 3‑6.</note></head>
         <div>
@@ -919,7 +919,7 @@ Dans le même temps, la Conférence des pouvoirs locaux et régionaux, qui a son
           <p>J’ose croire que les travaux menés à Genève sous la conduite quotidienne de Charles Ricq, avec la rigueur, la patience et le réalisme acharné qui conviennent seuls au traitement d’une formule aussi neuve, ont joué un rôle non négligeable dans une évolution qui porte désormais les espoirs de l’Europe fédérale — donc de la paix.</p>
         </div>
       </div>
-      <div type="article" xml:id="ddr1979ge_p7" when="1979">
+      <div type="article" xml:id="ddr19790000ge_p7" when="1979">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1978-1981/ddr1979ge_p7_01.jpg/full/full/0/default.jpg" n="p. 7"/>
         <head>Hypothèses directrices pour la recherche d’un modèle de région transfrontalière (1979)<note resp="editor" xml:id="fned27">« Hypothèses directrices pour la recherche d’un modèle de région transfrontalière », <hi rend="i">Genève et l’Europe : un exemple de coopération transfrontalière</hi>, Genève, Institut universitaires d’études européennes, 1979, p. 7‑18.</note></head>
         <p>Si le problème des régions en général a fait l’objet dès 1960 d’une importante conférence organisée par la CEE et a donné lieu depuis lors à une très abondante littérature, il n’en va pas de même pour le problème particulier des régions transfrontalières : la liste des publications qui en traitent ne comporte guère que des rapports présentés lors de colloques comme ceux qu’organisèrent la <hi rend="i">Regio basiliensis</hi> dès 1965<note xml:id="fn44"><hi rend="i">Schriften der Regio III</hi>, Basel, 1965.</note>, le Centre européen de la culture en 1965, 1969 et 1975<note xml:id="fn45"><ref><hi rend="i">Naissance de l’Europe des régions I</hi></ref>, Genève 1968 et <ref><hi rend="i">Europe des régions II</hi></ref>, Genève, 1969, <ref><hi rend="i">Europe des régions V</hi></ref>, Genève 1975.</note>, le Conseil de l’Europe en 1972<note xml:id="fn46">« Confrontation des régions frontalières », cf. <hi rend="i">Europe des régions III</hi>, Genève, 1972.</note>, l’Institut de sociologie internationale de Gorizia en 1972<note xml:id="fn47">« Boundaries and Regions », Trieste, 1973, 496 p.</note>.</p>
@@ -1016,7 +1016,7 @@ gérée par une série d’<hi rend="i">agences fédérales</hi> pour l’écono
           <space quantity="1" unit="line"/>
         </div>
       </div>
-      <div type="article" when="1979" xml:id="ddr1979wk">
+      <div type="article" when="1979" xml:id="ddr19790000wk">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1978-1981/ddr1979wk_01.jpg/full/full/0/default.jpg" n="p. 259"/>
         <head>Notes pour une éthique du fédéralisme (1979)<note resp="editor" xml:id="fned29">« Notes pour une éthique du fédéralisme », <hi rend="i">Menschenrechte, Föderalismus, Demokratie : Festschrift zum 70. Geburtstag von Werner Kägi</hi>, Zürich, Schulthess, 1979, p. 259-265.</note></head>
         <p>1. L’un des lieux communs fondateurs de notre société européenne, et peut-être le plus fondamental de tous, a consisté pendant des siècles dans la croyance, habituellement informulée, que les institutions ne suffisent pas sans les mœurs, ni les lois sans l’esprit des lois — et réciproquement. Ce consensus, cet accord préalable à tout contrat sincère, fondé sur le seul consentement des parties, n’a été rompu que par l’avènement des premiers États totalitaires. On peut même dire que l’État totalitaire se définit comme refus et rupture de ce processus d’interaction créatrice, auquel il entend substituer la seule contrainte exercée par l’État, c’est-à-dire par le groupe qui a saisi les moyens de coercition publique : police, information et mass médias, réseaux administratifs et enseignement aux trois degrés.</p>
@@ -1095,7 +1095,7 @@ Je ne puis guère imaginer plus belle déclaration de tolérance que cette pens�
 Gouverner c’est coordonner l’action simultanée d’éléments variés, dans le respect de leur diversité et à partir de leur autonomie. C’est fédérer, c’est-à-dire indiquer des fins communes à des unités autonomes, — ces fins pouvant d’ailleurs être à court ou long terme, mais devant être orientées constamment vers cette fin dernière de l’État séculier, qui est la liberté des personnes.</p>
         </div>
       </div>
-      <div type="article" when="1979" xml:id="ddr1979mfd">
+      <div type="article" when="1979" xml:id="ddr19790000mfd">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1978-1981/ddr1979mfd_01.jpg/full/full/0/default.jpg" n="p. 29"/>
         <head>Formule d’une Europe parallèle ou rêverie d’un fédéraliste libertaire (1979)<note resp="editor" xml:id="fned30">« Formule d’une Europe parallèle ou Rêverie d’un fédéraliste libertaire », <hi rend="i">Mélanges Fernand Dehousse</hi>, Paris, F. Nathan, 1979, vol. 2, p. 29-30.</note></head>
         <epigraph>
@@ -1139,7 +1139,7 @@ Genève, Bonn<note xml:id="fn55">Des agences fédérales pour l’économie et p
         <p>Si le rêve des régions se réalise, lui aussi, on dira dans dix ans, dans vingt ans, que c’était si facile à prévoir : tout ce qui était raisonnable y conduisait…</p>
         <p rend="right">(décembre 1976)</p>
       </div>
-      <div type="article" when="1979-01" xml:id="ddr197901treje">
+      <div type="article" when="1979-01" xml:id="ddr19790100treje">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1978-1981/ddr197901treje_01.jpg/full/full/0/default.jpg" n="p. 19"/>
         <head>Un foyer de culture (janvier 1979)<note resp="editor" xml:id="fned31">« Un foyer de culture », <hi rend="i">30 jours d’Europe</hi>, Paris, n° 246, janvier 1979, p. 19-20.</note></head>
         <p>Je partirai de quatre observations qui auront valeur de définitions.</p>
@@ -1223,7 +1223,7 @@ Genève, Bonn<note xml:id="fn55">Des agences fédérales pour l’économie et p
         <p>Le roi des rois, détenant tous les pouvoirs, a été renversé par un religieux qui n’avait rien pour lui que son autorité.</p>
         <p>Voilà qui va compter devant l’Histoire, bien plus que les péripéties dont nous allons être témoins. Si l’URSS parvient à manipuler les éléments antireligieux, surtout dans le Nord du pays, il pourra se produire de très graves affrontements, au sujet de la domination sur le golfe et ses émirats pétroliers. Si l’influence américano-européenne est évincée par l’influence soviétique, c’est le modèle occidental <hi rend="i">en pire</hi> qui s’imposera de nouveau pour un temps. Ou encore, la contagion de l’indépendance islamique recouvrée menacera tout le sud de l’URSS… Ce que nous savons, et qui ne sera plus changé par rien, c’est que, pour une fois, dans l’Histoire, la religion a vaincu la Bourse, les états-majors et l’OPEP.</p>
       </div>
-      <div type="article" when="1979-03" xml:id="ddr197903sauv">
+      <div type="article" when="1979-03" xml:id="ddr19790300sauv">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1978-1981/ddr197903sauv_01.jpg/full/full/0/default.jpg" n="p. 8"/>
         <head>Cet amour qui nous rendrait la liberté (mars 1979)<note resp="editor" xml:id="fned36">« Cet amour qui nous rendrait la liberté », <hi rend="i">Le Sauvage</hi>, Paris, n° 63, mars 1979, p. 8-9.</note></head>
         <p>« <hi rend="i">Tout change, sauf le cœur humain</hi> ! », disent les vieux sages, et ils se trompent. Le cœur humain, au sens métaphorique, se montre étrangement sensible aux variations de temps et de latitude. Ce que nous nommons l’amour-passion est ignoré de l’Inde et de la Chine. On n’y connaît pas de mot pour le traduire.</p>
@@ -1246,7 +1246,7 @@ et plus profondément des conceptions manichéennes introduites au <num>xii<hi r
         <p>L’érotisme « déchaîné », dans le même temps, fut la fièvre, non l’antidote. Fièvre tombée : voir la chute du tirage des magazines de nus féminins, puis masculins.</p>
         <p>Il semble qu’une vision écologique et conviviale de la communauté renaissante puisse induire une éthique de l’amour qui signifierait liberté : prise de pouvoir sur soi, non sur autrui.</p>
       </div>
-      <div type="article" when="1979-04" xml:id="ddr197904pa">
+      <div type="article" when="1979-04" xml:id="ddr19790400pa">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1978-1981/ddr197904pa_01.jpg/full/full/0/default.jpg" n="p. 11"/>
         <head>« Nous subsisterons unis, ou nous périrons séparés ! » (avril-mai 1979)<note resp="editor" xml:id="fned37">« Nous subsisterons unis, ou nous périrons séparés ! », <hi rend="i">Panorama aujourd’hui</hi>, Paris, avril-mai 1979, p. 11-12. Propos recueillis par Claude Goure et conclus par la note suivante : “Au cours de cet échange, Denis de Rougemont nous a résumé l’essentiel d’un livre qu’il publie ces jours-ci, sous le titre : <ref target="https://www.unige.ch/rougemont/livres/ddr1979rpe"><hi rend="i">Rapport sur l’état de l’union de l’Europe</hi></ref>. Un livre qu’il a rédigé lui-même en collaboration avec un groupe d’une trentaine des meilleurs connaisseurs internationaux et européens. Un livre que nous ne saurions trop vous recommander de lire à la veille des élections européennes. Aux éditions Stock..</note></head>
         <p>J’entends dire que l’idée de l’Europe serait seulement une invention de technocrates, de financiers, d’industriels, de gouvernements ou de multinationales… C’est faux.</p>
@@ -1619,7 +1619,7 @@ La question à poser devant une innovation technique est désormais : <hi rend=
           <p>Tout ce qui précède n’entend apporter que quelques matériaux, qu’il reste à compléter puis à traiter de manière à pouvoir passer, dans une seconde phase, à l’élaboration d’un certain nombre d’articles de la charte. Ce qui sera, vraisemblablement, le travail d’une Commission de rédaction, celle-ci n’étant que de première approche et de préparation.</p>
         </div>
       </div>
-      <div type="article" when="1980" xml:id="ddr1980ind">
+      <div type="article" when="1980" xml:id="ddr19800000ind">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1978-1981/ddr1980ind_01.jpg/full/full/0/default.jpg" n="p. 63"/>
         <head>L’avis de Denis de Rougemont [sur <hi rend="i">Invocation du nom de Dieu et Constitution fédérale</hi>] (1980)<note resp="editor" xml:id="fned42">« L’avis de Denis de Rougemont », <hi rend="i">Invocation du nom de Dieu et Constitution fédérale</hi>, Genève, Labor et Fides, 1980, p. 63‑69.</note></head>
         <p>Le Conseil d’État de Genève a désigné en 1978 une Commission de 64 personnes pour étudier le projet d’une nouvelle constitution fédérale et donner voix aux réactions de la population genevoise. J’ai fait partie de la sous-commission chargée d’examiner le préambule et l’invocation qui le précède.</p>
@@ -1664,7 +1664,7 @@ Pourrait-on améliorer l’invocation en remplaçant l’épithète Tout-puissan
         <p>Il faudrait s’assurer que tous les articles de la constitution satisferaient à l’exigence ainsi posée et supporteraient l’épreuve d’être formulés au nom de l’amour… Exigence exorbitante pour un peuple qui n’est pas composé seulement de chrétiens éprouvés… Finalement, que <hi rend="i">pourrait-on</hi> dire, sinon « <hi rend="i">Au nom de Jésus-Christ</hi> », vrai sens de la formule médiévale « <hi rend="i">in nomme domini</hi> ». Laquelle ne fut pas seulement utilisée par les trois « communes » signataires du Pacte de 1291, mais ouvrait tous les actes publics de l’époque. Où il n’était question ni de la toute-puissance de Dieu, ni d’un Dieu des armées (autorisant p. ex. les ventes d’armes) ni d’une Providence toujours rangée du côté des causes tenues pour justes, en fait : des deux côtés à la fois, — mais bien du Seigneur Jésus, du Seigneur de l’Église, avec son exigence d’amour actif et de non-violence absolue.</p>
         <p>Ce ne sont pas là des choses qu’un peuple puisse accepter à la majorité.</p>
       </div>
-      <div type="article" when="1980" xml:id="ddr1980lw">
+      <div type="article" when="1980" xml:id="ddr19800000lw">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1978-1981/ddr1980lw_01.jpg/full/full/0/default.jpg" n="p. 15"/>
         <head>Lew Kowarski et la responsabilité sociale du scientifique (1980)<note resp="editor" xml:id="fned43">« Lew Kowarski et la responsabilité sociale du scientifique », <hi rend="i">Lew Kowarski</hi>, Genève, CERN, 1980, p. 15-17.</note></head>
         <p>On vient de rappeler ses travaux, ses recherches, et ce qu’il a trouvé, et ce qui en est sorti. Tout cela nous conduit au problème qui l’a beaucoup préoccupé pendant la dernière période de sa vie : celui des centrales nucléaires et des questions qu’elles posent à notre société.</p>
@@ -1713,7 +1713,7 @@ trois gouvernements européens (France, Italie, Allemagne fédérale) et les mou
         <p>C’est maintenant que nous mesurons, et nous allons mesurer toujours plus, je le crains, tout ce que Lew Kowarski représentait pour nous, bien au-delà de son savoir de physicien.</p>
         <p>Adieu Lew ! Grand homme irremplaçable en sa maîtrise autant qu’en amitié. Vous ne nous rendiez pas toujours la vie facile, mais vous lui donniez plus de saveur et plus de sens. Et c’est ce qu’il y a de plus précieux au monde.</p>
       </div>
-      <div type="article" when="1980" xml:id="ddr1980hei">
+      <div type="article" when="1980" xml:id="ddr19800000hei">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1978-1981/ddr1980hei_01.jpg/full/full/0/default.jpg" n="p. 31"/>
         <head>L’Europe, invention culturelle (1980)<note resp="editor" xml:id="fned44">« L’Europe, invention culturelle », <hi rend="i">History of European Ideas</hi>, Oxford, New York, vol. 1, 1980, p. 31-38. La version publiée contient des coquilles, qu’on n’a pas pu toutes corrigées en l’absence de version manuscrite.</note></head>
         <p>Le Phénomène Europe, dans l’espace et le temps de la planète, oppose une réaction de rejet quasi instantanée à toute tentative d’explication économiste ou réductionniste de modèle marxiste.</p>
@@ -1785,7 +1785,7 @@ sérieux du siècle est celui de son aménagement. Et que l’Europe seule peut 
         <p>Autrement, on ne la croira pas.</p>
         <p>Car ainsi que le disait le bon D<hi rend="sup">r</hi> Schweitzer, « l’exemple n’est pas le meilleur moyen d’agir sur les hommes, c’est le seul ».</p>
       </div>
-      <div type="article" when="1980" xml:id="ddr1980const">
+      <div type="article" when="1980" xml:id="ddr19800000const">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1978-1981/ddr1980const_01.jpg/full/full/0/default.jpg" n="p. 7"/>
         <head>Actualité de Benjamin Constant (1980)<note resp="editor" xml:id="fned49">« Actualité de Benjamin Constant », préface à <hi rend="i">L’Esprit de conquête</hi>, Lausanne, M. Favre, 1980, p. 7-24.</note></head>
         <div>
@@ -2038,7 +2038,7 @@ Tout le secret du fédéralisme est dans cette clé de répartition des compéte
           <p>Quoi de plus actuel qu’un message qui nous rappelle, avec une urgence croissante, les conditions vitales de tout avenir ?</p>
         </div>
       </div>
-      <div type="article" when="1980" xml:id="ddr1980aes">
+      <div type="article" when="1980" xml:id="ddr19800000aes">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1978-1981/ddr1980aes_01.jpg/full/full/0/default.jpg" n="p. 17"/>
         <head>Énergie solaire et autonomie (1980)<note resp="editor" xml:id="fned50">« Énergie solaire et autonomie », <hi rend="i">Autonomie énergie solaire</hi>, Saint-Saphorin, Georgi, 1980, p. 17-26.</note></head>
         <p>Dans cette même salle, à cette même place, au mois de juin 1958, il y a donc un peu plus de vingt ans, devant le congrès de l’Union internationale des producteurs et distributeurs d’électricité, un conférencier prononçait les phrases suivantes :</p>
@@ -2148,7 +2148,7 @@ pièces principales d’un système qui conduit à renforcer l’emprise univers
           <p>Pluton est maître des Enfers, il est aveugle comme les taupes. Mais le Soleil vient du ciel, vient de Zeus, c’est-à-dire de « celui qui voit très loin ».</p>
         </quote>
       </div>
-      <div type="article" when="1980" xml:id="ddr1980theat">
+      <div type="article" when="1980" xml:id="ddr19800000theat">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1978-1981/ddr1980theat_01.jpg/full/full/0/default.jpg" n="p. 40"/>
         <head>Le bilan culturel de la décennie 1970-1980 (1980)<note resp="editor" xml:id="fned51">« Le bilan culturel de la décennie 1970-1980 », <hi rend="i">Das Theater, unser Welt = Le théâtre, notre monde</hi>, Luzern, Raeber Verlag, 1980, p. 40-46.</note></head>
         <p>Pour situer et comprendre la décennie qui forme le sujet de ce volume, il me paraît indispensable de retracer d’abord les grandes étapes culturelles du <num>xx<hi rend="sup">e</hi></num> siècle, jusqu’ici.</p>
@@ -2268,7 +2268,7 @@ qu’avide d’audience, il en vienne inconsciemment ou cyniquement, à des « 
         <p>— Le droit à l’autonomie des régions a été reconnu par la Constitution espagnole, et il est au centre des débats sur la constitution fédéraliste du Royaume de Belgique.</p>
         <p>Ainsi l’Europe a-t-elle entrepris de donner au tiers-monde la seule chose qu’il accepte : un exemple.</p>
       </div>
-      <div type="article" when="1980-04" xml:id="ddr198004rspi">
+      <div type="article" when="1980-04" xml:id="ddr19800400rspi">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1978-1981/ddr198004rspi_01.jpg/full/full/0/default.jpg" n="p. 206"/>
         <head>La maîtrise sociale des besoins (avril-juin 1980)<note resp="editor" xml:id="fned53">« La maîtrise sociale des besoins », <hi rend="i">Rivista di Studi Politici Internazionali</hi>, Florence, vol. 47, n° 2, avril-juin 1980, p. 206-214. Précédé de la note suivante (dont nous traduisons une partie de l’italien) : « Du 21 au 23 janvier 1980, le premier congrès mondial de l’Association mondiale de prospective sociale (AMPS), groupement scientifique promu en 1976 par l’Institut international d’études sociales (IIES) basé à Genève, s’est tenu à Dakar sous les auspices du gouvernement sénégalais. Thème : <hi rend="i">Pour un nouvel ordre international</hi>, divisé en quatre sujets principaux, examinés par des commissions individuelles : <hi rend="i">Maîtrise sociale des besoins, Développement rural, Politique de l’emploi</hi> et <hi rend="i">Contrats de solidarité</hi>. Nous publions l’introduction aux débats de la commission sur “la maîtrise sociale des besoins” par Denis de Rougemont, et la “Déclaration de Dakar”, déclaration finale approuvée par le congrès mondial. »</note></head>
         <p>1. Toute tentative de maîtrise des besoins — qu’elle se veuille sociale, ou scientifique, économique ou politique, implique que l’on s’entende sur la nature des besoins humains, leur consistance, leur permanence et leur variabilité.</p>
@@ -2374,7 +2374,7 @@ un équilibre durement conquis et vers l’action. « Au commencement était l�
         <label type="question">Ainsi donc, en 1938, vous avez écrit trois ouvrages ?</label>
         <p>Non, cinq. En mars, j’ai rédigé d’après les notes prises à Francfort, mon <ref target="https://www.unige.ch/rougemont/livres/ddr1938ja"><hi rend="i">Journal d</hi>’<hi rend="i">Allemagne</hi></ref> qui a paru à l’automne chez Gallimard. En décembre, j’ai écrit une pièce de théâtre dont Arthur Honegger a composé la musique : <ref target="https://www.unige.ch/rougemont/livres/ddr1939nf"><hi rend="i">Nicolas de Flue</hi></ref>. Tout au long de cette année, je m’en souviens, j’ai regretté profondément que les jours n’aient que 24 heures et qu’il soit nécessaire d’un peu dormir…</p>
       </div>
-      <div type="article" when="1981" xml:id="ddr1981hb">
+      <div type="article" when="1981" xml:id="ddr19810000hb">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1978-1981/ddr1981hb_01.jpg/full/full/0/default.jpg" n="p. 124"/>
         <head>Fédéralisme, personnalisme, œcuménisme (1981)<note resp="editor" xml:id="fned56">« Fédéralisme, personnalisme, œcuménisme », <hi rend="i">Liber amicorum Henri Brugmans</hi>, Amsterdam, Fondation européenne de la culture, 1981, p. 124-135.</note></head>
         <p>Les conflits permanents de l’histoire, ceux qui opposent l’Un et le Divers, le collectivisme oppressif et l’individualisme anarchique, l’orthodoxie imposée et la contestation irresponsable, ont pris de nos jours un caractère de violence sans précédent, qu’on peut expliquer par deux raisons tout indépendantes l’une de l’autre, mais qui se trouvent agir en convergence :</p>
@@ -2466,7 +2466,7 @@ parce que je me tendais immobile dans ma prudence. L’action risquée m’appor
           <p>Cette communauté ne se révélera pas dans des congrès, mais se manifestera dans une action risquée. De même que nous avons vu les Églises nées des missions en terre païenne se placer à l’avant-garde du mouvement vers l’union, nous ne verrons l’œcuménisme se réaliser avec puissance que dans l’épreuve missionnaire universelle, qu’il doit affronter maintenant.</p>
         </div>
       </div>
-      <div type="article" when="1981" xml:id="ddr1981hri">
+      <div type="article" when="1981" xml:id="ddr19810000hri">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1978-1981/ddr1981hri_01.jpg/full/full/0/default.jpg" n="p. 161"/>
         <head>Quelques maximes de prospective (1981)<note resp="editor" xml:id="fned57">« Quelques maximes de prospective », <hi rend="i">L’Historien et les relations internationales</hi>, Genève, Institut universitaire de hautes études internationales, 1981, p. 161-166.</note></head>
         <p rend="i">Dans le monde universitaire européen, au cours de ces dernières décennies, Jacques Freymond a été l’un des premiers à saisir à la fois l’importance d’une dis­cipline nouvelle, la prospective, et l’importance d’évaluer ses limites. En témoignage de gratitude pour tant d’occasions par lui offertes — conférences et groupes d’études — de mieux imaginer le problème de l’avenir, je lui dédie cette mise au point, provisoire par définition, de mes réflexions sur demain.</p>
@@ -2547,7 +2547,7 @@ Je relis cela aujourd’hui et je me dis : voilà qui est bel et bon pour les o
         <p>L’accroissement presque sans limites des dangers de destruction de la Nature et du même coup de l’homme qui en vit, rend ces désastres probables à court terme. C’est l’avenir de l’Humanité qui n’est plus ce qu’il était, et qui pourrait s’arrêter pile. À cause des dimensions sans précédent des moyens d’en finir avec la Terre et nous, d’un seul et même coup.</p>
         <p>L’avenir n’est plus ce qu’il était. Il est ce que nous saurons en faire, notre affaire.</p>
       </div>
-      <div type="article" when="1981" xml:id="ddr1981hc">
+      <div type="article" when="1981" xml:id="ddr19810000hc">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1978-1981/ddr1981hc_01.jpg/full/full/0/default.jpg" n="p. 298"/>
         <head>Hérétiques de toutes les religions, unissez-vous (1981)<note resp="editor" xml:id="fned58">« Hérétiques de toutes les religions, unissez-vous ! », <hi rend="i">Henry Corbin</hi>, Paris, L’Herne, 1981, p. 298-303. Nouvelle édition du texte publié sous le même titre en 1977.</note></head>
         <p>Un jour, dans notre jardin de Ferney, où les Corbin s’arrêtaient quelquefois, en route vers les rencontres d’Ascona, il s’écrie : <hi rend="i">Hérétiques de toutes les religions, unissez-vous</hi> !</p>
@@ -2656,7 +2656,7 @@ bien fondement de la Communauté religieuse. » Je prends cette phrase dans un 
           <p>Au-delà de toute appartenance communautaire — Église ou secte, « loge invisible » ou disciplines d’un ésotérisme rigoureux — tous condamnés par une orthodoxie qu’ils vénéraient pourtant à <hi rend="i">leur</hi> manière, les grands mystiques n’ont pas dit autre chose.</p>
         </div>
       </div>
-      <div type="article" when="1981" xml:id="ddr1981ra">
+      <div type="article" when="1981" xml:id="ddr19810000ra">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1978-1981/ddr1981ra_01.jpg/full/full/0/default.jpg" n="p. I"/>
         <head>Robert Aron, <hi rend="i">Fragments d’une vie</hi> [préface] (1981)<note resp="editor" xml:id="fned60">« Préface à <hi rend="i">Fragments d’une vie</hi> de Robert Aron », Plon, 1981, p. I-VII.</note></head>
         <p>Robert Aron, pour moi, fut l’un des premiers visages du Paris intellectuel que je découvrais au seuil des années 1930, et où j’allais vivre ma jeunesse littéraire, politique et spirituelle. Je le revois dans ces années décisives, où les ombres montaient à l’Est, démesurées, devant nos démocraties inconscientes de leur état de désuétude. Nous fondions les premiers groupuscules et les premières revues personnalistes. Il venait du surréalisme, disait-on, ce qui lui valait à mes yeux une sorte d’aura d’aventure, s’était occupé de cinéma, et disposait chez Gaston Gallimard, dont il était le secrétaire, d’un bureau contigu à la mansarde où <ref target="https://www.unige.ch/rougemont/correspondances/paulhan">Jean Paulhan</ref>, seul avec sa femme, faisait la <ref target="https://www.unige.ch/rougemont/articles/nrf"><hi rend="i">NRF</hi></ref> — pour moi, tel que j’étais alors, centre absolu de la littérature au <num>xx<hi rend="sup">e</hi></num> siècle.</p>
@@ -2698,7 +2698,7 @@ fédéralistes. Alexandre Marc est devenu le délégué général de l’Union. 
         <p><pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1978-1981/ddr1981ra_07.jpg/full/full/0/default.jpg" n="p. VII"/>
 Mais revenons à la personne de notre ami. Un dernier trait de son caractère et de son œuvre d’historien me paraît se révéler finalement comme essentiel. Quand vous aurez lu ces <hi rend="i">Fragments</hi>, reprenez <hi rend="i">L’Histoire de Vichy, L’Histoire de la Libération</hi>, et les quatre volumes de <hi rend="i">L’Histoire de l’épuration</hi>. À la lumière de l’avant-propos qui introduit la seconde partie, et du chapitre sur « la Trahison et les Traîtres », vous verrez mieux à quel point l’habitaient le sens du respect absolu de l’autre en tant qu’autre, le sens de l’infinie diversité des vocations, qui est le sens même du personnalisme, de l’éthique du fédéralisme et de sa vertu la plus profonde : <hi rend="i">la tolérance rigoureuse</hi>, — celle qui n’est pas facilitée, ni mollesse du jugement, mais justice rendue à l’unique en chacun. Je rejoins ici Jean Guitton, lorsqu’il écrit de son ami : « … fermant les yeux, cherchant un seul mot pour le définir, le soir de sa mort, je ne trouve que ce que l’Évangile dit de Joseph : ‟C’était un Juste” ».</p>
       </div>
-      <div type="article" when="1981" xml:id="ddr1981gp">
+      <div type="article" when="1981" xml:id="ddr19810000gp">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1978-1981/ddr1981gp_01.jpg/full/full/0/default.jpg" n="p. 7"/>
         <head>Guy de Pourtalès l’Européen [préface] (1981)<note resp="editor" xml:id="fned62">« Guy de Pourtalès l’Européen », préface à <hi rend="i">Guy de Pourtalès : exposition du centenaire, 1881‑1981</hi>, Genève, Musée des Suisses à l’étranger, 1981, p. 7‑10.</note></head>
         <p>Qu’attendre d’une exposition sur la carrière d’un écrivain, sinon qu’elle donne à voir ce que ses livres ont décrit parfois sans le vouloir, romancé, travesti ou passé sous silence : l’environnement dans le temps et l’espace, dans l’histoire et dans la culture, d’une aventure personnelle qui se <hi rend="i">détache</hi> sur ce fond.</p>
@@ -2742,7 +2742,7 @@ Et c’est tout le romantisme européen que vont réveiller parmi nous, dans les
           <p>L’exposition du centenaire va le faire voir : avec une élégance désinvolte et modeste, Guy de Pourtalès prend aujourd’hui sa juste place, celle du plus naturellement européen des écrivains de langue française dans notre siècle.</p>
         </div>
       </div>
-      <div type="article" when="1981" xml:id="ddr1981ricq">
+      <div type="article" when="1981" xml:id="ddr19810000ricq">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1978-1981/ddr1981ricq_01.jpg/full/full/0/default.jpg" n="p. IX"/>
         <head>Charles Ricq, <hi rend="i">Les Travailleurs frontaliers en Europe</hi> [préface] (1981)<note resp="editor" xml:id="fned64">Préface à Charles <hi rend="sc">Ricq</hi>,<hi rend="i"> Les Travailleurs frontaliers en Europe : essai de politique sociale et régionale</hi>, Paris, Éditions Anthropos, 1981, p. IX-XI.</note></head>
         <p>« Non scientifique », « utopique », « rousseauiste » ou pire encore : « de droite », tel apparut le phénomène régional dans les années soixante de ce siècle, et tel était-il hier encore aux yeux de jacobins fiers de l’être et qui entendaient le rester à jamais envers et contre toute réalité.</p>
@@ -2818,7 +2818,7 @@ Si, à ce moment-là, il y a chez les Européens, et chez les Suisses qui nous i
           <p>Je n’ai jamais été optimiste. J’ai toujours été, depuis mes tout premiers écrits sur des questions politiques, un pessimiste actif. Je ne pense pas que les choses soient disposées de manière à aller bien toutes seules. Je pense que si on les laisse aller, elles iront très mal. Et, dans la mesure où nous sommes actifs, quelles que soient nos chances de succès évaluables aujourd’hui, nous sauvons au moins notre dignité personnelle. Nous serons au moins des personnes qui auront essayé de faire quelque chose. Et après tout, pour moi, le but de la société, ce n’est pas la puissance collective, c’est la liberté. Et quel meilleur emploi pourrais-je en faire que de me battre pour la volonté de liberté des personnes, contre la volonté de puissance des États ?</p>
         </div>
       </div>
-      <div type="article" when="1981-05" xml:id="ddr198105cert">
+      <div type="article" when="1981-05" xml:id="ddr19810500cert">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1978-1981/ddr198105cert_01.jpg/full/full/0/default.jpg" n="p. 28"/>
         <head>L’Avenir est notre affaire (mai 1981)<note resp="editor" xml:id="fned66">« L’Avenir est notre affaire », <hi rend="i">Certitudes</hi>, Bevaix, mai 1981, p. 28-30. Propos recueillis par Sabine Cimasoni.</note></head>
         <label type="question">Comment la situation a-t-elle évolué depuis la parution de <ref target="https://www.unige.ch/rougemont/livres/ddr1977aena">votre livre</ref> ?</label>
@@ -2938,7 +2938,7 @@ voir que nous ne correspondons pas aux descriptions qu’on leur a faites. Loin 
           <p>Je ne suis pas capable de donner le moindre conseil technique, bien entendu. Je ne peux que leur rappeler les lignes générales, le cadre et les conditions civiques de l’action régionaliste. Il n’y aura pas de régions s’il n’y a pas un réveil du civisme et ce réveil du civisme, il doit se faire à tous les échelons et d’abord dans la commune. Il faut que les gens soient conscients de leurs problèmes et conscients que c’est à eux de les résoudre. C’est tellement facile de s’en remettre toujours aux autres. Vous savez, en général, les gens redoutent la liberté. Ils en ont plus peur qu’envie, car liberté cela signifie aussi responsabilité. Il faut que chacun prenne ses responsabilités.</p>
         </div>
       </div>
-      <div type="article" when="1981-10" xml:id="ddr198110res">
+      <div type="article" when="1981-10" xml:id="ddr19811000res">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1978-1981/ddr198110res_01.jpg/full/full/0/default.jpg" n="p. 310"/>
         <head>Information n’est pas savoir (octobre 1981)<note resp="editor" xml:id="fned69">« Information n’est pas savoir », <hi rend="i">Revue économique et sociale</hi>, Lausanne, n° 4, octobre 1981, p. 310-320.</note></head>
         <div>
@@ -3117,7 +3117,7 @@ Nous sommes au seuil d’une civilisation rendue fragile par quantité de facteu
           <p>Ce texte est suffisamment clair et résume mon point de vue sur l’informatique.</p>
         </div>
       </div>
-      <div type="article" when="1981-10" xml:id="ddr198110diog">
+      <div type="article" when="1981-10" xml:id="ddr19811000diog">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1978-1981/ddr198110diog_01.jpg/full/full/0/default.jpg" n="p. 3"/>
         <head>Information n’est pas savoir (octobre-décembre 1981)<note resp="editor" xml:id="fned71">« Information n’est pas savoir », <hi rend="i">Diogène</hi>, Paris, n° 116, octobre-décembre 1981, p. 3-19.</note></head>
         <p>Une des raisons principales du désarroi dans lequel nous jettent les récents développements de la technologie et en général des sciences physiques, chimiques et biologiques, consiste dans notre inaptitude à relier nos moyens et nos buts, à subordonner les premiers aux seconds, à vérifier sans cesse leur convenance ou leur incompatibilité, et à les évaluer globalement par rapport aux fins dernières de l’homme.</p>
