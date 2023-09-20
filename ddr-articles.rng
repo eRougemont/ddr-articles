@@ -82,7 +82,9 @@
           <ref name="indexable"/>
         </choice>
       </oneOrMore>
-      <ref name="note"/>
+      <oneOrMore>
+        <ref name="note"/>
+      </oneOrMore>
     </element>
   </define>
 </grammar>
