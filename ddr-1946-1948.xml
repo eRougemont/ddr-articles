@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- <?xml-model href="ddr-articles.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> -->
+<?xml-model href="ddr-articles.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="http://oeuvres.github.io/teinte/author-tei.css"?>
 <?xml-stylesheet type="text/xsl" href="https://oeuvres.github.io/teinte_xsl/tei_html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ddr-1946-1948" xml:lang="fr">
@@ -395,13 +395,7 @@ en droit d’y voir une « révolte des instincts », ou d’y dénoncer je ne
       <div type="article" when="1947-03" xml:id="ddr19470300font">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1946-1948/ddr194703font_01.jpg/full/full/0/default.jpg" n="p. 899"/>
         <head>Journal d’un intellectuel en exil (mars 1947)<note resp="editor" xml:id="fned9">« Journal d’un intellectuel en exil », <hi rend="i">Fontaine</hi>, Alger, n° 58, mars 1947, p. 899-916.</note></head>
-        <biblStruct>
-                <monogr>
-                        <imprint></imprint>
-                </monogr>
-        </biblStruct>
-        <bibl></bibl>
-              <label type="dateline">Janvier 1941</label>
+        <label type="dateline">Janvier 1941</label>
         <p><hi rend="sc">L’avant-garde à New York</hi>. — J’ai enfin découvert un « milieu littéraire » dans ce pays. Et ce n’était pas une terrasse de café, ni l’antichambre d’une maison d’édition, ni un salon — rien de tout cela n’existe en Amérique — mais une <hi rend="i">party</hi>. Et cette <hi rend="i">party</hi> n’était pas animée par la vivacité des discussions, la coquetterie des femmes, ou la célébrité des invités, mais par les plateaux de cocktails que l’on passait continuellement d’un groupe à l’autre. Il y avait là bon nombre des « intellectuels » de vingt à quarante ans dont je retrouve les noms dans les petites revues de l’avant-garde américaine. Peu de gaieté bruyante, mais un humour bonhomme, un peu loufoque, et beaucoup de sérieux professoral : car les poètes ici sont professeurs, tandis que les romanciers sont plutôt journalistes. Quant à leurs femmes et amies, elles m’ont paru cultiver le genre des nihilistes russes d’antan. La plupart sont trotskistes, ont lu Freud, ou en parlent.</p>
         <p><pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1946-1948/ddr194703font_02.jpg/full/full/0/default.jpg" n="p. 900"/>
 À lire les revues ou <hi rend="i">little mags</hi> où ils écrivent, à les voir chez eux ou ensemble, j’éprouve une sorte de tristesse. Ils paraissent encore moins intégrés que leurs confrères européens à la vie de leur propre nation. Cela tient sans doute à mille raisons matérielles et sociales d’abord, dont j’ai deviné quelques-unes en fréquentant les éditeurs d’ici. Atteindre le public d’un si vaste pays suppose trop de compromissions visant au succès commercial. Les meilleurs se voient donc relégués dans une opposition sans portée politique, spectateurs irrités de la vie américaine, disciples réticents de nos écoles d’Europe, cherchant une méthode de pensée plutôt que des fondements spirituels, compensant par la brusquerie de leurs jugements et un style <hi rend="i">tough</hi> (nous dirions « dur » ou « vache ») leur défaut de responsabilité. Tout cela ne les empêche pas, bien au contraire, de rechercher surtout la « vie » dans leurs écrits, avec une sorte de nostalgie à la Lawrence. Ils jugent en général trop formalistes ou rhétoriques nos poèmes et nos essais.</p>
@@ -673,7 +667,7 @@ le plus faible. Elle s’oppose donc à tout ce que les autres proposent. Elle s
           <p>Sur quoi je lui cite la parole de Lyautey qui avait demandé qu’on plante devant sa résidence une arbre d’une espèce rare ; et comme le jardinier lui objectait que ces arbres-là prennent plus d’un siècle à se développer : « Vous voyez, riposta le maréchal, il n’y a pas une seconde à perdre ! »</p>
         </div>
       </div>
-      <div type="article" when="1947-08-30" xml:id="ddr19470830trige">
+      <div type="article" when="1947-08-31" xml:id="ddr19470831trige">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1946-1948/ddr19470830trige_01.jpg/full/full/0/default.jpg" n="p. 9"/>
         <head>Conversation à bâtons rompus avec M. Denis de Rougemont (30-31 août 1947)<note resp="editor" xml:id="fned14">« Conversation à bâtons rompus avec M. Denis de Rougemont », <hi rend="i">Tribune de Genève</hi>, Genève, 30-31 août 1947, p. 9.</note></head>
         <label type="question">L’émouvante profession de foi fédéraliste qu’a entendue le congrès des fédéralistes européens de la bouche de M. Denis de Rougemont a eu un retentissement considérable.</label>
@@ -881,7 +875,7 @@ Je demande à Denis de Rougemont quels hommes prendraient part aux états géné
         <p>La bombe n’est pas dangereuse du tout, me répond-il. C’est un objet. Les objets ne m’ont jamais fait peur, non plus que les machines. Ce qui est dangereux, horriblement dangereux, c’est l’homme. C’est lui qu’il faut contrôler.</p>
         <p>Adieu !</p>
       </div>
-      <div type="article" when="1948" xml:id="ddr19480000cpl">
+      <div type="article" when="1948-01" xml:id="ddr19480100cpl">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-1946-1948/ddr1948cpl_01.jpg/full/full/0/default.jpg" n="p. 57"/>
         <head>Notes sur la voie clandestine (hiver 1948)<note resp="editor" xml:id="fned19">« Notes sur la voie clandestine », <hi rend="i">Cahiers de la Pléiade</hi>, Paris, n° 3, hiver 1948, p. 57-63.</note></head>
         <p>Il faut être aussi rationnel que possible. Pas davantage. On verra bien jusqu’où cela va. Ensuite on verra mieux ce qui va plus loin. Ce n’est pas une erreur qui doit ouvrir la voie. Mais essayons de ramener l’attention sur cet obstacle tant de fois refusé dans un écart désarçonnant : qu’est-ce que le destin d’un homme, — mon destin ? C’est ici que la voie prend naissance.</p>
