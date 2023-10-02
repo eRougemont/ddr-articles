@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="https://oeuvres.github.io/teinte_xsl/tei_html.xsl"?>
 <?xml-model href="ddr-articles.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xml:id="ddr-bcec" xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ddr-bcec" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -39,13 +39,13 @@
     <body>
       <div type="article" when="1951-05" xml:id="ddr19510500bcec">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195105bcec_01.jpg/full/full/0/default.jpg" n="p. 13"/>
-        <head>Extrait du discours prononcé par Denis de Rougemont à l’inauguration du Centre (mai 1951)<note resp="editor">« Extrait du discours prononcé par Denis de Rougemont à l’inauguration du Centre », <title xml:lang="fr">Bulletin du Centre européen de la culture</title>, Genève, n° 1, mai 1951, p. 13.</note></head>
+        <head>Extrait du discours prononcé par Denis de Rougemont à l’inauguration du Centre (mai 1951)<note resp="editor">Rougemont, Denis de, « Extrait du discours prononcé par Denis de Rougemont à l’inauguration du Centre », <hi>Bulletin du Centre européen de la culture</hi>, Genève, mai 1951, p. 13.</note></head>
         <p>Notre programme n’est pas systématique, et il n’est pas non plus rigide. Il reste ouvert à l’événement. J’oserais dire qu’à certains égards, il est moins décisif en soi que l’existence même de ce Centre, par où j’entends que le principal, c’est qu’il y ait en Europe un lieu consacré à l’esprit, où des hommes travaillant en équipe vouent leurs efforts à l’union de l’Europe, c’est-à-dire au service d’une cause qui se confond aujourd’hui avec celle des hommes libres.</p>
         <p>Car en fin de compte, pourquoi faut-il sauver l’Europe ? Non point pour l’opposer aux grandes nations nouvelles, non point pour élargir l’esprit nationaliste aux dimensions du continent, non par orgueil ou par satisfaction de nous-mêmes, et encore moins avec le fol espoir d’apaiser à jamais tous nos conflits, mais au contraire : pour maintenir les risques de la liberté, qui ont fait la vraie grandeur de l’homme européen, et pour sauver, en face de la terre des masses, et de la terre des machines, et des terres immenses de la fatalité, une Europe qui demeure la terre des hommes.</p>
       </div>
       <div type="article" when="1952-03" xml:id="ddr19520300bcec">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195203bcec_01.jpg/full/full/0/default.jpg" n="p. 3"/>
-        <head>Présentation du Centre européen de la culture (mars 1952)<note resp="editor">« Présentation », <title xml:lang="fr">Bulletin du Centre européen de la culture</title>, Genève, n° 1, mars 1952, p. 3-6.</note></head>
+        <head>Présentation du Centre européen de la culture (mars 1952)<note resp="editor">Rougemont, Denis de, « Présentation », <hi>Bulletin du Centre européen de la culture</hi>, Genève, mars 1952, p. 3–6.</note></head>
         <p>Quelques milliers d’hommes et de femmes, dans chacun de nos pays, s’inquiètent pour l’avenir immédiat de l’Europe. Ils voient qu’elle s’unit trop lentement, peut-être mal. Ils n’ont pas grande confiance dans le jeu politique des États souverains et des partis, quand il s’agit de surmonter les égoïsmes que les États et les partis, précisément, sont chargés de défendre, et qui nous ruinent, ils sentent que l’esprit manque trop souvent dans tout cela. Ils voudraient bien faire quelque chose, mais ne voient ni quoi, ni comment.</p>
         <p>C’est à ceux-là que nous nous adressons. Nous leur proposons une action « européenne » autant par son esprit que par ses buts, précise, modeste d’apparence, mais <hi rend="i">immédiate</hi> et totalement <hi rend="i">indépendante</hi>.</p>
         <div>
@@ -88,7 +88,7 @@
       </div>
       <div type="article" when="1952-04" xml:id="ddr19520400bcec">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195204bcec_01.jpg/full/full/0/default.jpg" n="p. 3"/>
-        <head>Contre la culture organisée (avril 1952)<note resp="editor">« Contre la culture organisée », <title xml:lang="fr">Bulletin du Centre européen de la culture</title>, Genève, n° 2, avril 1952, p. 3-6.</note></head>
+        <head>Contre la culture organisée (avril 1952)<note resp="editor">Rougemont, Denis de, « Contre la culture organisée », <hi>Bulletin du Centre européen de la culture</hi>, Genève, avril 1952, p. 3–6.</note></head>
         <p>Chacun connaît l’histoire du paysan qui affirmait sortir de l’église, non du café. « Ah tu étais à l’église ? lui dit sa femme. Dis-moi donc le sujet du sermon ? — Euh… le péché. — Et qu’est-ce qu’il en a dit, le pasteur ? — Ben… il était plutôt contre ! »</p>
         <p>Le péché contre l’esprit, dans notre Europe en voie d’union, ce serait de vouloir <hi rend="i">organiser</hi> la culture, et notre Centre est « plutôt contre ».</p>
         <p>Car l’organisation est le fait de l’État, mais la culture est le fait des groupements spontanés, et en dernier ressort, de la personne.</p>
@@ -131,7 +131,7 @@
       </div>
       <div type="article" when="1952-07" xml:id="ddr19520700bcec">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195206bcec_01.jpg/full/full/0/default.jpg" n="p. 3"/>
-        <head>Le dialogue Europe-Amérique (juin-juillet 1952)<note resp="editor">« Le dialogue Europe-Amérique », <title xml:lang="fr">Bulletin du Centre européen de la culture</title>, Genève, n° 4, juin-juillet 1952, p. 3-7.</note></head>
+        <head>Le dialogue Europe-Amérique (juin-juillet 1952)<note resp="editor">Rougemont, Denis de, « Le dialogue Europe-Amérique », <hi>Bulletin du Centre européen de la culture</hi>, Genève, juin–juillet 1952, p. 3–7.</note></head>
         <p>Sous son aspect de tentation intellectuelle, le stalinisme est en recul marqué dans nos pays. À Paris et à Rome, où il avait conquis au lendemain de la guerre d’importantes positions stratégiques dans les lettres, les arts et les sciences, le dernier carré de ses adhérents lutte en retraite, médiocrement soutenu par le parti. Ses vedettes se taisent ou rompent avec lui, ses hebdomadaires périclitent ou meurent, son prestige s’évanouit avec la légende de son efficacité.</p>
         <p>Or ce reflux — dont rien n’indique qu’il soit simplement temporaire — découvre une situation nouvelle. Dès l’instant où la menace du stalinisme perd son urgence dans le domaine culturel, un problème d’un autre ordre apparaît, qui se pose lui aussi à <hi rend="i">l’ensemble</hi> de la vie de l’esprit en Europe : c’est le problème de l’influence américaine.</p>
         <div>
@@ -180,7 +180,7 @@
       </div>
       <div type="article" when="1952-09" xml:id="ddr19520900bcec">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195208bcec_01.jpg/full/full/0/default.jpg" n="p. 25"/>
-        <head>Le dialogue Europe-USA (août-septembre 1952)<note resp="editor">« Le dialogue Europe-USA », <title xml:lang="fr">Bulletin du Centre européen de la culture</title>, Genève, n° 5, août-septembre 1952, p. 25.</note></head>
+        <head>Le dialogue Europe-USA (août-septembre 1952)<note resp="editor">Rougemont, Denis de, « Le dialogue Europe-USA », <hi>Bulletin du Centre européen de la culture</hi>, Genève, août–septembre 1952, p. 25.</note></head>
         <p><ref target="https://www.unige.ch/rougemont/articles/bcec/ddr195206bcec">L’éditorial de notre bulletin de juin-juillet</ref> a suscité de nombreux échos. Une trentaine de quotidiens et de revues du Continent l’ont reproduit en tout ou partie, et commenté dans un sens favorable. Il est clair que le problème des relations « culturelles » — au sens le plus large du mot — entre les USA et l’Europe devient de plus en plus actuel, et tous ceux dont la réflexion dépasse le plan des expédients politiques et militaires en prennent conscience.</p>
         <p>Nous en voyons une preuve nouvelle dans la multiplication des groupes de discussion organisés au cours de ces dernières semaines sur le thème Europe-Amérique. Trois exemples :</p>
         <p>— du 19 au 21 juillet, à Willingen près Kassel, rencontre organisée par la <hi rend="i">Commission œcuménique de coopération européenne</hi> (douze Américains et douze Européens) ;</p>
@@ -190,7 +190,7 @@
       </div>
       <div type="article" when="1952-10" xml:id="ddr19521000bcec">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195210bcec_01.jpg/full/full/0/default.jpg" n="p. 3"/>
-        <head>Culture et politique européenne (octobre 1952)<note resp="editor">« Culture et politique européenne », <title xml:lang="fr">Bulletin du Centre européen de la culture</title>, Genève, n° 6, octobre 1952, p. 3-7.</note>
+        <head>Culture et politique européenne (octobre 1952)<note resp="editor">Rougemont, Denis de, « Culture et politique européenne », <hi>Bulletin du Centre européen de la culture</hi>, Genève, octobre 1952, p. 3–7.</note>
           <note resp="editor">Rapport présenté à la Conférence des Jeunesses politiques européennes.</note></head>
         <p>1. Je poserai tout d’abord une question très directe : <hi rend="i">Pourquoi parler de culture dans un congrès rassemblant des jeunesses politiques</hi> ?</p>
         <p>Les hommes politiques qui se préoccupent du problème de l’union de nos pays considèrent que l’Europe doit être unie pour des raisons politiques et économiques. Ces raisons, bien connues désormais, sont la menace russe, la prépondérance américaine, la nécessité absolue d’élargir nos marchés nationaux, la volonté de régler le vieux conflit franco-allemand, la nostalgie de l’indépendance de nos pays.</p>
@@ -229,7 +229,7 @@
       </div>
       <div type="article" when="1952-11" xml:id="ddr19521100bcec">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195211bcec_01.jpg/full/full/0/default.jpg" n="p. 6"/>
-        <head>Rapport moral présenté par M. Denis de Rougemont (novembre 1952)<note resp="editor">« Rapport moral présenté par M. Denis de Rougemont, directeur du CEC », <title xml:lang="fr">Bulletin du Centre européen de la culture</title>, Genève, n° 7, novembre 1952, p. 6-10.</note></head>
+        <head>Rapport moral présenté par M. Denis de Rougemont (novembre 1952)<note resp="editor">Rougemont, Denis de, « Rapport moral présenté par M. Denis de Rougemont, directeur du CEC », <hi>Bulletin du Centre européen de la culture</hi>, Genève, novembre 1952, p. 6–10.</note></head>
         <p>Le Centre existe depuis deux ans, et pourtant, à plusieurs égards, il nous donne souvent l’impression d’être encore en pleine formation : l’élargissement de notre Conseil, dès aujourd’hui, en est un signe, fort heureux d’ailleurs.</p>
         <p>Vous allez entendre une série de rapports sur nos activités diverses, présentés par leurs animateurs et par nos conseillers techniques. Je puis donc me borner, pour ma part, à dégager les grandes lignes de l’évolution du CEC.</p>
         <div>
@@ -276,7 +276,7 @@
       </div>
       <div type="article" when="1953-01" xml:id="ddr19530100bcec_p0003">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195212bcec_p3_01.jpg/full/full/0/default.jpg" n="p. 3"/>
-        <head>À propos de la crise de l’Unesco (décembre-janvier 1953)<note resp="editor">« À propos de la crise de l’Unesco », <hi rend="i">Bulletin du Centre européen de la culture</hi>, Genève, n° 8, décembre-janvier 1953, p. 3-7.</note></head>
+        <head>À propos de la crise de l’Unesco (décembre-janvier 1953)<note resp="editor">Rougemont, Denis de, « À propos de la crise de l’Unesco », <hi>Bulletin du Centre européen de la culture</hi>, Genève, décembre 1952–janvier 1953, p. 3–7.</note></head>
         <p>La démission de M. Trygve Lie a fait parler d’une crise des Nations unies, par conséquent de la politique mondiale. Survenant peu de jours après, la démission de M. Torrès-Bodet, directeur général de l’Unesco, ne révèle certes pas une crise de la culture, mais bien du principe même des organismes culturels dépendants de la politique. À ce titre, elle mérite un examen, que presque toutes les revues ont négligé de faire, en vertu de la curieuse indifférence dont témoignent, à l’endroit de l’Unesco, les milieux proprement culturels. Nous ne voyons, pour notre part, aucune raison d’affecter la pudeur dans ce domaine. Disons que la crise est grave, que le départ de M. Jaime Torrès-Bodet n’a rien eu de diplomatique, que ce poète, ministre, et grand éducateur est parti en claquant la porte, non sans avoir déclaré vertement qu’il avait cessé de croire à ce qu’il dirigeait.</p>
         <div>
           <head>D’où vient le malaise ?</head>
@@ -327,7 +327,7 @@
       </div>
       <div type="article" when="1953-01" xml:id="ddr19530100bcec_p0008">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195212bcec_p8_01.jpg/full/full/0/default.jpg" n="p. 8"/>
-        <head>Conférence de compositeurs, critiques musicaux et exécutants (décembre 1952-janvier 1953)<note resp="editor">« Une nouvelle initiative du CEC : Conférence de compositeurs, critiques musicaux et exécutants », <title xml:lang="fr">Bulletin du Centre européen de la culture</title>, n° 8-9, décembre 1952-janvier 1953, p. 8-11.</note></head>
+        <head>Conférence de compositeurs, critiques musicaux et exécutants (décembre 1952-janvier 1953)<note resp="editor">Rougemont, Denis de, « Une nouvelle initiative du CEC : Conférence de compositeurs, critiques musicaux et exécutants », <hi>Bulletin du Centre européen de la culture</hi>, Genève, décembre 1952–janvier 1953, p. 8–11.</note></head>
         <div>
           <head>Motifs et objectifs</head>
           <p>L’un des faits les plus frappants de la vie musicale actuelle en Europe, c’est que des œuvres de compositeurs célèbres de la génération précédente figurent à tous les répertoires, tandis que celles des compositeurs de la jeune génération sont presque uniquement jouées dans leur pays d’origine. Les jeunes compositeurs américains connaissent rarement ce que font leurs confrères européens ; la situation est la même pour les jeunes compositeurs des différents pays européens. De plus, les compositeurs, qui avant la guerre avaient de nombreuses occasions de se rencontrer et d’établir des contacts internationaux, en sont pratiquement privés aujourd’hui.</p>
@@ -386,7 +386,7 @@
       </div>
       <div type="article" when="1953-04" xml:id="ddr19530400bcec_p0001">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-courfed/ddr195304courfed_p1_01.jpg/full/full/0/default.jpg" n="p. 1"/>
-        <head>Situation de l’Europe en avril 1953 (avril 1953)<note resp="editor">« Situation de l’Europe en avril 1953 », <title xml:lang="fr">Courrier fédéral</title>, Genève, n° 1, avril 1953, p. 1-6.</note></head>
+        <head>Situation de l’Europe en avril 1953 (avril 1953)<note resp="editor">Rougemont, Denis de, « Situation de l’Europe en avril 1953 », <hi>Courrier fédéral</hi>, Genève, avril 1953, p. 1–6.</note></head>
         <div>
           <head>L’Europe au point mort ?</head>
           <p>Au moment même où viennent d’être posées les premières bases de l’union, l’opinion se demande « si l’Europe est en panne ». Les uns voient la fédération en plein démarrage, les autres la disent au point mort. Mais la contradiction n’est qu’apparente, car les deux jugements sont exacts. En effet, pour changer de vitesse, il faut passer par le point mort. Mais pendant ce temps la voiture roule.</p>
@@ -444,7 +444,7 @@
       </div>
       <div type="article" when="1953-04" xml:id="ddr19530400bcec_p0023">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-courfed/ddr195304courfed_p23_01.jpg/full/full/0/default.jpg" n="p. 23"/>
-        <head>Aller et retour (avril 1953)<note resp="editor">« Aller et retour », <title xml:lang="fr">Courrier fédéral</title>, Genève, n° 1, avril 1953, p. 23-25.</note></head>
+        <head>Aller et retour (avril 1953)<note resp="editor">Rougemont, Denis de, « Aller et retour », <hi>Courrier fédéral</hi>, Genève, avril 1953, p. 23–25.</note></head>
         <p>Parmi toutes les raisons de faire l’Europe, économiques, militaires, culturelles, il y a celle-ci, qui n’est pas négligeable : rendre nos différentes nations indépendantes de l’aide américaine.</p>
         <p>J’écris ceci dans la pleine conviction qu’il n’est pas un des responsables de la politique mondiale des États-Unis qui souhaite nous réduire à l’état de satellites. Mais nos faiblesses, nées de notre manque d’union, appellent dangereusement l’Amérique à prendre en main le sort de débiteurs chroniques. Déjà, dans plusieurs de nos pays, nationalistes et communistes s’unissent pour dénoncer « l’emprise économique des USA », représentée à leurs yeux par le plan Marshall et ses suites ; « l’arrogance de Washington », confirmée à leurs yeux par le voyage d’études de M. Dulles et certains articles de <hi rend="i">Life</hi> ; enfin « l’invasion culturelle » de Wall Street symbolisée par le succès des <hi rend="i">digests</hi>. Selon les inspirateurs de cette campagne — laquelle se branche sur le sentiment spontané de larges masses, latines surtout — les nations européennes seraient déjà réduites au rôle de simples « instruments de la grandeur américaine ».</p>
         <p>Mais quel remède nous offre-t-on à cette situation humiliante ? Le statu quo ? L’éloquence indignée ? L’adoption de la ligne communiste ?</p>
@@ -465,7 +465,7 @@
       </div>
       <div type="article" when="1953-06" xml:id="ddr19530600bcec">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-courfed/ddr195305courfed_01.jpg/full/full/0/default.jpg" n="p. 1"/>
-        <head>Situation de l’Europe en juin 1953 (mai-juin 1953)<note resp="editor">« Situation de l’Europe en juin 1953 », <title xml:lang="fr">Courrier fédéral</title>, Genève, n° 2-3, mai-juin 1953, p. 1-7.</note></head>
+        <head>Situation de l’Europe en juin 1953 (mai-juin 1953)<note resp="editor">Rougemont, Denis de, « Situation de l’Europe en juin 1953 », <hi>Courrier fédéral</hi>, Genève, mai–juin 1953, p. 1–7.</note></head>
         <div>
           <head>Crise</head>
           <p>Deux de nos grandes nations traversent une période de paralysie politique. Les Russes en profitent pour pousser leur tactique de « détente » visant à faire échouer la CED. Les États-Unis voient leur prestige baisser en Europe, et leur Congrès menace de réduire l’aide à certains de nos pays. Quant à notre opinion publique, dont le peu d’attention disponible est absorbé par les élections, les crises nationales, les prétendues « bombes diplomatiques » de l’Est et de l’Ouest, elle perd de vue le problème européen, qu’elle commençait tout juste à distinguer. Depuis deux mois, hors des milieux fédéralistes militants, personne ne parle plus de la Constitution.
@@ -543,7 +543,7 @@
       </div>
       <div type="article" when="1953-08" xml:id="ddr19530800bcec">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-courfed/ddr195307courfed_01.jpg/full/full/0/default.jpg" n="p. 1"/>
-        <head>Situation de l’Europe en août 1953 : Lettre aux Six (juillet-août 1953)<note resp="editor">« Situation de l’Europe en août 1953 : Lettre aux Six », <title xml:lang="fr">Courrier fédéral</title>, Genève, n° 4-5, juillet-août 1953, p. 1-6.</note></head>
+        <head>Situation de l’Europe en août 1953 : Lettre aux Six (juillet-août 1953)<note resp="editor">Rougemont, Denis de, « Situation de l’Europe en août 1953 : Lettre aux Six », <hi>Courrier fédéral</hi>, Genève, juillet–août 1953, p. 1–6.</note></head>
         <p>Messieurs les ministres,</p>
         <p>Dans chacun de vos pays, la question de l’Europe se voit liée au sort de votre ministère. Au début du mois d’août, vous vous rencontrerez pour décider si le projet de Constitution, rédigé sur votre demande, peut servir de base à l’union. Ces deux faits nous incitent à vous écrire.</p>
         <p>Nous voyons que l’Europe a besoin d’un Parlement et d’un exécutif qui lui permettent d’exister politiquement, et donc de s’affirmer comme une puissance. Nous cherchons à savoir si le Projet répond à cette nécessité fondamentale de notre histoire au
@@ -590,7 +590,7 @@
       </div>
       <div type="article" when="1953-10" xml:id="ddr19531000bcec">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195310bcec_01.jpg/full/full/0/default.jpg" n="p. 1"/>
-        <head>Perspectives du CEC (juillet octobre 1953)<note resp="editor">« Perspectives du CEC », <title xml:lang="fr">Bulletin du Centre européen de la culture</title>, Genève, n° 5-6, juillet-octobre 1953, p. 1-4.</note></head>
+        <head>Perspectives du CEC (juillet octobre 1953)<note resp="editor">Rougemont, Denis de, « Perspectives du CEC », <hi>Bulletin du Centre européen de la culture</hi>, Genève, juillet–octobre 1953, p. 1–4.</note></head>
         <div>
           <head>Cinq ans après</head>
           <p>Cinq ans après le Congrès de l’Europe, à La Haye, un autre congrès vient de se tenir dans la même ville et la même noble Salle des chevaliers.</p>
@@ -629,7 +629,7 @@
       </div>
       <div type="article" when="1953-11" xml:id="ddr19531100bcec">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195311bcec_01.jpg/full/full/0/default.jpg" n="p. 4"/>
-        <head>Une prise de conscience européenne (novembre-décembre 1953)<note resp="editor">« Une prise de conscience européenne », <hi rend="i">Bulletin du Centre européen de la culture</hi>, Genève, n° 7-8, novembre-décembre 1953, p. 4-8.</note></head>
+        <head>Une prise de conscience européenne (novembre-décembre 1953)<note resp="editor">Rougemont, Denis de, « Une prise de conscience européenne », <hi>Bulletin du Centre européen de la culture</hi>, Genève, novembre–décembre 1953, p. 4–8.</note></head>
         <p>L’une des œuvres les plus célèbres de Gauguin s’intitule : <hi rend="i">D’où venons-nous ? Où sommes-nous ? Où allons-nous</hi> ? Je n’imagine pas de meilleure devise pour la table ronde de l’Europe qui s’est tenue à Rome l’automne dernier.</p>
         <p>Pour situer rapidement cette entreprise, partons de la deuxième question : où sommes-nous, Européens, en ce milieu du <num>xx<hi rend="sup">e</hi></num> siècle ?</p>
         <p>Une phrase déjà fameuse, prononcée l’an dernier par le premier président de l’Assemblée de Strasbourg, Paul-Henri Spaak, répond d’une manière dramatique : « Nous autres Européens, nous vivons, depuis la dernière guerre, dans la peur des Russes et de la charité des Américains. » Je traduis maintenant les mots en chiffres, et cela donne le curieux résultat que voici : « À l’ouest du rideau de fer, 325 millions d’hommes vivent dans la peur de 190 millions et de la charité de 155 millions. »</p>
@@ -662,7 +662,7 @@
       </div>
       <div type="article" when="1954-05" xml:id="ddr19540500bcec">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195405bcec_01.jpg/full/full/0/default.jpg" n="p. 1"/>
-        <head>Trois initiales : trois questions, trois réponses (mai-juillet 1954)<note resp="editor">« Trois initiales : trois questions, trois réponses », <title xml:lang="fr">Bulletin du Centre européen de la culture</title>, Genève, n° 3-4, mai-juillet 1954, p. 1-4.</note></head>
+        <head>Trois initiales : trois questions, trois réponses (mai-juillet 1954)<note resp="editor">Rougemont, Denis de, « Trois initiales : trois questions, trois réponses », <hi>Bulletin du Centre européen de la culture</hi>, Genève, mai–juillet 1954, p. 1–4.</note></head>
         <p>— Pouvez-vous me dire en deux mots ce qu’est le Centre européen de la culture ?</p>
         <p>— Je veux bien être bref, mais il me faut trois mots. Ou plutôt je vous répondrai sur les questions que posent les trois mots de notre nom : <hi rend="i">Centre, Européen et Culture</hi>.</p>
         <div>
@@ -709,7 +709,7 @@
       </div>
       <div type="article" when="1954-05" xml:id="ddr19540500bcec_p0001">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-courfed/ddr195405courfed_p1_01.jpg/full/full/0/default.jpg" n="p. 1"/>
-        <head>Situation de l’Europe en mai 1954 : L’Europe bloquée (mai 1954)<note resp="editor">« Situation de l’Europe en mai 1954 : L’Europe bloquée », <title xml:lang="fr">Courrier fédéral</title>, Genève, n° 6-7, mai 1954, p. 1-5.</note></head>
+        <head>Situation de l’Europe en mai 1954 : L’Europe bloquée (mai 1954)<note resp="editor">Rougemont, Denis de, « Situation de l’Europe en mai 1954 : L’Europe bloquée », <hi>Courrier fédéral</hi>, Genève, mai 1954, p. 1–5.</note></head>
         <p>Notre <hi rend="i">Courrier</hi>, depuis des mois, s’est tu. Les lettres d’abonnés s’accumulent : que se passe-t-il ? La réponse est dans les journaux. Depuis des mois, la construction européenne se trouve dépendre de la CED, dont la grande presse, les députés et même certains hommes politiques ont cru qu’elle dépendrait des conférences de Berlin et de Genève. Bien peu voulaient encore s’occuper de l’essentiel, qui était, et qui reste à nos yeux, l’union politique de l’Europe, c’est-à-dire sa fédération.</p>
         <div>
           <head>La Russie à Berlin, ou l’Europe caricaturée</head>
@@ -751,7 +751,7 @@
       </div>
       <div type="article" when="1954-05" xml:id="ddr19540500bcec_p0033">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-courfed/ddr195405courfed_p33_01.jpg/full/full/0/default.jpg" n="p. 33"/>
-        <head>Deux notes sur la souveraineté nationale (mai 1954)<note resp="editor">« Deux notes sur la souveraineté nationale », <title xml:lang="fr">Courrier fédéral</title>, Genève, n° 6-7, mai 1954, p. 33-36.</note></head>
+        <head>Deux notes sur la souveraineté nationale (mai 1954)<note resp="editor">Rougemont, Denis de, « Deux notes sur la souveraineté nationale », <hi>Courrier fédéral</hi>, Genève, mai 1954, p. 33–36.</note></head>
         <div>
           <head>1. Peut-on fédérer des États souverains ?</head>
           <p>Parmi les fédérations réussies, l’on peut citer la Suisse sans soulever d’objections. Tout le monde sait que son régime politique est l’un des plus stables du monde, depuis plus d’un siècle. Les partisans de l’Europe unie ne manquent pas de le citer en exemple. Mais combien savent comment ce modèle d’un système politique fédéral a pris naissance en 1848 ?</p>
@@ -785,7 +785,7 @@
       </div>
       <div type="article" when="1954-11" xml:id="ddr19541100bcec">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195410bcec_01.jpg/full/full/0/default.jpg" n="p. 1"/>
-        <head>Éducation européenne (octobre-novembre 1954)<note resp="editor">« Éducation européenne », <title xml:lang="fr">Bulletin du Centre européen de la culture</title>, n° 6-7, octobre-novembre 1954, p. 1-4.</note></head>
+        <head>Éducation européenne (octobre-novembre 1954)<note resp="editor">Rougemont, Denis de, « Éducation européenne », <hi>Bulletin du Centre européen de la culture</hi>, Genève, octobre–novembre 1954, p. 1–4.</note></head>
         <div>
           <head>Rien n’est perdu, tout reste à faire</head>
           <p>Deux événements politiques ont absorbé l’attention des Européens et des militants de l’Europe unie depuis l’été dernier : l’abandon du projet de CED et les accords de Londres.</p>
@@ -831,7 +831,7 @@
       </div>
       <div type="article" when="1955-01" xml:id="ddr19550100bcec_p0001">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195412bcec_p1_01.jpg/full/full/0/default.jpg" n="p. 1"/>
-        <head>Orienter les espoirs européens (décembre 1954-janvier 1955)<note resp="editor">« Orienter les espoirs européens », <title xml:lang="fr">Bulletin du Centre européen de la culture</title>, Genève, n° 8-9, décembre 1954-janvier 1955, p. 1-3.</note></head>
+        <head>Orienter les espoirs européens (décembre 1954-janvier 1955)<note resp="editor">Rougemont, Denis de, « Orienter les espoirs européens », <hi>Bulletin du Centre européen de la culture</hi>, Genève, décembre 1954–janvier 1955, p. 1–3.</note></head>
         <p>Fédérer l’Europe semble une utopie pour ceux qui n’ont pas vu que c’est une nécessité. Pour nous qui l’avons vu, c’est une action.</p>
         <p>Action sur les esprits d’abord, comme le veut la réalité du <num>xx<hi rend="sup">e</hi></num> siècle. Il est très remarquable en effet que, dans ce siècle, pas un seul événement historique d’envergure n’ait été le fait des partis de gauche ou de droite, ni des politiciens, ni des parlements. Un doctrinaire brutal a provoqué la Révolution d’octobre. Un saint a libéré l’Inde. Un fou a subverti l’Allemagne. Un amateur distingué a sauvé les États-Unis ruinés par le « réalisme » des <hi rend="i">businessmen</hi>. Un grandiose hurluberlu — aux yeux des partis — a sauvé l’Angleterre et l’Occident. Une morale religieuse a permis la réussite sociale des États scandinaves et anglo-saxons. (Ce dernier exemple paraîtra le moins spectaculaire, mais à la réflexion c’est le plus convaincant, si toutefois les faits acquis, les succès durables et les progrès constants convainquent mieux que les cris et les slogans.)</p>
         <p>Nous vivons dans un siècle où, très visiblement, ce n’est pas la politique qui fait l’histoire ; mais une doctrine, une foi, une folie, une personne. On dit : la propagande. Mais elle n’est rien en soi, pas plus que l’écriture ou la typographie, et sans idée personne n’en tirera rien qui vaille. Le communisme fut une idée, le fédéralisme européen en est une. Le reste est un mélange d’intérêts mal compris et de déchets d’idées, combinés au hasard : tous les micros de la terre n’en feront pas une action.</p>
@@ -861,7 +861,7 @@
       </div>
       <div type="article" when="1955-01" xml:id="ddr19550100bcec_p0009">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195412bcec_p9_01.jpg/full/full/0/default.jpg" n="p. 9"/>
-        <head>Le rôle de la recherche en Europe (décembre 1954-janvier 1955)<note resp="editor">« Le rôle de la recherche en Europe », <title xml:lang="fr">Bulletin du Centre européen de la culture</title>, Genève, n° 8-9, décembre 1954-janvier 1955, p. 9‑13.</note>
+        <head>Le rôle de la recherche en Europe (décembre 1954-janvier 1955)<note resp="editor">Rougemont, Denis de, « Le rôle de la recherche en Europe », <hi>Bulletin du Centre européen de la culture</hi>, Genève, décembre 1954–janvier 1955, p. 9‑13.</note>
           <note resp="editor">Le texte est précédé de la note suivante : « Lors de l’inauguration du Battelle Memorial Institute, à Genève, le 26 novembre 1954, devant un public d’industriels et de savants de plusieurs pays d’Europe, le directeur du CEC a prononcé un discours dont nous donnons ici de larges extraits. »</note></head>
         <p>… Pourquoi la recherche en général ?</p>
         <p>Et pourquoi le besoin de chercher est-il vital pour les Européens ?</p>
@@ -896,7 +896,7 @@
       </div>
       <div type="article" when="1955-09" xml:id="ddr19550900bcec">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195508bcec_01.jpg/full/full/0/default.jpg" n="p. 1"/>
-        <head>Habeas Animam (été 1955)<note resp="editor">« Habeas Animam », <title xml:lang="fr">Bulletin du Centre européen de la culture</title>, Genève, numéro spécial, été 1955, p. 1-6.</note>
+        <head>Habeas Animam (été 1955)<note resp="editor">Rougemont, Denis de, « Habeas Animam », <hi>Bulletin du Centre européen de la culture</hi>, Genève, été 1955, p. 1–6.</note>
           <note resp="editor">Ce texte est précédé de l’introduction suivante : « L’idée naquit en décembre 1952. Elle se précisa jusqu’à l’été 1953, et les premiers qui en eurent connaissance s’y montrèrent aussitôt favorables. Il s’agissait à la fois d’élargir le cercle des amis du Centre européen de la culture, et de rassembler autour d’un grand projet — celui d’une Fondation à l’échelle européenne — des hommes qui s’étaient signalés dans leur sphère d’influence par leur intérêt actif pour la cause de l’union de nos peuples. Une série de prises de contact préalables aboutit à la convocation d’une quinzaine de personnes — industriels, banquiers, hommes politiques et intellectuels — qui se réunirent le 14 novembre 1953 au Pavillon Henri IV, à Saint-Germain-en-Laye. Lecture leur fut donnée du texte suivant. »</note></head>
         <div>
           <head>Situation de l’homme au <num>xx<hi rend="sup">e</hi></num> siècle</head>
@@ -969,7 +969,7 @@
       </div>
       <div type="article" when="1955-10" xml:id="ddr19551000bcec_p0001">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195510bcec_p1_01.jpg/full/full/0/default.jpg" n="p. 1"/>
-        <head>Lever de rideau culturel ? (octobre 1955)<note resp="editor">« Lever de rideau culturel ? », <title xml:lang="fr">Bulletin du Centre européen de la culture</title>, Genève, n° 1, octobre 1955, p. 1-5.</note></head>
+        <head>Lever de rideau culturel ? (octobre 1955)<note resp="editor">Rougemont, Denis de, « Lever de rideau culturel ? », <hi>Bulletin du Centre européen de la culture</hi>, Genève, octobre 1955, p. 1–5.</note></head>
         <div>
           <head>Les risques de la paix</head>
           <p>Mettant fin aux chances de la guerre, la bombe H nous rejette aux risques de la paix. La <hi rend="i">détente</hi> n’a pas d’autre origine. Elle ne résulte pas des intentions vertueuses, ni du degré de sincérité, ni de la tactique de l’un ou de l’autre des deux grands. Elle ne résulte pas de la conférence de Genève, qui n’en fut que l’index lisible. Elle se trouve imposée à tous, du seul fait de la puissance atomique. Ce n’est donc pas l’amour qui triomphe de la haine, ni la raison des folies partisanes, mais c’est plus simplement la peur. Entre deux blocs presque également armés — et de <hi rend="i">cette</hi> arme — il ne peut plus y avoir ce que l’on nommait une guerre, mais simplement une espèce de court-circuit mondial, brûlant tout, les deux pôles et l’entre-deux. Si le contraire de la guerre était la paix, le contraire de ce court-circuit, c’est la détente.</p>
@@ -1022,7 +1022,7 @@
       </div>
       <div type="article" when="1955-10" xml:id="ddr19551000bcec_p0017">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195510bcec_p17_01.jpg/full/full/0/default.jpg" n="p. 17"/>
-        <head>Pour les grands festivals de musique l’Europe est faite ! (octobre 1955)<note resp="editor">« Pour les grands festivals de musique l’Europe est faite ! », <title xml:lang="fr">Bulletin du Centre européen de la culture</title>, Genève, n° 1, octobre 1955, p. 17-18.</note></head>
+        <head>Pour les grands festivals de musique l’Europe est faite ! (octobre 1955)<note resp="editor">Rougemont, Denis de, « Pour les grands festivals de musique, l’Europe est faite ! », <hi>Bulletin du Centre européen de la culture</hi>, Genève, octobre 1955, p. 17–18.</note></head>
         <p>À la fin de 1951, répondant à une invitation lancée par le CEC, sur une proposition de son conseiller musical, Igor Markevitch, les directeurs d’une quinzaine de grands festivals se réunissaient à Genève et décidaient, dans un enthousiasme unanime, de créer entre eux une Association européenne des festivals de musique. Un an plus tard, le secrétariat qu’ils avaient constitué au Centre, publiait une première brochure contenant les programmes de tous les festivals membres pour la saison suivante. Premier témoignage tangible d’un esprit de collaboration substitué à l’esprit de concurrence, et d’une vision européenne, dépassant les intérêts locaux tout en les servant.</p>
         <p>L’idée initiale des promoteurs de l’association était de présenter les meilleurs festivals existants <hi rend="i">dans leur ensemble</hi>, comme une manifestation cohérente et unique de la musique européenne, dans toute la richesse de ses diversités régionales et historiques, mais aussi dans toute la grandeur de son unité fondamentale d’inspiration.</p>
         <p>Mais l’idéal ne prouve sa force que dans les réalisations auxquelles il donne naissance. Il doit être capable d’affronter les lentes et difficiles périodes d’adaptation aux réalités telles qu’elles sont, sans perdre pour autant son pouvoir d’entraînement au-delà de ces réalités.</p>
@@ -1037,7 +1037,7 @@
       </div>
       <div type="article" when="1955-12" xml:id="ddr19551200bcec_p0001">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195512bcec_01.jpg/full/full/0/default.jpg" n="p. 1"/>
-        <head>Pourquoi nous persévérons (décembre 1955)<note resp="editor">« Pourquoi nous persévérons », <title xml:lang="fr">Bulletin du Centre européen de la culture</title>, n° 2, décembre 1955, p. 1-2.</note></head>
+        <head>Pourquoi nous persévérons (décembre 1955)<note resp="editor">Rougemont, Denis de, « Après l’échec de Genève : Pourquoi nous persévérons », <hi>Bulletin du Centre européen de la culture : « Europe-URSS : la question des échanges culturels »</hi>, Genève, décembre 1955, p. 1–2.</note></head>
         <p>Toute la presse occidentale a parlé des « 17 <hi rend="i">niets</hi> de Molotov » à Genève. La question des échanges culturels serait donc tranchée négativement, les dix-sept offres ou demandes occidentales ayant été rejetées par le porte-parole des dirigeants de l’URSS. Il n’y aurait plus lieu d’en parler, jusqu’à ce qu’une « détente » moins trompeuse nous soit proposée par le Kremlin.</p>
         <p>Cette opinion nous paraît mal fondée, pour trois raisons :</p>
         <p>1. Il n’est pas exact que les 17 propositions occidentales relatives aux échanges culturels aient été rejetées uniformément. (Nous donnons plus loin un résumé analytique des discours prononcés à Genève sur ce sujet.)</p>
@@ -1059,7 +1059,7 @@
       </div>
       <div type="article" when="1955-12" xml:id="ddr19551200bcec_p0003">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195512bcec_p3_01.jpg/full/full/0/default.jpg" n="p. 3"/>
-        <head>Aperçu historique des relations culturelles Europe-Russie (des débuts à la guerre de 1914) (décembre 1955)<note place="foot" resp="editor">« Aperçu historique des relations culturelles Europe-Russie (des débuts à la guerre de 1914) », <hi rend="i">Bulletin du Centre européen de la culture : « Europe-URSS : la question des échanges culturels »</hi>, Genève, n° 2, décembre 1955, p. 3-14.</note>
+        <head>Aperçu historique des relations culturelles Europe-Russie (des débuts à la guerre de 1914) (décembre 1955)<note place="foot" resp="editor">Rougemont, Denis de, « Aperçu historique des relations culturelles Europe-Russie (des débuts à la guerre de 1914) », <hi>Bulletin du Centre européen de la culture : « Europe-URSS : la question des échanges culturels »</hi>, Genève, décembre 1955, p. 3–14.</note>
           <note resp="editor">Texte non signé. On dispose cependant d’un manuscrit de Rougemont aux archives de la Bibliothèque publique et universitaire de Neuchâtel, sous l’identifiant 547. Comme l’indique l’auteur en note, ce « aperçu » emprunte très largement à l’ouvrage de Vladimir <hi rend="sc">Weidlé</hi>, <hi rend="i">La Russie absente et présente</hi>, paru chez Gallimard en 1949.</note></head>
         <div>
           <head>L’ancienne Russie (de 862 à 1700)</head>
@@ -1200,7 +1200,7 @@
       </div>
       <div type="article" when="1955-12" xml:id="ddr19551200bcec_p0021">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195512bcec_p21_01.jpg/full/full/0/default.jpg" n="p. 21"/>
-        <head>Que s’est-il passé à Genève ? (décembre 1955)<note place="foot" resp="editor">« Que s’est-il passé à Genève ? », <hi rend="i">Bulletin du Centre européen de la culture : « Europe-URSS : la question des échanges culturels »</hi>, Genève, n° 2, décembre 1955, p. 21-27.</note>
+        <head>Que s’est-il passé à Genève ? (décembre 1955)<note place="foot" resp="editor">Rougemont, Denis de, « Que s’est-il passé à Genève ? », <hi>Bulletin du Centre européen de la culture : « Europe-URSS : la question des échanges culturels »</hi>, Genève, décembre 1955, p. 21–27.</note>
           <note resp="editor">Texte non signé. On dispose cependant d’un manuscrit de Rougemont aux archives de la Bibliothèque publique et universitaire de Neuchâtel, sous l’identifiant 973.</note></head>
         <p> La presse n’ayant pu donner que des résumés fragmentaires ou vagues de débats en eux-mêmes peu clairs, nous jugeons utile (et peut-être important) d’établir ici un compte rendu systématique des arguments échangés pendant la Conférence des ministres des Affaires étrangères, en octobre et novembre 1955, sur le sujet précis des relations culturelles.</p>
         <div>
@@ -1466,7 +1466,7 @@
       </div>
       <div type="article" when="1955-12" xml:id="ddr19551200bcec_p0028">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195512bcec_p28_01.jpg/full/full/0/default.jpg" n="p. 28"/>
-        <head>Propositions (décembre 1955)<note place="foot" resp="editor">« Propositions », <hi rend="i">Bulletin du Centre européen de la culture : « Europe-URSS : la question des échanges culturels »</hi>, Genève, n° 2, décembre 1955, p. 28-36.</note>
+        <head>Propositions (décembre 1955)<note place="foot" resp="editor">Rougemont, Denis de, « Propositions », <hi>Bulletin du Centre européen de la culture : « Europe-URSS : la question des échanges culturels »</hi>, Genève, décembre 1955, p. 28–36.</note>
           <note resp="editor">Texte non signé. On dispose cependant d’un manuscrit de Rougemont aux archives de la Bibliothèque publique et universitaire de Neuchâtel, sous l’identifiant 548.</note></head>
         <div>
           <head>I. Conditions historiques et difficultés du dialogue</head>
@@ -1580,7 +1580,7 @@
       </div>
       <div type="article" when="1956-02" xml:id="ddr19560200bcec_p0001">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195602bcec_01.jpg/full/full/0/default.jpg" n="p. 1"/>
-        <head>Relance européenne ? (février 1956)<note resp="editor">« Relance européenne ? », <hi rend="i">Bulletin du Centre européen de la culture</hi>, Genève, n° 3, février 1956, p. 1-2.</note></head>
+        <head>Relance européenne ? (février 1956)<note resp="editor">Rougemont, Denis de, « Relance européenne ? », <hi>Bulletin du Centre européen de la culture</hi>, Genève, février 1956, p. 1–2.</note></head>
         <p>Le terme de « relance européenne » est apparu dans la presse aux lendemains de l’échec de la CED devant le Parlement français. Cette origine de l’expression en indique le sens véritable : une certaine forme d’union partielle ayant échoué, on en essaie une autre. Le but ultime, bien entendu, reste le même : créer une autorité supranationale qui sera finalement capable de parler au nom des quelque 330 millions d’Européens vivant aujourd’hui à l’ouest du rideau de fer. Mais la méthode, au fond, n’est pas renouvelée.</p>
         <p>Ce qui a échoué, c’est un essai de faire l’Europe par le moyen d’un traité militaire liant plus étroitement un premier groupe de six États, déjà signataires du traité économique instituant la CECA. On tente de créer maintenant d’autres « <hi rend="i">autorités spécialisées</hi> », de nature économique, visant à ouvrir un grand marché commun (plan de Messine) ou à permettre une production commune de l’énergie (Euratom). En somme, ce qu’on « relance », c’est la méthode qui a réussi une première fois pour la CECA, échoué ensuite à l’occasion de la CED.</p>
         <p>La question que l’on peut se poser, c’est de savoir si la méthode elle-même est la meilleure. Ceux qui pensent surtout au succès de la CECA répondent oui, ceux qui pensent davantage à l’échec de la CED répondent non, et ceux qui pensent à la succession chronologique des deux événements hésitent, voire penchent pour la négative.</p>
@@ -1597,7 +1597,7 @@
       </div>
       <div type="article" when="1956-02" xml:id="ddr19560200bcec_p0014">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195602bcec_p14_01.jpg/full/full/0/default.jpg" n="p. 14"/>
-        <head>Personalia (février 1956)<note place="foot" resp="editor">« Personalia », <hi rend="i">Bulletin du Centre européen de la culture</hi>, Genève, n° 3, février 1956, p. 14.</note>
+        <head>Personalia (février 1956)<note place="foot" resp="editor">Rougemont, Denis de, « Personalia », <hi>Bulletin du Centre européen de la culture</hi>, Genève, février 1956, p. 14.</note>
           <note resp="editor">Texte non signé. On dispose cependant d’un manuscrit de Rougemont aux archives de la Bibliothèque publique et universitaire de Neuchâtel, sous l’identifiant 956.</note></head>
         <p>M. Pierre Moser, qui fut, jusqu’à l’automne dernier, le directeur de l’Institut international de la jeunesse, fondé en 1952 sous les auspices de l’Unesco à Gauting-Munich, a été chargé de diriger le département de l’éducation du CEC. Il nous apporte l’expérience de nombreuses années de travail au service des œuvres sociales et éducatives de l’YMCA (problèmes des réfugiés et émigrés en Europe) puis de l’Unesco (problèmes de la jeunesse). Il assume également la tâche d’organiser et de réaliser le projet d’éducation européenne récemment élaboré par la Fondation.</p>
         <p>À partir du 1<hi rend="sup">er</hi> janvier 1956, M. Jean-Paul de Dadelsen a cessé de remplir au Centre les fonctions qu’il occupait depuis 1951.</p>
@@ -1605,14 +1605,14 @@
       </div>
       <div type="article" when="1956-02" xml:id="ddr19560200bcec_p0017">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195602bcec_p17_01.jpg/full/full/0/default.jpg" n="p. 17"/>
-        <head>Après le congrès de Trieste (février 1956)<note place="foot" resp="editor">« Après le congrès de Trieste », <hi rend="i">Bulletin du Centre européen de la culture</hi>, Genève, n° 3, février 1956, p. 17.</note>
+        <head>Après le congrès de Trieste (février 1956)<note place="foot" resp="editor">Rougemont, Denis de, « Après le congrès de Trieste », <hi>Bulletin du Centre européen de la culture</hi>, Genève, février 1956, p. 17.</note>
           <note resp="editor">Texte non signé. On dispose cependant d’un manuscrit de Rougemont aux archives de la Bibliothèque publique et universitaire de Neuchâtel, sous l’identifiant 552.</note></head>
         <p>Cent-vingt professeurs d’université réunis en congrès à Trieste, en septembre 1955, ont étudié les voies et moyens d’une « européanisation » de l’enseignement supérieur. Ils ont décidé la création d’une <hi rend="i">Association des universitaires d’Europe</hi>, dont le professeur V. Arangio-Ruiz, de Rome, a pris la présidence, tandis que le professeur M. Mouskhély, de Strasbourg, en assumait le secrétariat général.</p>
         <p>Les rapports présentés au congrès par une dizaine de professeurs européens seront publiés prochainement grâce à une subvention de la Fondation européenne de la culture. </p>
       </div>
       <div type="article" when="1956-02" xml:id="ddr19560200bcec_p0019">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195602bcec_p19_01.jpg/full/full/0/default.jpg" n="p. 19"/>
-        <head>Une initiative des sénateurs belges (février 1956)<note place="foot" resp="editor">« Une initiative des sénateurs belges », <hi rend="i">Bulletin du Centre européen de la culture</hi>, Genève, n° 3, février 1956, p. 19-20.</note>
+        <head>Une initiative des sénateurs belges (février 1956)<note place="foot" resp="editor">Rougemont, Denis de, « Une initiative des sénateurs belges », <hi>Bulletin du Centre européen de la culture</hi>, Genève, février 1956, p. 19–20.</note>
           <note resp="editor">Texte non signé. On dispose cependant d’un manuscrit de Rougemont aux archives de la Bibliothèque publique et universitaire de Neuchâtel, sous l’identifiant 553.</note></head>
         <p>Le baron Pierre Nothomb, entouré d’une quinzaine de sénateurs appartenant aux principaux partis, a convoqué à Bruxelles, les 13 et 14 janvier, une conférence d’études tendant à créer une « Communauté européenne de culture ».</p>
         <p>Neuf objectifs étaient proposés par le document de travail n° 1 soumis aux participants : équivalence des diplômes, échanges universitaires, accords culturels multilatéraux, libre circulation des instruments de culture, création d’un institut européen de hautes études, d’une académie littéraire européenne, d’une commission d’historiens, échanges entre les musées et échanges de concerts, instituts scientifiques européens.</p>
@@ -1625,7 +1625,7 @@
       </div>
       <div type="article" when="1956-02" xml:id="ddr19560200bcec_p0020">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195602bcec_p20_01.jpg/full/full/0/default.jpg" n="p. 20"/>
-        <head>Une deuxième table ronde de l’Europe (février 1956)<note place="foot" resp="editor">« Une deuxième table ronde de l’Europe », <hi rend="i">Bulletin du Centre européen de la culture</hi>, Genève, n° 3, février 1956, p. 20.</note>
+        <head>Une deuxième table ronde de l’Europe (février 1956)<note place="foot" resp="editor">Rougemont, Denis de, « Une deuxième table ronde de l’Europe », <hi>Bulletin du Centre européen de la culture</hi>, Genève, février 1956, p. 20.</note>
           <note resp="editor">Texte non signé. On dispose cependant d’un manuscrit de Rougemont aux archives de la Bibliothèque publique et universitaire de Neuchâtel, sous l’identifiant 554.</note></head>
         <p><ref target="https://www.unige.ch/rougemont/articles/bcec/ddr195311bcec">Nous avons rendu compte, ici même (bulletin de novembre-décembre 1953), de la première table ronde de l’Europe, organisée à Rome, en octobre 1953, par le Conseil de l’Europe</ref>. Cette manifestation exceptionnellement brillante avait réuni, dans les salons historiques de la Villa Aldobrandini puis au Capitole, six rapporteurs principaux — MM. A. de Gasperi, van Kleffens, E. Kogon, Löfstedt, R. Schuman et Toynbee — entourés de quinze publicistes représentant les pays membres du Conseil de l’Europe. La direction des débats avait été confiée à M. D. de Rougemont. Une déclaration commune avait résumé la substance des conclusions unanimement acceptées.</p>
         <p>Désireux de donner une suite effective à la déclaration de Rome, le Conseil de l’Europe a convoqué, du 16 au 23 mars prochains, un <hi rend="i">groupe d’études</hi> de vingt-deux membres, qui sera chargé de discuter les rapports préparés par des savants, historiens, sociologues, économistes et écrivains, sur le thème général de « la culture commune des Européens ». M. Max Beloff, historien et professeur à Oxford, désigné comme rapporteur général de la conférence, sera chargé par la suite de la rédaction d’un volume réunissant les études discutées et mises au point au cours de cette deuxième table ronde. Le directeur du CEC présidera, cette fois encore, les débats, auxquels prendront part notamment les écrivains et philologues Seán O’Faolain, Gabriel Marcel, G. Bellonci, A. Sommerfeldt, les historiens F. Valsecchi et F. von der Heydte, les économistes Peter Wiles, A. Doucy et F. Baade, les savants Groth et Kowarski, etc.</p>
@@ -1633,7 +1633,7 @@
       </div>
       <div type="article" when="1956-02" xml:id="ddr19560200bcec_p0021">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195602bcec_p21_01.jpg/full/full/0/default.jpg" n="p. 21"/>
-        <head>Europe-URSS : en attendant le dialogue (février 1956)<note place="foot" resp="editor">« Europe-URSS : en attendant le dialogue », <hi rend="i">Bulletin du Centre européen de la culture</hi>, Genève, n° 3, février 1956, p. 21-22.</note>
+        <head>Europe-URSS : en attendant le dialogue (février 1956)<note place="foot" resp="editor">Rougemont, Denis de, « Europe-URSS : en attendant le dialogue », <hi>Bulletin du Centre européen de la culture</hi>, Genève, février 1956, p. 21–22.</note>
           <note resp="editor">Texte non signé. On dispose cependant d’un manuscrit de Rougemont aux archives de la Bibliothèque publique et universitaire de Neuchâtel, sous l’identifiant 555.</note></head>
         <p>Les réactions soviétiques — officielles ou privées — sont en général très lentes, on assez brusques. Au sujet de notre numéro spécial de décembre 1955, elles n’ont pas été brusques du tout. Nous attendrons donc, comme prévu.</p>
         <p>Du côté européen, en revanche, les réactions sont déjà nombreuses. De Belgique, de Hollande, de France, de Suisse et du Danemark, nous parviennent des messages d’approbation et des articles de presse favorables à nos propositions. Mais il faut être deux pour dialoguer.</p>
@@ -1653,7 +1653,7 @@
       </div>
       <div type="article" when="1956-05" xml:id="ddr19560500bcec_p0001">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195604bcec_p1_01.jpg/full/full/0/default.jpg" n="p. 1"/>
-        <head>À pied d’œuvre (avril-mai 1956)<note resp="editor">« À pied d’œuvre », <hi rend="i">Bulletin du Centre européen de la culture : « Pour une éducation européenne »</hi>, Genève, n° 4, avril-mai 1956, p. 1-2.</note></head>
+        <head>À pied d’œuvre (avril-mai 1956)<note resp="editor">Rougemont, Denis de, « À pied d’œuvre », <hi>Bulletin du Centre européen de la culture : « Pour une éducation européenne »</hi>, Genève, avril–mai 1956, p. 1–2.</note></head>
         <p>Dès 1948, le rapport culturel du Congrès de l’Europe, réuni à La Haye sous la présidence de Winston Churchill, déclarait :</p>
         <quote>
           <p>Les organes juridiques, économiques et politiques que devra se donner l’Union ne sauraient fonctionner au bénéfice des personnes, groupes et nations, que s’ils sont approuvés et soutenus par l’opinion européenne. Celle-ci doit être désormais dotée de moyens d’expression réguliers. Elle doit être informée. Elle doit être éduquée dans les nouvelles générations. Elle doit être rendue de plus en plus consciente de l’unité profonde de l’Europe et de la richesse de ses diversités.</p>
@@ -1672,7 +1672,7 @@
       </div>
       <div type="article" when="1956-05" xml:id="ddr19560500bcec_p0032">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195604bcec_p32_01.jpg/full/full/0/default.jpg" n="p. 32"/>
-        <head>Former des Européens (avril-mai 1956)<note resp="editor">« Former des Européens », <hi rend="i">Bulletin du Centre européen de la culture : « Pour une éducation européenne »</hi>, Genève, n° 4, avril-mai 1956, p. 32-41.</note>
+        <head>Former des Européens (avril-mai 1956)<note resp="editor">Rougemont, Denis de, « Former des Européens », <hi>Bulletin du Centre européen de la culture : « Pour une éducation européenne »</hi>, Genève, avril–mai 1956, p. 32–41.</note>
           <note resp="editor">Ce texte est précédé du chapeau suivant : « Les pages qui précèdent ont esquissé à grands traits un tableau de l’éducation en Europe, et signalé les problèmes généraux qui se posent dans ce domaine, au <num>xx<hi rend="sup">e</hi></num> siècle. Cette orientation préliminaire nous permettra maintenant de mieux définir le problème urgent et vital d’une éducation pour l’Europe. Nous entendons par là : une éducation tendant à développer dans nos divers pays la conscience de la communauté de civilisation et de destin historique de tous les Européens. Tant que cette communauté de conscience n’aura pas été réveillée et informée, les efforts visant à fédérer nos pays dans un ensemble enfin viable à l’échelle mondiale (qui est celle du <num>xx<hi rend="sup">e</hi></num> siècle), ne cesseront de se heurter à l’obstacle majeur : <hi rend="i">la résistance des esprits</hi>, faite le plus souvent d’inertie, de préjugés antiques et d’ignorance. Seuls, les esprits qui auront vraiment “saisi” la nécessité de l’union, pourront devenir des volontés capables de la réaliser. »</note></head>
         <div>
           <head>Existe-t-il une conception spécifiquement européenne de l’éducation ?</head>
@@ -1758,7 +1758,7 @@
       </div>
       <div type="article" when="1956-07" xml:id="ddr19560700bcec_p0001">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195606bcec_p1_01.jpg/full/full/0/default.jpg" n="p. 1"/>
-        <head>Ce n’est pas au pied du mur… (juin-juillet 1956)<note resp="editor">« Ce n’est pas au pied du mur… », <hi rend="i">Bulletin du Centre européen de la culture</hi>, Genève, n° 5, juin-juillet 1956, p. 1-3.</note></head>
+        <head>Ce n’est pas au pied du mur… (juin-juillet 1956)<note resp="editor">Rougemont, Denis de, « Ce n’est pas au pied du mur… », <hi>Bulletin du Centre européen de la culture</hi>, Genève, juin–juillet 1956, p. 1–3.</note></head>
         <p>Ceux de nos amis, proches ou lointains, qui visitent pour la première fois notre Villa Moynier dans son grand parc, commencent par admirer le lac et le Mont-Blanc, si magnifiquement « mis en page » entre les hautes futaies, les pelouses et le ciel. Et souvent ils nous disent : « C’est trop beau ! Comment peut-on travailler dans ce cadre ? » Nous essayons de leur expliquer ce qui se passe dans nos bureaux, pratiquement et au jour le jour… Et pourquoi ne pas le faire, aujourd’hui, pour les lecteurs de ce bulletin ? À l’approche du temps des vacances, il est bon de se retourner vers les mois de travail qu’on vient de vivre. Ce n’est pas encore l’heure des bilans, mais celle de se demander si le cap est bien fixé, et de vérifier les commandes.</p>
         <p>Le programme du Centre est connu : il suffit de lire les premières lignes de notre page de couverture, au dos. Mais un programme ne vaut que ce qu’on en fait. Qu’a-t-on fait dans ces murs depuis six mois ? Que fait-on réellement au Centre ?</p>
         <p>De janvier au milieu de juin, dix-neuf comités et conseils se sont tenus à notre siège, groupant près de deux-cents personnes venues de tous les horizons européens. À quoi s’ajoutent cinq commissions convoquées par le Centre dans différents pays, et de nombreuses participations de nos collaborateurs à des réunions extérieures. Chacun de ces comités suscités par le Centre a représenté des mois de préparation ; chacun nous a laissé, aussitôt dispersé, son programme « pour exécution immédiate ».</p>
@@ -1776,7 +1776,7 @@
       </div>
       <div type="article" when="1956-07" xml:id="ddr19560700bcec_p0015">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195606bcec_p15_01.jpg/full/full/0/default.jpg" n="p. 15"/>
-        <head>Le Prix européen de littérature n’a pas été donné en 1956 (juin-juillet 1956)<note resp="editor">« Le Prix européen de littérature n’a pas été donné en 1956 », <hi rend="i">Bulletin du Centre européen de la culture</hi>, Genève, n° 5, juin-juillet 1956, p. 15-16.</note></head>
+        <head>Le Prix européen de littérature n’a pas été donné en 1956 (juin-juillet 1956)<note resp="editor">Rougemont, Denis de, « Le Prix européen de littérature n’a pas été donné en 1956 », <hi>Bulletin du Centre européen de la culture</hi>, Genève, juin–juillet 1956, p. 15–16.</note></head>
         <p>Rédigé par les membres du jury réunis au CEC, le communiqué suivant était remis à la presse le 14 juin :</p>
         <quote>
           <p>Le jury international du Prix européen de littérature composé de MM. Jean Giono, Hans Egon Holthusen, Robert Kanters, Denis de Rougemont, Ignazio Silone, Stephen Spender et de M. Helmuth Dressier, président de la Communauté européenne des guildes et clubs du livre, s’est réuni à Genève au Centre européen de la culture le 13 juin. Il a décidé de ne pas attribuer le Prix cette année.</p>
@@ -1792,7 +1792,7 @@
       </div>
       <div type="article" when="1956-07" xml:id="ddr19560700bcec_p0020">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195606bcec_p20_01.jpg/full/full/0/default.jpg" n="p. 20"/>
-        <head>François Fontaine, <hi rend="i">La nation frein</hi> (juin-juillet 1956)<note resp="editor">« François Fontaine, <hi rend="i">La nation frein. Un essai sur la France</hi>, Paris, Julliard, 1956, 189 pages », <hi rend="i">Bulletin du Centre européen de la culture</hi>, Genève, n° 5, juin-juillet 1956, p. 20-21.</note></head>
+        <head>François Fontaine, <hi rend="i">La nation frein</hi> (juin-juillet 1956)<note resp="editor">Rougemont, Denis de, « [Compte rendu] François Fontaine, <hi>La Nation frein. Un essai sur la France</hi> », <hi>Bulletin du Centre européen de la culture</hi>, Genève, juin–juillet 1956, p. 20–21.</note></head>
         <p>Autant qu’un essai sur la France, décrite comme la patrie du conservatisme — « rira bien qui bougera le dernier ! » serait sa devise — ce petit livre incisif traduit le grand défi que nous adresse l’Europe « à faire ». Il précise :</p>
         <quote>
           <p>Le défi n’est pas lancé par quelques Français à d’autres, mais par le Progrès à tous les Européens. Les autres défis qui occupent nos forces sont secondaires : celui du monde communiste, celui du monde jaune, celui du monde musulman seront surmontés ou non selon que nous deviendrons adultes ou pas… Les Européens rêvent d’être les contemporains des Américains et des Russes. On leur en propose le moyen, qui est de vivre à l’âge de l’Europe.</p>
@@ -1816,7 +1816,7 @@
       </div>
       <div type="article" when="1956-09" xml:id="ddr19560900bcec_p0008">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195608bcec_p8_01.jpg/full/full/0/default.jpg" n="p. 8"/>
-        <head>Le Bureau européen de l’éducation populaire (août-septembre 1956)<note place="foot" resp="editor">« Le Bureau européen de l’éducation populaire », <hi rend="i">Bulletin du Centre européen de la culture : « Origines, but, activités (1950-1956) »</hi>, Genève, n° 6, août-septembre 1956, p. 8-9.</note>
+        <head>Le Bureau européen de l’éducation populaire (août-septembre 1956)<note place="foot" resp="editor">Rougemont, Denis de, « Le Bureau européen de l’éducation populaire », <hi>Bulletin du Centre européen de la culture : « Origines, but, activités (1950-1956) »</hi>, Genève, août–septembre 1956, p. 8–9.</note>
           <note resp="editor">Texte non signé. On dispose cependant d’un manuscrit de Rougemont aux archives de la Bibliothèque publique et universitaire de Neuchâtel, sous l’identifiant 902.</note></head>
         <p>Plusieurs centaines d’organismes locaux, régionaux, nationaux et internationaux sont à l’œuvre dans le domaine de l’éducation populaire (ou <hi rend="i">adult education</hi>) en Europe. Les méthodes, les moyens, les publics visés varient considérablement du Nord au Sud, d’un pays à l’autre, et souvent dans le même pays. Ici l’on donne des cours du soir, dans un quartier de la ville ou dans un district agricole. Là, dans une maison de jeunes ou un foyer culturel, on organise des débats, on projette des films, on fait circuler des livres, on pratique des sports, on entreprend une action communautaire d’urbanisme ou de développement rural. Certaines organisations sont confessionnelles, d’autres laïques ; certaines politiquement orientées, d’autres neutres ; certaines sont soutenues par l’État, d’autres privées, d’autres mixtes. Un seul trait commun : le désir d’occuper intelligemment les loisirs tout en suppléant à l’éducation générale ou pratique que l’école ne peut plus donner.</p>
         <p>
@@ -1831,7 +1831,7 @@
       </div>
       <div type="article" when="1956-09" xml:id="ddr19560900bcec_p0016">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195608bcec_p16_01.jpg/full/full/0/default.jpg" n="p. 16"/>
-        <head>Prix européen de littérature : guildes et clubs du livre (août-septembre 1956)<note place="foot" resp="editor">« Prix européen de littérature : guildes et clubs du livre », <hi rend="i">Bulletin du Centre européen de la culture : « Origines, but, activités (1950-1956) »</hi>, Genève, n° 6, août-septembre 1956, p. 16-17.</note>
+        <head>Prix européen de littérature : guildes et clubs du livre (août-septembre 1956)<note place="foot" resp="editor">Rougemont, Denis de, « Prix européen de littérature : guildes et clubs du livre », <hi>Bulletin du Centre européen de la culture : « Origines, but, activités (1950-1956) »</hi>, Genève, août–septembre 1956, p. 16–17.</note>
           <note resp="editor">Texte non signé. On dispose cependant d’un manuscrit de Rougemont aux archives de la Bibliothèque publique et universitaire de Neuchâtel, sous l’identifiant 968.</note></head>
         <p>Il y avait le prix Nobel, qui est mondial. Il y avait d’innombrables prix nationaux et locaux, plus ou moins spécialisés. Mais il n’y avait rien qui pût attirer l’attention d’un vaste public sur des œuvres nouvelles de signification européenne.</p>
         <p>C’est pourquoi le CEC décida en 1950 de patronner un <hi rend="i">Prix littéraire européen</hi>, conçu de manière à assurer aux lauréats une publication rapide dans les principales langues de l’Europe, et par là même des bénéfices beaucoup plus importants que le montant nominal du prix (fr. suisses 10 000).</p>
@@ -1844,7 +1844,7 @@
       </div>
       <div type="article" when="1956-09" xml:id="ddr19560900bcec_p0023">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195608bcec_p23_01.jpg/full/full/0/default.jpg" n="p. 23"/>
-        <head>Nouvelles culturelles européennes (août-septembre 1956)<note place="foot" resp="editor">« Nouvelles culturelles européennes », <hi rend="i">Bulletin du Centre européen de la culture : « Origines, but, activités (1950-1956) »</hi>, Genève, n° 6, août-septembre 1956, p. 23-24.</note>
+        <head>Nouvelles culturelles européennes (août-septembre 1956)<note place="foot" resp="editor">Rougemont, Denis de, « Nouvelles culturelles européennes », <hi>Bulletin du Centre européen de la culture : « Origines, but, activités (1950-1956) »</hi>, Genève, août–septembre 1956, p. 23–24.</note>
           <note resp="editor">Texte non signé. On dispose cependant d’un manuscrit de Rougemont aux archives de la Bibliothèque publique et universitaire de Neuchâtel, sous l’identifiant 525.</note></head>
         <p>Innombrables sont les agences qui fournissent à la presse des nouvelles sur les crimes (politiques et privés), sur les déplacements des hommes d’État, sur les projets secrets des dictateurs, et sur les catastrophes naturelles ou provoquées par les passions humaines. Beaucoup plus rares sont les sources de nouvelles sur les grandes découvertes, les efforts pour améliorer le sort des hommes, les
           <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195608bcec_p23_02.jpg/full/full/0/default.jpg" n="p. 24"/>
@@ -1858,7 +1858,7 @@
       </div>
       <div type="article" when="1956-11" xml:id="ddr19561100bcec">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195611bcec_01.jpg/full/full/0/default.jpg" n="p. 1"/>
-        <head>L’Europe s’inscrit dans les faits [Introduction] (novembre 1956)<note resp="editor">« Introduction », <hi rend="i">Bulletin du Centre européen de la culture : « L’Europe s’inscrit dans les faits »</hi>, Genève, n° 1, novembre 1956, p. 1-2.</note></head>
+        <head>L’Europe s’inscrit dans les faits [Introduction] (novembre 1956)<note resp="editor">Rougemont, Denis de, « [Introduction] L’Europe s’inscrit dans les faits », <hi>Bulletin du Centre européen de la culture : « L’Europe s’inscrit dans les faits »</hi>, Genève, novembre 1956, p. 1–2.</note></head>
         <p>Si le fameux homme de la rue, passant devant notre porte et voyant les plaques dont elle s’orne, portant toutes l’adjectif « européen » en lettres d’or sur un fond vert, si cet homme s’avisait d’entrer et de nous demander à brûle-pourpoint : <hi rend="i">Qu’est-ce que l’Europe ? Pourquoi faut-il l’unir</hi> ? nous n’aurions pas une seule brochure à lui tendre sans hésiter pour répondre à son intérêt. Dans nos archives, sans doute, quelques centaines d’épaisses ou minces publications traitant de problèmes européens très généraux ou très particuliers ; cinq ou six gros ouvrages d’ensemble, quelques conférences éloquentes : rien qui puisse satisfaire notre homme. Nous savons assez bien ce qu’il voudrait : toutes les réponses en quelques pages. Quelque chose qui soit à la fois documenté et décanté, pressant et objectif, complet et bref. C’est trop demander, bien sûr. C’est peut-être impossible. Mais on ne fera pas l’Europe sans expliquer pourquoi. La passion militante n’y suffit pas. L’analyse scientifique non plus. Les gros livres ne sont pas lus, les pamphlets ne convainquent personne. Que peut-on faire ? Nous avons essayé de répondre par la copieuse brochure que l’on va lire.</p>
         <ab type="ornament">⁂</ab>
         <p>Voici le fil conducteur de nos neuf brefs chapitres.</p>
@@ -1879,7 +1879,7 @@
       </div>
       <div type="article" when="1957-02" xml:id="ddr19570200bcec">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195702bcec_01.jpg/full/full/0/default.jpg" n="p. 1"/>
-        <head>Au seuil d’une année décisive (février 1957)<note resp="editor">« Au seuil d’une année décisive », <hi rend="i">Bulletin du Centre européen de la culture</hi>, Genève, n° 2, février 1957, p. 1-4.</note></head>
+        <head>Au seuil d’une année décisive (février 1957)<note resp="editor">Rougemont, Denis de, « Au seuil d’une année décisive », <hi>Bulletin du Centre européen de la culture</hi>, Genève, février 1957, p. 1–4.</note></head>
         <div>
           <head>La preuve est faite</head>
           <p>La politique d’union européenne est la seule politique dont le Centre s’occupe, et dont il doit se préoccuper pour des raisons bien évidentes : l’avenir de notre culture étant lié à l’union politique et économique de nos peuples, comme l’âme est liée au corps ; ni plus ni moins.</p>
@@ -1921,7 +1921,7 @@
       </div>
       <div type="article" when="1957-04" xml:id="ddr19570400bcec_p0001">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195704bcec_p1_01.jpg/full/full/0/default.jpg" n="p. 1"/>
-        <head>Aux racines de l’Europe de demain (avril 1957)<note resp="editor">« Aux racines de l’Europe de demain », <hi rend="i">Bulletin du Centre européen de la culture : « L’Europe et l’École »</hi>, Genève, n° 3, avril 1957, p. 1-2.</note></head>
+        <head>Aux racines de l’Europe de demain (avril 1957)<note resp="editor">Rougemont, Denis de, « Aux racines de l’Europe de demain », <hi>Bulletin du Centre européen de la culture : « L’Europe et l’École »</hi>, Genève, avril 1957, p. 1–2.</note></head>
         <p>Chacun sait que les victoires anglaises sont nées sur le gazon d’Eton. Par un raccourci analogue, ne pourrait-on pas dire que ces deux grandes défaites européennes : la Première et la Seconde Guerre mondiale, sont nées dans nos manuels d’histoire ? Car le nationalisme belliqueux puis totalitaire fut la cause principale de ces conflits. Or il est clair que le nationalisme fomenté par les campagnes napoléoniennes, mis en doctrine tôt après par les philosophes du romantisme allemand, Hegel et Fichte, puis chanté par les poètes « nationaux » du <num>xix<hi rend="sup">e</hi></num> siècle, ne pouvait être véritablement inculqué aux masses que par les manuels de l’école primaire.</p>
         <p>Ceux-ci, en effet, ne contribuent pas seulement à meubler l’esprit, mais à conditionner le jugement, et cela <hi rend="i">avant</hi> l’âge où le jeune homme peut se mettre à lire les journaux, à discuter les problèmes politiques avec les aînés qui s’y connaissent, ou à lire pour son compte des ouvrages qui le rendent capable de repenser ou de critiquer les vérités reçues sur l’histoire de son propre pays. Lorsqu’il aborde ces débats — et 99 fois sur 100, il n’aura même pas l’occasion d’aller jusque-là —, le jeune homme a déjà reçu l’empreinte du parti pris nationaliste. Son siège est fait, ses préjugés sont acquis. Il interprétera tout selon ses souvenirs scolaires, devenus pour lui seconde nature, et qui lui sembleront par suite indiscutables, comme les proverbes, comme le bon sens lui-même…</p>
         <p>Parvenu à l’âge adulte, devenu électeur et responsable, — instituteur ou industriel, député ou journaliste, militant d’un parti ou fonctionnaire de l’État — il ira répétant des « vérités évidentes »
@@ -1934,7 +1934,7 @@
       </div>
       <div type="article" when="1957-04" xml:id="ddr19570400bcec_p0043">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195704bcec_p43_01.jpg/full/full/0/default.jpg" n="p. 43"/>
-        <head>La Suisse et l’Europe après 1945 (avril 1957)<note resp="editor">« La Suisse et l’Europe après 1945 », <hi rend="i">Bulletin du Centre européen de la culture : « L’Europe et l’École »</hi>, Genève, n° 3, avril 1957, p. 43-47.</note>
+        <head>La Suisse et l’Europe après 1945 (avril 1957)<note resp="editor">Rougemont, Denis de, « La Suisse et l’Europe après 1945 », <hi>Bulletin du Centre européen de la culture : « L’Europe et l’École »</hi>, Genève, avril 1957, p. 43–47.</note>
           <note resp="editor">Le texte est précédé de l’introduction suivante : « L’expérience-pilote de Fribourg coïncide avec la révision des manuels d’enseignement de ce canton. C’est ainsi que l’année dernière a paru un livre de lecture qui contient de fort belles pages sur l’Europe par Gonzague de Reynold. M. l’abbé Pfulg a demandé à notre directeur de bien vouloir écrire le chapitre du manuel d’histoire se rapportant à l’Europe. Ce chapitre, que nous donnons ci-dessous, a été composé de la même manière que tous les autres chapitres du manuel dont il forme la conclusion. »</note></head>
         <div>
           <head>1. La Suisse épargnée</head>
@@ -2002,7 +2002,7 @@
       </div>
       <div type="article" when="1957-05" xml:id="ddr19570500bcec">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195705bcec_01.jpg/full/full/0/default.jpg" n="p. 47"/>
-        <head>Le rôle des festivals dans la vie culturelle de l’Europe [Commentaires] (mai 1957)<note resp="editor">« Commentaires », <hi rend="i">Bulletin du Centre européen de la culture : « Le rôle des festivals dans la vie culturelle de l’Europe »</hi>, Genève, numéro spécial, mai 1957, p. 47-51.</note></head>
+        <head>Le rôle des festivals dans la vie culturelle de l’Europe [Commentaires] (mai 1957)<note resp="editor">Rougemont, Denis de, « Commentaires », <hi>Bulletin du Centre européen de la culture : « Le rôle des festivals dans la vie culturelle de l’Europe »</hi>, Genève, mai 1957, p. 47–51.</note></head>
         <p>En lançant une enquête à travers toute l’Europe, l’Association européenne des festivals de musique souhaitait donner aux créateurs et responsables de la vie musicale de nos pays l’occasion d’exprimer leurs vues sur « le phénomène festival ». Jamais, croyons-nous, un tel sondage n’avait été opéré à l’échelle internationale. Il s’agissait d’une part de mesurer le degré d’intérêt porté aux festivals, d’autre part de se faire une idée des solutions souhaitées par les uns et les autres à quelques-uns des principaux problèmes qui se posent aux organisateurs de festivals.</p>
         <p>Le nombre et la nature des réponses reçues témoignent, à eux seuls, de l’intérêt très vif porté aux festivals, dans les milieux musicaux : en effet, sur 80 questionnaires envoyés, 43 nous sont revenus remplis, dans les délais prévus. Si l’on fait la part des empêchements accidentels et habituels (voyages, maladie, surcharge de travail, oubli des dates limites, etc.), on se réjouira de constater que ce résultat est largement supérieur à la moyenne obtenue par des enquêtes similaires. De plus, les refus de répondre, assortis de jugements négatifs sur la formule même du festival de musique se sont réduits à quatre en tout ! L’enquête en soi fut donc un franc succès ; elle montre à l’évidence que les problèmes posés par l’existence des festivals tiennent une place importante dans la vie de notre temps.</p>
         <ab type="ornament">⁂</ab>
@@ -2041,7 +2041,7 @@
       </div>
       <div type="article" when="1957-12" xml:id="ddr19571200bcec">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195712bcec_01.jpg/full/full/0/default.jpg" n="p. 1"/>
-        <head>Promesses du Marché commun [Avant-propos] (décembre 1957)<note resp="editor">« Avant-propos », <hi rend="i">Bulletin du Centre européen de la culture : « Promesses du Marché commun »</hi>, Genève, n° 6, décembre 1957, p. 1.</note></head>
+        <head>Promesses du Marché commun [Avant-propos] (décembre 1957)<note resp="editor">Rougemont, Denis de, « [Avant-propos] Promesses du Marché commun », <hi>Bulletin du Centre européen de la culture : « Promesses du Marché commun »</hi>, Genève, décembre 1957, p. 1.</note></head>
         <p>C’est au début de 1958 que doit entrer en vigueur le traité instituant une Communauté économique européenne, couramment désignée sous le nom de Marché commun des Six. L’étude que nous présentons aujourd’hui vient donc très exactement à son heure. Elle succède à un court précis du Marché commun et de l’Euratom (par questions et réponses) que le CEC a fait paraître en novembre 1957. Cet opuscule se bornait à une description succincte du contenu des traités et des étapes qu’ils prévoient dans la marche vers l’union.</p>
         <p>L’étude de M. Raymond Racine veut au contraire dégager les <hi rend="i">implications générales</hi> du Marché commun dans la vie économique de nos pays, ainsi que les <hi rend="i">répercussions possibles</hi> du traité sur les institutions, les formes de gouvernement et les relations de l’Europe nouvelle avec le monde. Scrupuleusement critique et objectif, indemne de toute arrière-pensée de propagande, cet essai vise à situer <hi rend="i">l’aventure</hi> qu’est encore le Marché commun, dans la perspective générale d’une politique de civilisation — souci majeur du Centre européen de la culture.</p>
         <p>M. Raymond Racine a dirigé les débats du séminaire d’économistes convoqué par le CEC en 1955 et 1956, et dont le recueil des travaux doit paraître prochainement en librairie. Il s’est librement inspiré des débats et des conclusions de cet important groupe d’études, qui proposait de répondre à la question suivante : « Que se passerait-il si les frontières économiques étaient supprimées dans toute l’Europe ? »</p>
@@ -2049,7 +2049,7 @@
       </div>
       <div type="article" when="1958-02" xml:id="ddr19580200bcec_p0001">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195802bcec_p1_01.jpg/full/full/0/default.jpg" n="p. 1"/>
-        <head>Le Centre européen de la culture : ce qu’il fait — d’où il vient — où il va (février 1958)<note resp="editor">« Le Centre européen de la culture : ce qu’il fait — d’où il vient — où il va », <hi rend="i">Bulletin du Centre européen de la culture</hi>, Genève, n° 1, février 1958, p. 1-7.</note></head>
+        <head>Le Centre européen de la culture : ce qu’il fait — d’où il vient — où il va (février 1958)<note resp="editor">Rougemont, Denis de, « Le Centre européen de la culture : ce qu’il fait — d’où il vient — où il va », <hi>Bulletin du Centre européen de la culture</hi>, Genève, février 1958, p. 1–7.</note></head>
         <div>
           <head>Origines</head>
           <p>Il y a dix ans exactement, au début de février 1948, à Genève, le D<hi rend="sup">r</hi> J. H. Retinger débarquait de l’avion de Londres. Il venait proposer à l’auteur de ces lignes de préparer la partie culturelle du premier Congrès de l’Europe.</p>
@@ -2114,7 +2114,7 @@
       </div>
       <div type="article" when="1958-02" xml:id="ddr19580200bcec_p0010">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195802bcec_p10_01.jpg/full/full/0/default.jpg" n="p. 10"/>
-        <head>Éducation européenne (février 1958)<note resp="editor">« Éducation européenne », <hi rend="i">Bulletin du Centre européen de la culture</hi>, Genève, n° 1, février 1958, p. 10-15.</note></head>
+        <head>Éducation européenne (février 1958)<note resp="editor">Rougemont, Denis de, « Éducation européenne », <hi>Bulletin du Centre européen de la culture</hi>, Genève, février 1958, p. 10–15.</note></head>
         <quote>
           <label>Communiqué de presse du 4 juin 1957
             <lb/>Un don de la Fondation Ford au Centre européen de la culture.</label>
@@ -2191,7 +2191,7 @@
       </div>
       <div type="article" when="1958-02" xml:id="ddr19580200bcec_p0030">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195802bcec_p30_01.jpg/full/full/0/default.jpg" n="p. 30"/>
-        <head>Pool européen d’éditeurs (février 1958)<note resp="editor">« Pool européen d’éditeurs », <hi rend="i">Bulletin du Centre européen de la culture</hi>, Genève, n° 1, février 1958, p. 30-31.</note></head>
+        <head>Pool européen d’éditeurs (février 1958)<note resp="editor">Rougemont, Denis de, « Pool européen d’éditeurs », <hi>Bulletin du Centre européen de la culture</hi>, Genève, février 1958, p. 30–31.</note></head>
         <quote rend="border">
           <label>Communiqué de presse du 27 mai 1957</label>
           <p>Genève. — Sous le patronage du Centre européen de la culture, un groupe de grands éditeurs d’Allemagne (Ullstein), d’Espagne (Aguado), de France (Plon) et de Grande-Bretagne (Weidenfeld &amp; Nicolson), s’est réuni à Genève le 25 mai et a décidé de constituer une Association ayant pour but notamment de lancer en commun une « collection européenne » comportant des ouvrages variés sur les problèmes d’ensemble de l’Europe. Ces ouvrages seront publiés simultanément en sept langues dès que l’association aura été complétée par l’adhésion d’éditeurs italiens, hollandais et scandinaves.</p>
@@ -2213,7 +2213,7 @@
       </div>
       <div type="article" when="1958-02" xml:id="ddr19580200bcec_p0037">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195802bcec_p37_01.jpg/full/full/0/default.jpg" n="p. 37"/>
-        <head>Le bulletin du Centre (février 1958)<note place="foot">« Introduction », <hi rend="i">Bulletin du Centre européen de la culture</hi>, Genève, n° 1, février 1958, p. 37-38.</note>
+        <head>Le bulletin du Centre (février 1958)<note place="foot">Rougemont, Denis de, « Le bulletin du Centre », <hi>Bulletin du Centre européen de la culture</hi>, Genève, février 1958, p. 37–38.</note>
           <note resp="editor">Texte non signé mais Denis de Rougemont est mentionné comme l’auteur dans le sommaire du numéro de ce bulletin.</note></head>
         <p> Conçu à l’origine comme un simple organe d’information sur les travaux qui se poursuivaient au CEC, le bulletin a paru sous cette forme de 1952 à 1956, à raison de six numéros par an.</p>
         <p>Dès 1955 cependant, des numéros spéciaux font leur apparition. C’est d’abord la <hi rend="i">Bibliographie européenne</hi>, préparée avec l’aide de l’ΑΙΕΕ, et qui atteint rapidement un tirage très supérieur à celui des bulletins ordinaires. Ce sont ensuite le numéro spécial sur la <hi rend="i">Fondation européenne de la culture</hi> et celui sur le problème des échanges culturels <hi rend="i">Europe-URSS</hi>. Traduits en deux ou trois langues, ces bulletins touchent un public plus large et paraissent répondre à des besoins réels.</p>
@@ -2237,7 +2237,7 @@
       </div>
       <div type="article" when="1958-05" xml:id="ddr19580500bcec_p0027">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195805bcec_p27_01.jpg/full/full/0/default.jpg" n="p. 27"/>
-        <head>La méthode culturelle, ou l’Europe par l’éducation des Européens (mai 1958)<note resp="editor">« La méthode culturelle, ou l’Europe par l’éducation des Européens », <hi rend="i">Bulletin du Centre européen de la culture : « Méthodes et mouvements pour unir l’Europe »</hi>, Genève, n° 2, mai 1958, p. 27-34.</note></head>
+        <head>La méthode culturelle, ou l’Europe par l’éducation des Européens (mai 1958)<note resp="editor">Rougemont, Denis de, « La méthode culturelle, ou l’Europe par l’éducation des Européens », <hi>Bulletin du Centre européen de la culture : « Méthodes et mouvements pour unir l’Europe »</hi>, Genève, mai 1958, p. 27–34.</note></head>
         <div>
           <head>E = mc<hi rend="sup">2</hi></head>
           <p>L’Europe physique tient peu de place sur notre globe : 4 % des terres et un septième (diminuant) de la population mondiale. Si ce petit cap a dominé la Terre pendant des siècles, s’il en demeure le Musée et le Laboratoire, il le doit à ce quelque chose que l’esprit de ses habitants a pu surimposer à ses données physiques pour en tirer une énergie insoupçonnée.</p>
@@ -2310,7 +2310,7 @@
       </div>
       <div type="article" when="1958-05" xml:id="ddr19580500bcec_p0035">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195805bcec_p35_01.jpg/full/full/0/default.jpg" n="p. 35"/>
-        <head>Un essai de synthèse (mai 1958)<note resp="editor">« Positions, oppositions et convergences : un essai de synthèse », <hi rend="i">Bulletin du Centre européen de la culture : « Méthodes et mouvements pour unir l’Europe »</hi>, Genève, n° 2, mai 1958, p. 35-40.</note></head>
+        <head>Un essai de synthèse (mai 1958)<note resp="editor">Rougemont, Denis de, « Positions, oppositions et convergences : un essai de synthèse », <hi>Bulletin du Centre européen de la culture : « Méthodes et mouvements pour unir l’Europe »</hi>, Genève, mai 1958, p. 35–40.</note></head>
         <p>Les méthodes que l’on vient d’exposer<note place="bottom" resp="editor">Denis de Rougemont conclut ici un dossier donnant la parole à différentes personnalités réagissant à la signature des traités de Rome instaurant les Communautés européennes. François Fontaine, Altiero Spinelli et Henri Brugmans exposèrent ainsi leurs vues respectives dans les colonnes de ce <hi rend="i">Bulletin du CEC</hi>, et Rougemont, après avoir exposé la sienne (« La méthode culturelle »), proposa d’en réaliser la synthèse.</note> sont difficilement comparables ; elles se meuvent sur des plans différents.</p>
         <p>L’une compte sur la vertu d’une <hi rend="i">saine doctrine</hi> pour « orienter » progressivement les hommes politiques nationaux et l’opinion, tandis que l’autre appelle la force d’une <hi rend="i">révolte populaire</hi> contre les États-nations ; une troisième entend fomenter les <hi rend="i">prises de conscience</hi> nécessaires et préalables à toute action commune, tandis qu’une quatrième pense qu’une technique adroite, modifiant <hi rend="i">l’administration des choses</hi>, réduira mieux les préjugés nationalistes.</p>
         <p>Faute d’une machine électronique capable d’estimer et de prévoir la valeur énergétique de chacune des méthodes en soi, les résultantes de leurs combinaisons, permutations, effets directs et réactions induites, essayons de tirer de cette confrontation quelques conclusions de bon sens.</p>
@@ -2376,7 +2376,7 @@
       </div>
       <div type="article" when="1958-07" xml:id="ddr19580700bcec_p0001">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195807bcec_p1_01.jpg/full/full/0/default.jpg" n="p. 1"/>
-        <head>Une université européenne [Introduction] (juillet 1958)<note place="foot">« Introduction », <hi rend="i">Bulletin du Centre européen de la culture : « Une université européenne ? »</hi>, Genève, n° 3, juillet 1958, p. 1-3.</note>
+        <head>Une université européenne [Introduction] (juillet 1958)<note place="foot">Rougemont, Denis de, « [Introduction] Une université européenne ? », <hi>Bulletin du Centre européen de la culture : « Une université européenne ? »</hi>, Genève, juillet 1958, p. 1–3.</note>
           <note resp="editor">Texte non signé. On dispose cependant d’un manuscrit de Rougemont aux archives de la Bibliothèque publique et universitaire de Neuchâtel, sous l’identifiant 574.</note></head>
         <p> Le présent numéro du <hi rend="i">Bulletin du CEC</hi> est entièrement consacré aux problèmes posés par l’enseignement européen supérieur, et notamment par les divers projets, en cours de discussion, tendant à la création d’une Université européenne.</p>
         <p>On trouvera ci-après l’essentiel des travaux du groupe d’études réuni les 4 et 5 juillet au Centre européen de la culture, aux fins de déterminer les positions des milieux universitaires « européistes » en présence de ces problèmes, soit :</p>
@@ -2407,7 +2407,7 @@
       </div>
       <div type="article" when="1958-07" xml:id="ddr19580700bcec_p0026">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195807bcec_01.jpg/full/full/0/default.jpg" n="p. 26"/>
-        <head>La création d’un Centre européen d’enseignement postuniversitaire (juillet 1958)<note resp="editor">« Rapport III : La création d’un centre européen d’enseignement postuniversitaire », <hi rend="i">Bulletin du Centre européen de la culture : « Une université européenne ? »</hi>, Genève, n° 3, juillet 1958, p. 26-29.</note></head>
+        <head>La création d’un Centre européen d’enseignement postuniversitaire (juillet 1958)<note resp="editor">Rougemont, Denis de, « Rapport III : La création d’un centre européen d’enseignement postuniversitaire », <hi>Bulletin du Centre européen de la culture : « Une université européenne ? »</hi>, Genève, juillet 1958, p. 26–29.</note></head>
         <div>
           <head>Le vrai problème</head>
           <p>1. Partons de deux constatations de base :</p>
@@ -2474,7 +2474,7 @@
       </div>
       <div type="article" when="1959-05" xml:id="ddr19590500bcec_p0076">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195905bcec_01.jpg/full/full/0/default.jpg" n="p. 76"/>
-        <head>Éducation et loisirs : les <hi rend="i">mass médias</hi> (mai 1959)<note resp="editor">« Éducation et loisirs : les <hi rend="i">mass médias</hi> », <hi rend="i">Bulletin du Centre européen de la culture, « Technique et culture dans la société de demain (II) : Éducation et loisirs »</hi>, Genève, n° 2, mai 1959, p. 80-84.</note></head>
+        <head>Éducation et loisirs : les <hi rend="i">mass médias</hi> (mai 1959)<note resp="editor">Rougemont, Denis de, « [Interventions] Éducation et loisirs », <hi>Bulletin du Centre européen de la culture : « Technique et culture dans la société de demain (II) : Éducation et loisirs »</hi>, Genève, mai 1959, p. 80–84.</note></head>
         <p>Laissant de côté le problème de l’estimation quantitative des loisirs dans la société de demain, je voudrais attirer votre attention sur un fait incontestable et plus facile à chiffrer : l’<hi rend="i">accroissement de la consommation de la culture</hi> au <num>xx<hi rend="sup">e</hi></num> siècle.</p>
         <p>La notion de culture est récente. Aussi récente que la notion d’Art avec une majuscule, considéré comme entité spirituelle, substitut à la religion, voire religion en soi. Ces deux notions ont suivi à peu près la même évolution sémantique. Jusqu’au <num>xix<hi rend="sup">e</hi></num> siècle, l’art (sans majuscule) signifie le métier, l’habileté technique, et celui qui exerce un art est un artisan, qu’il soit peintre ou ingénieur. Mais à partir du romantisme, celui qui exerce un art est appelé un artiste, et il n’est plus censé être seulement habile : il doit être « créateur ». De même, jusqu’au <num>xix<hi rend="sup">e</hi></num> siècle, l’homme cultivé est celui qui a reçu et assimilé des notions générales et une méthode de pensée : c’est « l’honnête homme ». Tandis qu’à partir du <num>xix<hi rend="sup">e</hi></num> siècle, la culture désigne de plus en plus l’ensemble des activités qu’exercent les artistes, plus ou moins séparés de la vie commune. Au <num>xx<hi rend="sup">e</hi></num> siècle, la culture tend à devenir une sorte de <hi rend="i">way of life</hi>. Parmi toutes les définitions qu’on en donne, je retiens celle de T. S. Eliot, selon lequel la culture serait ce qui donne un sens à la vie, la rend digne d’être vécue, « <hi rend="i">worth living</hi> ».</p>
         <p>Mais ce n’est pas seulement la notion, c’est la chose aussi qui est récente, en ce sens que la diffusion de la culture au-delà des élites traditionnelles est un phénomène qui n’est apparu qu’au <num>xx<hi rend="sup">e</hi></num> siècle, et qui est exactement contemporain du développement de la technique.</p>
@@ -2502,7 +2502,7 @@
       </div>
       <div type="article" when="1959-09" xml:id="ddr19590900bcec">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195909bcec_p9_01.jpg/full/full/0/default.jpg" n="p. 9"/>
-        <head>Editeuropa (septembre 1959)<note resp="editor">« Editeuropa : problèmes et promesses d’une formule neuve », <hi rend="i">Bulletin du Centre européen de la culture : « L’Édition et l’Europe »</hi>, Genève, n° 3, septembre 1959, p. 9-12.</note></head>
+        <head>Editeuropa (septembre 1959)<note resp="editor">Rougemont, Denis de, « Editeuropa : problèmes et promesses d’une formule neuve », <hi>Bulletin du Centre européen de la culture : « L’Édition et l’Europe »</hi>, Genève, septembre 1959, p. 9–12.</note></head>
         <p>Il est clair qu’on ne fera pas l’Europe avec des livres, mais pourra-t-on la faire sans eux ? Car c’est en bonne partie par leur moyen qu’on l’a défaite : le Livre et le Manuel, autant que la Presse, ont fomenté depuis un siècle la plupart de nos nationalismes, derniers et pires obstacles à l’union nécessaire. C’est donc au Livre et au Manuel qu’il appartient de combattre le mal qu’ils ont causé et de nous guérir de nos réflexes nationalistes, en réveillant dans chacun de nos peuples le sens de son appartenance à un ensemble humain et spirituel qui dépasse largement la nation, non seulement dans l’espace, mais dans le temps. Car l’Europe existait bien avant les nations, et nulle d’entre elles ne saurait lui survivre. Elles peuvent la tuer par leurs rivalités, comme elles l’ont déjà presque fait à deux reprises dans notre siècle, mais elles périraient avec elle. L’avenir de chaque nation du continent se confond donc avec l’avenir même de l’Europe, c’est-à-dire avec son union.</p>
         <p>De fait, la cause européenne a marqué des progrès immenses, depuis dix ans, dans le domaine de l’édition. Le nombre des publications étudiant l’Europe comme ensemble va chaque année croissant dans nos divers pays. Notre <hi rend="i">Bibliographie</hi> en donnera quelque idée. Mais nous n’avons retenu que le meilleur. Parmi les centaines d’ouvrages que nous avons pu lire sur l’Europe, il faut reconnaître que beaucoup ne font que répéter ce qui a déjà été écrit dans d’autres langues, que retracer le même historique, que regrouper les mêmes informations, ou que redécouvrir les mêmes idées : gaspillage d’énergie et perte d’efficacité. De plus, tout ouvrage sur l’Europe veut et doit, par définition, dépasser le cadre national : or il manque en partie son but s’il n’est lu que dans un seul pays, en une seule langue.</p>
         <p>Le problème concret qui se pose à l’écrivain « européen » est donc de trouver les moyens d’atteindre vite, et simultanément le public auquel il s’adresse, c’est-à-dire les publics des pays différents dont il expose les intérêts communs.</p>
@@ -2527,7 +2527,7 @@
       </div>
       <div type="article" when="1959-09" xml:id="ddr19590900bcec_p0024">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195909bcec_p24_01.jpg/full/full/0/default.jpg" n="p. 24"/>
-        <head>Henri <hi rend="sc">Brugmans</hi>, <hi rend="i">Les Origines de la civilisation européenne</hi> (septembre 1959)<note resp="editor">« Henri <hi rend="sc">Brugmans</hi>, <hi rend="i">Les Origines de la civilisation européenne</hi> », <hi rend="i">Bulletin du Centre européen de la culture : « L’Édition et l’Europe »</hi>, Genève, n° 3, septembre 1959, p. 24-26.</note></head>
+        <head>Henri <hi rend="sc">Brugmans</hi>, <hi rend="i">Les Origines de la civilisation européenne</hi> (septembre 1959)<note resp="editor">Rougemont, Denis de, « [Compte rendu] Henri Brugmans, <hi>Les Origines de la civilisation européenne</hi> », <hi>Bulletin du Centre européen de la culture : « L’Édition et l’Europe »</hi>, Genève, septembre 1959, p. 24–26.</note></head>
         <p>L’auteur se défend de croire à l’histoire éducative ou utile, celle d’un Bossuet ou d’un Fénelon, pourvoyeuse de conseils politiques. Car il voit bien que l’on appelle « hardies ou téméraires, généreuses ou imprudentes, sages ou trop molles » des actions similaires, selon leur seule issue. Il conçoit l’histoire comme une « psychanalyse collective », comme une prise de conscience du groupe humain, qui le prépare à sa mission présente « en l’émancipant de ses complexes ». Dans cette vue de l’histoire, l’objectivité pure ne mènerait qu’à déchiffrer des documents. Or : « Au départ de tout travail historique se trouve une philosophie implicite, qui est surtout dangereuse lorsqu’elle reste inconsciente. »</p>
         <p>Depuis cent ans, l’enseignement de l’histoire est dominé par une doctrine le plus souvent informulée, que l’auteur définit comme le « natiocentrisme ». Doctrine évolutionniste, idéaliste et déterministe à la fois, que l’historien, selon Brugmans, se doit de répudier d’abord du seul point de vue de la méthode, sans même parler des désastreuses conséquences politiques qu’elle entraîna.</p>
         <p>
@@ -2546,7 +2546,7 @@
       </div>
       <div type="article" when="1959-09" xml:id="ddr19590900bcec_p0026">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195909bcec_p26_01.jpg/full/full/0/default.jpg" n="p. 26"/>
-        <head>Heinz <hi rend="sc">Gollwitzer</hi>, <hi rend="i">Europabild und Europagedanke</hi> (septembre 1959)<note resp="editor">« Heinz <hi rend="sc">Gollwitzer</hi>, <title>Europabild und Europagedanke. Beiträge zur deutschen Geistesgeschichte des 18. und 19. Jahrhunderts</title> », <hi rend="i">Bulletin du Centre européen de la culture : « L’Édition et l’Europe »</hi>, Genève, n° 3, septembre 1959, p. 26-27.</note></head>
+        <head>Heinz <hi rend="sc">Gollwitzer</hi>, <hi rend="i">Europabild und Europagedanke</hi> (septembre 1959)<note resp="editor">Rougemont, Denis de, « [Compte rendu] Heinz Gollwitzer, <hi>Europabild und Europagedanke</hi> », <hi>Bulletin du Centre européen de la culture : « L’Édition et l’Europe »</hi>, Genève, septembre 1959, p. 26–27.</note></head>
         <p>Quelle image et quelle doctrine les écrivains, philosophes et penseurs politiques allemands du <num>xviii<hi rend="sup">e</hi></num> et de la première moitié du <num>xix<hi rend="sup">e</hi></num> siècle pouvaient-ils se faire de l’Europe ? C’est à cette seule question, strictement définie et limitée, qu’entend répondre l’auteur, dans cet ouvrage de plus de 400 pages serrées suivies de 64 pages de notes, où — l’ayant pratiqué durant des mois — je n’ai trouvé que trois infimes erreurs de fait ou de dates. Une étude aussi exhaustive de l’époque de l’<hi rend="i">Aufklärung</hi>, de la Révolution et du romantisme, déborde nécessairement son « objet » scientifique. En fait, Gollwitzer nous donne ici le plus pénétrant ouvrage d’histoire intellectuelle paru jusqu’à ce jour et traitant de la « problématique » européenne. Curcio embrasse plus de siècles, Diez del Corral plus d’actualité, Reynold et Friedrich Heer sont plus personnels, mais nul n’est plus solide, plus convaincant, moins discutable que Gollwitzer. Sa manière de situer chaque auteur dans le contexte historique, religieux et philosophique de l’époque ne pourrait être critiquée que par un marxiste « vulgaire » ou par quelque impatient propagandiste.</p>
         <p>Le lecteur allemand sera frappé par les étroites et nombreuses connexions que relève l’auteur entre la pensée d’un Herder, d’un Kant, d’un Gentz, d’un Baader, d’un Schlegel ou d’un Jakob Burckhardt — et je cite à dessein ceux dont il donne la meilleure analyse — avec la pensée d’un Rousseau, d’un Burke ou d’un Napoléon, ou encore avec l’orthodoxie russe, l’Inde, l’Italie renaissante et la France. Le lecteur français, en revanche, sera surpris de découvrir à quel point la pensée romantique allemande est nourrie de la <hi rend="i">Reichsgedanke</hi>,
           <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195909bcec_p26_02.jpg/full/full/0/default.jpg" n="p. 27"/>
@@ -2555,7 +2555,7 @@
       </div>
       <div type="article" when="1959-09" xml:id="ddr19590900bcec_p0027">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195909bcec_p27_01.jpg/full/full/0/default.jpg" n="p. 27"/>
-        <head>Carlo <hi rend="sc">Curcio</hi>, <hi rend="i">Europa, Storia di un’idea</hi> (septembre 1959)<note resp="editor">« Carlo <hi rend="sc">Curcio</hi>, <hi rend="i">Europa, Storia di un’idea</hi> », <hi rend="i">Bulletin du Centre européen de la culture : « L’Édition et l’Europe »</hi>, Genève, n° 3, septembre 1959, p. 27-29.</note></head>
+        <head>Carlo <hi rend="sc">Curcio</hi>, <hi rend="i">Europa, Storia di un’idea</hi> (septembre 1959)<note resp="editor">Rougemont, Denis de, « [Compte rendu] Carlo Curcio, <hi>Europa, Storia di un’idea</hi> », <hi>Bulletin du Centre européen de la culture : « L’Édition et l’Europe »</hi>, Genève, septembre 1959, p. 27–29.</note></head>
         <p>1003 pages (« mille et tre » !) en 2 volumes, dont 280 pages de notes en petits caractères groupées en fin de chapitres, et près de 2000 noms cités, certains, comme Montesquieu, Rousseau, Voltaire, jusqu’à 36 ou 40 fois ! Nous voici les témoins enchantés d’une véritable orgie d’européanisme ! Aussi savant que militant, aussi lucide que passionné, cet ouvrage monumental se lit sans un instant d’ennui ou de fatigue. Il nous mène du mythe grec de l’Europe jusqu’au drame de la lutte actuelle pour notre union, à travers 27 siècles de pensée où le sublime voisine avec l’absurde, le pittoresque avec le raisonnable, mais dont se dégage finalement une idée générale de l’Europe, patrie d’élection des contrastes, et se distinguant par là même de toutes les autres civilisations. Effort unique, et pour longtemps insurpassable, qui mérite d’être lu par tous les militants de la fédération européenne, mais aussi par ses adversaires ; que l’on souhaite voir traduit bientôt dans toutes nos langues (comme il va l’être prochainement en espagnol) ; et qu’une cohorte de chercheurs et d’érudits pourrait certes amender sur plus d’un point, mais non pas remplacer ni déclasser de sitôt. Car nous tenons, avec cet ouvrage, la première histoire complète de l’idée européenne telle que l’ont exprimée d’Hésiode à Valéry et d’Aristote à Heidegger, en passant par des centaines de génies inspirés et de moindres seigneurs parfois plus réalistes, les écrivains, savants, hommes politiques, historiens, philosophes et poètes de presque toutes nos langues.</p>
         <p>On a reproché à cet ouvrage de suggérer l’idée que l’Europe serait née d’une succession d’écrits s’inspirant les uns des autres, plutôt que de prises
           <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195909bcec_p27_02.jpg/full/full/0/default.jpg" n="p. 28"/>
@@ -2570,7 +2570,7 @@
       </div>
       <div type="article" when="1959-09" xml:id="ddr19590900bcec_p0031">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195909bcec_p31_01.jpg/full/full/0/default.jpg" n="p. 31"/>
-        <head>Luis <hi rend="sc">Diez del Corral</hi>, <hi rend="i">El rapto de Europa</hi> (septembre 1959)<note resp="editor">« Luis <hi rend="sc">Diez del Corral</hi>, <hi rend="i">El rapto de Europa</hi> », <hi rend="i">Bulletin du Centre européen de la culture : « L’Édition et l’Europe »</hi>, Genève, n° 3, septembre 1959, p. 31-32.</note></head>
+        <head>Luis <hi rend="sc">Diez del Corral</hi>, <hi rend="i">El rapto de Europa</hi> (septembre 1959)<note resp="editor">Rougemont, Denis de, « [Compte rendu] Luis Diez del Corral, <hi>El rapto de Europa</hi> », <hi>Bulletin du Centre européen de la culture : « L’Édition et l’Europe »</hi>, Genève, septembre 1959, p. 31–32.</note></head>
         <p>« Créatrice par excellence, l’Europe s’est créé aussi, directement ou indirectement, la plupart de ses propres malheurs. » Elle a créé l’idée de l’humanité, de l’universalisme, et en son nom, elle a donné au monde tout ce qu’elle inventait pour elle-même. Elle a donné son nationalisme, son idée du droit des peuples à disposer d’eux-mêmes, sa science, son hygiène, sa technique, son capitalisme et son marxisme. Elle a fait une immense publicité aux secrets de son efficacité. Elle a fait le monde, qui lui renvoie son image déformée, le plus souvent hostile. Cette immense « expropriation », voilà bien le nouvel Enlèvement d’Europe, qui fournit le thème central de la série d’essais réunis sous ce titre par M. Luis Diez de Corral, professeur à l’Université de Madrid.</p>
         <p>L’auteur est de l’école d’Ortega : c’est dire qu’une vision poétique, imaginative, ou selon ses propres termes une « intelligence visuelle », domine chez lui l’érudition et la documentation — si vastes soient-elles — et cherche à saisir par l’intuition et par la sensibilité aux mythes les structures intimes du panorama européen, situé dans une perspective mondiale.</p>
         <p>Comme Ortega, Diez del Corral aime à se référer aux philosophes et historiens allemands — Hegel, Nietzsche, Meinecke, Max Weber, Spengler, Dilthey et Jaspers — mais aussi à Auguste Comte, à Toynbee, et à saint Augustin, c’est-à-dire aux grands auteurs de systèmes de l’Histoire ; mais pour ne pas les imiter. A-t-on remarqué que les génies systématiques sont régulièrement amenés à des conclusions pessimistes sur les destins de notre Europe ? Je crois bien que Hegel est la seule exception, qui persistait à voir dans l’Europe « la fin de l’Histoire ». Pour tous les autres, le mot <hi rend="i">fin</hi> ne signifie pas <hi rend="i">but</hi> mais décadence et chute. Notre auteur, au contraire, tient que « la mission de l’Europe n’est pas terminée, loin de là ». Car si l’Europe s’est réduite elle-même par l’extension des autres, <hi rend="i">qu’elle seule a permise</hi>, elle n’en demeure pas moins « l’antique matrice spirituelle » de la civilisation qu’elle a exportée, et cela n’est pas « expropriable ». Pourtant, nulle exaltation romantique dans cette conclusion confiante. Derrière la figure prométhéenne du Faust européen, qui lentement se guérit de sa cécité — c’est-à-dire de sa superbe ignorance du monde animé par ses œuvres — Diez del Corral, bon Espagnol, ne manque pas d’évoquer la grande ombre du Chevalier à la Triste Figure : c’est-à-dire qu’au-delà du monde technique, comme avant lui, les réalités spirituelles sont la « vraie vie » dont parlait Rimbaud, trois fois cité en épigraphe à ces essais, avec une efficacité extraordinaire. Il importe d’ajouter à cette très brève caractérisation du thème et de l’esprit de l’ouvrage, que de solides études sociologiques, politiques et esthétiques en constituent le corps : sur « l’expropriation de la cité rurale », sur la « sécularisation du dynamisme historique » (essentiellement chrétien), sur « l’aliénation de l’Art », et enfin sur les concepts
@@ -2580,7 +2580,7 @@
       </div>
       <div type="article" when="1959-12" xml:id="ddr19591200bcec_p0001">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195912bcec_p1_01.jpg/full/full/0/default.jpg" n="p. 1"/>
-        <head>Neuf expériences d’éducation européenne [Introduction] (décembre 1959)<note resp="editor">« Introduction », <hi rend="i">Bulletin du Centre européen de la culture : « Neuf expériences d’éducation européenne »</hi>, Genève, n° 4-5, décembre 1959, p. 1-2.</note></head>
+        <head>Neuf expériences d’éducation européenne [Introduction] (décembre 1959)<note resp="editor">Rougemont, Denis de, « [Introduction] Neuf expériences d’éducation européenne », <hi>Bulletin du Centre européen de la culture : « Neuf expériences d’éducation européenne »</hi>, Genève, décembre 1959, p. 1–2.</note></head>
         <p>Comment faire pénétrer l’idée européenne dans l’esprit des éducateurs et des citoyens responsables de leur communauté locale ? C’est la question que nous devions nous poser dès les débuts de l’entreprise du CEC.</p>
         <p>Il existe en effet trois méthodes principales pour agir sur l’opinion. La première consiste à créer des <hi rend="i">institutions</hi>, qui obligent à coopérer et bientôt conditionnent des réflexes communs. La seconde consiste à inculquer d’une manière massive des jugements tout faits, oblitérant les doutes et la critique : c’est la <hi rend="i">propagande</hi>. La troisième est l’<hi rend="i">éducation</hi>, qui est le contraire de la propagande parce qu’elle développe le jugement, et sans laquelle les meilleures institutions resteraient lettre morte.</p>
         <p>Seule, la troisième méthode se trouve correspondre aux possibilités comme aux principes du Centre.</p>
@@ -2603,7 +2603,7 @@
       </div>
       <div type="article" when="1959-12" xml:id="ddr19591200bcec_p0115">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr195912bcec_p115_01.jpg/full/full/0/default.jpg" n="p. 115"/>
-        <head>Neuf expériences d’éducation européenne [Conclusion] (décembre 1959)<note resp="editor">« Conclusion et préface aux suites à donner », <hi rend="i">Bulletin du Centre européen de la culture : « Neuf expériences d’éducation européenne »</hi>, Genève, n° 4-5, décembre 1959, p. 115.</note></head>
+        <head>Neuf expériences d’éducation européenne [Conclusion] (décembre 1959)<note resp="editor">Rougemont, Denis de, « [Conclusion] Neuf expériences d’éducation européenne », <hi>Bulletin du Centre européen de la culture : « Neuf expériences d’éducation européenne »</hi>, Genève, décembre 1959, p. 115.</note></head>
         <p>Nous avions deux objectifs principaux : essayer des <hi rend="i">méthodes</hi> et détecter des <hi rend="i">responsables</hi>. Nous voulions expérimenter. Notre manière fut celle d’un jardinier, qui donne des soins méticuleux à des pousses minuscules, insignifiantes, jusqu’au moment où il sent qu’elles vont « partir », et qu’on peut les laisser aller vers les vastes récoltes futures. (Quand rien n’a pris, le jardinier cherche à savoir pourquoi ; et s’il le trouve, il se rassure, car il saura faire mieux la prochaine fois.)</p>
         <p>Les moyens limités dont nous disposions nous ont souvent contraints à des improvisations empiriques que la science des sociologues jugera peut-être sévèrement. Mais ce défaut nous a mis à l’abri de la tentation majeure dans ce domaine : celle de plaquer sur une région-cobaye, sélectionnée par quelque cerveau électronique, un système d’expérience <hi rend="i">plus lourd que le milieu</hi> qu’on a choisi, et qui l’écrase, ou en tout cas le modifie avant même qu’on ait pu l’observer dans sa vie propre. Nos moyens étaient comparables à ceux de l’homéopathie, permettant d’inciter — non de forcer — des réactions intimes, peu visibles à l’œil nu et difficilement mesurables, mais attendues et comme préfigurées par la nature même des tissus sociaux. <hi rend="i">Similia similibus</hi>.</p>
         <p>Au total, sommes-nous satisfaits ?</p>
@@ -2613,7 +2613,7 @@
       </div>
       <div type="article" when="1960-10" xml:id="ddr19601000bcec">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr196006bcec_01.jpg/full/full/0/default.jpg" n="p. 1"/>
-        <head>Trois initiales, ou raison d’être et objectifs du CEC (1959-1960)<note resp="editor">« Trois initiales, ou raison d’être et objectifs du CEC », <hi rend="i">Bulletin du Centre européen de la culture : « CEC : dix ans d’activité »</hi>, Genève, n° 6, 1959-1960, p. 1-7.</note></head>
+        <head>Trois initiales, ou raison d’être et objectifs du CEC (1959-1960)<note resp="editor">Rougemont, Denis de, « Trois initiales, ou raison d’être et objectifs du CEC », <hi>Bulletin du Centre européen de la culture : « CEC : dix ans d’activité »</hi>, Genève, 1959–1960, p. 1–7.</note></head>
         <p>Notre nom même provoque généralement les trois questions suivantes :</p>
         <p>— qu’entendez-vous par <hi rend="i">culture</hi> ?</p>
         <p>— de quelle <hi rend="i">Europe</hi> s’agit-il ?</p>
@@ -2669,7 +2669,7 @@
       </div>
       <div type="article" when="1961-03" xml:id="ddr19610300bcec">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr196103bcec_01.jpg/full/full/0/default.jpg" n="p. 1"/>
-        <head>La règle d’or, ou principe de l’éducation européenne (1960-1961)<note resp="editor">« La règle d’or, ou principe de l’éducation européenne », <hi rend="i">Bulletin du Centre européen de la culture : « Aspects de l’Europe en devenir »</hi>, Genève, n° 3, 1960-1961, p. 1-11.</note>
+        <head>La règle d’or, ou principe de l’éducation européenne (1960-1961)<note resp="editor">Rougemont, Denis de, « La règle d’or, ou principe de l’éducation européenne », <hi>Bulletin du Centre européen de la culture : « Aspects de l’Europe en devenir »</hi>, Genève, 1960–1961, p. 1–11.</note>
           <note resp="editor">Ce texte est issu d’une conférence prononcée à l’aula de l’Université de Genève, le 9 mai 1960, dans la chaire de M. Robert Dottrens, professeur de pédagogie.</note></head>
         <div>
           <head>Les deux fins de toute éducation</head>
@@ -2770,7 +2770,7 @@
       </div>
       <div type="article" when="1961-04" xml:id="ddr19610400bcec">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr196104bcec_01.jpg/full/full/0/default.jpg" n="p. 1"/>
-        <head>Guide européen de l’enseignement civique [introduction] (1960-1961)<note resp="editor">« Introduction. Intention précise de ce Guide », <hi rend="i">Bulletin du Centre européen de la culture : « Guide européen de l’enseignement civique »</hi>, Genève, n° 4, 1960-1961, p. 1-7.</note></head>
+        <head>Guide européen de l’enseignement civique [introduction] (1960-1961)<note resp="editor">Rougemont, Denis de, « [Introduction] Intention précise de ce Guide », <hi>Bulletin du Centre européen de la culture : « Guide européen de l’enseignement civique »</hi>, Genève, 1960–1961, p. 1–7.</note></head>
         <p>Les régimes de droit divin, les théocraties et les dictatures ne demandent que l’obéissance de leurs sujets. Seul, le régime démocratique exige, pour fonctionner, d’être compris par la majorité des habitants du pays où il règne. Dans la mesure où il fonctionne sans être compris et approuvé, c’est qu’il n’est pas conforme à sa définition. Voilà pourquoi l’instruction publique obligatoire est née en même temps que nos démocraties. Celles-ci méritent leur nom dans la mesure même où, soit par l’École, soit par la morale familiale et sociale, soit par d’autres moyens pratiques (campagnes électorales, partis, presse, <hi rend="i">mass médias</hi>), elles réussissent à informer et à former des <hi rend="i">citoyens</hi>.</p>
         <p>Si maintenant nous voulons faire l’Europe, c’est-à-dire fédérer nos peuples et les doter d’institutions communes, il est bien clair que cette fédération ne tombera pas du ciel, et ne sera pas non plus instaurée par des moyens dictatoriaux : les échecs de Napoléon et d’Hitler l’ont bien fait voir. L’union de l’Europe suppose en fait les mêmes exigences que la démocratie : elle doit être voulue et comprise par la majorité des habitants de l’Europe. Sinon, il est probable qu’elle se fera tout de même — elle est déjà en train de se faire — mais elle n’aura que le nom d’une démocratie, que le nom d’une fédération ; elle sera en réalité une super-société anonyme, gouvernée comme toutes les S.A. du monde, non point par les actionnaires mais par un groupe d’administrateurs délégués, de directeurs généraux et de fonctionnaires, au mieux technocrates.</p>
         <p>Le problème urgent qui se pose est donc celui de la promotion d’un <hi rend="i">civisme européen</hi>.</p>
@@ -2831,7 +2831,7 @@
       </div>
       <div type="article" when="1961-05" xml:id="ddr19610500bcec">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr196105bcec_01.jpg/full/full/0/default.jpg" n="p. 20"/>
-        <head>Esquisse d’une biographie : J. H. Retinger (1960-1961)<note resp="editor">« Esquisse d’une biographie », <hi rend="i">Bulletin du Centre européen de la culture : « Hommage à un grand Européen : J. H. Retinger »</hi>, Genève, n° 5, 1960-1961, p. 20-50.</note></head>
+        <head>Esquisse d’une biographie : J. H. Retinger (1960-1961)<note resp="editor">Rougemont, Denis de, « Esquisse d’une biographie », <hi>Bulletin du Centre européen de la culture : « Hommage à un grand Européen : J. H. Retinger »</hi>, Genève, 1960–1961, p. 20–50.</note></head>
         <p>C’est dans le vieux palace de Montreux, seconde patrie du roman russe, que j’ai rencontré Retinger, en septembre 1947. Je venais de prononcer le discours d’introduction du premier congrès des fédéralistes européens. Au sortir de la salle, je fus présenté à un personnage d’âge indéfinissable, appuyé sur une canne, l’œil étrangement vif et résolu derrière un lorgnon démodé, et qui me dit avec un accent slave : « Votre discours était vraiment très bien, vous avez montré la voie, maintenant venez vous asseoir ici. Bon Dieu ! il faut parler de la suite ! Et d’abord, garçon ! deux fines à l’eau ! »</p>
         <p>À cette « suite », nous avons collaboré pendant près de treize ans. Nous avons préparé ensemble plusieurs congrès, et vingt rencontres
           <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr196105bcec_02.jpg/full/full/0/default.jpg" n="p. 21"/>
@@ -3041,7 +3041,7 @@
       </div>
       <div type="article" when="1962-04" xml:id="ddr19620400bcec_p0001">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr196204bcec_p1_01.jpg/full/full/0/default.jpg" n="p. 1"/>
-        <head>Pour un Dialogue des cultures [Note liminaire] (avril 1962)<note resp="editor">« Note liminaire », <hi rend="i">Bulletin du Centre européen de la culture : « Pour un Dialogue des cultures »</hi>, Genève, n° 1-2, avril 1962, p. 1-2.</note></head>
+        <head>Pour un Dialogue des cultures [Note liminaire] (avril 1962)<note resp="editor">Rougemont, Denis de, « [Note liminaire] Pour un Dialogue des cultures », <hi>Bulletin du Centre européen de la culture : « Pour un Dialogue des cultures »</hi>, Genève, avril 1962, p. 1–2.</note></head>
         <p>Dès les premières publications du CEC apparaît une idée qui reviendra par la suite comme un leitmotiv : entreprendre un dialogue entre l’Europe, d’une part, considérée non comme une addition de nations rivales, mais comme une unité de culture, et d’autre part les nouvelles unités de culture indépendantes qui se manifestent dans cette seconde moitié du <num>xx<hi rend="sup">e</hi></num> siècle, notamment celle de l’Inde, du monde arabe, de l’Afrique noire et de l’Amérique latine.</p>
         <p>Réveiller le sentiment d’unité des Européens était certes l’objectif initial et principal du CEC, et le demeure. Mais il est apparu, au cours des ans et de l’évolution rapide du monde,</p>
         <p>1° que la confrontation des Européens de divers pays avec d’autres cultures serait sans doute l’un des moyens les plus efficaces de cette fin ;</p>
@@ -3055,7 +3055,7 @@
       </div>
       <div type="article" when="1962-04" xml:id="ddr19620400bcec_p0005">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr196204bcec_p5_01.jpg/full/full/0/default.jpg" n="p. 5"/>
-        <head>Principes et méthodes du dialogue entre les cultures (avril 1962)<note resp="editor">« Principes et méthodes du dialogue entre les cultures », <hi rend="i">Bulletin du Centre européen de la culture : « Pour un Dialogue des cultures »</hi>, Genève, n° 1-2, avril 1962, p. 5-18.</note>
+        <head>Principes et méthodes du dialogue entre les cultures (avril 1962)<note resp="editor">Rougemont, Denis de, « Principes et méthodes du dialogue entre les cultures », <hi>Bulletin du Centre européen de la culture : « Pour un Dialogue des cultures »</hi>, Genève, avril 1962, p. 5–18.</note>
           <note resp="editor">Le texte est introduit par la note suivante : « Au mois d’août 1961, le document de travail que nous reproduisons ici sans modifications fut envoyé à toutes les personnalités invitées à prendre part au colloque les 15-17 septembre, à Genève. »</note></head>
         <div>
           <head>I. Nécessité du dialogue</head>
@@ -3266,7 +3266,7 @@
       </div>
       <div type="article" when="1962-04" xml:id="ddr19620400bcec_p0020">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr196204bcec_p20_01.jpg/full/full/0/default.jpg" n="p. 20"/>
-        <head>Le dialogue des cultures [interventions] (avril 1962)<note place="foot">« Le dialogue des cultures [interventions] », <hi rend="i">Bulletin du Centre européen de la culture : « Pour un Dialogue des cultures »</hi>, Genève, n° 1-2, avril 1962, p. 5-18.</note>
+        <head>Le dialogue des cultures [interventions] (avril 1962)<note place="foot">Rougemont, Denis de, « [Interventions] Pour dialogue entre les cultures », <hi>Bulletin du Centre européen de la culture : « Pour un Dialogue des cultures »</hi>, Genève, avril 1962, p. 5–18.</note>
           <note resp="editor">On reproduit ici les interventions les plus importantes de Denis de Rougemont lors du colloque organisé par le CEC les 15-17 septembre, à Genève.</note></head>
         <div>
           <head>Introduction au colloque</head>
@@ -3334,7 +3334,7 @@
       </div>
       <div type="article" when="1963-07" xml:id="ddr19630700bcec_p0022">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr196204bcec_p22_01.jpg/full/full/0/default.jpg" n="p. 22"/>
-        <head>Pour une métropole régionale Aix-Marseille-Étang de Berre [interventions] (juillet 1963)<note place="foot">« Pour une métropole régionale Aix-Marseille-Étang de Berre [interventions] », <hi rend="i">Bulletin du Centre européen de la culture : « Pour une métropole régionale Aix-Marseille-Étang de Berre »</hi>, Genève, n° 1-2, juillet 1963, p. 22, 31-33, 36-40, 52-53, 89-90.</note>
+        <head>Pour une métropole régionale Aix-Marseille-Étang de Berre [interventions] (juillet 1963)<note place="foot">Rougemont, Denis de, « [Interventions] Pour une métropole régionale Aix-Marseille-Étang de Berre », <hi>Bulletin du Centre européen de la culture : « Pour une métropole régionale Aix-Marseille-Étang de Berre »</hi>, Genève, juillet 1963, p. 22, 31–33, 36.</note>
           <note resp="editor">On reproduit ici les interventions les plus notables de Denis de Rougemont lors de ce colloque organisé au mois de juillet 1962, lors du festival d’Aix-en-Provence, par son directeur Roger Bigonnet.</note></head>
         <p> Il peut paraître paradoxal qu’au moment où nous nous efforçons de faire une vaste union européenne, ici, à Aix, vous vous efforciez de créer une métropole locale. Le paradoxe est purement apparent. En réalité, ce qui se produit maintenant avec l’ouverture du Marché commun — et ce n’est qu’un petit début — c’est une ouverture de tous les pays d’Europe les uns aux autres. D’où une certaine dévalorisation du cadre national, surtout dans les pays qui étaient fortement centralisés, comme la France, et une libération des diversités régionales. Les deux phénomènes sont concomitants à mon avis. Si vous diminuez l’importance des frontières nationales, ces frontières que le <hi rend="sc">xix</hi><hi rend="sup">e</hi> et le <hi rend="sc">xx</hi><hi rend="sup">e</hi> siècles ont imposées d’une manière assez arbitraire à des réalités économiques, linguistiques et culturelles qui n’ont pas du tout les mêmes frontières ou extensions, si vous dévalorisez ces cadres, vous libérez les diversités. Le phénomène européen d’aujourd’hui consiste à supprimer nos <hi rend="i">divisions</hi> pour donner leur jeu normal à nos <hi rend="i">diversités</hi>.</p>
         <p>L’effort entrepris ici par M. Bigonnet me paraît donc aller dans le droit fil de notre effort européen.</p>
@@ -3396,7 +3396,7 @@
       </div>
       <div type="article" when="1963-02" xml:id="ddr19630200bcec">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr196302bcec_01.jpg/full/full/0/default.jpg" n="p. 2"/>
-        <head>Deux-mille volumes sur l’Europe (février 1963)<note resp="editor">« Deux-mille volumes sur l’Europe », <hi rend="i">Bulletin du Centre européen de la culture : « L’Édition en Europe (II) »</hi>, Genève, n° 4, février 1963, p. 2-5.</note></head>
+        <head>Deux-mille volumes sur l’Europe (février 1963)<note resp="editor">Rougemont, Denis de, « Deux-mille volumes sur l’Europe », <hi>Bulletin du Centre européen de la culture : « L’Édition en Europe (II) »</hi>, Genève, février 1963, p. 2–5.</note></head>
         <p>La <ref><hi rend="i">Bibliographie européenne</hi></ref> que prépare actuellement le CEC, et qui sera publiée en 1964, comporte environ 2000 titres. On n’a retenu, à de rares exceptions, que les ouvrages parus depuis la dernière guerre.</p>
         <p>Le critère adopté pour établir cette liste est des plus simples : ont été cités les ouvrages qui, dans tous les domaines, traitent de l’<hi rend="i">ensemble</hi> européen et de sa problématique ; ont été exclus les ouvrages qui ne traitent que d’un de nos pays (sauf s’ils ont pour sujet les rapports de ce pays avec l’ensemble européen) ; ceux qui décrivent des événements historiques survenus dans l’aire géographique de l’Europe mais qui ne sont pas étudiés et situés dans leurs rapports avec l’ensemble ; ceux qui parlent d’œuvres d’art ou de pensée créées un jour ou l’autre par des Européens mais ne les envisagent pas expressément dans le contexte de notre unité de culture ; enfin, ceux qui n’ont l’Europe que dans le titre — ils sont fréquents, depuis que le sujet est à la mode.</p>
         <p>Les deux-mille ouvrages retenus sont répartis en seize rubriques, dont voici la liste : L’ensemble européen et les valeurs occidentales — Géographie — Histoire — Arts — Littérature et linguistique — Religion — Éducation — Problèmes politiques de l’Union — Aspects juridiques — Institutions — Fédéralisme — Économie — Les nations et l’Europe — L’Est européen — L’Europe et le Monde — Répertoires, Index, Guides.</p>
@@ -3429,7 +3429,7 @@
       </div>
       <div type="article" when="1963-05" xml:id="ddr19630500bcec">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr196305bcec_01.jpg/full/full/0/default.jpg" n="p. 3"/>
-        <head>Enquête sur l’enseignement civique dans les pays européens [Avant-propos] (mai 1963)<note resp="editor">« Avant-propos », <hi rend="i">Bulletin du Centre européen de la culture : « Enquête sur l’enseignement civique dans les pays européens »</hi>, Genève, n° 5, mai 1963, p. 3-5.</note></head>
+        <head>Enquête sur l’enseignement civique dans les pays européens [Avant-propos] (mai 1963)<note resp="editor">Rougemont, Denis de, « [Avant-propos] Enquête sur l’enseignement civique dans les pays européens », <hi>Bulletin du Centre européen de la culture : « Enquête sur l’enseignement civique dans les pays européens »</hi>, Genève, mai 1963, p. 3–5.</note></head>
         <p>L’enquête dont nous publions aujourd’hui l’analyse avait pour objectif bien défini d’étudier le terrain sur lequel allait se développer la Campagne d’éducation civique européenne.</p>
         <p>Les considérations conduisant à l’idée d’une telle campagne avaient été souvent exposées dans les publications du CEC, notamment dans le <hi rend="i">Guide européen de l’enseignant</hi> (1958) et dans le <hi rend="i">Guide européen de l’enseignement civique</hi> (1960-1961) établis en collaboration avec l’Association européenne des enseignants. Nous écrivions notamment en 1960 :</p>
         <quote>
@@ -3457,7 +3457,7 @@
       </div>
       <div type="article" when="1963-07" xml:id="ddr19630700bcec">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr196307bcec_01.jpg/full/full/0/default.jpg" n="p. 7"/>
-        <head>Pour une métropole régionale Aix-Marseille-Étang de Berre [Avant-propos] (juillet 1963)<note resp="editor">« Avant-propos », <hi rend="i">Bulletin du Centre européen de la culture : « Pour une métropole régionale Aix-Marseille-Étang de Berre »</hi>, Genève, n° 1-2, juillet 1963, p. 7-8.</note></head>
+        <head>Pour une métropole régionale Aix-Marseille-Étang de Berre [Avant-propos] (juillet 1963)<note resp="editor">Rougemont, Denis de, « [Avant-propos] Pour une métropole régionale Aix-Marseille-Étang de Berre », <hi>Bulletin du Centre européen de la culture : « Pour une métropole régionale Aix-Marseille-Étang de Berre »</hi>, Genève, juillet 1963, p. 7–8.</note></head>
         <p>La renaissance des régions dans les États qui ouvrent leurs frontières à des unions plus vastes, voilà bien l’un des phénomènes contemporains qui méritent le mieux de retenir l’attention du Centre européen de la culture, et du jeune Institut d’études européennes qui vient d’être créé dans ses murs.</p>
         <p>D’autre part, l’initiative hardie de M. Roger Bigonnet, convoquant dans le cadre du festival d’Aix-en-Provence un colloque sur la décentralisation culturelle, illustre d’une manière exemplaire le rôle que peut jouer un festival dans cette renaissance des régions. Mon ami Roger Bigonnet n’a pas oublié que pour devenir membre de l’Association européenne des festivals de musique, dont il fut l’un des fondateurs, un festival doit être tout d’abord représentatif d’un <hi rend="i">genius loci</hi>, d’un <hi rend="i">climat</hi> régional, mais posséder en même temps un <hi rend="i">rayonnement</hi> international. Le festival d’Aix, qui satisfait à ces deux critères avec tout l’éclat que l’on sait, se trouvait donc prédestiné à servir de point de départ à une action de pionniers en faveur de l’essor régional dans les perspectives d’une Europe unie.</p>
         <p>C’est donc au double titre de directeur du CEC et de président de l’AEFM que je me félicite de pouvoir accueillir dans nos publications le compte rendu du colloque réuni à Aix au mois de juillet 1962.</p>
@@ -3471,7 +3471,7 @@
       </div>
       <div type="article" when="1964-09" xml:id="ddr19640900bcec_p0001">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr196409bcec_p1_01.jpg/full/full/0/default.jpg" n="p. 1"/>
-        <head>Campagne pour l’Europe des citoyens (septembre 1964)<note resp="editor">« Campagne pour l’Europe des citoyens », <hi rend="i">Bulletin du Centre européen de la culture : « La Campagne d’éducation civique européenne »</hi>, Genève, n° 4, septembre 1964, p. 1-3.</note></head>
+        <head>Campagne pour l’Europe des citoyens (septembre 1964)<note resp="editor">Rougemont, Denis de, « Campagne pour l’Europe des citoyens », <hi>Bulletin du Centre européen de la culture : « La Campagne d’éducation civique européenne »</hi>, Genève, septembre 1964, p. 1–3.</note></head>
         <p>L’Europe commence par l’organisation : Conseil de l’Europe, Marché commun. Mais elle ne deviendra vivante que par les citoyens qui la vivront, conscients de leurs devoirs envers ce grand ensemble qui est leur civilisation et des droits que l’union seule pourra leur assurer dans l’avenir.</p>
         <p>Or, comment devenir citoyen d’un pays qui n’en est pas un, puisqu’il n’a pas encore d’institutions, de politique commune et de gouvernement ?</p>
         <p>Point d’Europe sans civisme européen. Mais point de citoyens européens sans une Europe constituée.</p>
@@ -3514,7 +3514,7 @@
       </div>
       <div type="article" when="1964-09" xml:id="ddr19640900bcec_p0080">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr196409bcec_p80_01.jpg/full/full/0/default.jpg" n="p. 80"/>
-        <head>Stage d’Oosterbeek (septembre 1964)<note resp="editor">« Stage d’Oosterbeek (17-20 mars 1964). Introduction (extraits) par Denis de Rougemont », <hi rend="i">Bulletin du Centre européen de la culture : « La Campagne d’éducation civique européenne »</hi>, Genève, n° 4, septembre 1964, p. 80-81.</note></head>
+        <head>Stage d’Oosterbeek (septembre 1964)<note resp="editor">Rougemont, Denis de, « Stage d’Oosterbeek (17-20 mars 1964) », <hi>Bulletin du Centre européen de la culture : « La Campagne d’éducation civique européenne »</hi>, Genève, septembre 1964, p. 80–81.</note></head>
         <p>Je ne suis pas du tout géographe, donc pas du tout compétent pour introduire le stage d’aujourd’hui : je voudrais seulement vous dire, à vous professeurs de géographie, ce que je voudrais que l’on m’enseigne si j’avais le bonheur de retourner à l’école, et d’être enseigné plutôt que d’enseigner.</p>
         <p>Je voudrais qu’on m’apprenne que la géographie précède l’histoire, mais ne la détermine pas. Et que les historiens nationalistes se moquent de nous quand ils prétendent que telle chaîne de montagnes ou tel fleuve <hi rend="i">divisent</hi> deux peuples, fatalement, et les obligent donc à se faire la guerre, alors qu’on peut aussi bien dire qu’ils <hi rend="i">unissent et relient</hi> ces mêmes peuples. Le Rhin divise Français et Allemands ? Mais le Danube unissait les sujets de l’Empire austro-hongrois et le Rhône réunit les Languedociens et les Provençaux ? Allons donc !</p>
         <p>C’est l’histoire du trait d’union : est-ce qu’il sépare deux mots, ou est-ce qu’il les unit ? L’historien nationaliste dira qu’il les sépare. L’historien fédéraliste européen dira qu’il les unit en respectant leur diversité. Pas question de soumettre l’histoire, la culture, la nature physique, certes, mais pas non plus de justifier des absurdités historiques par la « nature des choses » et des sols. « L’Europe est un continent où l’histoire a souvent violé la géographie », écrit très bien Jacques Beaujeu-Garnier, professeur à la Sorbonne.</p>
@@ -3527,7 +3527,7 @@
       </div>
       <div type="article" when="1964-12" xml:id="ddr19641200bcec">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr196412bcec_01.jpg/full/full/0/default.jpg" n="p. 4"/>
-        <head>Université et universalité dans l’Europe d’aujourd’hui (décembre 1964)<note resp="editor">« Université et universalité dans l’Europe d’aujourd’hui », <hi rend="i">Bulletin du Centre européen de la culture : « Annuaire de l’AIEE (1964-1965) »</hi>, Genève, n° 5, décembre 1964, p. 4-17.</note>
+        <head>Université et universalité dans l’Europe d’aujourd’hui (décembre 1964)<note resp="editor">Rougemont, Denis de, « Université et universalité dans l’Europe d’aujourd’hui », <hi>Bulletin du Centre européen de la culture : « Annuaire de l’AIEE (1964-1965) »</hi>, Genève, décembre 1964, p. 4–17.</note>
           <note resp="editor">Discours prononcé devant la Conférence permanente des recteurs et vice-chanceliers d’Europe, à l’Université de Göttingen, le 2 septembre 1964.</note></head>
         <p>Le mythe de la tour de Babel me paraît l’un des plus vivants, des plus actuels, et aussi des plus angoissants de ceux que nous a légués l’antiquité proche-orientale, si étroitement mêlée aux origines helléniques et bibliques de la culture d’Europe. L’interprétation la plus éclairante de ce mythe me paraît avoir été donnée par Dante, en son <hi rend="i">Traité de l’éloquence vulgaire</hi>, au septième chapitre du premier Livre. Traduisons son latin savoureux, cela donne à peu près ceci :</p>
         <quote>
@@ -3626,7 +3626,7 @@
       </div>
       <div type="article" when="1965-02" xml:id="ddr19650200bcec">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr196502bcec_01.jpg/full/full/0/default.jpg" n="p. 21"/>
-        <head>L’Europe et le monde [Introduction] (février 1965)<note resp="editor">« Introduction », <hi rend="i">Bulletin du Centre européen de la culture : « L’Europe et le monde »</hi>, Genève, n° 1-2, automne 1965, p. 21-27.</note></head>
+        <head>L’Europe et le monde [Introduction] (février 1965)<note resp="editor">Rougemont, Denis de, « [Introduction] L’Europe et le monde », <hi>Bulletin du Centre européen de la culture : « L’Europe et le monde »</hi>, Genève, février 1965, p. 21–27.</note></head>
         <p>Les motifs d’union de l’Europe ont beaucoup évolué depuis 1945. Dès cette année-là et au cours des cinq années suivantes, les groupes de militants fédéralistes issus de la résistance à l’hitlérisme dans tous les pays en guerre — y compris l’Allemagne — se réunirent en petits colloques, puis en congrès de plus en plus spectaculaires, pour affirmer leur volonté d’<hi rend="i">empêcher le retour de nos guerres nationales</hi>, c’est-à-dire de nos guerres civiles européennes. Le motif dominant de l’union était alors de rendre impossible une nouvelle guerre franco-allemande : le discours de Churchill à Zurich, en 1946, le dit expressément. Et tout cela conduisit à la création du Conseil de l’Europe à Strasbourg en 1949.</p>
         <p>Au cours des années 1950 à 1960, devant l’impossibilité d’aller plus loin sur le plan politique, un nouveau motif d’union passa au premier rang : <hi rend="i">rétablir la prospérité économique</hi> du continent : et cela conduisit à la création de la CECA, puis du Marché commun et de l’Euratom, enfin de l’AELE par contrecoup, et d’un nombre sans cesse croissant d’ententes industrielles, commerciales, professionnelles, etc.</p>
         <p>Pendant ce temps, l’Europe avait perdu ses positions mondiales de puissance politique et militaire, mais sa culture faisait le tour du monde — ou du moins les produits matériels et certaines idéologies, certaines formes de vie publique, que cette culture seule expliquait. Alors parut un troisième motif d’union : <hi rend="i">représenter l’Europe comme un ensemble</hi> dans la rencontre des cultures. La conférence de Bâle sur l’Europe et le monde veut marquer la prise de conscience de ce nouveau motif, le motif planétaire.</p>
@@ -3680,7 +3680,7 @@
       </div>
       <div type="article" when="1967-05" xml:id="ddr19670500bcec_p0002">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr196705bcec_p2_01.jpg/full/full/0/default.jpg" n="p. 2"/>
-        <head>Civisme et culture (notamment artistique) (mai 1967)<note resp="editor">« Civisme et culture (notamment artistique) », <hi rend="i">Bulletin du Centre européen de la culture : « Civisme et culture »</hi>, Genève, n° 1, mai 1967, p. 2-10.</note></head>
+        <head>Civisme et culture (notamment artistique) (mai 1967)<note resp="editor">Rougemont, Denis de, « Civisme et culture (notamment artistique) », <hi>Bulletin du Centre européen de la culture : « Civisme et culture »</hi>, Genève, mai 1967, p. 2–10.</note></head>
         <p>Que l’on s’occupe d’enseignement de l’histoire et de la géographie, des institutions politiques et de l’économie, dans le cadre d’une Campagne d’éducation civique, voilà qui va de soi et personne ne demandera quel est le lien entre ces matières et la préparation civique des élèves.</p>
         <p>Mais que l’on en vienne à s’occuper aussi, dans le même cadre, de l’enseignement des arts plastiques, de la littérature et de la musique, voilà qui peut poser des questions, susciter des doutes.</p>
         <p>Par exemple, beaucoup peuvent douter qu’il y ait un rapport bien certain entre la culture d’une part, qu’ils considèrent comme un luxe réservé à une élite disposant de loisirs, et la vie politique, économique et sociale d’autre part, qu’ils considèrent comme le solide et le sérieux de l’existence de tous les citoyens sans exception. Ce doute résulte d’une attitude très répandue dans nos démocraties bourgeoises, attitude qui consiste à séparer radicalement l’Art, domaine des activités libres, gratuites et décoratives — domaine du jeu, et les dures nécessités concrètes qui sont celles de la vie publique et civique — domaine du sérieux.</p>
@@ -3761,7 +3761,7 @@
       </div>
       <div type="article" when="1967-05" xml:id="ddr19670500bcec_p0029">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr196705bcec_p29_01-bd.jpg/full/full/0/default.jpg" n="p. 29"/>
-        <head>Vingt langues, une littérature (mai 1967)<note resp="editor">« Vingt langues, une littérature », <hi rend="i">Bulletin du Centre européen de la culture : « Civisme et culture »</hi>, Genève, n° 1, mai 1967, p. 29-33.</note></head>
+        <head>Vingt langues, une littérature (mai 1967)<note resp="editor">Rougemont, Denis de, « Vingt langues, une littérature », <hi>Bulletin du Centre européen de la culture : « Civisme et culture »</hi>, Genève, mai 1967, p. 29–33.</note></head>
         <div>
           <head>1. Mise en garde préalable</head>
           <p>Nous ne pensons pas que l’enseignement des langues et des littératures étrangères doive se proposer « d’inspirer à l’élève le respect des peuples étrangers » comme le dit une directive pédagogique d’un de nos pays. Il ne s’agit pas d’utiliser l’enseignement au profit d’une bonne cause, fut-elle européenne, mais de le rendre conforme à son objet : or il se trouve que cet objet est un phénomène 1° européen et non pas national, 2° littéraire et non pas politique.</p>
@@ -3822,7 +3822,7 @@
       </div>
       <div type="article" when="1968-03" xml:id="ddr19680300bcec">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr196802bcec_01.jpg/full/full/0/default.jpg" n="p. 35"/>
-        <head>Vers une fédération des régions (hiver 1967-1968)<note resp="editor">« Vers une fédération des régions », <hi rend="i">Bulletin du Centre européen de la culture : « Naissance de l’Europe des régions »</hi>, Genève, n° 2, hiver 1967-1968, p. 35-56.</note></head>
+        <head>Vers une fédération des régions (hiver 1967-1968)<note resp="editor">Rougemont, Denis de, « Vers une fédération des régions », <hi>Bulletin du Centre européen de la culture : « Naissance de l’Europe des régions »</hi>, Genève, hiver 1966-1967, p. 35–56.</note></head>
         <quote>
           <label>Dédicace</label>
           <p>Procuste, brigand de l’Attique, étendait sur un lit de fer les étrangers qui lui demandaient l’hospitalité. Il leur coupait les jambes si elles dépassaient, ou les leur étirait à l’aide de cordes si elles étaient plus courtes que le lit.</p>
@@ -4057,7 +4057,7 @@
       </div>
       <div type="article" when="1970-03" xml:id="ddr19700300bcec">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr196906bcec_01.jpg/full/full/0/default.jpg" n="p. 31"/>
-        <head>La région n’est pas un mini-État-nation (hiver 1969-1970)<note resp="editor">« La région n’est pas un mini-État-nation », <hi rend="i">Bulletin du Centre européen de la culture : « L’Europe des régions (II) (Colloque de l’AIEE, mai 1969) »</hi>, Genève, n° 5-6, hiver 1969-1970, p. 31-40.</note></head>
+        <head>La région n’est pas un mini-État-nation (hiver 1969-1970)<note resp="editor">Rougemont, Denis de, « La région n’est pas un mini-État-nation », <hi>Bulletin du Centre européen de la culture : « L’Europe des régions (II) »</hi>, Genève, hiver 1969-1970, p. 31–40.</note></head>
         <div>
           <head>1. Les objections courantes</head>
           <p>Depuis 1963, date du premier essai quelque peu développé dans lequel (revenant d’ailleurs aux positions de <ref target="https://www.unige.ch/rougemont/articles/on">l’Ordre nouveau</ref> trente ans plus tôt)<note place="bottom">« Orientation vers une Europe fédérale », <hi rend="i">Futuribles</hi> (supplément au Bulletin SEDEIS), n° 56, 10 mai 1963. Voir aussi : « Vers le fédéralisme », n° 15, 1934 et « Précis Ordre nouveau », n° 34, 1936, de la revue <ref target="https://www.unige.ch/rougemont/articles/on"><hi rend="i">L’Ordre nouveau</hi></ref> ; et mon <ref target="https://www.unige.ch/rougemont/livres/ddr1968jde/9#note24"><hi rend="i">Journal d’une époque</hi>, 1968, p. 107, note 24</ref>.</note> je préconisais une organisation fédérale de l’Europe basée sur les régions et non sur les États-nations, j’ai été amené à relever et à classer les objections les plus fréquentes à l’entreprise qui fait l’objet du présent colloque.</p>
@@ -4179,7 +4179,7 @@
       </div>
       <div type="article" when="1971-05" xml:id="ddr19710500bcec">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr197105bcec_01.jpg/full/full/0/default.jpg" n="p. 3"/>
-        <head>Dépolitiser la politique (printemps 1971)<note resp="editor">« Dépolitiser la politique », <hi rend="i">Bulletin du Centre européen de la culture : « Remises en question »</hi>, Genève, n° 5, automne 1971, p. 3-15. Une première version de cet essai a paru dans la revue <hi rend="i">Contrepoint</hi>, Paris, n° 3, mars 1971, p. 33-41.</note></head>
+        <head>Dépolitiser la politique (printemps 1971)<note resp="editor">Rougemont, Denis de, « Dépolitiser la politique », <hi>Bulletin du Centre européen de la culture : « Remises en question »</hi>, Genève, mai 1971, p. 3–15.</note></head>
         <p>Dans <hi rend="i">Le Monde</hi> du 16 juin 1971, à propos d’élections partielles en Sicile, je lis ceci : « … la politisation à outrance de la campagne électorale, bien qu’elle ne concernât que des enjeux municipaux ou provinciaux… ».</p>
         <p>Voilà pris en flagrant délit l’abus du terme <hi rend="i">politique</hi> et de l’adjectif <hi rend="i">politisé</hi>, devenu courant dans nos journaux, à la TV et dans tous nos débats.</p>
         <p>La politique, dans cette acception ridicule mais de très loin la plus courante du terme, ne signifie rien de plus que la rivalité des sectes ou factions dénommées « partis politiques », et n’a strictement rien à voir avec la définition correcte — dérivée de <hi rend="i">polis</hi>, la cité — de la politique comme stratégie des affaires publiques.</p>
@@ -4321,7 +4321,7 @@
       </div>
       <div type="article" when="1972-09" xml:id="ddr19720900bcec_p0001">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr197206bcec_p1_01.jpg/full/full/0/default.jpg" n="p. 1"/>
-        <head>Confrontation des régions transfrontalières [Note liminaire] (été 1972)<note resp="editor">« Note liminaire », <hi rend="i">Bulletin du Centre européen de la culture : « L’Europe des régions (III) : Confrontation des régions transfrontalières. Rapports et déclaration finale (Strasbourg, 29 juin-1<hi rend="sup">er</hi> juillet 1972) »</hi>, Genève, n° 6, été 1972, p. 1.</note></head>
+        <head>Confrontation des régions transfrontalières [Note liminaire] (été 1972)<note resp="editor">Rougemont, Denis de, « [Note liminaire] Confrontation des régions transfrontalières », <hi>Bulletin du Centre européen de la culture : « L’Europe des régions (III) »</hi>, Genève, été 1972, p. 1.</note></head>
         <p>À l’initiative de l’Assemblée consultative du Conseil de l’Europe, et sous le patronage conjoint de l’Assemblée et de la Conférence européenne des pouvoirs locaux s’est tenue à Strasbourg, du 29 juin au 1<hi rend="sup">er</hi> juillet 1972, la première <hi rend="i">Confrontation européenne des régions frontalières</hi>.</p>
         <p>Elle a réuni environ cent-cinquante élus locaux et nationaux des régions frontalières et des responsables techniques de la coopération dans ces régions.</p>
         <p>Elle s’est tenue dans la Maison de l’Europe, les séances plénières ayant lieu dans la salle de l’Assemblée consultative.</p>
@@ -4331,7 +4331,7 @@
       </div>
       <div type="article" when="1972-09" xml:id="ddr19720900bcec_p0066">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr197206bcec_p66_01.jpg/full/full/0/default.jpg" n="p. 66"/>
-        <head>Aspects culturels de la coopération dans les régions frontalières (été 1972)<note resp="editor">« Aspects culturels de la coopération dans les régions frontalières », <hi rend="i">Bulletin du Centre européen de la culture : « L’Europe des régions (III) : Confrontation des régions transfrontalières. Rapports et déclaration finale (Strasbourg, 29 juin-1<hi rend="sup">er</hi> juillet 1972) »</hi>, Genève, n° 6, été 1972, p. 66-79.</note></head>
+        <head>Aspects culturels de la coopération dans les régions frontalières (été 1972)<note resp="editor">Rougemont, Denis de, « Aspects culturels de la coopération dans les régions frontalières », <hi>Bulletin du Centre européen de la culture : « L’Europe des régions (III) »</hi>, Genève, été 1972, p. 66–79.</note></head>
         <div>
           <head>I. Définitions</head>
           <p>Appelons <hi rend="i">culture</hi> non seulement l’ensemble des œuvres produites par une société à travers les âges, mais aussi l’ensemble des manières de sentir, de penser, de juger et de s’exprimer les plus communément pratiquées par les membres de cette société. Ou encore le système des valorisations religieuses, éthiques, esthétiques, juridiques et sociales qui caractérisent la société en question.</p>
@@ -4466,7 +4466,7 @@
       </div>
       <div type="article" when="1972-09" xml:id="ddr19720900bcec_p0085">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr197206bcec_p85_01.jpg/full/full/0/default.jpg" n="p. 85"/>
-        <head>Confrontation des régions transfrontalières [Nos conclusions] (été 1972)<note resp="editor">« Nos conclusions », <hi rend="i">Bulletin du Centre européen de la culture : « L’Europe des régions (III) : Confrontation des régions transfrontalières. Rapports et déclaration finale (Strasbourg, 29 juin-1<hi rend="sup">er</hi> juillet 1972) »</hi>, Genève, n° 6, été 1972, p. 85-89.</note></head>
+        <head>Confrontation des régions transfrontalières [Nos conclusions] (été 1972)<note resp="editor">Rougemont, Denis de, « [Nos conclusions] Confrontation des régions transfrontalières », <hi>Bulletin du Centre européen de la culture : « L’Europe des régions (III) »</hi>, Genève, été 1972, p. 85–89.</note></head>
         <p>Il est fort peu probable qu’aux yeux de l’historien futur l’évolution de l’union européenne prenne jamais la forme d’une chaîne de « Sommets », ou d’une route si riche en « tournants historiques » qu’elle nous ramène périodiquement au point de départ. Les étapes de l’évolution seront bien plutôt marquées par les congrès de militants au cours desquels furent présentées, durement débattues, et finalement adoptées à chaud les thèses d’où devaient sortir non seulement les institutions de Strasbourg, Luxembourg et Bruxelles, mais les grands thèmes d’action fédéraliste, régionaliste et communaliste, qui sont en train de passer au premier rang de l’actualité <hi rend="i">réelle</hi> dans nos pays — même si les <hi rend="i">mass médias</hi> ne s’en sont pas aperçu, ou bien ont reçu le conseil de faire comme si… Il y eut ainsi Montreux 1947, La Haye 1948, Westminster et Lausanne 1949, Bruxelles et Rome 1950… Le fait que la « Confrontation » récente de Strasbourg ait donné à plusieurs l’impression qu’on renouait avec les traditions de l’époque militante (que j’ai nommée ailleurs « la campagne des congrès »<note place="bottom">Cf. « The Campaign of the European Congresses », in <hi rend="i">Government &amp; Opposition</hi>, Londres, April 1967, et <ref target="https://www.unige.ch/rougemont/articles/preuv/ddr196810preuv">« Vingt ans après », <hi rend="i">Preuves</hi>, Paris, n° 211, 1968</ref>.</note>), voilà qui est de nature à rallumer l’espoir en dépit des échecs encourus par l’approche interétatique.</p>
         <ab type="ornament">⁂</ab>
         <p>Comme toujours, on a vu s’affronter à Strasbourg deux écoles de pensée et d’action : les « réalistes » et les novateurs, autrement dit les politiciens et les politiques — les premiers reprochant aux seconds de ne pas tenir compte des « possibilités », c’est-à-dire des situations acquises et des moyens classiques ; les seconds reprochant aux premiers de ne pas tenir compte des « nécessités », c’est-à-dire des besoins vitaux et des vraies fins de l’homme dans la cité.</p>
@@ -4504,7 +4504,7 @@
       </div>
       <div type="article" when="1974-03" xml:id="ddr19740300bcec_p0001">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr197401bcec_p1_01.jpg/full/full/0/default.jpg" n="p. 1"/>
-        <head>Nouveau départ (printemps 1974)<note resp="editor">« Nouveau départ », <hi rend="i">Bulletin du Centre européen de la culture : « L’Europe des régions (IV) »</hi>, Genève, n° 1, printemps 1974, p. 1-2.</note></head>
+        <head>Nouveau départ (printemps 1974)<note resp="editor">Rougemont, Denis de, « Nouveau départ », <hi>Bulletin du Centre européen de la culture : « L’Europe des régions (IV) »</hi>, Genève, mars 1974, p. 1–2.</note></head>
         <p>Deux ans ou presque se sont écoulés depuis la parution du dernier numéro de notre XIII<hi rend="sup">e</hi> année. Les difficultés de divers ordres qui ont motivé cette interruption temporaire sont aujourd’hui résolues. Nous repartons à neuf, non seulement pour une quatorzième année et la suite, mais encore pour deux séries de publication nouvelles, tout en continuant d’assurer la rédaction, l’édition et la diffusion en quatre langues de <hi rend="i">Civisme européen</hi>, organe de la Campagne d’éducation civique européenne, et de <hi rend="i">Saison</hi>, publication annuelle de l’Association européenne des festivals de musique.</p>
         <p rend="center"/>
         <p>Le <hi rend="i">Bulletin du Centre européen de la culture</hi> paraîtra désormais quatre fois par an : un numéro par saison.</p>
@@ -4529,7 +4529,7 @@
       </div>
       <div type="article" when="1974-03" xml:id="ddr19740300bcec_p0003">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr197401bcec_p3_01.jpg/full/full/0/default.jpg" n="p. 3"/>
-        <head>Stratégie de l’Europe des régions (printemps 1974)<note resp="editor">« Stratégie de l’Europe des régions », <hi rend="i">Bulletin du Centre européen de la culture : « L’Europe des régions (IV) »</hi>, Genève, n° 1, printemps 1974, p. 3-20.</note>
+        <head>Stratégie de l’Europe des régions (printemps 1974)<note resp="editor">Rougemont, Denis de, « Stratégie de l’Europe des régions », <hi>Bulletin du Centre européen de la culture : « L’Europe des régions (IV) »</hi>, Genève, mars 1974, p. 3–20.</note>
           <note resp="editor">Conférence donnée à l’aula de l’École polytechnique fédérale de Lausanne le 5 mai 1971, à l’occasion de la Journée de l’Europe.</note></head>
         <div>
           <head>Évolution des motifs d’union</head>
@@ -4682,7 +4682,7 @@
       </div>
       <div type="article" when="1974-03" xml:id="ddr19740300bcec_p0060">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr197401bcec_p60_01.jpg/full/full/0/default.jpg" n="p. 60"/>
-        <head>Les grandes béances de l’histoire (printemps 1974)<note resp="editor">« Les grandes béances de l’histoire », <hi rend="i">Bulletin du Centre européen de la culture : « L’Europe des régions (IV) »</hi>, Genève, n° 1, printemps 1974, p. 60-66.</note></head>
+        <head>Les grandes béances de l’histoire (printemps 1974)<note resp="editor">Rougemont, Denis de, « Les grandes béances de l’histoire », <hi>Bulletin du Centre européen de la culture : « L’Europe des régions (IV) »</hi>, Genève, mars 1974, p. 60–66.</note></head>
         <p>Ne cherchez pas, vous ne trouverez le mot ni dans Larousse ni dans Littré, mais il s’explique sans eux, me semble-t-il.</p>
         <p>Entre certains comportements politiques et certaines attitudes de pensée que l’on observe dans le même temps, mais qui appartiennent à des ères différentes de l’histoire humaine, il y a béance.</p>
         <p>Et par exemple : nos ministres et nos penseurs vivent aujourd’hui dans des temps différents. Les discours des premiers réaffirmant avec une sorte d’emphase anxieuse que l’unité de la nation est le bien suprême, que son indépendance doit rester absolue et son État indivisible, ne font que prolonger le <num>xix<hi rend="sup">e</hi></num> siècle. Mais les ouvrages des seconds démontrant que l’État-nation est une formule dépassée, se trouvent anticiper sur le <num>xxi<hi rend="sup">e</hi></num> : entre les deux, notre <num>xx<hi rend="sup">e</hi></num> est en pleine béance de l’histoire.</p>
@@ -4762,7 +4762,7 @@
       </div>
       <div type="article" when="1974-03" xml:id="ddr19740300bcec_p0081">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr197401bcec_p81_01.jpg/full/full/0/default.jpg" n="p. 81"/>
-        <head>C.J.B. l’Européen, 1891-1974 (printemps 1974)<note resp="editor">« C.J.B. l’Européen, 1891-1974 », <hi rend="i">Bulletin du Centre européen de la culture : « L’Europe des régions (IV) »</hi>, Genève, n° 1, printemps 1974, p. 81-83.</note></head>
+        <head>C.J.B. l’Européen, 1891-1974 (printemps 1974)<note resp="editor">Rougemont, Denis de, « C. J. B. l’Européen, 1891-1974 », <hi>Bulletin du Centre européen de la culture : « L’Europe des régions (IV) »</hi>, Genève, mars 1974, p. 81–83.</note></head>
         <p>Lorsque j’avais demandé à Carl Burckhardt d’être, aux côtés de Robert Schuman et de Carlo Schmidt, l’un des présidents d’honneur du Centre européen de la culture, je savais qu’il accepterait parce qu’il était le plus européen de tous les Suisses, et qu’il ne pouvait l’ignorer.</p>
         <p>Mais je savais aussi qu’il était le plus suisse de tous les grands écrivains de l’Europe.</p>
         <p>Qu’il n’y ait pas <hi rend="i">une</hi> patrie suisse mais deux douzaines, point de grands centres ni de marché intellectuel, et surtout point de langue unique qui se soit imposée à ces patries, voilà qui paraît interdire la possibilité d’un écrivain qui mériterait d’être appelé suisse, comme Hölderlin fut sans conteste allemand, ou Leopardi italien, bien avant que l’Allemagne ou l’Italie n’aient tenté de réunir en un État-nation à la française toutes leurs cités, tous leurs pays. Pourtant je vois cette possibilité s’illustrer d’une manière exemplaire dans l’œuvre et la carrière de Carl J. Burckhardt. C’est qu’il fut l’un de ceux, très rares, dont la personne, le style, la formule créatrice résultent et se composent, précisément, de cette pluralité des données culturelles qui, moins forts, moins doués, les eût neutralisés.</p>
@@ -4777,7 +4777,7 @@
       </div>
       <div type="article" when="1975-09" xml:id="ddr19750900bcec">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr197502bcec_01.jpg/full/full/0/default.jpg" n="p. 9"/>
-        <head>Pourquoi des régions ? (printemps-été 1975)<note resp="editor">« Pourquoi des régions ? », <hi rend="i">Bulletin du Centre européen de la culture : « L’Europe des régions (V) : Les régions transfrontalières de l’Europe (Colloque de Genève 1975 de l’AIEE) »</hi>, Genève, n° 1-2, printemps-été 1975, p. 9-17.</note></head>
+        <head>Pourquoi des régions ? (printemps-été 1975)<note resp="editor">Rougemont, Denis de, « Pourquoi des régions ? », <hi>Bulletin du Centre européen de la culture : « L’Europe des régions (V) »</hi>, Genève, p. 9–17.</note></head>
         <p>Quand on pose une question de ce type, c’est que l’objet en question semble avoir fait son temps, qu’il survit peut-être à sa raison d’être, qu’il est trop vieux. Et l’on publie : <hi rend="i">Pourquoi des philosophes ? Pourquoi des professeurs ? Pourquoi l’Université</hi> ? Ou au contraire, c’est que l’objet est encore trop jeune, et qu’il convient, avant de s’en occuper, de s’assurer de sa réalité. Le second cas est évidemment celui des régions, du problème régional.</p>
         <p>En tant qu’il est discuté en public, le problème ne date guère que des années soixante de ce siècle. La bibliographie des études régionales qui clôt le <hi rend="i">Bulletin du CEC</hi> intitulé <hi rend="i">Naissance de l’Europe des régions</hi> (1968) me rappelle que les premières études « régionalistes » datent de 1958 : Paul Romus, J. Boudeville ; qu’elles sont suivies par une série de publications dans les cahiers de l’ISEA de 1961 à 1963 ; et par la publication en deux volumes des actes d’un colloque réuni à Bruxelles par la CEE, fin 1960 ; tandis que les <hi rend="i">Schriften der Regio Basiliensis</hi> (5 vol.) datent de 1964-1965, et que les premières études dues au Centre européen de la culture (CEC) et à l’Institut universitaire d’études européennes (IUEE) de Genève remontent à 1963 et 1967.</p>
         <p>Cela ne suffit pas toujours pour établir aux yeux des instances officielles — gouvernements, conseils de la recherche — la consistance du problème ou son sérieux scientifique. Et cela suffit encore moins à établir sa nécessité et sa possibilité aux yeux du grand public. Ni les uns, ni les autres, n’ont encore bien compris <hi rend="i">pourquoi des régions</hi> ? Il faut que nous le reconnaissions clairement. Il y a sans doute ici plusieurs spécialistes de ces problèmes qui pourraient être tentés de croire que les raisons de faire des régions sont bien assez connues, et même rabâchées, et qu’il s’agit maintenant de pousser en profondeur et d’affiner l’analyse scientifique. Eh bien non !</p>
@@ -4851,7 +4851,7 @@
       </div>
       <div type="article" when="1975-09" xml:id="ddr19750900bcec_p0030">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr197503bcec_p30_01.jpg/full/full/0/default.jpg" n="p. 30"/>
-        <head>Paradoxes de la prospective (automne 1975)<note resp="editor">« Paradoxes de la prospective », <hi rend="i">Bulletin du Centre européen de la culture : « Deux études sur la prospective »</hi>, Genève, n° 3, automne 1975, p. 30-43.</note>
+        <head>Paradoxes de la prospective (automne 1975)<note resp="editor">Rougemont, Denis de, « Paradoxes de la prospective », <hi>Bulletin du Centre européen de la culture : « Deux études sur la prospective »</hi>, Genève, automne 1975, p. 30–43.</note>
           <note resp="editor">Une note liminaire précise que ce texte « réunit quelques brefs chapitres extraits d’un ouvrage en préparation de D. de Rougemont qui sera intitulé : <ref target="https://www.unige.ch/rougemont/livres/ddr1977aena"><hi rend="i">L’Avenir est notre affaire</hi></ref> ». Les extraits correspondent au <ref target="https://www.unige.ch/rougemont/livres/ddr1977aena/7">chapitre 6</ref> de ce livre ; des passages font allusion aux chapitres <ref target="https://www.unige.ch/rougemont/livres/ddr1977aena/8">7</ref> et <ref target="https://www.unige.ch/rougemont/livres/ddr1977aena/9">8</ref>.</note></head>
         <p>Jouvenel observe une chose très simple : c’est que nous ne pouvons connaître avec quelque certitude que le passé, mais sans pouvoir le changer ; alors que nous avons liberté et puissance de changer l’avenir, mais sans le connaître.<note place="bottom">Bertrand de <hi rend="sc">Jouvenel</hi>, <hi rend="i">L’Art de la conjecture</hi>, Paris, 1972, p. 17.</note></p>
         <p>L’antinomie entre le pouvoir de connaître et celui de changer évoque immédiatement l’antinomie démontrée par Heisenberg entre notre pouvoir de mesurer la vitesse d’un électron et celui de déterminer sa position. Cette nouvelle « relation d’incertitude » définirait le passé et l’avenir dans les termes les plus propres, me semble-t-il, à poser le problème fondamental de toute prospective.</p>
@@ -4977,7 +4977,7 @@
       </div>
       <div type="article" when="1975-03" xml:id="ddr19750300bcec_p0051">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr197503bcec_p51_01.jpg/full/full/0/default.jpg" n="p. 51"/>
-        <head>Quand même il serait seul… (Sur un texte de George Orwell) (automne 1975)<note resp="editor">« Quand même il serait seul… (Sur un texte de George Orwell) », <hi rend="i">Bulletin du Centre européen de la culture : « Deux études sur la prospective »</hi>, Genève, n° 3, automne 1975, p. 51-53.</note></head>
+        <head>Quand même il serait seul… (Sur un texte de George Orwell) (automne 1975)<note resp="editor">Rougemont, Denis de, « Quand même il serait seul… (Sur un texte de George Orwell) », <hi>Bulletin du Centre européen de la culture : « Deux études sur la prospective »</hi>, Genève, septembre 1975, p. 51–53.</note></head>
         <p>S’il est une affaire entendue parmi les intellectuels autant que dans le grand public européen, c’est que George Orwell a prévu notre destin inéluctable d’Occidentaux promis à l’impitoyable sollicitude de « Big Brother », aux environs de 1984, dans moins de dix ans…</p>
         <p>Je tiens Orwell pour l’un des écrivains les plus importants et les plus émouvants de notre siècle, avec Kafka et bien peu d’autres.</p>
         <p>D’autant plus faut-il l’attaquer dans les domaines où son autorité, gagnée ailleurs, peut égarer.</p>
@@ -5009,7 +5009,7 @@
       </div>
       <div type="article" when="1976-03" xml:id="ddr19760300bcec">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr197504bcec_01.jpg/full/full/0/default.jpg" n="p. 3"/>
-        <head>Rôle de la modernité dans les relations Europe-Monde (hiver 1975-1976)<note resp="editor">« Rôle de la modernité dans les relations Europe-Monde »,<hi rend="i"> Bulletin du Centre européen de la culture : « L’Europe et ses intellectuels »</hi>, Genève, n° 4, hiver 1975-1976, p. 3-16.</note></head>
+        <head>Rôle de la modernité dans les relations Europe-Monde (hiver 1975-1976)<note resp="editor">Rougemont, Denis de, « Rôle de la modernité dans les relations Europe-Monde », <hi>Bulletin du Centre européen de la culture : « L’Europe et ses intellectuels »</hi>, Genève, hiver 1975, p. 3–16.</note></head>
         <epigraph>
           <p>Tout est venu à l’Europe, et tout en est venu, ou presque.</p>
           <bibl>Paul Valéry</bibl>
@@ -5147,7 +5147,7 @@
       </div>
       <div type="article" when="1977-01" xml:id="ddr19770100bcec">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bcec/ddr197703bcec_01.jpg/full/full/0/default.jpg" n="p. 17"/>
-        <head>La réponse de Denis de Rougemont (1977)<note resp="editor">« La réponse de Denis de Rougemont », <hi rend="i">Bulletin du Centre européen de la culture : « L’Itinéraire d’un penseur engagé »</hi>, Genève, n° 3, 1977, p. 17-18.</note></head>
+        <head>La réponse de Denis de Rougemont (1977)<note resp="editor">Rougemont, Denis de, « La réponse de Denis de Rougemont », <hi>Bulletin du Centre européen de la culture : « L’Itinéraire d’un penseur engagé »</hi>, Genève, janvier 1977, p. 17–18.</note></head>
         <p>Chers amis,</p>
         <p>Tant d’éloges, mérités ou non, ce n’est pas à moi d’en décider, me laissent presque sans voix. Que devenir, que dire en pareille circonstance ? Il n’y a plus qu’à se montrer bonhomme, si on le peut…</p>
         <p>Les volumes de Festschrift ou de mélanges représentent un genre littéraire bien défini, que je connais un peu, pour avoir collaboré à une bonne quinzaine d’entre eux au moins (j’en ai fait mentalement le compte tout à l’heure), consacrés à des écrivains, à des théologiens, à des hommes politiques, à des philosophes, à des juristes, à un ethnographe, etc.</p>
