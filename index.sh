@@ -1,8 +1,7 @@
-echo \<list\>
+
 srcdir=*.xml
 for srcfile in $srcdir
 do
-  echo  \<file\>$srcfile\</file\>
+  echo \* [$srcfile]"(https://erougemont.github.io/ddr-articles/"$srcfile")"
 done
-echo \</list\>
 
