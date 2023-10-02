@@ -1,4 +1,4 @@
-Les articles de Rougemont
+# [Les articles de Rougemont](https://erougemont.github.io/ddr_articles/)
 
 * [ddr-1924-1930.xml](https://erougemont.github.io/ddr_articles/ddr-1924-1930.xml)
 * [ddr-1932-1935.xml](https://erougemont.github.io/ddr_articles/ddr-1932-1935.xml)
