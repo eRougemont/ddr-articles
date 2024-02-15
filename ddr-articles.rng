@@ -27,6 +27,9 @@
                 <ref name="pb"/>
                 <ref name="article.head"/>
                 <zeroOrMore>
+                  <ref name="opener"/>
+                </zeroOrMore>
+                <zeroOrMore>
                   <choice>
                     <ref name="block"/>
                     <ref name="point"/>
