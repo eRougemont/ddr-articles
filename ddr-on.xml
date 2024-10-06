@@ -448,8 +448,8 @@
       <div type="article" when="1935-08" xml:id="ddr19350800on">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19350800on/001.jpg/full/full/0/default.jpg" n="II"/>
         <head>À propos du 14 juillet (juillet-août 1935)<note resp="editor" type="zotero"><hi rend="sc">Rougemont</hi> Denis de, « <ref target="https://www.unige.ch/rougemont/articles/on/ddr19350800on">À propos du 14 juillet</ref> », <hi>L’Ordre nouveau</hi>, Paris, juillet–août 1935, p. II.</note>
-<note resp="editor">Le texte est précédé du chapeau suivant : « Quoique nous ayons pour habitude de séparer nettement les articles qui paraissent dans <hi rend="i">L’Ordre nouveau</hi> et dans le <hi rend="i">Bulletin de liaison des groupes Ordre nouveau</hi>, nous tenons exceptionnellement à citer un fragment de l’article extrêmement important publié par Denis de Rougemont dans le dernier numéro du Bulletin. »</note>
 </head>
+        <note type="chapo">Quoique nous ayons pour habitude de séparer nettement les articles qui paraissent dans <hi rend="i">L’Ordre nouveau</hi> et dans le <hi rend="i">Bulletin de liaison des groupes Ordre nouveau</hi>, nous tenons exceptionnellement à citer un fragment de l’article extrêmement important publié par Denis de Rougemont dans le dernier numéro du <hi rend="i">Bulletin</hi>.</note>
         <p>… Nous nous battrons le jour où le peuple français aura compris que l’adversaire unique est le capitalisme centralisateur, anonyme aujourd’hui — à droite, étatiste demain — à gauche, dans l’un et l’autre cas destructeur de la liberté des personnes, destructeur du sentiment patriotique, destructeur à gauche et à droite des forces vives du pays.</p>
         <p>À l’heure présente, une chose est claire : le Front populaire travaille pour M. Litvinoff, le Front national travaille pour M. de Wendel. Et si les militants de gauche et de droite l’ignorent encore, c’est en vertu d’une double erreur, que <title xml:lang="fr">L’Ordre nouveau</title> seul a dénoncée depuis longtemps :</p>
         <p><hi rend="i">Erreur sur la tactique</hi> : lorsqu’on voit la gauche et la droite proclamer la priorité du « plan d’action » sur la doctrine, on est sûr que cette gauche et cette droite travaillent en fait pour le désordre, et que les seuls bénéficiaires de luttes civiles aussi mal orientées seront en fait les gros bailleurs de fonds.</p>
@@ -519,8 +519,9 @@
       <div type="article" when="1935-12" xml:id="ddr19351200on">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19351200on/001.jpg/full/full/0/default.jpg" n="38"/>
         <head>Conversation avec un SA (décembre 1935)<note resp="editor" type="zotero"><hi rend="sc">Rougemont</hi> Denis de, « <ref target="https://www.unige.ch/rougemont/articles/on/ddr19351200on">Conversation avec un SA</ref> », <hi>L’Ordre nouveau</hi>, Paris, décembre 1935, p. 38-42.</note>
-<note resp="editor">Ce texte, signé « XXX », est précédé de la note suivante : « Un de nos amis, retour d’Allemagne, nous communique des notes sur ses entretiens avec de jeunes hitlériens. Nous en détachons ces pages qui se rattachent au sujet du présent numéro. »</note>
+<note resp="editor">Signé « XXX ».</note>
 </head>
+        <note type="chapo">Un de nos amis, retour d’Allemagne, nous communique des notes sur ses entretiens avec de jeunes hitlériens. Nous en détachons ces pages qui se rattachent au sujet du présent numéro.</note>
         <p><hi rend="sc">Un jeune allemand.</hi> — Quoi de neuf depuis notre dernière rencontre ?</p>
         <p><hi rend="sc">Moi</hi>. — Quelques observations, en flânant dans vos rues… Flâner, c’est une activité plutôt « réactionnaire », n’est-ce pas ?</p>
         <p><hi rend="sc">Lui</hi>. — Ah ! oui… <hi rend="i">(silence poli).</hi></p>
