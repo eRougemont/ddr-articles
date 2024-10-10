@@ -128,7 +128,7 @@
           <head>Post-scriptum</head>
           <p>
             <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19780600cadm/009.jpg/full/full/0/default.jpg" n="25"/>
-             Un livre tout récent, <hi rend="i">L’Intellectuel contre l’Europe</hi><note place="bottom">André <hi rend="sc">Reszler</hi>, <hi rend="i">L’Intellectuel contre l’Europe</hi>, PUF, Paris, 1977.</note>, d’André Reszler<note place="bottom" resp="editor">Rougemont en rend compte <ref>dans ce même numéro de <hi rend="i">Cadmos</hi>, p. 76-82.</ref></note>, m’apprend — avec, en ce qui me concerne, quarante-cinq ans de retard — que le terme d’engagement ne fut pas notre invention, objectivement du moins. Voici le passage :</p>
+            Un livre tout récent, <hi rend="i">L’Intellectuel contre l’Europe</hi><note place="bottom">André <hi rend="sc">Reszler</hi>, <hi rend="i">L’Intellectuel contre l’Europe</hi>, PUF, Paris, 1977.</note>, d’André Reszler<note place="bottom" resp="editor">Rougemont en rend compte <ref target="https://www.unige.ch/rougemont/articles/cadm/ddr19780900cadm">dans ce même numéro de <hi rend="i">Cadmos</hi>, p. 76-82.</ref></note>, m’apprend — avec, en ce qui me concerne, quarante-cinq ans de retard — que le terme d’engagement ne fut pas notre invention, objectivement du moins. Voici le passage :</p>
           <quote>
             <p>Préoccupé par la charge d’idées philosophiques, politiques et sociales que la poésie de l’avenir aura à assumer, Lamartine esquisse, dès 1837, le portrait d’un poète « responsable, actif et engagé ».</p>
           </quote>
@@ -136,7 +136,7 @@
         </div>
       </div>
       <div type="article" when="1978-09" xml:id="ddr19780900cadm">
-        <head>L’Intellectuel contre l’Europe (été 1978)<note resp="editor" type="zotero"><hi rend="sc">Rougemont</hi> Denis de, « <ref target="https://www.unige.ch/rougemont/articles/cadm/ddr19780900cadm">[Compte rendu] L’intellectuel contre l’Europe</ref> », <hi>Cadmos</hi>, Genève, automne 1978, p. 76-82.</note>
+        <head>[Compte rendu] L’intellectuel contre l’Europe (été 1978)<note resp="editor" type="zotero"><hi rend="sc">Rougemont</hi> Denis de, « <ref target="https://www.unige.ch/rougemont/articles/cadm/ddr19780900cadm">[Compte rendu] L’intellectuel contre l’Europe</ref> », <hi>Cadmos</hi>, Genève, automne 1978, p. 76-82.</note>
 </head>
         <p>
           <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19780900cadm/001.jpg/full/full/0/default.jpg" n="76"/>

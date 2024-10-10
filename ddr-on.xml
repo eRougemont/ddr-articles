@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="ddr-articles.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="http://oeuvres.github.io/teinte/author-tei.css"?>
+<?xml-stylesheet type="text/xsl" href="https://oeuvres.github.io/teinte_xsl/tei_html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ddr-on" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -802,7 +803,7 @@
       </div>
       <div type="article" when="1936-10" xml:id="ddr19361000on">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19361000on/001.jpg/full/full/0/default.jpg" n="64"/>
-        <head><title xml:lang="fr">Manifeste au service du personnalisme</title> par Emmanuel Mounier (octobre 1936)<note resp="editor" type="zotero"><hi rend="sc">Rougemont</hi> Denis de, « <ref target="https://www.unige.ch/rougemont/articles/on/ddr19361000on">[Compte rendu] Emmanuel Mounier, <hi>Manifeste au service du personnalisme</hi></ref> », <hi>L’Ordre nouveau</hi>, Paris, octobre 1936, p. 64.</note>
+        <head>[Compte rendu] <title xml:lang="fr">Manifeste au service du personnalisme</title> par Emmanuel <hi rend="sc">Mounier</hi> (octobre 1936)<note resp="editor" type="zotero"><hi rend="sc">Rougemont</hi> Denis de, « <ref target="https://www.unige.ch/rougemont/articles/on/ddr19361000on">[Compte rendu] Emmanuel Mounier, <hi>Manifeste au service du personnalisme</hi></ref> », <hi>L’Ordre nouveau</hi>, Paris, octobre 1936, p. 64.</note>
 </head>
         <p>Ce texte marquera un moment important dans l’évolution du personnalisme : le moment du regroupement doctrinal, après quelques années de recherches « pluralistes », forcément tâtonnantes, et au seuil d’une action plus vivement <hi rend="i">engagée</hi>, que tout nous porte à souhaiter commune.</p>
         <p>Quelle que soit notre méfiance à l’endroit des synthèses tactiques ou doctrinales, nous ne pouvons formuler ici que des réserves provisoires : les passages sur le travail « obligation universelle », sur le rôle de l’État — en quoi Mounier voit le « garant » du statut de la personne ! — et l’emploi équivoque de termes tels que « décentralisation » ou « région » doivent être considérés, croyons-nous, comme de simples inconséquences, si nous comprenons le contexte. (Il faudrait prendre garde de cultiver certain pluralisme de vocabulaire, dans le seul domaine où l’unité serait sans doute une garantie d’efficacité.) Mais ce qui nous importe, avant tout, c’est de retrouver intégrées à la position d’<hi rend="i">Esprit</hi> les notions de minimum vital intérieur et européen, de service civil (appelé ici service public), d’entreprise (et non pas de corporation !), de Conseil suprême enfin, et la distinction entre autorité et pouvoir.</p>

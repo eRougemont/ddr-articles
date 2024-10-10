@@ -96,7 +96,7 @@ Laisse-les donc chercher, jusqu’à la fin de leurs loisirs fiévreux, s’il f
         <pb n="53" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19330000pres/001.jpg/full/full/0/default.jpg"/>
         <head>Paysage de tête : poème (1933)<note resp="editor" type="zotero"><hi rend="sc">Rougemont</hi> Denis de, « <ref target="https://www.unige.ch/rougemont/articles/pres/ddr19330000pres">Paysage de tête</ref> », <hi>Présence</hi>, Lausanne et Genève, 1933, p. 53.</note>
 </head>
-        <l>N’attendons plus, dans cette journée violente et trop vaste, la venue</l>
+        <hi><l>N’attendons plus, dans cette journée violente et trop vaste, la venue</l>
         <l>des bien-aimées clairières entre deux pluies, ni d’une femme</l>
         <l>ni d’une fièvre pour agrandir et soudain noyer de suie le regard</l>
         <l>ni d’une lueur muette qui s’approche et nous aime.</l>
@@ -109,7 +109,7 @@ Laisse-les donc chercher, jusqu’à la fin de leurs loisirs fiévreux, s’il f
         <l>ces battements d’espace au-dessus des pluies qui se tirent à l’horizon</l>
         <l>dans un paysage agité de la grande puissance diluvienne</l>
         <l>où maintenant descend, suspendue dans le soir et dans la transparence,</l>
-        <l>l’épouvantable constatation de la mort.</l>
+        <l>l’épouvantable constatation de la mort.</l></hi>
       </div>
       <div xml:id="ddr19340000pres" type="article" when="1934">
         <pb n="57" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19340000pres/001.jpg/full/full/0/default.jpg"/>
